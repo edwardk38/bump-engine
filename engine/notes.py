@@ -4,12 +4,16 @@ Every threshold is a named constant at the top — tune them here, the logic
 below reads them by name.
 """
 
+from datetime import datetime
+
 from engine.api import team_results_map
 from engine.pitchers import clean_avg, format_ip
 
 # ---- Form tag: last-N ERA vs season ERA ----------------------------------- #
 FORM_WINDOW = 4         # starts in the recency window
 FORM_MIN_STARTS = 3     # fewer starts than this -> "steady" (not enough signal)
+FORM_MAX_DAYS_BACK = 45 # ignore starts older than this — an injured arm's
+                        # pre-IL outings are history, not current form
 HOT_ERA_DELTA = 1.00    # last-4 ERA this much BELOW season ERA -> "hot"
 COLD_ERA_DELTA = 1.25   # last-4 ERA this much ABOVE season ERA -> "cold"
 HOT_ERA_ABS = 3.00      # ...or last-4 ERA at/under this, regardless of season
@@ -39,25 +43,50 @@ def _word(n) -> str:
     return WORDS.get(n, str(n))
 
 
-def window_era(starts, window=FORM_WINDOW):
-    """(era, earned_runs, innings) over the last `window` starts, or None."""
-    recent = starts[-window:]
+def _as_date(value):
+    try:
+        return datetime.strptime(value, "%Y-%m-%d").date()
+    except (ValueError, TypeError):
+        return None
+
+
+def recent_starts(starts, as_of=None) -> list:
+    """The form window: last FORM_WINDOW starts, minus anything gone stale.
+
+    Without the cutoff an injured pitcher's last-4 can span months, and a
+    pre-injury start reads as current form.
+    """
+    recent = starts[-FORM_WINDOW:]
+    ref = _as_date(as_of)
+    if ref is None:
+        return recent
+    fresh = []
+    for s in recent:
+        d = _as_date(s.get("date"))
+        if d is None or (ref - d).days <= FORM_MAX_DAYS_BACK:
+            fresh.append(s)
+    return fresh
+
+
+def window_era(starts, as_of=None):
+    """(era, earned_runs, innings, starts_used) over the form window, or None."""
+    recent = recent_starts(starts, as_of)
     if len(recent) < FORM_MIN_STARTS:
         return None
     ip = sum(s["ip"] for s in recent)
     er = sum(s["er"] for s in recent)
     if ip <= 0:
         return None
-    return (9 * er / ip, er, ip)
+    return (9 * er / ip, er, ip, len(recent))
 
 
-def form_tag(starts, season_era) -> str:
+def form_tag(starts, season_era, as_of=None) -> str:
     """"hot" / "cold" / "steady" from recent ERA against the season number.
 
     Cold is tested first so an ugly stretch isn't masked by an already-bad
     season ERA.
     """
-    w = window_era(starts)
+    w = window_era(starts, as_of)
     if w is None:
         return "steady"
     era_recent = w[0]
@@ -73,9 +102,9 @@ def form_tag(starts, season_era) -> str:
     return "steady"
 
 
-def cold_note(starts) -> str | None:
+def cold_note(starts, as_of=None) -> str | None:
     """One sentence for a pitcher in a bad stretch, or None if he isn't in one."""
-    recent = starts[-FORM_WINDOW:]
+    recent = recent_starts(starts, as_of)
     if len(recent) < FORM_MIN_STARTS:
         return None
 
@@ -84,15 +113,15 @@ def cold_note(starts) -> str | None:
         return (f"Struggling lately — {BAD_START_ER}+ runs in "
                 f"{_word(bad)} of his last {_word(len(recent))}.")
 
-    w = window_era(starts)
+    w = window_era(starts, as_of)
     if w and w[0] >= COLD_ERA_ABS:
-        era_recent, er, ip = w
+        era_recent, er, ip, used = w
         return (f"Rough stretch — {era_recent:.2f} ERA over his last "
-                f"{_word(len(recent))} ({er} ER in {format_ip(ip)} IP).")
+                f"{_word(used)} ({er} ER in {format_ip(ip)} IP).")
     return None
 
 
-def pitcher_notes(starts, prof, vshand, season, tag) -> list[str]:
+def pitcher_notes(starts, prof, vshand, season, tag, as_of=None) -> list[str]:
     """Short scouting sentences, most notable first, capped at MAX_NOTES.
 
     `tag` is this pitcher's form_tag. The cold note is gated on it so the
@@ -102,7 +131,7 @@ def pitcher_notes(starts, prof, vshand, season, tag) -> list[str]:
 
     # Cold form leads — a struggling arm shouldn't read like a neutral one.
     if tag == "cold":
-        cold = cold_note(starts)
+        cold = cold_note(starts, as_of)
         if cold:
             notes.append(cold)
 
@@ -126,11 +155,11 @@ def pitcher_notes(starts, prof, vshand, season, tag) -> list[str]:
         notes.append(f"Misses bats — {prof['k_per_9']} K/9, about a strikeout an inning.")
 
     # Hot form: run prevention over the recency window
-    w = window_era(starts)
+    w = window_era(starts, as_of)
     if w and w[0] <= HOT_ERA_LAST4:
-        era_recent, er, ip = w
+        era_recent, er, ip, used = w
         notes.append(f"Rolling — {era_recent:.2f} ERA over his last "
-                     f"{len(starts[-FORM_WINDOW:])} ({er} ER in {format_ip(ip)} IP).")
+                     f"{used} ({er} ER in {format_ip(ip)} IP).")
 
     # Going deep lately
     last6 = starts[-6:]

@@ -84,6 +84,8 @@ def gamelog_starts(pid, season, exclude_date=None) -> list[dict]:
             "date": sp.get("date", ""),
             "team_id": dig(sp, "team", "id"),
             "opp": f"{'vs' if sp.get('isHome') else '@'} {code_for(opp.get('id'), opp.get('name'))}",
+            "opp_abbr": code_for(opp.get("id"), opp.get("name")),
+            "is_home": bool(sp.get("isHome")),
             "ip_str": st.get("inningsPitched", "0.0"),
             "ip": ip_to_float(st.get("inningsPitched")),
             "k": int(st.get("strikeOuts") or 0),

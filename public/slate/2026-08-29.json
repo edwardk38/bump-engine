@@ -19,8 +19,8 @@
           "throws": "LHP",
           "team_abbr": "BOS",
           "stats": {
-            "era": 3.3,
-            "k_per_9": 7.19
+            "era": 3.27,
+            "k_per_9": 7.11
           },
           "form_tag": "cold",
           "read": "Rough stretch \u2014 5.73 ERA over his last four (14 ER in 22.0 IP)."
@@ -35,7 +35,7 @@
             "era": 3.2,
             "k_per_9": 9.61
           },
-          "form_tag": "hot",
+          "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts."
         }
       }
@@ -50,14 +50,17 @@
       "start_time_utc": "2026-08-29T23:15:00Z",
       "starters": {
         "away": {
-          "tbd": true,
-          "pitcher_id": null,
-          "name_display": null,
-          "throws": null,
+          "tbd": false,
+          "pitcher_id": "687941",
+          "name_display": "A. Gamboa",
+          "throws": "LHP",
           "team_abbr": "BOS",
-          "stats": null,
-          "form_tag": null,
-          "read": null
+          "stats": {
+            "era": 1.31,
+            "k_per_9": 6.1
+          },
+          "form_tag": "steady",
+          "read": "1.31 ERA with 6.1 K/9 over 20.2 innings this season."
         },
         "home": {
           "tbd": false,
@@ -127,8 +130,8 @@
           "throws": "RHP",
           "team_abbr": "CWS",
           "stats": {
-            "era": 4.26,
-            "k_per_9": 6.28
+            "era": 4.16,
+            "k_per_9": 6.42
           },
           "form_tag": "steady",
           "read": "Team has won 8 of his last 10 starts."
@@ -140,11 +143,11 @@
           "throws": "RHP",
           "team_abbr": "MIN",
           "stats": {
-            "era": 4.49,
-            "k_per_9": 6.2
+            "era": 4.37,
+            "k_per_9": 6.27
           },
           "form_tag": "steady",
-          "read": "4.49 ERA with 6.2 K/9 over 110.1 innings this season."
+          "read": "4.37 ERA with 6.27 K/9 over 113.1 innings this season."
         }
       }
     },
@@ -164,7 +167,7 @@
           "throws": "RHP",
           "team_abbr": "PIT",
           "stats": {
-            "era": 3.58,
+            "era": 3.7,
             "k_per_9": 9.2
           },
           "form_tag": "steady",
@@ -201,8 +204,8 @@
           "throws": "LHP",
           "team_abbr": "CIN",
           "stats": {
-            "era": 4.46,
-            "k_per_9": 6.96
+            "era": 4.49,
+            "k_per_9": 6.98
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts."
@@ -214,8 +217,8 @@
           "throws": "RHP",
           "team_abbr": "CHC",
           "stats": {
-            "era": 4.42,
-            "k_per_9": 8.9
+            "era": 4.52,
+            "k_per_9": 9.04
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts."
@@ -238,11 +241,11 @@
           "throws": "LHP",
           "team_abbr": "SEA",
           "stats": {
-            "era": 4.76,
-            "k_per_9": 7.94
+            "era": 3.0,
+            "k_per_9": 7.0
           },
           "form_tag": "steady",
-          "read": "4.76 ERA with 7.94 K/9 over 5.2 innings this season."
+          "read": "3.0 ERA with 7.0 K/9 over 9.0 innings this season."
         },
         "home": {
           "tbd": false,
@@ -251,8 +254,8 @@
           "throws": "RHP",
           "team_abbr": "TOR",
           "stats": {
-            "era": 3.43,
-            "k_per_9": 8.92
+            "era": 3.52,
+            "k_per_9": 8.8
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts."
@@ -275,8 +278,8 @@
           "throws": "RHP",
           "team_abbr": "AZ",
           "stats": {
-            "era": 5.35,
-            "k_per_9": 5.88
+            "era": 5.23,
+            "k_per_9": 5.95
           },
           "form_tag": "cold",
           "read": "Rough stretch \u2014 7.08 ERA over his last four (16 ER in 20.1 IP)."
@@ -288,11 +291,11 @@
           "throws": "LHP",
           "team_abbr": "SF",
           "stats": {
-            "era": 6.35,
-            "k_per_9": 3.18
+            "era": 4.0,
+            "k_per_9": 4.0
           },
           "form_tag": "steady",
-          "read": "6.35 ERA with 3.18 K/9 over 5.2 innings this season."
+          "read": "4.0 ERA with 4.0 K/9 over 9.0 innings this season."
         }
       }
     },
@@ -346,8 +349,8 @@
           "throws": "RHP",
           "team_abbr": "MIA",
           "stats": {
-            "era": 3.38,
-            "k_per_9": 6.71
+            "era": 3.34,
+            "k_per_9": 6.74
           },
           "form_tag": "hot",
           "read": "Workhorse \u2014 90+ pitches in 10 of his last 10 starts."
@@ -359,8 +362,8 @@
           "throws": "RHP",
           "team_abbr": "WSH",
           "stats": {
-            "era": 3.21,
-            "k_per_9": 10.23
+            "era": 3.15,
+            "k_per_9": 10.44
           },
           "form_tag": "hot",
           "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts."
@@ -383,8 +386,8 @@
           "throws": "LHP",
           "team_abbr": "KC",
           "stats": {
-            "era": 2.93,
-            "k_per_9": 6.63
+            "era": 3.13,
+            "k_per_9": 6.56
           },
           "form_tag": "cold",
           "read": "Rough stretch \u2014 6.57 ERA over his last four (9 ER in 12.1 IP)."
@@ -396,8 +399,8 @@
           "throws": "LHP",
           "team_abbr": "CLE",
           "stats": {
-            "era": 3.19,
-            "k_per_9": 8.14
+            "era": 3.13,
+            "k_per_9": 8.09
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts."
@@ -420,11 +423,11 @@
           "throws": "LHP",
           "team_abbr": "HOU",
           "stats": {
-            "era": 6.27,
-            "k_per_9": 10.13
+            "era": 6.52,
+            "k_per_9": 9.78
           },
           "form_tag": "steady",
-          "read": "Misses bats \u2014 10.13 K/9, about a strikeout an inning."
+          "read": "Misses bats \u2014 9.78 K/9, about a strikeout an inning."
         },
         "home": {
           "tbd": false,
@@ -433,8 +436,8 @@
           "throws": "RHP",
           "team_abbr": "NYM",
           "stats": {
-            "era": 3.21,
-            "k_per_9": 10.17
+            "era": 3.17,
+            "k_per_9": 10.04
           },
           "form_tag": "hot",
           "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts."
@@ -457,8 +460,8 @@
           "throws": "RHP",
           "team_abbr": "SD",
           "stats": {
-            "era": 4.63,
-            "k_per_9": 7.69
+            "era": 4.66,
+            "k_per_9": 7.65
           },
           "form_tag": "hot",
           "read": "Rolling \u2014 2.05 ERA over his last 4 (5 ER in 22.0 IP)."
@@ -471,7 +474,7 @@
           "team_abbr": "TB",
           "stats": {
             "era": 2.93,
-            "k_per_9": 5.3
+            "k_per_9": 5.38
           },
           "form_tag": "steady",
           "read": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10."
@@ -494,11 +497,11 @@
           "throws": "RHP",
           "team_abbr": "COL",
           "stats": {
-            "era": 5.68,
-            "k_per_9": 6.04
+            "era": 5.54,
+            "k_per_9": 6.0
           },
           "form_tag": "steady",
-          "read": "5.68 ERA with 6.04 K/9 over 76.0 innings this season."
+          "read": "5.54 ERA with 6.0 K/9 over 78.0 innings this season."
         },
         "home": {
           "tbd": false,
@@ -507,8 +510,8 @@
           "throws": "LHP",
           "team_abbr": "ATL",
           "stats": {
-            "era": 3.12,
-            "k_per_9": 6.63
+            "era": 3.07,
+            "k_per_9": 6.75
           },
           "form_tag": "hot",
           "read": "Rolling \u2014 2.50 ERA over his last 4 (5 ER in 18.0 IP)."

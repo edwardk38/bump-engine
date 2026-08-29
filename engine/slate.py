@@ -1,6 +1,7 @@
 """Today's slate: schedule fetch plus assembly into the JSON contract."""
 
 from datetime import datetime
+from functools import lru_cache
 
 from engine.api import ET, code_for, dig, get_json
 from engine.notes import form_tag, pitcher_notes
@@ -31,6 +32,7 @@ def time_display(iso_utc: str) -> str:
     return f"{dt.strftime('%I').lstrip('0')}:{dt.strftime('%M %p')}"
 
 
+@lru_cache(maxsize=4)
 def todays_games(date: str) -> list[dict]:
     """Raw-ish schedule rows for `date`, with probable starters hydrated."""
     js = get_json("/schedule", {"sportId": 1, "date": date,
@@ -43,6 +45,7 @@ def todays_games(date: str) -> list[dict]:
         h = dig(g, "teams", "home", default={})
         out.append({
             "start_utc": g.get("gameDate", ""),
+            "venue": dig(g, "venue", "name", default=""),
             "game_number": g.get("gameNumber"),
             "doubleheader": g.get("doubleHeader"),
             "away_name": dig(a, "team", "name", default=""),
@@ -90,8 +93,8 @@ def build_starter(pitcher, team_abbr, season, date) -> dict:
     starts = gamelog_starts(pid, season, exclude_date=date)
     prof = pitcher_season(pid, season)
     vshand = pitcher_vshand(pid, season)
-    tag = form_tag(starts, prof["era"])
-    notes = pitcher_notes(starts, prof, vshand, season, tag)
+    tag = form_tag(starts, prof["era"], as_of=date)
+    notes = pitcher_notes(starts, prof, vshand, season, tag, as_of=date)
 
     return {
         "tbd": False,

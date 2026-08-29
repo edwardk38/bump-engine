@@ -1,0 +1,198 @@
+{
+  "game_id": "2026-08-29-AZ-SF-G2",
+  "date_display": "Saturday, Aug 29",
+  "start_time_display": "10:05 PM",
+  "venue": "Oracle Park",
+  "away_team": "Arizona Diamondbacks",
+  "home_team": "San Francisco Giants",
+  "away_abbr": "AZ",
+  "home_abbr": "SF",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "683352",
+      "name_display": "M. Bratt",
+      "throws": "LHP",
+      "team_abbr": "AZ",
+      "opponent_abbr": "SF",
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 4.54,
+        "k_per_9": 6.35
+      },
+      "read": [
+        {
+          "text": "4.54 ERA with 6.35 K/9 over 39.2 innings this season.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 4.54,
+          "percentile": 35,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 6.35,
+          "percentile": 11,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 39.2,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 28,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 25,
+          "percentile": 1,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 5.67,
+          "percentile": 1,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 5,
+          "percentile": 54,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 5.27,
+          "percentile": 10,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.244,
+          "ab": 41
+        },
+        "vs_rhb": {
+          "avg": 0.25,
+          "ab": 108
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Aug 23",
+          "opp_abbr": "CIN",
+          "is_home": true,
+          "ip": "3.0",
+          "h": 5,
+          "er": 3,
+          "hr": 0,
+          "bb": 3,
+          "so": 3,
+          "pitches": 69,
+          "strikes": 44
+        },
+        {
+          "date_display": "Aug 17",
+          "opp_abbr": "BOS",
+          "is_home": false,
+          "ip": "3.0",
+          "h": 4,
+          "er": 3,
+          "hr": 0,
+          "bb": 3,
+          "so": 0,
+          "pitches": 65,
+          "strikes": 37
+        },
+        {
+          "date_display": "Aug 11",
+          "opp_abbr": "COL",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 4,
+          "er": 2,
+          "hr": 1,
+          "bb": 1,
+          "so": 4,
+          "pitches": 78,
+          "strikes": 57
+        },
+        {
+          "date_display": "Aug 5",
+          "opp_abbr": "SD",
+          "is_home": true,
+          "ip": "7.0",
+          "h": 1,
+          "er": 0,
+          "hr": 0,
+          "bb": 3,
+          "so": 9,
+          "pitches": 92,
+          "strikes": 55
+        },
+        {
+          "date_display": "Jul 31",
+          "opp_abbr": "CLE",
+          "is_home": false,
+          "ip": "5.0",
+          "h": 3,
+          "er": 1,
+          "hr": 0,
+          "bb": 4,
+          "so": 2,
+          "pitches": 82,
+          "strikes": 50
+        }
+      ]
+    },
+    "home": {
+      "tbd": true,
+      "pitcher_id": null,
+      "name_display": null,
+      "throws": null,
+      "team_abbr": "SF",
+      "opponent_abbr": "AZ",
+      "qualified": null,
+      "form_tag": null,
+      "headline_stats": null,
+      "read": null,
+      "season_stats": null,
+      "splits": null,
+      "last_starts": null
+    }
+  }
+}
