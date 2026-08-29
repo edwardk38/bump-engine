@@ -18,12 +18,12 @@
       "qualified": false,
       "form_tag": "steady",
       "headline_stats": {
-        "era": 2.7,
+        "era": 4.5,
         "k_per_9": 7.2
       },
       "read": [
         {
-          "text": "2.7 ERA with 7.2 K/9 over 10.0 innings this season.",
+          "text": "4.5 ERA with 7.2 K/9 over 10.0 innings this season.",
           "highlight": false
         }
       ],
@@ -31,8 +31,8 @@
         {
           "key": "era",
           "label": "ERA",
-          "value": 2.7,
-          "percentile": 91,
+          "value": 4.5,
+          "percentile": 33,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
@@ -137,7 +137,7 @@
       "qualified": true,
       "form_tag": "steady",
       "headline_stats": {
-        "era": 3.5,
+        "era": 3.47,
         "k_per_9": 8.8
       },
       "read": [
@@ -158,7 +158,7 @@
         {
           "key": "era",
           "label": "ERA",
-          "value": 3.5,
+          "value": 3.47,
           "percentile": 69,
           "league": "AL",
           "league_rank": null,
@@ -176,16 +176,16 @@
         {
           "key": "ip",
           "label": "IP",
-          "value": 149.1,
-          "percentile": 83,
+          "value": 150.1,
+          "percentile": 84,
           "league": "AL",
-          "league_rank": 13,
-          "mlb_rank": 24
+          "league_rank": 11,
+          "mlb_rank": 22
         },
         {
           "key": "k",
           "label": "K",
-          "value": 146,
+          "value": 147,
           "percentile": 83,
           "league": "AL",
           "league_rank": 11,
@@ -195,7 +195,7 @@
           "key": "bb",
           "label": "BB",
           "value": 67,
-          "percentile": 12,
+          "percentile": 13,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
@@ -203,8 +203,8 @@
         {
           "key": "bb_per_9",
           "label": "BB/9",
-          "value": 4.04,
-          "percentile": 12,
+          "value": 4.01,
+          "percentile": 13,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
@@ -221,8 +221,8 @@
         {
           "key": "fip",
           "label": "FIP",
-          "value": 3.8,
-          "percentile": 59,
+          "value": 3.78,
+          "percentile": 60,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null

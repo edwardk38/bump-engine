@@ -150,8 +150,8 @@
       "qualified": true,
       "form_tag": "hot",
       "headline_stats": {
-        "era": 3.04,
-        "k_per_9": 6.85
+        "era": 3.02,
+        "k_per_9": 6.79
       },
       "read": [
         {
@@ -167,7 +167,7 @@
         {
           "key": "era",
           "label": "ERA",
-          "value": 3.02,
+          "value": 3.0,
           "percentile": 85,
           "league": "NL",
           "league_rank": 13,
@@ -176,7 +176,7 @@
         {
           "key": "k_per_9",
           "label": "K/9",
-          "value": 6.79,
+          "value": 6.83,
           "percentile": 16,
           "league": "NL",
           "league_rank": null,
@@ -185,7 +185,7 @@
         {
           "key": "ip",
           "label": "IP",
-          "value": 119.1,
+          "value": 120.0,
           "percentile": 42,
           "league": "NL",
           "league_rank": null,
@@ -194,8 +194,8 @@
         {
           "key": "k",
           "label": "K",
-          "value": 90,
-          "percentile": 27,
+          "value": 91,
+          "percentile": 28,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -212,7 +212,7 @@
         {
           "key": "bb_per_9",
           "label": "BB/9",
-          "value": 3.62,
+          "value": 3.6,
           "percentile": 24,
           "league": "NL",
           "league_rank": null,
@@ -222,7 +222,7 @@
           "key": "hr",
           "label": "HR",
           "value": 12,
-          "percentile": 72,
+          "percentile": 75,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -230,7 +230,7 @@
         {
           "key": "fip",
           "label": "FIP",
-          "value": 4.15,
+          "value": 4.13,
           "percentile": 46,
           "league": "NL",
           "league_rank": null,
