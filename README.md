@@ -123,7 +123,7 @@ qualified subset:
 | --- | --- | --- |
 | `QUALIFY_MIN_GS` | 10 | games started |
 | `QUALIFY_START_SHARE` | 0.5 | starts as a share of appearances |
-| `QUALIFY_MIN_IP` | 40.0 | innings pitched |
+| `QUALIFY_MIN_IP` | 70.0 | innings pitched |
 | `TOP_N_LEAGUE_RANK` | 15 | rank lines show only inside this (in `matchup.py`) |
 
 All three gate conditions must pass. The ranked population is **starters only** —

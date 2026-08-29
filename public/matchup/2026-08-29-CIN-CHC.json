@@ -36,7 +36,7 @@
           "key": "era",
           "label": "ERA",
           "value": 4.49,
-          "percentile": 37,
+          "percentile": 33,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -45,7 +45,7 @@
           "key": "k_per_9",
           "label": "K/9",
           "value": 6.98,
-          "percentile": 21,
+          "percentile": 18,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -54,16 +54,16 @@
           "key": "ip",
           "label": "IP",
           "value": 148.1,
-          "percentile": 83,
+          "percentile": 81,
           "league": "NL",
           "league_rank": 12,
-          "mlb_rank": 27
+          "mlb_rank": 28
         },
         {
           "key": "k",
           "label": "K",
           "value": 115,
-          "percentile": 58,
+          "percentile": 54,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -72,7 +72,7 @@
           "key": "bb",
           "label": "BB",
           "value": 70,
-          "percentile": 13,
+          "percentile": 10,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -81,7 +81,7 @@
           "key": "bb_per_9",
           "label": "BB/9",
           "value": 4.25,
-          "percentile": 13,
+          "percentile": 10,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -90,7 +90,7 @@
           "key": "hr",
           "label": "HR",
           "value": 21,
-          "percentile": 39,
+          "percentile": 38,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -99,7 +99,7 @@
           "key": "fip",
           "label": "FIP",
           "value": 4.78,
-          "percentile": 20,
+          "percentile": 17,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -107,12 +107,12 @@
       ],
       "splits": {
         "vs_lhb": {
-          "avg": 0.248,
-          "ab": 153
+          "avg": 0.259,
+          "ab": 158
         },
         "vs_rhb": {
-          "avg": 0.245,
-          "ab": 400
+          "avg": 0.25,
+          "ab": 412
         }
       },
       "last_starts": [
@@ -211,7 +211,7 @@
           "key": "era",
           "label": "ERA",
           "value": 4.52,
-          "percentile": 35,
+          "percentile": 33,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -220,7 +220,7 @@
           "key": "k_per_9",
           "label": "K/9",
           "value": 9.04,
-          "percentile": 69,
+          "percentile": 68,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -229,7 +229,7 @@
           "key": "ip",
           "label": "IP",
           "value": 155.1,
-          "percentile": 93,
+          "percentile": 92,
           "league": "NL",
           "league_rank": 7,
           "mlb_rank": 11
@@ -238,7 +238,7 @@
           "key": "k",
           "label": "K",
           "value": 156,
-          "percentile": 88,
+          "percentile": 87,
           "league": "NL",
           "league_rank": 10,
           "mlb_rank": 19
@@ -247,7 +247,7 @@
           "key": "bb",
           "label": "BB",
           "value": 43,
-          "percentile": 73,
+          "percentile": 72,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -256,7 +256,7 @@
           "key": "bb_per_9",
           "label": "BB/9",
           "value": 2.49,
-          "percentile": 73,
+          "percentile": 72,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -265,7 +265,7 @@
           "key": "hr",
           "label": "HR",
           "value": 20,
-          "percentile": 52,
+          "percentile": 50,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -274,7 +274,7 @@
           "key": "fip",
           "label": "FIP",
           "value": 3.59,
-          "percentile": 75,
+          "percentile": 73,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -282,12 +282,12 @@
       ],
       "splits": {
         "vs_lhb": {
-          "avg": 0.252,
-          "ab": 329
+          "avg": 0.254,
+          "ab": 338
         },
         "vs_rhb": {
           "avg": 0.262,
-          "ab": 252
+          "ab": 263
         }
       },
       "last_starts": [

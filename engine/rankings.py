@@ -23,7 +23,7 @@ from engine.pitchers import ip_to_float, to_float
 QUALIFY_MIN_GS = 10          # games started
 QUALIFY_START_SHARE = 0.5    # starts as a share of appearances — fences out
                              # relievers, swing men and openers
-QUALIFY_MIN_IP = 40.0        # secondary sample-size floor
+QUALIFY_MIN_IP = 70.0        # secondary sample-size floor
 
 # ---- FIP ------------------------------------------------------------------ #
 # FIP = (13*HR + 3*(BB+HBP) - 2*K) / IP + cFIP, where cFIP is solved from

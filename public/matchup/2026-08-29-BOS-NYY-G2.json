@@ -68,7 +68,7 @@
           "key": "bb",
           "label": "BB",
           "value": 6,
-          "percentile": 67,
+          "percentile": 66,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
@@ -77,7 +77,7 @@
           "key": "bb_per_9",
           "label": "BB/9",
           "value": 2.61,
-          "percentile": 67,
+          "percentile": 66,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
@@ -95,7 +95,7 @@
           "key": "fip",
           "label": "FIP",
           "value": 3.22,
-          "percentile": 88,
+          "percentile": 87,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
@@ -163,7 +163,7 @@
           "key": "era",
           "label": "ERA",
           "value": 2.81,
-          "percentile": 90,
+          "percentile": 89,
           "league": "AL",
           "league_rank": 5,
           "mlb_rank": 16
@@ -172,7 +172,7 @@
           "key": "k_per_9",
           "label": "K/9",
           "value": 8.24,
-          "percentile": 52,
+          "percentile": 50,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
@@ -181,7 +181,7 @@
           "key": "ip",
           "label": "IP",
           "value": 86.1,
-          "percentile": 21,
+          "percentile": 13,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
@@ -190,7 +190,7 @@
           "key": "k",
           "label": "K",
           "value": 79,
-          "percentile": 24,
+          "percentile": 17,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
@@ -199,7 +199,7 @@
           "key": "bb",
           "label": "BB",
           "value": 27,
-          "percentile": 59,
+          "percentile": 57,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
@@ -208,7 +208,7 @@
           "key": "bb_per_9",
           "label": "BB/9",
           "value": 2.81,
-          "percentile": 59,
+          "percentile": 57,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
