@@ -8,13 +8,19 @@ on:
   workflow_dispatch: {}   # adds a "Run workflow" button for on-demand testing
 
 permissions:
-  contents: write         # lets the job commit the regenerated JSON back
+  contents: write         # lets the job push the data branch
+
+# Generated output has exactly one writer. Overlapping runs would be a second
+# one, so they queue instead of racing.
+concurrency:
+  group: daily-build
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repo
+      - name: Check out code (main)
         uses: actions/checkout@v5
 
       - name: Set up Python
@@ -25,15 +31,49 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build today's slate JSON
+      - name: Check out the data branch into a worktree
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin data >/dev/null 2>&1; then
+            git fetch origin data
+            git worktree add ../publish -B data origin/data
+          else
+            # First run only: start the branch with no code history at all,
+            # so it carries generated output and nothing else.
+            git worktree add --detach ../publish
+            cd ../publish
+            git checkout --orphan data
+            git rm -rfq . || true
+          fi
+
+      - name: Seed the actuals log from the data branch
+        # The logger appends and skips dates it already has, so it needs the
+        # accumulated CSV — which lives on the data branch, not here.
+        run: |
+          mkdir -p data
+          if [ -f ../publish/data/actual_ks.csv ]; then
+            cp ../publish/data/actual_ks.csv data/actual_ks.csv
+          fi
+
+      - name: Build today's slate, matchups and index
         run: python -m engine.build
 
       - name: Log yesterday's actual strikeouts
         run: python -m engine.log_actuals
 
-      - name: Commit updated JSON + log
+      - name: Publish to the data branch
+        # public/ stays a DIRECTORY at the branch root: GitHub Pages serves the
+        # root, so /bump-engine/public/slate/today.json keeps resolving. Hoisting
+        # the contents to the root instead would silently break every frontend
+        # fetch. The copy is additive on purpose — nothing is ever deleted, so
+        # dated slates and past matchup files accumulate as the archive.
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public data
-          git diff --staged --quiet || (git commit -m "Slate $(date -u +%F)" && git push)
+          mkdir -p ../publish/public ../publish/data
+          cp -R public/. ../publish/public/
+          cp data/actual_ks.csv ../publish/data/actual_ks.csv
+          cp .nojekyll ../publish/.nojekyll
+          cd ../publish
+          git add -A
+          git diff --staged --quiet \
+            || (git commit -m "Slate $(date -u +%F)" && git push origin data)
