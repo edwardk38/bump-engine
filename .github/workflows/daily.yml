@@ -71,7 +71,9 @@ jobs:
         run: |
           mkdir -p ../publish/public ../publish/data
           cp -R public/. ../publish/public/
-          cp data/actual_ks.csv ../publish/data/actual_ks.csv
+          if [ -f data/actual_ks.csv ]; then
+            cp data/actual_ks.csv ../publish/data/actual_ks.csv
+          fi
           cp .nojekyll ../publish/.nojekyll
           cd ../publish
           git add -A

@@ -3,3 +3,9 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
+
+# Generated output. The daily Action publishes these to the `data` branch,
+# which has exactly one writer — keeping them off main is what stops local
+# builds and the Action from colliding on the same files.
+public/
+data/
