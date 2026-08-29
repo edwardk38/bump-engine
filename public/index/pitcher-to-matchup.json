@@ -1,0 +1,134 @@
+{
+  "687562": {
+    "game_id": "2026-08-29-BOS-NYY",
+    "side": "away"
+  },
+  "607074": {
+    "game_id": "2026-08-29-BOS-NYY",
+    "side": "home"
+  },
+  "687941": {
+    "game_id": "2026-08-29-BOS-NYY-G2",
+    "side": "away"
+  },
+  "608331": {
+    "game_id": "2026-08-29-BOS-NYY-G2",
+    "side": "home"
+  },
+  "605483": {
+    "game_id": "2026-08-29-LAD-DET",
+    "side": "away"
+  },
+  "672456": {
+    "game_id": "2026-08-29-LAD-DET",
+    "side": "home"
+  },
+  "607200": {
+    "game_id": "2026-08-29-CWS-MIN",
+    "side": "away"
+  },
+  "641927": {
+    "game_id": "2026-08-29-CWS-MIN",
+    "side": "home"
+  },
+  "669199": {
+    "game_id": "2026-08-29-PIT-STL",
+    "side": "away"
+  },
+  "681517": {
+    "game_id": "2026-08-29-PIT-STL",
+    "side": "home"
+  },
+  "671096": {
+    "game_id": "2026-08-29-CIN-CHC",
+    "side": "away"
+  },
+  "592332": {
+    "game_id": "2026-08-29-CIN-CHC",
+    "side": "home"
+  },
+  "807739": {
+    "game_id": "2026-08-29-SEA-TOR",
+    "side": "away"
+  },
+  "667755": {
+    "game_id": "2026-08-29-SEA-TOR",
+    "side": "home"
+  },
+  "518876": {
+    "game_id": "2026-08-29-AZ-SF",
+    "side": "away"
+  },
+  "683363": {
+    "game_id": "2026-08-29-AZ-SF",
+    "side": "home"
+  },
+  "683352": {
+    "game_id": "2026-08-29-AZ-SF-G2",
+    "side": "away"
+  },
+  "645261": {
+    "game_id": "2026-08-29-MIA-WSH",
+    "side": "away"
+  },
+  "676917": {
+    "game_id": "2026-08-29-MIA-WSH",
+    "side": "home"
+  },
+  "663738": {
+    "game_id": "2026-08-29-KC-CLE",
+    "side": "away"
+  },
+  "656492": {
+    "game_id": "2026-08-29-KC-CLE",
+    "side": "home"
+  },
+  "656986": {
+    "game_id": "2026-08-29-HOU-NYM",
+    "side": "away"
+  },
+  "690997": {
+    "game_id": "2026-08-29-HOU-NYM",
+    "side": "home"
+  },
+  "621111": {
+    "game_id": "2026-08-29-SD-TB",
+    "side": "away"
+  },
+  "607259": {
+    "game_id": "2026-08-29-SD-TB",
+    "side": "home"
+  },
+  "688642": {
+    "game_id": "2026-08-29-COL-ATL",
+    "side": "away"
+  },
+  "527048": {
+    "game_id": "2026-08-29-COL-ATL",
+    "side": "home"
+  },
+  "615698": {
+    "game_id": "2026-08-29-TEX-MIL",
+    "side": "away"
+  },
+  "675660": {
+    "game_id": "2026-08-29-TEX-MIL",
+    "side": "home"
+  },
+  "669358": {
+    "game_id": "2026-08-29-BAL-ATH",
+    "side": "away"
+  },
+  "678022": {
+    "game_id": "2026-08-29-BAL-ATH",
+    "side": "home"
+  },
+  "650911": {
+    "game_id": "2026-08-29-PHI-LAA",
+    "side": "away"
+  },
+  "696270": {
+    "game_id": "2026-08-29-PHI-LAA",
+    "side": "home"
+  }
+}

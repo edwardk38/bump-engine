@@ -1,0 +1,319 @@
+{
+  "game_id": "2026-08-29-COL-ATL",
+  "date_display": "Saturday, Aug 29",
+  "start_time_display": "4:10 PM",
+  "venue": "Truist Park",
+  "away_team": "Colorado Rockies",
+  "home_team": "Atlanta Braves",
+  "away_abbr": "COL",
+  "home_abbr": "ATL",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "688642",
+      "name_display": "Z. Agnos",
+      "throws": "RHP",
+      "team_abbr": "COL",
+      "opponent_abbr": "ATL",
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 5.49,
+        "k_per_9": 5.95
+      },
+      "read": [
+        {
+          "text": "5.49 ERA with 5.95 K/9 over 78.2 innings this season.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 5.49,
+          "percentile": 10,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 5.95,
+          "percentile": 4,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 78.2,
+          "percentile": 6,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 52,
+          "percentile": 1,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 27,
+          "percentile": 42,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.09,
+          "percentile": 42,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 9,
+          "percentile": 60,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 4.46,
+          "percentile": 33,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.276,
+          "ab": 145
+        },
+        "vs_rhb": {
+          "avg": 0.279,
+          "ab": 154
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Jun 6",
+          "opp_abbr": "MIL",
+          "is_home": true,
+          "ip": "3.0",
+          "h": 3,
+          "er": 2,
+          "hr": 2,
+          "bb": 3,
+          "so": 1,
+          "pitches": 57,
+          "strikes": 33
+        },
+        {
+          "date_display": "May 21",
+          "opp_abbr": "AZ",
+          "is_home": false,
+          "ip": "5.0",
+          "h": 1,
+          "er": 0,
+          "hr": 0,
+          "bb": 1,
+          "so": 4,
+          "pitches": 71,
+          "strikes": 49
+        }
+      ]
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "527048",
+      "name_display": "M. P\u00e9rez",
+      "throws": "LHP",
+      "team_abbr": "ATL",
+      "opponent_abbr": "COL",
+      "qualified": true,
+      "form_tag": "hot",
+      "headline_stats": {
+        "era": 3.05,
+        "k_per_9": 6.77
+      },
+      "read": [
+        {
+          "text": "Rolling \u2014 2.50 ERA over his last 4 (5 ER in 18.0 IP).",
+          "highlight": false
+        },
+        {
+          "text": "Tough on right-handed bats \u2014 .208 against (293 AB).",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 3.05,
+          "percentile": 85,
+          "league": "NL",
+          "league_rank": 13,
+          "mlb_rank": 22
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 6.77,
+          "percentile": 16,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 121.0,
+          "percentile": 42,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 91,
+          "percentile": 28,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 50,
+          "percentile": 22,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.72,
+          "percentile": 22,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 12,
+          "percentile": 77,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 4.17,
+          "percentile": 44,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.246,
+          "ab": 126
+        },
+        "vs_rhb": {
+          "avg": 0.208,
+          "ab": 293
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Aug 22",
+          "opp_abbr": "MIL",
+          "is_home": false,
+          "ip": "4.0",
+          "h": 4,
+          "er": 1,
+          "hr": 1,
+          "bb": 3,
+          "so": 2,
+          "pitches": 97,
+          "strikes": 58
+        },
+        {
+          "date_display": "Aug 17",
+          "opp_abbr": "MIN",
+          "is_home": false,
+          "ip": "5.0",
+          "h": 9,
+          "er": 4,
+          "hr": 0,
+          "bb": 2,
+          "so": 3,
+          "pitches": 82,
+          "strikes": 51
+        },
+        {
+          "date_display": "Aug 11",
+          "opp_abbr": "NYM",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 4,
+          "er": 0,
+          "hr": 0,
+          "bb": 3,
+          "so": 2,
+          "pitches": 82,
+          "strikes": 49
+        },
+        {
+          "date_display": "Aug 6",
+          "opp_abbr": "MIA",
+          "is_home": true,
+          "ip": "3.0",
+          "h": 0,
+          "er": 0,
+          "hr": 0,
+          "bb": 1,
+          "so": 3,
+          "pitches": 35,
+          "strikes": 22
+        },
+        {
+          "date_display": "Aug 1",
+          "opp_abbr": "WSH",
+          "is_home": true,
+          "ip": "7.0",
+          "h": 1,
+          "er": 0,
+          "hr": 0,
+          "bb": 2,
+          "so": 6,
+          "pitches": 78,
+          "strikes": 49
+        }
+      ]
+    }
+  }
+}

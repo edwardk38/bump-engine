@@ -1,0 +1,266 @@
+{
+  "date": "2026-08-27",
+  "date_display": "Thursday, Aug 27",
+  "game_count": 7,
+  "games": [
+    {
+      "game_id": "2026-08-27-COL-WSH",
+      "away_team": "Colorado Rockies",
+      "home_team": "Washington Nationals",
+      "away_abbr": "COL",
+      "home_abbr": "WSH",
+      "start_time_display": "1:05 PM",
+      "start_time_utc": "2026-08-27T17:05:00Z",
+      "starters": {
+        "away": {
+          "tbd": false,
+          "pitcher_id": "687312",
+          "name_display": "G. Hughes",
+          "throws": "RHP",
+          "team_abbr": "COL",
+          "stats": {
+            "era": 6.61,
+            "k_per_9": 7.17
+          },
+          "form_tag": "cold",
+          "read": "Struggling lately \u2014 4+ runs in three of his last four."
+        },
+        "home": {
+          "tbd": false,
+          "pitcher_id": "663623",
+          "name_display": "J. Irvin",
+          "throws": "RHP",
+          "team_abbr": "WSH",
+          "stats": {
+            "era": 5.62,
+            "k_per_9": 9.04
+          },
+          "form_tag": "cold",
+          "read": "Struggling lately \u2014 4+ runs in three of his last four."
+        }
+      }
+    },
+    {
+      "game_id": "2026-08-27-BAL-STL",
+      "away_team": "Baltimore Orioles",
+      "home_team": "St. Louis Cardinals",
+      "away_abbr": "BAL",
+      "home_abbr": "STL",
+      "start_time_display": "2:15 PM",
+      "start_time_utc": "2026-08-27T18:15:00Z",
+      "starters": {
+        "away": {
+          "tbd": false,
+          "pitcher_id": "669432",
+          "name_display": "T. Rogers",
+          "throws": "LHP",
+          "team_abbr": "BAL",
+          "stats": {
+            "era": 4.38,
+            "k_per_9": 7.91
+          },
+          "form_tag": "steady",
+          "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts."
+        },
+        "home": {
+          "tbd": false,
+          "pitcher_id": "700669",
+          "name_display": "G. Graceffo",
+          "throws": "RHP",
+          "team_abbr": "STL",
+          "stats": {
+            "era": 2.98,
+            "k_per_9": 5.7
+          },
+          "form_tag": "steady",
+          "read": "Tough on left-handed bats \u2014 .130 against (100 AB)."
+        }
+      }
+    },
+    {
+      "game_id": "2026-08-27-HOU-NYY",
+      "away_team": "Houston Astros",
+      "home_team": "New York Yankees",
+      "away_abbr": "HOU",
+      "home_abbr": "NYY",
+      "start_time_display": "7:05 PM",
+      "start_time_utc": "2026-08-27T23:05:00Z",
+      "starters": {
+        "away": {
+          "tbd": false,
+          "pitcher_id": "669713",
+          "name_display": "H. Wesneski",
+          "throws": "RHP",
+          "team_abbr": "HOU",
+          "stats": {
+            "era": 3.94,
+            "k_per_9": 6.98
+          },
+          "form_tag": "steady",
+          "read": "3.94 ERA with 6.98 K/9 over 29.2 innings this season."
+        },
+        "home": {
+          "tbd": false,
+          "pitcher_id": "543037",
+          "name_display": "G. Cole",
+          "throws": "RHP",
+          "team_abbr": "NYY",
+          "stats": {
+            "era": 3.02,
+            "k_per_9": 9.63
+          },
+          "form_tag": "hot",
+          "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts."
+        }
+      }
+    },
+    {
+      "game_id": "2026-08-27-KC-TOR",
+      "away_team": "Kansas City Royals",
+      "home_team": "Toronto Blue Jays",
+      "away_abbr": "KC",
+      "home_abbr": "TOR",
+      "start_time_display": "7:07 PM",
+      "start_time_utc": "2026-08-27T23:07:00Z",
+      "starters": {
+        "away": {
+          "tbd": false,
+          "pitcher_id": "702070",
+          "name_display": "N. Cameron",
+          "throws": "LHP",
+          "team_abbr": "KC",
+          "stats": {
+            "era": 3.99,
+            "k_per_9": 8.04
+          },
+          "form_tag": "hot",
+          "read": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts."
+        },
+        "home": {
+          "tbd": false,
+          "pitcher_id": "681293",
+          "name_display": "S. Arrighetti",
+          "throws": "RHP",
+          "team_abbr": "TOR",
+          "stats": {
+            "era": 4.94,
+            "k_per_9": 9.1
+          },
+          "form_tag": "cold",
+          "read": "Rough stretch \u2014 7.31 ERA over his last four (13 ER in 16.0 IP)."
+        }
+      }
+    },
+    {
+      "game_id": "2026-08-27-MIL-NYM",
+      "away_team": "Milwaukee Brewers",
+      "home_team": "New York Mets",
+      "away_abbr": "MIL",
+      "home_abbr": "NYM",
+      "start_time_display": "7:10 PM",
+      "start_time_utc": "2026-08-27T23:10:00Z",
+      "starters": {
+        "away": {
+          "tbd": false,
+          "pitcher_id": "694819",
+          "name_display": "J. Misiorowski",
+          "throws": "RHP",
+          "team_abbr": "MIL",
+          "stats": {
+            "era": 1.65,
+            "k_per_9": 13.41
+          },
+          "form_tag": "hot",
+          "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts."
+        },
+        "home": {
+          "tbd": false,
+          "pitcher_id": "640455",
+          "name_display": "S. Manaea",
+          "throws": "LHP",
+          "team_abbr": "NYM",
+          "stats": {
+            "era": 4.51,
+            "k_per_9": 8.95
+          },
+          "form_tag": "steady",
+          "read": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts."
+        }
+      }
+    },
+    {
+      "game_id": "2026-08-27-LAD-ATL",
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Atlanta Braves",
+      "away_abbr": "LAD",
+      "home_abbr": "ATL",
+      "start_time_display": "7:15 PM",
+      "start_time_utc": "2026-08-27T23:15:00Z",
+      "starters": {
+        "away": {
+          "tbd": false,
+          "pitcher_id": "808967",
+          "name_display": "Y. Yamamoto",
+          "throws": "RHP",
+          "team_abbr": "LAD",
+          "stats": {
+            "era": 2.64,
+            "k_per_9": 8.61
+          },
+          "form_tag": "hot",
+          "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts."
+        },
+        "home": {
+          "tbd": false,
+          "pitcher_id": "519242",
+          "name_display": "C. Sale",
+          "throws": "LHP",
+          "team_abbr": "ATL",
+          "stats": {
+            "era": 2.15,
+            "k_per_9": 11.22
+          },
+          "form_tag": "hot",
+          "read": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts."
+        }
+      }
+    },
+    {
+      "game_id": "2026-08-27-AZ-SF",
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "San Francisco Giants",
+      "away_abbr": "AZ",
+      "home_abbr": "SF",
+      "start_time_display": "9:45 PM",
+      "start_time_utc": "2026-08-28T01:45:00Z",
+      "starters": {
+        "away": {
+          "tbd": false,
+          "pitcher_id": "703615",
+          "name_display": "J. Cabrera",
+          "throws": "RHP",
+          "team_abbr": "AZ",
+          "stats": {
+            "era": 5.6,
+            "k_per_9": 6.11
+          },
+          "form_tag": "cold",
+          "read": "Rough stretch \u2014 5.60 ERA over his last four (11 ER in 17.2 IP)."
+        },
+        "home": {
+          "tbd": false,
+          "pitcher_id": "694738",
+          "name_display": "L. Roupp",
+          "throws": "RHP",
+          "team_abbr": "SF",
+          "stats": {
+            "era": 4.34,
+            "k_per_9": 8.69
+          },
+          "form_tag": "cold",
+          "read": "Rough stretch \u2014 5.57 ERA over his last four (13 ER in 21.0 IP)."
+        }
+      }
+    }
+  ]
+}
