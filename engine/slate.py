@@ -85,8 +85,8 @@ def build_starter(pitcher, team_abbr, season, date) -> dict:
     """One side of a matchup. A TBD probable is data, not an error."""
     if not pitcher or not pitcher.get("id"):
         return {"tbd": True, "pitcher_id": None, "name_display": None,
-                "throws": None, "team_abbr": team_abbr, "stats": None,
-                "form_tag": None, "read": None}
+                "name_full": None, "throws": None, "team_abbr": team_abbr,
+                "stats": None, "form_tag": None, "read": None}
 
     pid = pitcher["id"]
     # Exclude a start dated today: the build can run while a game is live.
@@ -100,9 +100,12 @@ def build_starter(pitcher, team_abbr, season, date) -> dict:
         "tbd": False,
         "pitcher_id": str(pid),
         "name_display": name_display(pitcher.get("fullName", "")),
+        "name_full": pitcher.get("fullName") or None,
         "throws": prof["throws"] or None,
         "team_abbr": team_abbr,
-        "stats": {"era": prof["era"], "k_per_9": prof["k_per_9"]},
+        # ip is the same season figure the Deep-Dive tile shows, in baseball
+        # notation (151.2 = 151 and 2/3), so the two views can't disagree.
+        "stats": {"era": prof["era"], "k_per_9": prof["k_per_9"], "ip": prof["ip"]},
         "form_tag": tag,
         "read": notes[0] if notes else season_read(prof),
     }
