@@ -4,6 +4,8 @@ All numbers come back as raw floats/ints (or None) — formatting is the
 frontend's job. Nothing here computes a projection.
 """
 
+from functools import lru_cache
+
 from engine.api import code_for, dig, get_json
 
 HAND_LABEL = {"L": "LHP", "R": "RHP"}
@@ -61,6 +63,7 @@ def avg_pitches_per_start(starts) -> int | None:
 # --------------------------------------------------------------------------- #
 # Fetchers
 # --------------------------------------------------------------------------- #
+@lru_cache(maxsize=None)
 def gamelog_starts(pid, season, exclude_date=None) -> list[dict]:
     """This pitcher's starts this season, oldest -> newest.
 
@@ -99,6 +102,7 @@ def gamelog_starts(pid, season, exclude_date=None) -> list[dict]:
     return starts
 
 
+@lru_cache(maxsize=None)
 def pitcher_season(pid, season) -> dict:
     """Season profile. Every value may be None if the API is unhappy."""
     prof = {"hand": "", "throws": "", "era": None, "k_per_9": None,
@@ -121,6 +125,7 @@ def pitcher_season(pid, season) -> dict:
     return prof
 
 
+@lru_cache(maxsize=None)
 def pitcher_vshand(pid, season) -> dict:
     """Season batting-average-against vs LHB and RHB, with at-bat samples."""
     out = {"L": None, "R": None}

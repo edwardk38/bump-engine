@@ -47,9 +47,9 @@ def gate_ranks(line: dict) -> dict:
     return line
 
 
-def season_stats(pitcher_id, prof) -> list[dict]:
+def season_stats(pitcher_id, prof, season) -> list[dict]:
     """The stat boxes, in display order. Percentile is always present."""
-    tbl = table(int(prof["season"]))
+    tbl = table(int(season))
     out = []
     for stat in STATS:
         line = tbl.stat_line(pitcher_id, stat.key)
@@ -115,7 +115,6 @@ def build_pitcher(pitcher, team_abbr, opponent_abbr, season, date) -> dict:
     # Same live-game guard as the slate: a start dated today is in progress.
     starts = gamelog_starts(pid, season, exclude_date=date)
     prof = pitcher_season(pid, season)
-    prof["season"] = season
     vshand = pitcher_vshand(pid, season)
     tag = form_tag(starts, prof["era"], as_of=date)
     notes = pitcher_notes(starts, prof, vshand, season, tag, as_of=date)
@@ -133,7 +132,7 @@ def build_pitcher(pitcher, team_abbr, opponent_abbr, season, date) -> dict:
         "form_tag": tag,
         "headline_stats": {"era": prof["era"], "k_per_9": prof["k_per_9"]},
         "read": read_segments(notes, prof),
-        "season_stats": season_stats(pid, prof),
+        "season_stats": season_stats(pid, prof, season),
         "splits": splits_block(vshand),
         "last_starts": last_starts(starts),
     }
