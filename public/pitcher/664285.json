@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "664285",
+  "name_display": "F. Valdez",
+  "name_full": "Framber Valdez",
+  "throws": "LHP",
+  "team_abbr": "DET",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.35,
+      "percentile": 40,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.91,
+      "percentile": 17,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 144.2,
+      "percentile": 77,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 111,
+      "percentile": 50,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 56,
+      "percentile": 28,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.48,
+      "percentile": 28,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 14,
+      "percentile": 79,
+      "league": "AL",
+      "league_rank": 13,
+      "mlb_rank": 30
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.23,
+      "percentile": 43,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.263,
+      "ab": 133
+    },
+    "vs_rhb": {
+      "avg": 0.261,
+      "ab": 433
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 24",
+      "opp_abbr": "TB",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 8,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 0,
+      "pitches": 84,
+      "strikes": 54
+    },
+    {
+      "date_display": "Aug 17",
+      "opp_abbr": "PIT",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 5,
+      "er": 4,
+      "hr": 0,
+      "bb": 4,
+      "so": 5,
+      "pitches": 91,
+      "strikes": 52
+    },
+    {
+      "date_display": "Aug 12",
+      "opp_abbr": "CLE",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 6,
+      "er": 4,
+      "hr": 1,
+      "bb": 5,
+      "so": 3,
+      "pitches": 102,
+      "strikes": 64
+    },
+    {
+      "date_display": "Aug 6",
+      "opp_abbr": "SEA",
+      "is_home": false,
+      "ip": "7.0",
+      "h": 5,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 95,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 1",
+      "opp_abbr": "ATH",
+      "is_home": false,
+      "ip": "7.0",
+      "h": 9,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 6,
+      "pitches": 96,
+      "strikes": 62
+    }
+  ]
+}

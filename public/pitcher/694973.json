@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "694973",
+  "name_display": "P. Skenes",
+  "name_full": "Paul Skenes",
+  "throws": "RHP",
+  "team_abbr": "PIT",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 10.86 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .215 against (312 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.79,
+      "percentile": 55,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.86,
+      "percentile": 93,
+      "league": "NL",
+      "league_rank": 6,
+      "mlb_rank": 10
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 145.0,
+      "percentile": 78,
+      "league": "NL",
+      "league_rank": 15,
+      "mlb_rank": 33
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 175,
+      "percentile": 94,
+      "league": "NL",
+      "league_rank": 6,
+      "mlb_rank": 9
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 41,
+      "percentile": 70,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.54,
+      "percentile": 70,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 14,
+      "percentile": 79,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 2.95,
+      "percentile": 92,
+      "league": "NL",
+      "league_rank": 8,
+      "mlb_rank": 12
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.215,
+      "ab": 312
+    },
+    "vs_rhb": {
+      "avg": 0.241,
+      "ab": 224
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 25",
+      "opp_abbr": "SD",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 4,
+      "pitches": 87,
+      "strikes": 55
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "4.1",
+      "h": 4,
+      "er": 3,
+      "hr": 0,
+      "bb": 4,
+      "so": 5,
+      "pitches": 81,
+      "strikes": 46
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "MIA",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 5,
+      "er": 1,
+      "hr": 1,
+      "bb": 1,
+      "so": 4,
+      "pitches": 65,
+      "strikes": 45
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "MIL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 2,
+      "er": 3,
+      "hr": 0,
+      "bb": 4,
+      "so": 6,
+      "pitches": 93,
+      "strikes": 53
+    },
+    {
+      "date_display": "Jul 31",
+      "opp_abbr": "CIN",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 7,
+      "er": 5,
+      "hr": 2,
+      "bb": 4,
+      "so": 7,
+      "pitches": 100,
+      "strikes": 65
+    }
+  ]
+}

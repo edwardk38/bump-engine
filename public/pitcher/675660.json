@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "675660",
+  "name_display": "S. Drohan",
+  "name_full": "Shane Drohan",
+  "throws": "LHP",
+  "team_abbr": "MIL",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 10 of his last 10.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.75,
+      "percentile": 57,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.97,
+      "percentile": 66,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 110.1,
+      "percentile": 35,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 110,
+      "percentile": 49,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 37,
+      "percentile": 46,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.02,
+      "percentile": 46,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 10,
+      "percentile": 84,
+      "league": "NL",
+      "league_rank": 15,
+      "mlb_rank": 24
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.4,
+      "percentile": 79,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.244,
+      "ab": 135
+    },
+    "vs_rhb": {
+      "avg": 0.257,
+      "ab": 284
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "TEX",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 6,
+      "er": 1,
+      "hr": 1,
+      "bb": 1,
+      "so": 6,
+      "pitches": 99,
+      "strikes": 63
+    },
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 8,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 5,
+      "pitches": 83,
+      "strikes": 54
+    },
+    {
+      "date_display": "Aug 13",
+      "opp_abbr": "LAD",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 3,
+      "er": 3,
+      "hr": 0,
+      "bb": 3,
+      "so": 5,
+      "pitches": 85,
+      "strikes": 53
+    },
+    {
+      "date_display": "Aug 7",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 9,
+      "er": 6,
+      "hr": 2,
+      "bb": 4,
+      "so": 4,
+      "pitches": 94,
+      "strikes": 56
+    },
+    {
+      "date_display": "Jul 31",
+      "opp_abbr": "LAA",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 4,
+      "er": 2,
+      "hr": 1,
+      "bb": 1,
+      "so": 7,
+      "pitches": 86,
+      "strikes": 55
+    }
+  ]
+}

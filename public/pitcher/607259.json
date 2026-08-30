@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "607259",
+  "name_display": "N. Martinez",
+  "name_full": "Nick Martinez",
+  "throws": "RHP",
+  "team_abbr": "TB",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Team has won 8 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 2.99,
+      "percentile": 86,
+      "league": "AL",
+      "league_rank": 9,
+      "mlb_rank": 21
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 5.33,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 153.2,
+      "percentile": 87,
+      "league": "AL",
+      "league_rank": 10,
+      "mlb_rank": 19
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 91,
+      "percentile": 29,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 22,
+      "percentile": 100,
+      "league": "AL",
+      "league_rank": 1,
+      "mlb_rank": 1
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 1.29,
+      "percentile": 100,
+      "league": "AL",
+      "league_rank": 1,
+      "mlb_rank": 1
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 18,
+      "percentile": 58,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.9,
+      "percentile": 57,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.231,
+      "ab": 351
+    },
+    "vs_rhb": {
+      "avg": 0.278,
+      "ab": 237
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "SD",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 7,
+      "er": 3,
+      "hr": 1,
+      "bb": 0,
+      "so": 4,
+      "pitches": 81,
+      "strikes": 54
+    },
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "BAL",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 4,
+      "pitches": 86,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 18",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "3.2",
+      "h": 9,
+      "er": 6,
+      "hr": 1,
+      "bb": 2,
+      "so": 5,
+      "pitches": 82,
+      "strikes": 56
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "ATH",
+      "is_home": false,
+      "ip": "9.0",
+      "h": 8,
+      "er": 4,
+      "hr": 1,
+      "bb": 0,
+      "so": 5,
+      "pitches": 101,
+      "strikes": 68
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "COL",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 6,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 4,
+      "pitches": 75,
+      "strikes": 52
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "691725",
+  "name_display": "A. Painter",
+  "name_full": "Andrew Painter",
+  "throws": "RHP",
+  "team_abbr": "PHI",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.95,
+      "percentile": 5,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.78,
+      "percentile": 37,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 98.1,
+      "percentile": 26,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 85,
+      "percentile": 23,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 37,
+      "percentile": 31,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.39,
+      "percentile": 31,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 17,
+      "percentile": 19,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.88,
+      "percentile": 14,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.296,
+      "ab": 233
+    },
+    "vs_rhb": {
+      "avg": 0.24,
+      "ab": 150
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "LAA",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 2,
+      "er": 3,
+      "hr": 0,
+      "bb": 3,
+      "so": 6,
+      "pitches": 94,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "STL",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 5,
+      "er": 1,
+      "hr": 0,
+      "bb": 0,
+      "so": 8,
+      "pitches": 103,
+      "strikes": 75
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 6,
+      "er": 5,
+      "hr": 2,
+      "bb": 3,
+      "so": 2,
+      "pitches": 94,
+      "strikes": 58
+    },
+    {
+      "date_display": "Aug 10",
+      "opp_abbr": "STL",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 2,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 6,
+      "pitches": 93,
+      "strikes": 56
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "WSH",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 4,
+      "pitches": 63,
+      "strikes": 37
+    }
+  ]
+}

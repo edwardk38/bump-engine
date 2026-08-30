@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "686218",
+  "name_display": "E. Sheehan",
+  "name_full": "Emmet Sheehan",
+  "throws": "RHP",
+  "team_abbr": "LAD",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 8.31 ERA over his last three (12 ER in 13.0 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 10.2 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.29,
+      "percentile": 13,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.2,
+      "percentile": 87,
+      "league": "NL",
+      "league_rank": 13,
+      "mlb_rank": 19
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 95.1,
+      "percentile": 21,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 108,
+      "percentile": 47,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 30,
+      "percentile": 54,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.83,
+      "percentile": 54,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 20,
+      "percentile": 7,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.73,
+      "percentile": 21,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.262,
+      "ab": 206
+    },
+    "vs_rhb": {
+      "avg": 0.239,
+      "ab": 163
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 2",
+      "opp_abbr": "BOS",
+      "is_home": true,
+      "ip": "2.2",
+      "h": 6,
+      "er": 5,
+      "hr": 3,
+      "bb": 1,
+      "so": 4,
+      "pitches": 58,
+      "strikes": 36
+    },
+    {
+      "date_display": "Jul 26",
+      "opp_abbr": "NYM",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 87,
+      "strikes": 54
+    },
+    {
+      "date_display": "Jul 20",
+      "opp_abbr": "PHI",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 8,
+      "er": 6,
+      "hr": 2,
+      "bb": 1,
+      "so": 6,
+      "pitches": 87,
+      "strikes": 57
+    },
+    {
+      "date_display": "Jul 12",
+      "opp_abbr": "AZ",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 3,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 7,
+      "pitches": 101,
+      "strikes": 68
+    },
+    {
+      "date_display": "Jul 5",
+      "opp_abbr": "SD",
+      "is_home": true,
+      "ip": "4.1",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 5,
+      "pitches": 96,
+      "strikes": 60
+    }
+  ]
+}

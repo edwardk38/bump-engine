@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "676917",
+  "name_display": "C. Cavalli",
+  "name_full": "Cade Cavalli",
+  "throws": "RHP",
+  "team_abbr": "WSH",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 10.43 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 0.75 ERA over his last 4 (2 ER in 24.0 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.12,
+      "percentile": 83,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.43,
+      "percentile": 90,
+      "league": "NL",
+      "league_rank": 10,
+      "mlb_rank": 15
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 152.2,
+      "percentile": 87,
+      "league": "NL",
+      "league_rank": 10,
+      "mlb_rank": 20
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 177,
+      "percentile": 95,
+      "league": "NL",
+      "league_rank": 4,
+      "mlb_rank": 7
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 46,
+      "percentile": 65,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.71,
+      "percentile": 65,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 17,
+      "percentile": 63,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.36,
+      "percentile": 81,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.249,
+      "ab": 345
+    },
+    "vs_rhb": {
+      "avg": 0.221,
+      "ab": 231
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "MIA",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 8,
+      "pitches": 70,
+      "strikes": 42
+    },
+    {
+      "date_display": "Aug 24",
+      "opp_abbr": "COL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 5,
+      "er": 2,
+      "hr": 2,
+      "bb": 1,
+      "so": 7,
+      "pitches": 93,
+      "strikes": 64
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "TEX",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 11,
+      "pitches": 84,
+      "strikes": 58
+    },
+    {
+      "date_display": "Aug 13",
+      "opp_abbr": "CHC",
+      "is_home": true,
+      "ip": "8.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 10,
+      "pitches": 103,
+      "strikes": 63
+    },
+    {
+      "date_display": "Aug 7",
+      "opp_abbr": "CIN",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 7,
+      "er": 3,
+      "hr": 3,
+      "bb": 2,
+      "so": 8,
+      "pitches": 100,
+      "strikes": 65
+    }
+  ]
+}

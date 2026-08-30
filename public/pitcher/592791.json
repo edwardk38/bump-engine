@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "592791",
+  "name_display": "J. Taillon",
+  "name_full": "Jameson Taillon",
+  "throws": "RHP",
+  "team_abbr": "TOR",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 7.71 ERA over his last four (14 ER in 16.1 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.68,
+      "percentile": 6,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.04,
+      "percentile": 46,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 84.0,
+      "percentile": 11,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 75,
+      "percentile": 13,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 32,
+      "percentile": 30,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.43,
+      "percentile": 30,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 26,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 6.53,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.25,
+      "ab": 164
+    },
+    "vs_rhb": {
+      "avg": 0.256,
+      "ab": 164
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 10",
+      "opp_abbr": "BOS",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 3,
+      "pitches": 61,
+      "strikes": 34
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "HOU",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 6,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 4,
+      "pitches": 80,
+      "strikes": 49
+    },
+    {
+      "date_display": "Jul 26",
+      "opp_abbr": "PIT",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 6,
+      "er": 7,
+      "hr": 3,
+      "bb": 2,
+      "so": 3,
+      "pitches": 69,
+      "strikes": 40
+    },
+    {
+      "date_display": "Jul 20",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "4.1",
+      "h": 5,
+      "er": 4,
+      "hr": 2,
+      "bb": 2,
+      "so": 6,
+      "pitches": 75,
+      "strikes": 46
+    },
+    {
+      "date_display": "Jun 7",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "1.0",
+      "h": 2,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 2,
+      "pitches": 35,
+      "strikes": 18
+    }
+  ]
+}

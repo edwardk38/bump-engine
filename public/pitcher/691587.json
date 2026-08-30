@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "691587",
+  "name_display": "E. P\u00e9rez",
+  "name_full": "Eury P\u00e9rez",
+  "throws": "RHP",
+  "team_abbr": "MIA",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 9.78 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 2.57 ERA over his last 4 (6 ER in 21.0 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.44,
+      "percentile": 71,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.78,
+      "percentile": 80,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 130.2,
+      "percentile": 59,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 142,
+      "percentile": 79,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 56,
+      "percentile": 17,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.86,
+      "percentile": 17,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 14,
+      "percentile": 66,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.76,
+      "percentile": 60,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.178,
+      "ab": 258
+    },
+    "vs_rhb": {
+      "avg": 0.223,
+      "ab": 206
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "WSH",
+      "is_home": false,
+      "ip": "3.0",
+      "h": 2,
+      "er": 5,
+      "hr": 1,
+      "bb": 4,
+      "so": 5,
+      "pitches": 74,
+      "strikes": 40
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "WSH",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 4,
+      "pitches": 100,
+      "strikes": 56
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "CIN",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 5,
+      "so": 5,
+      "pitches": 100,
+      "strikes": 63
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "PIT",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 7,
+      "pitches": 100,
+      "strikes": 62
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "ATL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 7,
+      "er": 4,
+      "hr": 0,
+      "bb": 2,
+      "so": 9,
+      "pitches": 91,
+      "strikes": 61
+    }
+  ]
+}

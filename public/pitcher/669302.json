@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "669302",
+  "name_display": "L. Gilbert",
+  "name_full": "Logan Gilbert",
+  "throws": "RHP",
+  "team_abbr": "SEA",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 10 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 10 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 9.39 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Team has won 7 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.36,
+      "percentile": 74,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.39,
+      "percentile": 74,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 155.1,
+      "percentile": 91,
+      "league": "AL",
+      "league_rank": 6,
+      "mlb_rank": 13
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 162,
+      "percentile": 90,
+      "league": "AL",
+      "league_rank": 7,
+      "mlb_rank": 15
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 39,
+      "percentile": 83,
+      "league": "AL",
+      "league_rank": 12,
+      "mlb_rank": 26
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.26,
+      "percentile": 83,
+      "league": "AL",
+      "league_rank": 12,
+      "mlb_rank": 26
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 21,
+      "percentile": 43,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.6,
+      "percentile": 72,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.199,
+      "ab": 321
+    },
+    "vs_rhb": {
+      "avg": 0.229,
+      "ab": 245
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 24",
+      "opp_abbr": "PHI",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 5,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 5,
+      "pitches": 102,
+      "strikes": 66
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "MIL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 4,
+      "er": 3,
+      "hr": 1,
+      "bb": 4,
+      "so": 5,
+      "pitches": 100,
+      "strikes": 58
+    },
+    {
+      "date_display": "Aug 13",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 7,
+      "pitches": 95,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 7",
+      "opp_abbr": "TB",
+      "is_home": true,
+      "ip": "6.2",
+      "h": 4,
+      "er": 2,
+      "hr": 2,
+      "bb": 4,
+      "so": 6,
+      "pitches": 95,
+      "strikes": 54
+    },
+    {
+      "date_display": "Aug 1",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 5,
+      "er": 3,
+      "hr": 2,
+      "bb": 1,
+      "so": 6,
+      "pitches": 96,
+      "strikes": 63
+    }
+  ]
+}

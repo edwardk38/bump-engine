@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "680694",
+  "name_display": "K. Bradish",
+  "name_full": "Kyle Bradish",
+  "throws": "RHP",
+  "team_abbr": "BAL",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.03,
+      "percentile": 46,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.37,
+      "percentile": 52,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 143.0,
+      "percentile": 74,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 133,
+      "percentile": 72,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 62,
+      "percentile": 15,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.9,
+      "percentile": 15,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 16,
+      "percentile": 62,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.03,
+      "percentile": 52,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.261,
+      "ab": 329
+    },
+    "vs_rhb": {
+      "avg": 0.256,
+      "ab": 211
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 26",
+      "opp_abbr": "STL",
+      "is_home": false,
+      "ip": "4.1",
+      "h": 9,
+      "er": 7,
+      "hr": 1,
+      "bb": 2,
+      "so": 4,
+      "pitches": 91,
+      "strikes": 64
+    },
+    {
+      "date_display": "Aug 20",
+      "opp_abbr": "NYY",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 8,
+      "er": 3,
+      "hr": 2,
+      "bb": 2,
+      "so": 5,
+      "pitches": 100,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "TB",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 7,
+      "er": 2,
+      "hr": 0,
+      "bb": 4,
+      "so": 3,
+      "pitches": 93,
+      "strikes": 52
+    },
+    {
+      "date_display": "Aug 8",
+      "opp_abbr": "TEX",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 5,
+      "er": 1,
+      "hr": 0,
+      "bb": 0,
+      "so": 4,
+      "pitches": 98,
+      "strikes": 66
+    },
+    {
+      "date_display": "Aug 2",
+      "opp_abbr": "PHI",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 2,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 3,
+      "pitches": 53,
+      "strikes": 31
+    }
+  ]
+}

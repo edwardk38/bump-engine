@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "608331",
+  "name_display": "M. Fried",
+  "name_full": "Max Fried",
+  "throws": "LHP",
+  "team_abbr": "NYY",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rolling \u2014 1.33 ERA over his last 4 (3 ER in 20.1 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .156 against (77 AB).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .212 against (236 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 2.8,
+      "percentile": 89,
+      "league": "AL",
+      "league_rank": 5,
+      "mlb_rank": 16
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.3,
+      "percentile": 50,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 90.0,
+      "percentile": 15,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 83,
+      "percentile": 20,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 28,
+      "percentile": 59,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.8,
+      "percentile": 59,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 3,
+      "percentile": 100,
+      "league": "AL",
+      "league_rank": 1,
+      "mlb_rank": 1
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 2.66,
+      "percentile": 95,
+      "league": "AL",
+      "league_rank": 3,
+      "mlb_rank": 8
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.156,
+      "ab": 77
+    },
+    "vs_rhb": {
+      "avg": 0.212,
+      "ab": 236
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "BOS",
+      "is_home": true,
+      "ip": "3.2",
+      "h": 3,
+      "er": 1,
+      "hr": 1,
+      "bb": 1,
+      "so": 4,
+      "pitches": 63,
+      "strikes": 39
+    },
+    {
+      "date_display": "Aug 13",
+      "opp_abbr": "SEA",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 5,
+      "er": 1,
+      "hr": 1,
+      "bb": 2,
+      "so": 4,
+      "pitches": 88,
+      "strikes": 55
+    },
+    {
+      "date_display": "Aug 7",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "6.1",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 7,
+      "pitches": 90,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 1",
+      "opp_abbr": "CHC",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 2,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 7,
+      "pitches": 78,
+      "strikes": 54
+    },
+    {
+      "date_display": "Jul 27",
+      "opp_abbr": "CWS",
+      "is_home": false,
+      "ip": "3.0",
+      "h": 5,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 66,
+      "strikes": 39
+    }
+  ]
+}

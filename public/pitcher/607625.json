@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "607625",
+  "name_display": "S. Lugo",
+  "name_full": "Seth Lugo",
+  "throws": "RHP",
+  "team_abbr": "KC",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 5.82 ERA over his last four (14 ER in 21.2 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Team has won 7 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.61,
+      "percentile": 28,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.94,
+      "percentile": 18,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 150.1,
+      "percentile": 84,
+      "league": "AL",
+      "league_rank": 12,
+      "mlb_rank": 23
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 116,
+      "percentile": 55,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 47,
+      "percentile": 57,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.81,
+      "percentile": 57,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 16,
+      "percentile": 66,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.99,
+      "percentile": 53,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.292,
+      "ab": 366
+    },
+    "vs_rhb": {
+      "avg": 0.256,
+      "ab": 211
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 25",
+      "opp_abbr": "TOR",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 6,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 5,
+      "pitches": 89,
+      "strikes": 53
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 9,
+      "er": 5,
+      "hr": 0,
+      "bb": 0,
+      "so": 3,
+      "pitches": 96,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 14",
+      "opp_abbr": "LAA",
+      "is_home": false,
+      "ip": "4.2",
+      "h": 7,
+      "er": 5,
+      "hr": 0,
+      "bb": 0,
+      "so": 4,
+      "pitches": 86,
+      "strikes": 56
+    },
+    {
+      "date_display": "Aug 8",
+      "opp_abbr": "CHC",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 5,
+      "er": 3,
+      "hr": 1,
+      "bb": 1,
+      "so": 5,
+      "pitches": 90,
+      "strikes": 61
+    },
+    {
+      "date_display": "Aug 2",
+      "opp_abbr": "COL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 5,
+      "er": 5,
+      "hr": 0,
+      "bb": 5,
+      "so": 3,
+      "pitches": 99,
+      "strikes": 52
+    }
+  ]
+}

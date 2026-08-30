@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "641927",
+  "name_display": "B. Ober",
+  "name_full": "Bailey Ober",
+  "throws": "RHP",
+  "team_abbr": "MIN",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "4.37 ERA with 6.27 K/9 over 113.1 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.37,
+      "percentile": 39,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.27,
+      "percentile": 9,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 113.1,
+      "percentile": 37,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 79,
+      "percentile": 17,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 31,
+      "percentile": 74,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.46,
+      "percentile": 74,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 18,
+      "percentile": 24,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.62,
+      "percentile": 24,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.238,
+      "ab": 248
+    },
+    "vs_rhb": {
+      "avg": 0.258,
+      "ab": 194
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "CWS",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 2,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 80,
+      "strikes": 53
+    },
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "SD",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 3,
+      "so": 3,
+      "pitches": 87,
+      "strikes": 54
+    },
+    {
+      "date_display": "Aug 17",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "4.1",
+      "h": 6,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 4,
+      "pitches": 94,
+      "strikes": 62
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 8,
+      "er": 5,
+      "hr": 3,
+      "bb": 1,
+      "so": 4,
+      "pitches": 100,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 6",
+      "opp_abbr": "KC",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 0,
+      "bb": 0,
+      "so": 0,
+      "pitches": 74,
+      "strikes": 50
+    }
+  ]
+}

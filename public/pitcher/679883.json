@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "679883",
+  "name_display": "L. Avila",
+  "name_full": "Luinder Avila",
+  "throws": "RHP",
+  "team_abbr": "KC",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 7.43 ERA over his last three (11 ER in 13.1 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Team has won 7 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.53,
+      "percentile": 9,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.84,
+      "percentile": 39,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 70.0,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 61,
+      "percentile": 3,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 42,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 5.4,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 7,
+      "percentile": 75,
+      "league": "AL",
+      "league_rank": 14,
+      "mlb_rank": 35
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.52,
+      "percentile": 31,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.257,
+      "ab": 167
+    },
+    "vs_rhb": {
+      "avg": 0.298,
+      "ab": 94
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 1",
+      "opp_abbr": "COL",
+      "is_home": false,
+      "ip": "2.2",
+      "h": 4,
+      "er": 6,
+      "hr": 1,
+      "bb": 3,
+      "so": 2,
+      "pitches": 60,
+      "strikes": 33
+    },
+    {
+      "date_display": "Jul 26",
+      "opp_abbr": "DET",
+      "is_home": false,
+      "ip": "4.1",
+      "h": 4,
+      "er": 3,
+      "hr": 0,
+      "bb": 4,
+      "so": 2,
+      "pitches": 89,
+      "strikes": 50
+    },
+    {
+      "date_display": "Jul 21",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "6.1",
+      "h": 5,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 7,
+      "pitches": 87,
+      "strikes": 61
+    },
+    {
+      "date_display": "Jul 10",
+      "opp_abbr": "BAL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 7,
+      "er": 3,
+      "hr": 1,
+      "bb": 3,
+      "so": 3,
+      "pitches": 96,
+      "strikes": 57
+    },
+    {
+      "date_display": "Jul 5",
+      "opp_abbr": "PHI",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 4,
+      "pitches": 69,
+      "strikes": 41
+    }
+  ]
+}

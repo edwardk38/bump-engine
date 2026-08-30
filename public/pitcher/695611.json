@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "695611",
+  "name_display": "G. Jump",
+  "name_full": "Gage Jump",
+  "throws": "LHP",
+  "team_abbr": "ATH",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 10 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 9.88 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.69,
+      "percentile": 27,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.88,
+      "percentile": 82,
+      "league": "AL",
+      "league_rank": 10,
+      "mlb_rank": 26
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 88.1,
+      "percentile": 13,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 97,
+      "percentile": 38,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 42,
+      "percentile": 9,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.28,
+      "percentile": 9,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 9,
+      "percentile": 70,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.73,
+      "percentile": 62,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.241,
+      "ab": 83
+    },
+    "vs_rhb": {
+      "avg": 0.265,
+      "ab": 253
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 25",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "6.1",
+      "h": 3,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 9,
+      "pitches": 94,
+      "strikes": 63
+    },
+    {
+      "date_display": "Aug 20",
+      "opp_abbr": "KC",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 8,
+      "er": 5,
+      "hr": 1,
+      "bb": 3,
+      "so": 3,
+      "pitches": 86,
+      "strikes": 55
+    },
+    {
+      "date_display": "Aug 14",
+      "opp_abbr": "TEX",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 3,
+      "er": 3,
+      "hr": 1,
+      "bb": 4,
+      "so": 1,
+      "pitches": 101,
+      "strikes": 61
+    },
+    {
+      "date_display": "Aug 8",
+      "opp_abbr": "BOS",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 6,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 11,
+      "pitches": 100,
+      "strikes": 69
+    },
+    {
+      "date_display": "Aug 2",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "3.2",
+      "h": 4,
+      "er": 6,
+      "hr": 0,
+      "bb": 6,
+      "so": 5,
+      "pitches": 88,
+      "strikes": 46
+    }
+  ]
+}

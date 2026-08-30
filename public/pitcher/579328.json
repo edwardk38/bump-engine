@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "579328",
+  "name_display": "Y. Kikuchi",
+  "name_full": "Yusei Kikuchi",
+  "throws": "LHP",
+  "team_abbr": "LAA",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Misses bats \u2014 9.25 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 6.25,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.25,
+      "percentile": 71,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 36.0,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 37,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 15,
+      "percentile": 22,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.75,
+      "percentile": 22,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 5,
+      "percentile": 40,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.24,
+      "percentile": 42,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.294,
+      "ab": 34
+    },
+    "vs_rhb": {
+      "avg": 0.294,
+      "ab": 109
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "TEX",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 7,
+      "er": 5,
+      "hr": 2,
+      "bb": 1,
+      "so": 4,
+      "pitches": 89,
+      "strikes": 59
+    },
+    {
+      "date_display": "Apr 29",
+      "opp_abbr": "CWS",
+      "is_home": false,
+      "ip": "2.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 1,
+      "pitches": 35,
+      "strikes": 19
+    },
+    {
+      "date_display": "Apr 24",
+      "opp_abbr": "KC",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 5,
+      "er": 5,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 90,
+      "strikes": 60
+    },
+    {
+      "date_display": "Apr 18",
+      "opp_abbr": "SD",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 8,
+      "pitches": 86,
+      "strikes": 56
+    },
+    {
+      "date_display": "Apr 13",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "3.1",
+      "h": 4,
+      "er": 4,
+      "hr": 2,
+      "bb": 4,
+      "so": 3,
+      "pitches": 82,
+      "strikes": 50
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "808963",
+  "name_display": "R. Sasaki",
+  "name_full": "Roki Sasaki",
+  "throws": "RHP",
+  "team_abbr": "LAD",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.6,
+      "percentile": 29,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.82,
+      "percentile": 62,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 119.1,
+      "percentile": 42,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 117,
+      "percentile": 57,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 48,
+      "percentile": 25,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.62,
+      "percentile": 25,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 22,
+      "percentile": 12,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.84,
+      "percentile": 15,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.238,
+      "ab": 261
+    },
+    "vs_rhb": {
+      "avg": 0.253,
+      "ab": 194
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 26",
+      "opp_abbr": "ATL",
+      "is_home": false,
+      "ip": "3.1",
+      "h": 6,
+      "er": 4,
+      "hr": 1,
+      "bb": 2,
+      "so": 3,
+      "pitches": 66,
+      "strikes": 42
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "COL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 7,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 6,
+      "pitches": 99,
+      "strikes": 73
+    },
+    {
+      "date_display": "Aug 13",
+      "opp_abbr": "MIL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 2,
+      "hr": 0,
+      "bb": 5,
+      "so": 2,
+      "pitches": 101,
+      "strikes": 54
+    },
+    {
+      "date_display": "Aug 7",
+      "opp_abbr": "AZ",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 4,
+      "er": 2,
+      "hr": 1,
+      "bb": 1,
+      "so": 5,
+      "pitches": 86,
+      "strikes": 57
+    },
+    {
+      "date_display": "Jul 30",
+      "opp_abbr": "SEA",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 5,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 7,
+      "pitches": 90,
+      "strikes": 61
+    }
+  ]
+}

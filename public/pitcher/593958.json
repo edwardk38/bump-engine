@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "593958",
+  "name_display": "E. Rodriguez",
+  "name_full": "Eduardo Rodriguez",
+  "throws": "LHP",
+  "team_abbr": "AZ",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 1.40 ERA over his last 4 (4 ER in 25.2 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Team has won 8 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 2.5,
+      "percentile": 94,
+      "league": "NL",
+      "league_rank": 6,
+      "mlb_rank": 9
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.61,
+      "percentile": 13,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 162.0,
+      "percentile": 96,
+      "league": "NL",
+      "league_rank": 4,
+      "mlb_rank": 7
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 119,
+      "percentile": 61,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 52,
+      "percentile": 51,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.89,
+      "percentile": 51,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 14,
+      "percentile": 85,
+      "league": "NL",
+      "league_rank": 14,
+      "mlb_rank": 22
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.69,
+      "percentile": 67,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.247,
+      "ab": 182
+    },
+    "vs_rhb": {
+      "avg": 0.224,
+      "ab": 424
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 26",
+      "opp_abbr": "CHC",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 9,
+      "pitches": 104,
+      "strikes": 71
+    },
+    {
+      "date_display": "Aug 21",
+      "opp_abbr": "CIN",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 99,
+      "strikes": 63
+    },
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "ATL",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 5,
+      "er": 2,
+      "hr": 1,
+      "bb": 0,
+      "so": 5,
+      "pitches": 96,
+      "strikes": 62
+    },
+    {
+      "date_display": "Aug 9",
+      "opp_abbr": "LAD",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 5,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 9,
+      "pitches": 115,
+      "strikes": 79
+    },
+    {
+      "date_display": "Aug 4",
+      "opp_abbr": "SD",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 11,
+      "er": 5,
+      "hr": 0,
+      "bb": 0,
+      "so": 4,
+      "pitches": 102,
+      "strikes": 69
+    }
+  ]
+}

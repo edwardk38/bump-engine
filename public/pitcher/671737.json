@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "671737",
+  "name_display": "T. Bradley",
+  "name_full": "Taj Bradley",
+  "throws": "RHP",
+  "team_abbr": "MIN",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 5.66 ERA over his last four (13 ER in 20.2 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 10.32 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.97,
+      "percentile": 52,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.32,
+      "percentile": 89,
+      "league": "AL",
+      "league_rank": 6,
+      "mlb_rank": 17
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 147.1,
+      "percentile": 79,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 169,
+      "percentile": 92,
+      "league": "AL",
+      "league_rank": 5,
+      "mlb_rank": 12
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 63,
+      "percentile": 18,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.85,
+      "percentile": 18,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 20,
+      "percentile": 43,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.89,
+      "percentile": 57,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.215,
+      "ab": 325
+    },
+    "vs_rhb": {
+      "avg": 0.236,
+      "ab": 233
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 25",
+      "opp_abbr": "ATH",
+      "is_home": false,
+      "ip": "6.2",
+      "h": 7,
+      "er": 4,
+      "hr": 1,
+      "bb": 1,
+      "so": 11,
+      "pitches": 99,
+      "strikes": 72
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 2,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 7,
+      "pitches": 88,
+      "strikes": 56
+    },
+    {
+      "date_display": "Aug 13",
+      "opp_abbr": "PHI",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 7,
+      "er": 5,
+      "hr": 2,
+      "bb": 4,
+      "so": 3,
+      "pitches": 89,
+      "strikes": 48
+    },
+    {
+      "date_display": "Aug 8",
+      "opp_abbr": "MIL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 5,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 7,
+      "pitches": 97,
+      "strikes": 62
+    },
+    {
+      "date_display": "Aug 2",
+      "opp_abbr": "SEA",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 7,
+      "er": 3,
+      "hr": 0,
+      "bb": 4,
+      "so": 2,
+      "pitches": 94,
+      "strikes": 57
+    }
+  ]
+}

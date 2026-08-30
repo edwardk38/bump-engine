@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "605400",
+  "name_display": "A. Nola",
+  "name_full": "Aaron Nola",
+  "throws": "RHP",
+  "team_abbr": "PHI",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 10 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 9.63 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 2.35 ERA over his last 4 (6 ER in 23.0 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.03,
+      "percentile": 21,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.63,
+      "percentile": 78,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 143.0,
+      "percentile": 74,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 153,
+      "percentile": 85,
+      "league": "NL",
+      "league_rank": 11,
+      "mlb_rank": 21
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 49,
+      "percentile": 43,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.08,
+      "percentile": 43,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 32,
+      "percentile": 3,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.89,
+      "percentile": 13,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.266,
+      "ab": 335
+    },
+    "vs_rhb": {
+      "avg": 0.276,
+      "ab": 225
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 25",
+      "opp_abbr": "SEA",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 3,
+      "er": 2,
+      "hr": 1,
+      "bb": 3,
+      "so": 7,
+      "pitches": 92,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "MIA",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 5,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 8,
+      "pitches": 100,
+      "strikes": 68
+    },
+    {
+      "date_display": "Aug 13",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 5,
+      "er": 1,
+      "hr": 1,
+      "bb": 3,
+      "so": 9,
+      "pitches": 97,
+      "strikes": 58
+    },
+    {
+      "date_display": "Aug 8",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 6,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 8,
+      "pitches": 97,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 3",
+      "opp_abbr": "WSH",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 2,
+      "bb": 2,
+      "so": 5,
+      "pitches": 97,
+      "strikes": 60
+    }
+  ]
+}

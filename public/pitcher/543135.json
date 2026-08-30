@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "543135",
+  "name_display": "N. Eovaldi",
+  "name_full": "Nathan Eovaldi",
+  "throws": "RHP",
+  "team_abbr": "TEX",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 9.29 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Team has won 7 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.21,
+      "percentile": 43,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.29,
+      "percentile": 72,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 132.2,
+      "percentile": 62,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 137,
+      "percentile": 75,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 32,
+      "percentile": 86,
+      "league": "AL",
+      "league_rank": 10,
+      "mlb_rank": 21
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.17,
+      "percentile": 86,
+      "league": "AL",
+      "league_rank": 10,
+      "mlb_rank": 21
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 24,
+      "percentile": 15,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.24,
+      "percentile": 42,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.265,
+      "ab": 287
+    },
+    "vs_rhb": {
+      "avg": 0.231,
+      "ab": 225
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 7",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 4,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 2,
+      "pitches": 86,
+      "strikes": 56
+    },
+    {
+      "date_display": "Jul 31",
+      "opp_abbr": "HOU",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 10,
+      "er": 6,
+      "hr": 2,
+      "bb": 1,
+      "so": 5,
+      "pitches": 94,
+      "strikes": 60
+    },
+    {
+      "date_display": "Jul 25",
+      "opp_abbr": "SEA",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 8,
+      "pitches": 91,
+      "strikes": 61
+    },
+    {
+      "date_display": "Jul 19",
+      "opp_abbr": "ATL",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 6,
+      "er": 4,
+      "hr": 3,
+      "bb": 2,
+      "so": 2,
+      "pitches": 81,
+      "strikes": 51
+    },
+    {
+      "date_display": "Jul 9",
+      "opp_abbr": "LAA",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 10,
+      "pitches": 99,
+      "strikes": 74
+    }
+  ]
+}

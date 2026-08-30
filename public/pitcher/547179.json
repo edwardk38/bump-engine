@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "547179",
+  "name_display": "M. Lorenzen",
+  "name_full": "Michael Lorenzen",
+  "throws": "RHP",
+  "team_abbr": "TOR",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 10.80 ERA over his last four (18 ER in 15.0 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 7.04,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.42,
+      "percentile": 10,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 117.2,
+      "percentile": 39,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 84,
+      "percentile": 22,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 50,
+      "percentile": 20,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.82,
+      "percentile": 20,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 19,
+      "percentile": 23,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.17,
+      "percentile": 10,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.355,
+      "ab": 276
+    },
+    "vs_rhb": {
+      "avg": 0.317,
+      "ab": 230
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "SF",
+      "is_home": false,
+      "ip": "3.2",
+      "h": 4,
+      "er": 6,
+      "hr": 1,
+      "bb": 3,
+      "so": 1,
+      "pitches": 82,
+      "strikes": 49
+    },
+    {
+      "date_display": "Aug 9",
+      "opp_abbr": "STL",
+      "is_home": false,
+      "ip": "4.1",
+      "h": 8,
+      "er": 2,
+      "hr": 1,
+      "bb": 3,
+      "so": 1,
+      "pitches": 97,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 3",
+      "opp_abbr": "TB",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 7,
+      "er": 7,
+      "hr": 1,
+      "bb": 3,
+      "so": 0,
+      "pitches": 75,
+      "strikes": 45
+    },
+    {
+      "date_display": "Jul 28",
+      "opp_abbr": "SD",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 8,
+      "er": 3,
+      "hr": 0,
+      "bb": 1,
+      "so": 2,
+      "pitches": 93,
+      "strikes": 61
+    },
+    {
+      "date_display": "Jul 21",
+      "opp_abbr": "WSH",
+      "is_home": true,
+      "ip": "3.2",
+      "h": 7,
+      "er": 6,
+      "hr": 2,
+      "bb": 1,
+      "so": 5,
+      "pitches": 80,
+      "strikes": 53
+    }
+  ]
+}

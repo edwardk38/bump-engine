@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "693433",
+  "name_display": "B. Woo",
+  "name_full": "Bryan Woo",
+  "throws": "RHP",
+  "team_abbr": "SEA",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Strikeout run \u2014 5+ K in 9 straight starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.36,
+      "percentile": 39,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.98,
+      "percentile": 67,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 142.1,
+      "percentile": 72,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 142,
+      "percentile": 79,
+      "league": "AL",
+      "league_rank": 15,
+      "mlb_rank": 30
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 30,
+      "percentile": 96,
+      "league": "AL",
+      "league_rank": 4,
+      "mlb_rank": 7
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 1.9,
+      "percentile": 96,
+      "league": "AL",
+      "league_rank": 4,
+      "mlb_rank": 7
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 17,
+      "percentile": 57,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.41,
+      "percentile": 78,
+      "league": "AL",
+      "league_rank": 15,
+      "mlb_rank": 33
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.24,
+      "ab": 308
+    },
+    "vs_rhb": {
+      "avg": 0.224,
+      "ab": 232
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 26",
+      "opp_abbr": "PHI",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 5,
+      "er": 6,
+      "hr": 2,
+      "bb": 1,
+      "so": 5,
+      "pitches": 76,
+      "strikes": 55
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "HOU",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 3,
+      "er": 2,
+      "hr": 2,
+      "bb": 1,
+      "so": 5,
+      "pitches": 75,
+      "strikes": 49
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 5,
+      "pitches": 92,
+      "strikes": 66
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 5,
+      "pitches": 91,
+      "strikes": 61
+    },
+    {
+      "date_display": "Jul 30",
+      "opp_abbr": "LAD",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 5,
+      "er": 5,
+      "hr": 1,
+      "bb": 2,
+      "so": 8,
+      "pitches": 91,
+      "strikes": 55
+    }
+  ]
+}

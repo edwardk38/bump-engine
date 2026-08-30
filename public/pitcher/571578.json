@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "571578",
+  "name_display": "P. Corbin",
+  "name_full": "Patrick Corbin",
+  "throws": "LHP",
+  "team_abbr": "TOR",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "5.51 ERA with 7.09 K/9 over 80.0 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.51,
+      "percentile": 9,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.09,
+      "percentile": 22,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 80.0,
+      "percentile": 8,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 63,
+      "percentile": 5,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 25,
+      "percentile": 57,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.81,
+      "percentile": 57,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 12,
+      "percentile": 32,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.61,
+      "percentile": 25,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.256,
+      "ab": 90
+    },
+    "vs_rhb": {
+      "avg": 0.319,
+      "ab": 235
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jun 26",
+      "opp_abbr": "TEX",
+      "is_home": true,
+      "ip": "4.1",
+      "h": 7,
+      "er": 5,
+      "hr": 1,
+      "bb": 1,
+      "so": 5,
+      "pitches": 94,
+      "strikes": 57
+    },
+    {
+      "date_display": "Jun 20",
+      "opp_abbr": "CHC",
+      "is_home": false,
+      "ip": "3.2",
+      "h": 6,
+      "er": 3,
+      "hr": 1,
+      "bb": 3,
+      "so": 4,
+      "pitches": 101,
+      "strikes": 57
+    },
+    {
+      "date_display": "Jun 14",
+      "opp_abbr": "NYY",
+      "is_home": true,
+      "ip": "3.2",
+      "h": 7,
+      "er": 2,
+      "hr": 0,
+      "bb": 0,
+      "so": 3,
+      "pitches": 76,
+      "strikes": 50
+    },
+    {
+      "date_display": "Jun 8",
+      "opp_abbr": "PHI",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 4,
+      "er": 5,
+      "hr": 1,
+      "bb": 4,
+      "so": 3,
+      "pitches": 79,
+      "strikes": 44
+    },
+    {
+      "date_display": "Jun 3",
+      "opp_abbr": "ATL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 6,
+      "er": 4,
+      "hr": 1,
+      "bb": 2,
+      "so": 1,
+      "pitches": 85,
+      "strikes": 53
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "687075",
+  "name_display": "B. Sproat",
+  "name_full": "Brandon Sproat",
+  "throws": "RHP",
+  "team_abbr": "MIL",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 5.93 ERA over his last three (9 ER in 13.2 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 9.41 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.27,
+      "percentile": 14,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.41,
+      "percentile": 75,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 95.2,
+      "percentile": 22,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 100,
+      "percentile": 40,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 48,
+      "percentile": 5,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.52,
+      "percentile": 5,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 17,
+      "percentile": 16,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.08,
+      "percentile": 11,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.246,
+      "ab": 187
+    },
+    "vs_rhb": {
+      "avg": 0.25,
+      "ab": 168
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 3",
+      "opp_abbr": "PIT",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 5,
+      "er": 4,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 64,
+      "strikes": 38
+    },
+    {
+      "date_display": "Jul 27",
+      "opp_abbr": "SF",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 1,
+      "bb": 3,
+      "so": 5,
+      "pitches": 97,
+      "strikes": 57
+    },
+    {
+      "date_display": "Jul 21",
+      "opp_abbr": "NYM",
+      "is_home": true,
+      "ip": "4.2",
+      "h": 4,
+      "er": 2,
+      "hr": 1,
+      "bb": 4,
+      "so": 4,
+      "pitches": 99,
+      "strikes": 61
+    },
+    {
+      "date_display": "Jul 11",
+      "opp_abbr": "PIT",
+      "is_home": false,
+      "ip": "3.0",
+      "h": 2,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 3,
+      "pitches": 83,
+      "strikes": 51
+    },
+    {
+      "date_display": "Jul 5",
+      "opp_abbr": "AZ",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 5,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 4,
+      "pitches": 92,
+      "strikes": 55
+    }
+  ]
+}

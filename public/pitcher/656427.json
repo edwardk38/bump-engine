@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "656427",
+  "name_display": "J. Flaherty",
+  "name_full": "Jack Flaherty",
+  "throws": "RHP",
+  "team_abbr": "DET",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 10.63 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.59,
+      "percentile": 30,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.63,
+      "percentile": 91,
+      "league": "AL",
+      "league_rank": 5,
+      "mlb_rank": 13
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 86.1,
+      "percentile": 13,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 102,
+      "percentile": 41,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 42,
+      "percentile": 8,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.38,
+      "percentile": 8,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 11,
+      "percentile": 52,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.07,
+      "percentile": 50,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.229,
+      "ab": 179
+    },
+    "vs_rhb": {
+      "avg": 0.252,
+      "ab": 155
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jul 20",
+      "opp_abbr": "CHC",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 4,
+      "er": 3,
+      "hr": 2,
+      "bb": 2,
+      "so": 4,
+      "pitches": 82,
+      "strikes": 47
+    },
+    {
+      "date_display": "Jul 10",
+      "opp_abbr": "PHI",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 2,
+      "er": 2,
+      "hr": 1,
+      "bb": 3,
+      "so": 6,
+      "pitches": 86,
+      "strikes": 54
+    },
+    {
+      "date_display": "Jul 4",
+      "opp_abbr": "TEX",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 5,
+      "pitches": 88,
+      "strikes": 60
+    },
+    {
+      "date_display": "Jun 28",
+      "opp_abbr": "HOU",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 9,
+      "pitches": 94,
+      "strikes": 57
+    },
+    {
+      "date_display": "Jun 12",
+      "opp_abbr": "CLE",
+      "is_home": false,
+      "ip": "3.0",
+      "h": 3,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 1,
+      "pitches": 63,
+      "strikes": 39
+    }
+  ]
+}

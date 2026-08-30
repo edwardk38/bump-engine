@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "642547",
+  "name_display": "F. Peralta",
+  "name_full": "Freddy Peralta",
+  "throws": "RHP",
+  "team_abbr": "TB",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.11,
+      "percentile": 18,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.49,
+      "percentile": 52,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 141.0,
+      "percentile": 70,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 133,
+      "percentile": 72,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 54,
+      "percentile": 30,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.45,
+      "percentile": 30,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 22,
+      "percentile": 27,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.51,
+      "percentile": 33,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.265,
+      "ab": 362
+    },
+    "vs_rhb": {
+      "avg": 0.254,
+      "ab": 193
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 26",
+      "opp_abbr": "DET",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 4,
+      "pitches": 81,
+      "strikes": 50
+    },
+    {
+      "date_display": "Aug 21",
+      "opp_abbr": "BAL",
+      "is_home": false,
+      "ip": "7.0",
+      "h": 7,
+      "er": 5,
+      "hr": 2,
+      "bb": 1,
+      "so": 6,
+      "pitches": 98,
+      "strikes": 63
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "4.2",
+      "h": 1,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 2,
+      "pitches": 76,
+      "strikes": 40
+    },
+    {
+      "date_display": "Aug 10",
+      "opp_abbr": "ATH",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 1,
+      "bb": 1,
+      "so": 5,
+      "pitches": 98,
+      "strikes": 66
+    },
+    {
+      "date_display": "Aug 4",
+      "opp_abbr": "COL",
+      "is_home": false,
+      "ip": "3.2",
+      "h": 9,
+      "er": 7,
+      "hr": 2,
+      "bb": 1,
+      "so": 3,
+      "pitches": 71,
+      "strikes": 47
+    }
+  ]
+}

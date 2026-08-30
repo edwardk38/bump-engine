@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "677960",
+  "name_display": "R. Weathers",
+  "name_full": "Ryan Weathers",
+  "throws": "LHP",
+  "team_abbr": "NYY",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 9.37 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 1.61 ERA over his last 4 (4 ER in 22.1 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.6,
+      "percentile": 63,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.37,
+      "percentile": 74,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 137.1,
+      "percentile": 64,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 143,
+      "percentile": 81,
+      "league": "AL",
+      "league_rank": 13,
+      "mlb_rank": 28
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 38,
+      "percentile": 72,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.49,
+      "percentile": 72,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 18,
+      "percentile": 47,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.59,
+      "percentile": 73,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.276,
+      "ab": 127
+    },
+    "vs_rhb": {
+      "avg": 0.24,
+      "ab": 396
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "3.1",
+      "h": 8,
+      "er": 2,
+      "hr": 0,
+      "bb": 0,
+      "so": 3,
+      "pitches": 72,
+      "strikes": 51
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "TOR",
+      "is_home": false,
+      "ip": "7.1",
+      "h": 6,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 4,
+      "pitches": 95,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "SEA",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 2,
+      "er": 1,
+      "hr": 1,
+      "bb": 3,
+      "so": 4,
+      "pitches": 106,
+      "strikes": 62
+    },
+    {
+      "date_display": "Aug 4",
+      "opp_abbr": "STL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 6,
+      "pitches": 88,
+      "strikes": 56
+    },
+    {
+      "date_display": "Jul 30",
+      "opp_abbr": "CWS",
+      "is_home": false,
+      "ip": "7.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 4,
+      "pitches": 106,
+      "strikes": 62
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "681347",
+  "name_display": "M. Burrows",
+  "name_full": "Mike Burrows",
+  "throws": "RHP",
+  "team_abbr": "HOU",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.99,
+      "percentile": 4,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.13,
+      "percentile": 25,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 94.2,
+      "percentile": 19,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 75,
+      "percentile": 13,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 35,
+      "percentile": 35,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.33,
+      "percentile": 35,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 21,
+      "percentile": 4,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.61,
+      "percentile": 4,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.319,
+      "ab": 216
+    },
+    "vs_rhb": {
+      "avg": 0.256,
+      "ab": 168
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jul 6",
+      "opp_abbr": "WSH",
+      "is_home": false,
+      "ip": "4.1",
+      "h": 9,
+      "er": 7,
+      "hr": 2,
+      "bb": 2,
+      "so": 3,
+      "pitches": 83,
+      "strikes": 56
+    },
+    {
+      "date_display": "Jun 30",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 6,
+      "er": 4,
+      "hr": 0,
+      "bb": 2,
+      "so": 3,
+      "pitches": 90,
+      "strikes": 58
+    },
+    {
+      "date_display": "Jun 24",
+      "opp_abbr": "TOR",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 2,
+      "er": 1,
+      "hr": 1,
+      "bb": 1,
+      "so": 3,
+      "pitches": 93,
+      "strikes": 61
+    },
+    {
+      "date_display": "Jun 13",
+      "opp_abbr": "KC",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 7,
+      "er": 4,
+      "hr": 1,
+      "bb": 2,
+      "so": 5,
+      "pitches": 92,
+      "strikes": 58
+    },
+    {
+      "date_display": "Jun 7",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 8,
+      "er": 4,
+      "hr": 2,
+      "bb": 2,
+      "so": 3,
+      "pitches": 97,
+      "strikes": 60
+    }
+  ]
+}

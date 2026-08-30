@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "669022",
+  "name_display": "M. Gore",
+  "name_full": "MacKenzie Gore",
+  "throws": "LHP",
+  "team_abbr": "TEX",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 9.94 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Team has won 7 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.4,
+      "percentile": 37,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.94,
+      "percentile": 84,
+      "league": "AL",
+      "league_rank": 9,
+      "mlb_rank": 24
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 149.1,
+      "percentile": 83,
+      "league": "AL",
+      "league_rank": 14,
+      "mlb_rank": 25
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 165,
+      "percentile": 91,
+      "league": "AL",
+      "league_rank": 6,
+      "mlb_rank": 13
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 56,
+      "percentile": 32,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.38,
+      "percentile": 32,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 18,
+      "percentile": 56,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.7,
+      "percentile": 66,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.248,
+      "ab": 141
+    },
+    "vs_rhb": {
+      "avg": 0.233,
+      "ab": 430
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 26",
+      "opp_abbr": "CWS",
+      "is_home": false,
+      "ip": "3.2",
+      "h": 8,
+      "er": 4,
+      "hr": 0,
+      "bb": 4,
+      "so": 4,
+      "pitches": 83,
+      "strikes": 45
+    },
+    {
+      "date_display": "Aug 21",
+      "opp_abbr": "LAA",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 7,
+      "pitches": 100,
+      "strikes": 64
+    },
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "ATH",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 8,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 5,
+      "pitches": 99,
+      "strikes": 61
+    },
+    {
+      "date_display": "Aug 10",
+      "opp_abbr": "LAA",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 2,
+      "so": 9,
+      "pitches": 103,
+      "strikes": 65
+    },
+    {
+      "date_display": "Aug 4",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 4,
+      "pitches": 99,
+      "strikes": 62
+    }
+  ]
+}

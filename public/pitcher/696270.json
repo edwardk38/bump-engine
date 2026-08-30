@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "696270",
+  "name_display": "R. Johnson",
+  "name_full": "Ryan Johnson",
+  "throws": "RHP",
+  "team_abbr": "LAA",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rolling \u2014 1.66 ERA over his last 4 (4 ER in 21.2 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.47,
+      "percentile": 10,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.47,
+      "percentile": 12,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 72.1,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 52,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 36,
+      "percentile": 6,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.48,
+      "percentile": 6,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 16,
+      "percentile": 4,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 6.17,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.238,
+      "ab": 160
+    },
+    "vs_rhb": {
+      "avg": 0.257,
+      "ab": 113
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "PHI",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 2,
+      "er": 1,
+      "hr": 0,
+      "bb": 5,
+      "so": 2,
+      "pitches": 88,
+      "strikes": 48
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "TEX",
+      "is_home": false,
+      "ip": "7.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 3,
+      "pitches": 88,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "KC",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 5,
+      "er": 2,
+      "hr": 2,
+      "bb": 2,
+      "so": 4,
+      "pitches": 85,
+      "strikes": 53
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "TEX",
+      "is_home": true,
+      "ip": "4.1",
+      "h": 3,
+      "er": 1,
+      "hr": 1,
+      "bb": 2,
+      "so": 5,
+      "pitches": 84,
+      "strikes": 54
+    },
+    {
+      "date_display": "Aug 6",
+      "opp_abbr": "BAL",
+      "is_home": false,
+      "ip": "4.2",
+      "h": 3,
+      "er": 1,
+      "hr": 1,
+      "bb": 5,
+      "so": 1,
+      "pitches": 78,
+      "strikes": 37
+    }
+  ]
+}

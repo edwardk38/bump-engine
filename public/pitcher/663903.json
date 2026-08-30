@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "663903",
+  "name_display": "B. Singer",
+  "name_full": "Brady Singer",
+  "throws": "RHP",
+  "team_abbr": "CIN",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .220 against (191 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.72,
+      "percentile": 26,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.34,
+      "percentile": 30,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 137.1,
+      "percentile": 64,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 112,
+      "percentile": 52,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 45,
+      "percentile": 48,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.95,
+      "percentile": 48,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 26,
+      "percentile": 11,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.17,
+      "percentile": 10,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.303,
+      "ab": 357
+    },
+    "vs_rhb": {
+      "avg": 0.22,
+      "ab": 191
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 25",
+      "opp_abbr": "SF",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 6,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 5,
+      "pitches": 91,
+      "strikes": 55
+    },
+    {
+      "date_display": "Aug 20",
+      "opp_abbr": "STL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 5,
+      "er": 4,
+      "hr": 1,
+      "bb": 1,
+      "so": 3,
+      "pitches": 103,
+      "strikes": 66
+    },
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "MIA",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 8,
+      "er": 3,
+      "hr": 2,
+      "bb": 2,
+      "so": 4,
+      "pitches": 93,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 9",
+      "opp_abbr": "WSH",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 8,
+      "er": 3,
+      "hr": 1,
+      "bb": 1,
+      "so": 3,
+      "pitches": 103,
+      "strikes": 71
+    },
+    {
+      "date_display": "Aug 4",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 5,
+      "er": 3,
+      "hr": 0,
+      "bb": 3,
+      "so": 6,
+      "pitches": 101,
+      "strikes": 59
+    }
+  ]
+}

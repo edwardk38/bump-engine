@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "656605",
+  "name_display": "M. Keller",
+  "name_full": "Mitch Keller",
+  "throws": "RHP",
+  "team_abbr": "PIT",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 6.57 ERA over his last three (9 ER in 12.1 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .205 against (161 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.29,
+      "percentile": 13,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.93,
+      "percentile": 17,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 115.2,
+      "percentile": 38,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 89,
+      "percentile": 27,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 42,
+      "percentile": 36,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.27,
+      "percentile": 36,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 15,
+      "percentile": 49,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.52,
+      "percentile": 31,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.29,
+      "ab": 290
+    },
+    "vs_rhb": {
+      "avg": 0.205,
+      "ab": 161
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 2",
+      "opp_abbr": "CIN",
+      "is_home": false,
+      "ip": "2.0",
+      "h": 6,
+      "er": 7,
+      "hr": 2,
+      "bb": 4,
+      "so": 2,
+      "pitches": 69,
+      "strikes": 34
+    },
+    {
+      "date_display": "Jul 27",
+      "opp_abbr": "AZ",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 6,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 4,
+      "pitches": 83,
+      "strikes": 53
+    },
+    {
+      "date_display": "Jul 22",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 6,
+      "pitches": 75,
+      "strikes": 47
+    },
+    {
+      "date_display": "Jul 9",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 4,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 3,
+      "pitches": 72,
+      "strikes": 46
+    },
+    {
+      "date_display": "Jul 3",
+      "opp_abbr": "WSH",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 8,
+      "er": 5,
+      "hr": 3,
+      "bb": 0,
+      "so": 1,
+      "pitches": 83,
+      "strikes": 56
+    }
+  ]
+}

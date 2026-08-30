@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "701542",
+  "name_display": "W. Warren",
+  "name_full": "Will Warren",
+  "throws": "RHP",
+  "team_abbr": "NYY",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 5.89 ERA over his last four (12 ER in 18.1 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.39,
+      "percentile": 37,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.93,
+      "percentile": 65,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 127.0,
+      "percentile": 54,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 126,
+      "percentile": 67,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 45,
+      "percentile": 38,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.19,
+      "percentile": 38,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 20,
+      "percentile": 26,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.3,
+      "percentile": 39,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.278,
+      "ab": 281
+    },
+    "vs_rhb": {
+      "avg": 0.259,
+      "ab": 220
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 25",
+      "opp_abbr": "HOU",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 7,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 4,
+      "pitches": 97,
+      "strikes": 56
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "BAL",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 3,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 5,
+      "pitches": 90,
+      "strikes": 52
+    },
+    {
+      "date_display": "Aug 12",
+      "opp_abbr": "SEA",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 6,
+      "er": 5,
+      "hr": 3,
+      "bb": 4,
+      "so": 3,
+      "pitches": 81,
+      "strikes": 51
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "STL",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 7,
+      "er": 3,
+      "hr": 0,
+      "bb": 1,
+      "so": 5,
+      "pitches": 91,
+      "strikes": 56
+    },
+    {
+      "date_display": "Jul 31",
+      "opp_abbr": "CHC",
+      "is_home": false,
+      "ip": "6.2",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 7,
+      "pitches": 88,
+      "strikes": 55
+    }
+  ]
+}

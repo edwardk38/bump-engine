@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "801139",
+  "name_display": "P. Tolle",
+  "name_full": "Payton Tolle",
+  "throws": "LHP",
+  "team_abbr": "BOS",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 10.13 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 2.22 ERA over his last 4 (6 ER in 24.1 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.09,
+      "percentile": 84,
+      "league": "AL",
+      "league_rank": 10,
+      "mlb_rank": 24
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.13,
+      "percentile": 86,
+      "league": "AL",
+      "league_rank": 7,
+      "mlb_rank": 21
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 125.1,
+      "percentile": 50,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 141,
+      "percentile": 78,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 35,
+      "percentile": 71,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.51,
+      "percentile": 71,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 14,
+      "percentile": 62,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.19,
+      "percentile": 87,
+      "league": "AL",
+      "league_rank": 10,
+      "mlb_rank": 19
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.261,
+      "ab": 134
+    },
+    "vs_rhb": {
+      "avg": 0.2,
+      "ab": 330
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 25",
+      "opp_abbr": "MIA",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 4,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 7,
+      "pitches": 97,
+      "strikes": 62
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "AZ",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 6,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 6,
+      "pitches": 98,
+      "strikes": 68
+    },
+    {
+      "date_display": "Aug 13",
+      "opp_abbr": "TOR",
+      "is_home": false,
+      "ip": "8.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 91,
+      "strikes": 61
+    },
+    {
+      "date_display": "Aug 7",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 2,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 14,
+      "pitches": 84,
+      "strikes": 61
+    },
+    {
+      "date_display": "Aug 1",
+      "opp_abbr": "LAD",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 9,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 7,
+      "pitches": 88,
+      "strikes": 63
+    }
+  ]
+}

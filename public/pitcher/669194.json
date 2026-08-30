@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "669194",
+  "name_display": "R. Nelson",
+  "name_full": "Ryne Nelson",
+  "throws": "RHP",
+  "team_abbr": "AZ",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.97,
+      "percentile": 22,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.7,
+      "percentile": 15,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 83.1,
+      "percentile": 11,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 62,
+      "percentile": 4,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 22,
+      "percentile": 77,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.38,
+      "percentile": 77,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 18,
+      "percentile": 5,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.37,
+      "percentile": 7,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.229,
+      "ab": 170
+    },
+    "vs_rhb": {
+      "avg": 0.271,
+      "ab": 155
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jun 15",
+      "opp_abbr": "LAA",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 9,
+      "er": 2,
+      "hr": 1,
+      "bb": 0,
+      "so": 5,
+      "pitches": 95,
+      "strikes": 68
+    },
+    {
+      "date_display": "Jun 10",
+      "opp_abbr": "MIA",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 8,
+      "er": 7,
+      "hr": 2,
+      "bb": 1,
+      "so": 2,
+      "pitches": 82,
+      "strikes": 53
+    },
+    {
+      "date_display": "Jun 4",
+      "opp_abbr": "LAD",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 5,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 3,
+      "pitches": 94,
+      "strikes": 62
+    },
+    {
+      "date_display": "May 30",
+      "opp_abbr": "SEA",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 7,
+      "er": 4,
+      "hr": 4,
+      "bb": 0,
+      "so": 3,
+      "pitches": 99,
+      "strikes": 67
+    },
+    {
+      "date_display": "May 24",
+      "opp_abbr": "COL",
+      "is_home": true,
+      "ip": "8.0",
+      "h": 6,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 3,
+      "pitches": 103,
+      "strikes": 69
+    }
+  ]
+}

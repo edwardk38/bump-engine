@@ -20,9 +20,9 @@
           "throws": "RHP",
           "team_abbr": "MIA",
           "stats": {
-            "era": 4.21,
-            "k_per_9": 6.22,
-            "ip": 98.1
+            "era": 4.05,
+            "k_per_9": 6.16,
+            "ip": 102.1
           },
           "form_tag": "hot",
           "read": "Tough on right-handed bats \u2014 .211 against (142 AB)."
@@ -35,12 +35,12 @@
           "throws": "LHP",
           "team_abbr": "WSH",
           "stats": {
-            "era": 3.72,
-            "k_per_9": 8.5,
-            "ip": 84.2
+            "era": 3.51,
+            "k_per_9": 8.53,
+            "ip": 89.2
           },
           "form_tag": "steady",
-          "read": "3.72 ERA with 8.5 K/9 over 84.2 innings this season."
+          "read": "3.51 ERA with 8.53 K/9 over 89.2 innings this season."
         }
       }
     },

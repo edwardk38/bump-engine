@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "686613",
+  "name_display": "H. Brown",
+  "name_full": "Hunter Brown",
+  "throws": "RHP",
+  "team_abbr": "HOU",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 9.56 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .217 against (161 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.33,
+      "percentile": 75,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.56,
+      "percentile": 76,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 81.0,
+      "percentile": 9,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 86,
+      "percentile": 24,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 44,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.89,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 10,
+      "percentile": 53,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.33,
+      "percentile": 38,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.217,
+      "ab": 161
+    },
+    "vs_rhb": {
+      "avg": 0.2,
+      "ab": 130
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "NYM",
+      "is_home": false,
+      "ip": "6.2",
+      "h": 5,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 10,
+      "pitches": 102,
+      "strikes": 65
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 7,
+      "er": 1,
+      "hr": 1,
+      "bb": 3,
+      "so": 4,
+      "pitches": 101,
+      "strikes": 66
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "SEA",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 3,
+      "er": 2,
+      "hr": 1,
+      "bb": 5,
+      "so": 5,
+      "pitches": 90,
+      "strikes": 50
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "SF",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 5,
+      "er": 3,
+      "hr": 1,
+      "bb": 3,
+      "so": 4,
+      "pitches": 89,
+      "strikes": 56
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 3,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 8,
+      "pitches": 93,
+      "strikes": 54
+    }
+  ]
+}

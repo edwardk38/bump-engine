@@ -1,0 +1,114 @@
+{
+  "pitcher_id": "663855",
+  "name_display": "J. Hicks",
+  "name_full": "Jordan Hicks",
+  "throws": "RHP",
+  "team_abbr": "CWS",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Misses bats \u2014 11.03 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.83,
+      "percentile": 54,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 11.03,
+      "percentile": 95,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 40.0,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 49,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 25,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 5.63,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 3,
+      "percentile": 90,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.55,
+      "percentile": 75,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.232,
+      "ab": 56
+    },
+    "vs_rhb": {
+      "avg": 0.242,
+      "ab": 95
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 1",
+      "opp_abbr": "TB",
+      "is_home": false,
+      "ip": "1.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 1,
+      "pitches": 8,
+      "strikes": 7
+    }
+  ]
+}

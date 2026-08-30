@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "641816",
+  "name_display": "T. Mahle",
+  "name_full": "Tyler Mahle",
+  "throws": "RHP",
+  "team_abbr": "ATL",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 1.52 ERA over his last 4 (4 ER in 23.2 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.41,
+      "percentile": 36,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.52,
+      "percentile": 53,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 118.1,
+      "percentile": 41,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 112,
+      "percentile": 52,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 42,
+      "percentile": 38,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.19,
+      "percentile": 38,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 16,
+      "percentile": 43,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.08,
+      "percentile": 48,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.225,
+      "ab": 244
+    },
+    "vs_rhb": {
+      "avg": 0.294,
+      "ab": 201
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "MIL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 6,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 94,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 18",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "6.2",
+      "h": 6,
+      "er": 2,
+      "hr": 1,
+      "bb": 1,
+      "so": 3,
+      "pitches": 76,
+      "strikes": 58
+    },
+    {
+      "date_display": "Aug 12",
+      "opp_abbr": "NYM",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 7,
+      "pitches": 93,
+      "strikes": 58
+    },
+    {
+      "date_display": "Aug 7",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 9,
+      "pitches": 92,
+      "strikes": 56
+    },
+    {
+      "date_display": "Aug 1",
+      "opp_abbr": "SD",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 5,
+      "er": 5,
+      "hr": 1,
+      "bb": 2,
+      "so": 9,
+      "pitches": 99,
+      "strikes": 60
+    }
+  ]
+}

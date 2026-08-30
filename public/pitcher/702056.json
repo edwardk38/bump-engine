@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "702056",
+  "name_display": "T. Yesavage",
+  "name_full": "Trey Yesavage",
+  "throws": "RHP",
+  "team_abbr": "TOR",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .191 against (188 AB).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .176 against (142 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.65,
+      "percentile": 61,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.74,
+      "percentile": 59,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 93.2,
+      "percentile": 17,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 91,
+      "percentile": 29,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 46,
+      "percentile": 7,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.42,
+      "percentile": 7,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 10,
+      "percentile": 66,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.06,
+      "percentile": 50,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.191,
+      "ab": 188
+    },
+    "vs_rhb": {
+      "avg": 0.176,
+      "ab": 142
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 4",
+      "opp_abbr": "HOU",
+      "is_home": false,
+      "ip": "2.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 0,
+      "pitches": 27,
+      "strikes": 16
+    },
+    {
+      "date_display": "Jul 29",
+      "opp_abbr": "WSH",
+      "is_home": false,
+      "ip": "6.2",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 4,
+      "pitches": 97,
+      "strikes": 57
+    },
+    {
+      "date_display": "Jul 24",
+      "opp_abbr": "BOS",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 5,
+      "er": 3,
+      "hr": 2,
+      "bb": 1,
+      "so": 9,
+      "pitches": 93,
+      "strikes": 63
+    },
+    {
+      "date_display": "Jul 19",
+      "opp_abbr": "CWS",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 5,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 9,
+      "pitches": 95,
+      "strikes": 69
+    },
+    {
+      "date_display": "Jul 11",
+      "opp_abbr": "SD",
+      "is_home": false,
+      "ip": "1.2",
+      "h": 1,
+      "er": 4,
+      "hr": 0,
+      "bb": 7,
+      "so": 1,
+      "pitches": 59,
+      "strikes": 20
+    }
+  ]
+}

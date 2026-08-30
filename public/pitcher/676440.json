@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "676440",
+  "name_display": "T. Bibee",
+  "name_full": "Tanner Bibee",
+  "throws": "RHP",
+  "team_abbr": "CLE",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Going deep \u2014 6+ innings in 5 of his last 6 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.88,
+      "percentile": 53,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.1,
+      "percentile": 22,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 162.1,
+      "percentile": 96,
+      "league": "AL",
+      "league_rank": 3,
+      "mlb_rank": 6
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 128,
+      "percentile": 69,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 46,
+      "percentile": 69,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.55,
+      "percentile": 69,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 26,
+      "percentile": 24,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.54,
+      "percentile": 29,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.231,
+      "ab": 346
+    },
+    "vs_rhb": {
+      "avg": 0.238,
+      "ab": 260
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "KC",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 7,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 93,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "COL",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 5,
+      "er": 2,
+      "hr": 1,
+      "bb": 1,
+      "so": 6,
+      "pitches": 96,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "SD",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 7,
+      "er": 3,
+      "hr": 2,
+      "bb": 3,
+      "so": 3,
+      "pitches": 96,
+      "strikes": 63
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "DET",
+      "is_home": false,
+      "ip": "6.1",
+      "h": 5,
+      "er": 5,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 96,
+      "strikes": 62
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "NYM",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 4,
+      "er": 3,
+      "hr": 3,
+      "bb": 0,
+      "so": 10,
+      "pitches": 98,
+      "strikes": 72
+    }
+  ]
+}

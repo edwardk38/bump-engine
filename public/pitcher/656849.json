@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "656849",
+  "name_display": "D. Peterson",
+  "name_full": "David Peterson",
+  "throws": "LHP",
+  "team_abbr": "CHC",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.11,
+      "percentile": 18,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.95,
+      "percentile": 43,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 123.1,
+      "percentile": 46,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 109,
+      "percentile": 48,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 52,
+      "percentile": 21,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.79,
+      "percentile": 21,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 13,
+      "percentile": 68,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.04,
+      "percentile": 51,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.239,
+      "ab": 155
+    },
+    "vs_rhb": {
+      "avg": 0.289,
+      "ab": 339
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "CIN",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 6,
+      "er": 2,
+      "hr": 1,
+      "bb": 3,
+      "so": 6,
+      "pitches": 88,
+      "strikes": 54
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "SEA",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 4,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 8,
+      "pitches": 98,
+      "strikes": 62
+    },
+    {
+      "date_display": "Aug 12",
+      "opp_abbr": "WSH",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 9,
+      "er": 3,
+      "hr": 0,
+      "bb": 3,
+      "so": 6,
+      "pitches": 90,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 6",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 7,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 3,
+      "pitches": 89,
+      "strikes": 53
+    },
+    {
+      "date_display": "Aug 1",
+      "opp_abbr": "NYY",
+      "is_home": true,
+      "ip": "6.1",
+      "h": 5,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 8,
+      "pitches": 97,
+      "strikes": 66
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "656302",
+  "name_display": "D. Cease",
+  "name_full": "Dylan Cease",
+  "throws": "RHP",
+  "team_abbr": "TOR",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 10 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 10 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 12.99 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 2.62 ERA over his last 4 (7 ER in 24.0 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 2.33,
+      "percentile": 96,
+      "league": "AL",
+      "league_rank": 3,
+      "mlb_rank": 7
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 12.99,
+      "percentile": 99,
+      "league": "AL",
+      "league_rank": 1,
+      "mlb_rank": 2
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 150.1,
+      "percentile": 84,
+      "league": "AL",
+      "league_rank": 12,
+      "mlb_rank": 23
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 217,
+      "percentile": 99,
+      "league": "AL",
+      "league_rank": 1,
+      "mlb_rank": 2
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 65,
+      "percentile": 16,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.89,
+      "percentile": 16,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 10,
+      "percentile": 94,
+      "league": "AL",
+      "league_rank": 4,
+      "mlb_rank": 9
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 2.41,
+      "percentile": 98,
+      "league": "AL",
+      "league_rank": 1,
+      "mlb_rank": 3
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.161,
+      "ab": 299
+    },
+    "vs_rhb": {
+      "avg": 0.196,
+      "ab": 230
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "SEA",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 1,
+      "so": 8,
+      "pitches": 92,
+      "strikes": 56
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "6.2",
+      "h": 2,
+      "er": 1,
+      "hr": 0,
+      "bb": 5,
+      "so": 8,
+      "pitches": 111,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "NYY",
+      "is_home": true,
+      "ip": "6.1",
+      "h": 2,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 10,
+      "pitches": 104,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "BOS",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 5,
+      "er": 3,
+      "hr": 2,
+      "bb": 4,
+      "so": 7,
+      "pitches": 104,
+      "strikes": 63
+    },
+    {
+      "date_display": "Aug 6",
+      "opp_abbr": "CHC",
+      "is_home": false,
+      "ip": "7.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 10,
+      "pitches": 104,
+      "strikes": 66
+    }
+  ]
+}

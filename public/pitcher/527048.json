@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "527048",
+  "name_display": "M. P\u00e9rez",
+  "name_full": "Mart\u00edn P\u00e9rez",
+  "throws": "LHP",
+  "team_abbr": "ATL",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rolling \u2014 2.61 ERA over his last 4 (6 ER in 20.2 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .212 against (307 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.05,
+      "percentile": 85,
+      "league": "NL",
+      "league_rank": 13,
+      "mlb_rank": 22
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.77,
+      "percentile": 16,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 121.0,
+      "percentile": 43,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 91,
+      "percentile": 29,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 50,
+      "percentile": 23,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.72,
+      "percentile": 23,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 12,
+      "percentile": 77,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.17,
+      "percentile": 45,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.241,
+      "ab": 133
+    },
+    "vs_rhb": {
+      "avg": 0.212,
+      "ab": 307
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "COL",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 5,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 6,
+      "pitches": 83,
+      "strikes": 52
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "MIL",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 3,
+      "so": 2,
+      "pitches": 97,
+      "strikes": 58
+    },
+    {
+      "date_display": "Aug 17",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 9,
+      "er": 4,
+      "hr": 0,
+      "bb": 2,
+      "so": 3,
+      "pitches": 82,
+      "strikes": 51
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "NYM",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 2,
+      "pitches": 82,
+      "strikes": 49
+    },
+    {
+      "date_display": "Aug 6",
+      "opp_abbr": "MIA",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 3,
+      "pitches": 35,
+      "strikes": 22
+    }
+  ]
+}

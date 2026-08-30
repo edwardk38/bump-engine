@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "594798",
+  "name_display": "J. deGrom",
+  "name_full": "Jacob deGrom",
+  "throws": "RHP",
+  "team_abbr": "TEX",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 5.94 ERA over his last four (11 ER in 16.2 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 10.98 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .215 against (298 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.21,
+      "percentile": 43,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.98,
+      "percentile": 95,
+      "league": "AL",
+      "league_rank": 4,
+      "mlb_rank": 8
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 130.1,
+      "percentile": 58,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 159,
+      "percentile": 88,
+      "league": "AL",
+      "league_rank": 9,
+      "mlb_rank": 18
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 37,
+      "percentile": 69,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.55,
+      "percentile": 69,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 17,
+      "percentile": 49,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.18,
+      "percentile": 88,
+      "league": "AL",
+      "league_rank": 8,
+      "mlb_rank": 17
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.215,
+      "ab": 298
+    },
+    "vs_rhb": {
+      "avg": 0.261,
+      "ab": 203
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 25",
+      "opp_abbr": "CWS",
+      "is_home": false,
+      "ip": "3.2",
+      "h": 6,
+      "er": 8,
+      "hr": 0,
+      "bb": 5,
+      "so": 2,
+      "pitches": 87,
+      "strikes": 45
+    },
+    {
+      "date_display": "Aug 20",
+      "opp_abbr": "WSH",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 10,
+      "pitches": 94,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 13",
+      "opp_abbr": "LAA",
+      "is_home": false,
+      "ip": "2.0",
+      "h": 6,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 3,
+      "pitches": 53,
+      "strikes": 35
+    },
+    {
+      "date_display": "Aug 8",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 3,
+      "er": 1,
+      "hr": 1,
+      "bb": 1,
+      "so": 9,
+      "pitches": 88,
+      "strikes": 55
+    },
+    {
+      "date_display": "Aug 1",
+      "opp_abbr": "HOU",
+      "is_home": false,
+      "ip": "3.1",
+      "h": 7,
+      "er": 5,
+      "hr": 0,
+      "bb": 5,
+      "so": 3,
+      "pitches": 91,
+      "strikes": 52
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "687562",
+  "name_display": "J. Bennett",
+  "name_full": "Jake Bennett",
+  "throws": "LHP",
+  "team_abbr": "BOS",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Team has won 7 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .176 against (91 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.27,
+      "percentile": 77,
+      "league": "AL",
+      "league_rank": 15,
+      "mlb_rank": 34
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.11,
+      "percentile": 23,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 93.2,
+      "percentile": 17,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 74,
+      "percentile": 11,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 18,
+      "percentile": 97,
+      "league": "AL",
+      "league_rank": 3,
+      "mlb_rank": 5
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 1.73,
+      "percentile": 97,
+      "league": "AL",
+      "league_rank": 3,
+      "mlb_rank": 5
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 7,
+      "percentile": 91,
+      "league": "AL",
+      "league_rank": 6,
+      "mlb_rank": 13
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.14,
+      "percentile": 89,
+      "league": "AL",
+      "league_rank": 7,
+      "mlb_rank": 16
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.176,
+      "ab": 91
+    },
+    "vs_rhb": {
+      "avg": 0.247,
+      "ab": 255
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 7,
+      "pitches": 83,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 7,
+      "er": 3,
+      "hr": 1,
+      "bb": 1,
+      "so": 6,
+      "pitches": 84,
+      "strikes": 65
+    },
+    {
+      "date_display": "Aug 14",
+      "opp_abbr": "PIT",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 5,
+      "er": 4,
+      "hr": 1,
+      "bb": 1,
+      "so": 6,
+      "pitches": 82,
+      "strikes": 52
+    },
+    {
+      "date_display": "Aug 8",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 5,
+      "er": 4,
+      "hr": 0,
+      "bb": 3,
+      "so": 5,
+      "pitches": 88,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 2",
+      "opp_abbr": "LAD",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 6,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 88,
+      "strikes": 52
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "672282",
+  "name_display": "R. Detmers",
+  "name_full": "Reid Detmers",
+  "throws": "LHP",
+  "team_abbr": "LAA",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 10 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 10.1 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 0.69 ERA over his last 4 (2 ER in 26.0 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.54,
+      "percentile": 66,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.1,
+      "percentile": 85,
+      "league": "AL",
+      "league_rank": 8,
+      "mlb_rank": 22
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 155.0,
+      "percentile": 89,
+      "league": "AL",
+      "league_rank": 7,
+      "mlb_rank": 16
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 174,
+      "percentile": 93,
+      "league": "AL",
+      "league_rank": 4,
+      "mlb_rank": 10
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 44,
+      "percentile": 69,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.55,
+      "percentile": 69,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 17,
+      "percentile": 64,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.18,
+      "percentile": 88,
+      "league": "AL",
+      "league_rank": 8,
+      "mlb_rank": 17
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.232,
+      "ab": 151
+    },
+    "vs_rhb": {
+      "avg": 0.209,
+      "ab": 417
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "PHI",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 8,
+      "er": 1,
+      "hr": 0,
+      "bb": 0,
+      "so": 2,
+      "pitches": 86,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 21",
+      "opp_abbr": "TEX",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 6,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 5,
+      "pitches": 89,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "KC",
+      "is_home": true,
+      "ip": "8.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 11,
+      "pitches": 92,
+      "strikes": 68
+    },
+    {
+      "date_display": "Aug 10",
+      "opp_abbr": "TEX",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 4,
+      "so": 6,
+      "pitches": 88,
+      "strikes": 55
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "BAL",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 4,
+      "er": 3,
+      "hr": 2,
+      "bb": 1,
+      "so": 5,
+      "pitches": 81,
+      "strikes": 50
+    }
+  ]
+}

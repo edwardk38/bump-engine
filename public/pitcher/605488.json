@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "605488",
+  "name_display": "J. Springs",
+  "name_full": "Jeffrey Springs",
+  "throws": "LHP",
+  "team_abbr": "ATH",
+  "form_tag": "cold",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 6.89 ERA over his last four (12 ER in 15.2 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 6.08,
+      "percentile": 3,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.0,
+      "percentile": 20,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 118.1,
+      "percentile": 41,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 92,
+      "percentile": 31,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 49,
+      "percentile": 22,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.73,
+      "percentile": 22,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 30,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 6.13,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.273,
+      "ab": 132
+    },
+    "vs_rhb": {
+      "avg": 0.273,
+      "ab": 337
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 24",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "4.2",
+      "h": 7,
+      "er": 4,
+      "hr": 1,
+      "bb": 2,
+      "so": 3,
+      "pitches": 89,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "KC",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 5,
+      "er": 2,
+      "hr": 1,
+      "bb": 3,
+      "so": 1,
+      "pitches": 85,
+      "strikes": 52
+    },
+    {
+      "date_display": "Jul 31",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 4,
+      "er": 2,
+      "hr": 1,
+      "bb": 5,
+      "so": 2,
+      "pitches": 86,
+      "strikes": 44
+    },
+    {
+      "date_display": "Jul 26",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "1.1",
+      "h": 4,
+      "er": 4,
+      "hr": 0,
+      "bb": 1,
+      "so": 0,
+      "pitches": 36,
+      "strikes": 23
+    },
+    {
+      "date_display": "Jul 20",
+      "opp_abbr": "AZ",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 6,
+      "er": 2,
+      "hr": 1,
+      "bb": 1,
+      "so": 2,
+      "pitches": 78,
+      "strikes": 50
+    }
+  ]
+}

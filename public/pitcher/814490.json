@@ -1,0 +1,127 @@
+{
+  "pitcher_id": "814490",
+  "name_display": "E. Pecko",
+  "name_full": "Ethan Pecko",
+  "throws": "RHP",
+  "team_abbr": "HOU",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "7.88 ERA with 5.63 K/9 over 8.0 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 7.88,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 5.63,
+      "percentile": 3,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 8.0,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 5,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 7,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 7.88,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 2,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 8.07,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.263,
+      "ab": 19
+    },
+    "vs_rhb": {
+      "avg": 0.25,
+      "ab": 12
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 25",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "4.1",
+      "h": 5,
+      "er": 5,
+      "hr": 2,
+      "bb": 4,
+      "so": 1,
+      "pitches": 88,
+      "strikes": 48
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "LAA",
+      "is_home": true,
+      "ip": "3.2",
+      "h": 3,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 4,
+      "pitches": 89,
+      "strikes": 49
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "669432",
+  "name_display": "T. Rogers",
+  "name_full": "Trevor Rogers",
+  "throws": "LHP",
+  "team_abbr": "BAL",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Team has won 7 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .187 against (134 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.38,
+      "percentile": 38,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.91,
+      "percentile": 41,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 137.2,
+      "percentile": 65,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 121,
+      "percentile": 63,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 37,
+      "percentile": 75,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.42,
+      "percentile": 75,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 16,
+      "percentile": 58,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.7,
+      "percentile": 66,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.187,
+      "ab": 134
+    },
+    "vs_rhb": {
+      "avg": 0.276,
+      "ab": 399
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 27",
+      "opp_abbr": "STL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 7,
+      "er": 6,
+      "hr": 2,
+      "bb": 1,
+      "so": 7,
+      "pitches": 86,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 21",
+      "opp_abbr": "TB",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 6,
+      "er": 3,
+      "hr": 1,
+      "bb": 1,
+      "so": 6,
+      "pitches": 103,
+      "strikes": 75
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "TB",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 7,
+      "er": 2,
+      "hr": 1,
+      "bb": 1,
+      "so": 6,
+      "pitches": 98,
+      "strikes": 73
+    },
+    {
+      "date_display": "Aug 10",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 4,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 4,
+      "pitches": 79,
+      "strikes": 45
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "LAA",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 3,
+      "er": 2,
+      "hr": 1,
+      "bb": 0,
+      "so": 9,
+      "pitches": 93,
+      "strikes": 62
+    }
+  ]
+}

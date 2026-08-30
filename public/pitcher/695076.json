@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "695076",
+  "name_display": "R. Lowder",
+  "name_full": "Rhett Lowder",
+  "throws": "RHP",
+  "team_abbr": "CIN",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.14,
+      "percentile": 17,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.07,
+      "percentile": 21,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 112.0,
+      "percentile": 36,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 88,
+      "percentile": 26,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 43,
+      "percentile": 29,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.46,
+      "percentile": 29,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 16,
+      "percentile": 37,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.62,
+      "percentile": 24,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.257,
+      "ab": 268
+    },
+    "vs_rhb": {
+      "avg": 0.283,
+      "ab": 180
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "CHC",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 6,
+      "er": 3,
+      "hr": 1,
+      "bb": 0,
+      "so": 5,
+      "pitches": 96,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "AZ",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 2,
+      "bb": 1,
+      "so": 1,
+      "pitches": 92,
+      "strikes": 63
+    },
+    {
+      "date_display": "Aug 17",
+      "opp_abbr": "STL",
+      "is_home": true,
+      "ip": "6.2",
+      "h": 8,
+      "er": 4,
+      "hr": 1,
+      "bb": 2,
+      "so": 5,
+      "pitches": 99,
+      "strikes": 62
+    },
+    {
+      "date_display": "Aug 12",
+      "opp_abbr": "CWS",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 7,
+      "er": 2,
+      "hr": 1,
+      "bb": 1,
+      "so": 4,
+      "pitches": 94,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 3,
+      "pitches": 95,
+      "strikes": 62
+    }
+  ]
+}

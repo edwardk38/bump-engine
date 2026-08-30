@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "693645",
+  "name_display": "C. Schlittler",
+  "name_full": "Cam Schlittler",
+  "throws": "RHP",
+  "team_abbr": "NYY",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 11.05 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 1.12 ERA over his last 4 (3 ER in 24.0 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 2.09,
+      "percentile": 97,
+      "league": "AL",
+      "league_rank": 2,
+      "mlb_rank": 5
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 11.05,
+      "percentile": 96,
+      "league": "AL",
+      "league_rank": 3,
+      "mlb_rank": 7
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 163.2,
+      "percentile": 98,
+      "league": "AL",
+      "league_rank": 2,
+      "mlb_rank": 4
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 201,
+      "percentile": 96,
+      "league": "AL",
+      "league_rank": 3,
+      "mlb_rank": 6
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 42,
+      "percentile": 80,
+      "league": "AL",
+      "league_rank": 14,
+      "mlb_rank": 29
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.31,
+      "percentile": 80,
+      "league": "AL",
+      "league_rank": 14,
+      "mlb_rank": 29
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 14,
+      "percentile": 87,
+      "league": "AL",
+      "league_rank": 8,
+      "mlb_rank": 19
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 2.61,
+      "percentile": 96,
+      "league": "AL",
+      "league_rank": 2,
+      "mlb_rank": 7
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.199,
+      "ab": 362
+    },
+    "vs_rhb": {
+      "avg": 0.193,
+      "ab": 233
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "BOS",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 5,
+      "so": 8,
+      "pitches": 102,
+      "strikes": 63
+    },
+    {
+      "date_display": "Aug 21",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 4,
+      "pitches": 96,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "TOR",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 4,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 7,
+      "pitches": 97,
+      "strikes": 56
+    },
+    {
+      "date_display": "Aug 9",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 3,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 11,
+      "pitches": 96,
+      "strikes": 67
+    },
+    {
+      "date_display": "Aug 3",
+      "opp_abbr": "STL",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 4,
+      "er": 4,
+      "hr": 1,
+      "bb": 5,
+      "so": 6,
+      "pitches": 83,
+      "strikes": 51
+    }
+  ]
+}

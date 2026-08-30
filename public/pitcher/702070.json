@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "702070",
+  "name_display": "N. Cameron",
+  "name_full": "Noah Cameron",
+  "throws": "LHP",
+  "team_abbr": "KC",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 2.10 ERA over his last 4 (6 ER in 25.2 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.98,
+      "percentile": 51,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.9,
+      "percentile": 41,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 149.1,
+      "percentile": 83,
+      "league": "AL",
+      "league_rank": 14,
+      "mlb_rank": 25
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 131,
+      "percentile": 70,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 48,
+      "percentile": 51,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.89,
+      "percentile": 51,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 15,
+      "percentile": 75,
+      "league": "AL",
+      "league_rank": 14,
+      "mlb_rank": 35
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.65,
+      "percentile": 69,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.27,
+      "ab": 137
+    },
+    "vs_rhb": {
+      "avg": 0.226,
+      "ab": 429
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 27",
+      "opp_abbr": "TOR",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 6,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 3,
+      "pitches": 81,
+      "strikes": 55
+    },
+    {
+      "date_display": "Aug 21",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 2,
+      "pitches": 85,
+      "strikes": 50
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "LAA",
+      "is_home": false,
+      "ip": "9.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 8,
+      "pitches": 115,
+      "strikes": 73
+    },
+    {
+      "date_display": "Aug 10",
+      "opp_abbr": "LAD",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 6,
+      "er": 4,
+      "hr": 0,
+      "bb": 2,
+      "so": 2,
+      "pitches": 101,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "8.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 9,
+      "pitches": 106,
+      "strikes": 74
+    }
+  ]
+}

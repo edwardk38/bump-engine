@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "694819",
+  "name_display": "J. Misiorowski",
+  "name_full": "Jacob Misiorowski",
+  "throws": "RHP",
+  "team_abbr": "MIL",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 13.23 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 2.25 ERA over his last 4 (6 ER in 24.0 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 1.73,
+      "percentile": 100,
+      "league": "NL",
+      "league_rank": 1,
+      "mlb_rank": 1
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 13.23,
+      "percentile": 100,
+      "league": "NL",
+      "league_rank": 1,
+      "mlb_rank": 1
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 151.0,
+      "percentile": 85,
+      "league": "NL",
+      "league_rank": 11,
+      "mlb_rank": 22
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 222,
+      "percentile": 100,
+      "league": "NL",
+      "league_rank": 1,
+      "mlb_rank": 1
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 35,
+      "percentile": 87,
+      "league": "NL",
+      "league_rank": 10,
+      "mlb_rank": 19
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.09,
+      "percentile": 87,
+      "league": "NL",
+      "league_rank": 10,
+      "mlb_rank": 19
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 13,
+      "percentile": 87,
+      "league": "NL",
+      "league_rank": 12,
+      "mlb_rank": 19
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 2.13,
+      "percentile": 100,
+      "league": "NL",
+      "league_rank": 1,
+      "mlb_rank": 1
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.116,
+      "ab": 294
+    },
+    "vs_rhb": {
+      "avg": 0.195,
+      "ab": 231
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 27",
+      "opp_abbr": "NYM",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 2,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 6,
+      "pitches": 89,
+      "strikes": 53
+    },
+    {
+      "date_display": "Aug 21",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 6,
+      "pitches": 96,
+      "strikes": 55
+    },
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "LAD",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 5,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 6,
+      "pitches": 98,
+      "strikes": 62
+    },
+    {
+      "date_display": "Aug 9",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 3,
+      "hr": 2,
+      "bb": 1,
+      "so": 9,
+      "pitches": 94,
+      "strikes": 70
+    },
+    {
+      "date_display": "Aug 2",
+      "opp_abbr": "LAA",
+      "is_home": false,
+      "ip": "7.0",
+      "h": 2,
+      "er": 2,
+      "hr": 1,
+      "bb": 1,
+      "so": 10,
+      "pitches": 83,
+      "strikes": 66
+    }
+  ]
+}

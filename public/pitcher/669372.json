@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "669372",
+  "name_display": "J. Ginn",
+  "name_full": "J.T. Ginn",
+  "throws": "RHP",
+  "team_abbr": "ATH",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Going deep \u2014 6+ innings in 5 of his last 6 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .201 against (214 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.71,
+      "percentile": 58,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.87,
+      "percentile": 39,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 138.1,
+      "percentile": 66,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 121,
+      "percentile": 63,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 57,
+      "percentile": 24,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.71,
+      "percentile": 24,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 17,
+      "percentile": 53,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.35,
+      "percentile": 37,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.243,
+      "ab": 292
+    },
+    "vs_rhb": {
+      "avg": 0.201,
+      "ab": 214
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 26",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 4,
+      "hr": 3,
+      "bb": 2,
+      "so": 3,
+      "pitches": 83,
+      "strikes": 46
+    },
+    {
+      "date_display": "Aug 21",
+      "opp_abbr": "HOU",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 6,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 94,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "TEX",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 8,
+      "er": 4,
+      "hr": 1,
+      "bb": 0,
+      "so": 7,
+      "pitches": 94,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 9",
+      "opp_abbr": "BOS",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 5,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 2,
+      "pitches": 95,
+      "strikes": 54
+    },
+    {
+      "date_display": "Aug 4",
+      "opp_abbr": "CIN",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 5,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 91,
+      "strikes": 54
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "668678",
+  "name_display": "Z. Gallen",
+  "name_full": "Zac Gallen",
+  "throws": "RHP",
+  "team_abbr": "AZ",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 10 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 6.34,
+      "percentile": 2,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 5.6,
+      "percentile": 3,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 98.0,
+      "percentile": 26,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 61,
+      "percentile": 3,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 31,
+      "percentile": 53,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.85,
+      "percentile": 53,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 18,
+      "percentile": 13,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.29,
+      "percentile": 8,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.313,
+      "ab": 211
+    },
+    "vs_rhb": {
+      "avg": 0.295,
+      "ab": 190
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jul 7",
+      "opp_abbr": "SD",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 6,
+      "er": 4,
+      "hr": 1,
+      "bb": 3,
+      "so": 5,
+      "pitches": 96,
+      "strikes": 58
+    },
+    {
+      "date_display": "Jul 1",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 7,
+      "er": 6,
+      "hr": 2,
+      "bb": 1,
+      "so": 4,
+      "pitches": 95,
+      "strikes": 65
+    },
+    {
+      "date_display": "Jun 26",
+      "opp_abbr": "TB",
+      "is_home": false,
+      "ip": "6.2",
+      "h": 4,
+      "er": 5,
+      "hr": 2,
+      "bb": 2,
+      "so": 0,
+      "pitches": 86,
+      "strikes": 53
+    },
+    {
+      "date_display": "Jun 20",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 12,
+      "er": 9,
+      "hr": 0,
+      "bb": 2,
+      "so": 2,
+      "pitches": 81,
+      "strikes": 47
+    },
+    {
+      "date_display": "Jun 14",
+      "opp_abbr": "CIN",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 2,
+      "bb": 2,
+      "so": 4,
+      "pitches": 85,
+      "strikes": 55
+    }
+  ]
+}

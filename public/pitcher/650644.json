@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "650644",
+  "name_display": "A. Civale",
+  "name_full": "Aaron Civale",
+  "throws": "RHP",
+  "team_abbr": "CHC",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "4.55 ERA with 7.24 K/9 over 97.0 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.55,
+      "percentile": 32,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.24,
+      "percentile": 28,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 97.0,
+      "percentile": 24,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 78,
+      "percentile": 16,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 28,
+      "percentile": 67,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.6,
+      "percentile": 67,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 17,
+      "percentile": 17,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.73,
+      "percentile": 21,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.304,
+      "ab": 224
+    },
+    "vs_rhb": {
+      "avg": 0.277,
+      "ab": 173
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jul 4",
+      "opp_abbr": "MIA",
+      "is_home": true,
+      "ip": "4.2",
+      "h": 6,
+      "er": 4,
+      "hr": 2,
+      "bb": 2,
+      "so": 6,
+      "pitches": 84,
+      "strikes": 53
+    },
+    {
+      "date_display": "Jun 28",
+      "opp_abbr": "LAA",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 6,
+      "er": 3,
+      "hr": 1,
+      "bb": 1,
+      "so": 2,
+      "pitches": 90,
+      "strikes": 62
+    },
+    {
+      "date_display": "Jun 23",
+      "opp_abbr": "SF",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 6,
+      "er": 2,
+      "hr": 1,
+      "bb": 0,
+      "so": 5,
+      "pitches": 84,
+      "strikes": 57
+    },
+    {
+      "date_display": "Jun 17",
+      "opp_abbr": "PIT",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 9,
+      "er": 6,
+      "hr": 0,
+      "bb": 2,
+      "so": 2,
+      "pitches": 71,
+      "strikes": 46
+    },
+    {
+      "date_display": "May 25",
+      "opp_abbr": "SEA",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 9,
+      "er": 7,
+      "hr": 3,
+      "bb": 1,
+      "so": 2,
+      "pitches": 73,
+      "strikes": 51
+    }
+  ]
+}

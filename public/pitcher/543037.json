@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "543037",
+  "name_display": "G. Cole",
+  "name_full": "Gerrit Cole",
+  "throws": "RHP",
+  "team_abbr": "NYY",
+  "form_tag": "hot",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 10 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 9.58 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 2.52 ERA over his last 4 (7 ER in 25.0 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.19,
+      "percentile": 81,
+      "league": "AL",
+      "league_rank": 11,
+      "mlb_rank": 28
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.58,
+      "percentile": 77,
+      "league": "AL",
+      "league_rank": 15,
+      "mlb_rank": 34
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 98.2,
+      "percentile": 27,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 105,
+      "percentile": 45,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 21,
+      "percentile": 95,
+      "league": "AL",
+      "league_rank": 5,
+      "mlb_rank": 8
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 1.92,
+      "percentile": 95,
+      "league": "AL",
+      "league_rank": 5,
+      "mlb_rank": 8
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 13,
+      "percentile": 46,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.36,
+      "percentile": 81,
+      "league": "AL",
+      "league_rank": 12,
+      "mlb_rank": 27
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.198,
+      "ab": 232
+    },
+    "vs_rhb": {
+      "avg": 0.269,
+      "ab": 145
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 27",
+      "opp_abbr": "HOU",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 1,
+      "bb": 1,
+      "so": 5,
+      "pitches": 79,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 20",
+      "opp_abbr": "BAL",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 1,
+      "so": 8,
+      "pitches": 93,
+      "strikes": 70
+    },
+    {
+      "date_display": "Aug 14",
+      "opp_abbr": "TOR",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 5,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 87,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 8",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 6,
+      "er": 2,
+      "hr": 0,
+      "bb": 0,
+      "so": 9,
+      "pitches": 82,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 2",
+      "opp_abbr": "CHC",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 4,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 5,
+      "pitches": 99,
+      "strikes": 63
+    }
+  ]
+}

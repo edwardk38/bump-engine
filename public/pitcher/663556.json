@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "663556",
+  "name_display": "S. McClanahan",
+  "name_full": "Shane McClanahan",
+  "throws": "LHP",
+  "team_abbr": "TB",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "Tough on left-handed bats \u2014 .140 against (93 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.19,
+      "percentile": 81,
+      "league": "AL",
+      "league_rank": 11,
+      "mlb_rank": 28
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.2,
+      "percentile": 49,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 113.0,
+      "percentile": 37,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 103,
+      "percentile": 43,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 38,
+      "percentile": 45,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.03,
+      "percentile": 45,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 9,
+      "percentile": 89,
+      "league": "AL",
+      "league_rank": 7,
+      "mlb_rank": 16
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.4,
+      "percentile": 79,
+      "league": "AL",
+      "league_rank": 13,
+      "mlb_rank": 30
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.14,
+      "ab": 93
+    },
+    "vs_rhb": {
+      "avg": 0.225,
+      "ab": 329
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "SD",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 3,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 4,
+      "pitches": 80,
+      "strikes": 52
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "BAL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 5,
+      "pitches": 74,
+      "strikes": 47
+    },
+    {
+      "date_display": "Aug 17",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "3.1",
+      "h": 4,
+      "er": 3,
+      "hr": 1,
+      "bb": 0,
+      "so": 3,
+      "pitches": 57,
+      "strikes": 35
+    },
+    {
+      "date_display": "Jul 30",
+      "opp_abbr": "TEX",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 0,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 3,
+      "pitches": 49,
+      "strikes": 29
+    },
+    {
+      "date_display": "Jul 24",
+      "opp_abbr": "CLE",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 2,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 3,
+      "pitches": 71,
+      "strikes": 45
+    }
+  ]
+}
