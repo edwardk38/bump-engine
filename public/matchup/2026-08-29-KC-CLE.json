@@ -27,7 +27,7 @@
           "highlight": false
         },
         {
-          "text": "Tough on left-handed bats \u2014 .172 against (93 AB).",
+          "text": "Tough on left-handed bats \u2014 .175 against (97 AB).",
           "highlight": false
         }
       ],
@@ -36,7 +36,7 @@
           "key": "era",
           "label": "ERA",
           "value": 3.06,
-          "percentile": 85,
+          "percentile": 84,
           "league": "AL",
           "league_rank": null,
           "mlb_rank": null
@@ -107,12 +107,12 @@
       ],
       "splits": {
         "vs_lhb": {
-          "avg": 0.172,
-          "ab": 93
+          "avg": 0.175,
+          "ab": 97
         },
         "vs_rhb": {
           "avg": 0.221,
-          "ab": 122
+          "ab": 131
         }
       },
       "last_starts": [
@@ -193,7 +193,7 @@
           "highlight": false
         },
         {
-          "text": "Tough on left-handed bats \u2014 .188 against (149 AB).",
+          "text": "Tough on left-handed bats \u2014 .182 against (154 AB).",
           "highlight": false
         }
       ],
@@ -273,12 +273,12 @@
       ],
       "splits": {
         "vs_lhb": {
-          "avg": 0.188,
-          "ab": 149
+          "avg": 0.182,
+          "ab": 154
         },
         "vs_rhb": {
-          "avg": 0.248,
-          "ab": 412
+          "avg": 0.249,
+          "ab": 425
         }
       },
       "last_starts": [

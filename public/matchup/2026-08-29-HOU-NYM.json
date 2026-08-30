@@ -103,12 +103,12 @@
       ],
       "splits": {
         "vs_lhb": {
-          "avg": 0.41,
-          "ab": 39
+          "avg": 0.415,
+          "ab": 41
         },
         "vs_rhb": {
-          "avg": 0.211,
-          "ab": 38
+          "avg": 0.205,
+          "ab": 39
         }
       },
       "last_starts": []
@@ -123,8 +123,8 @@
       "qualified": true,
       "form_tag": "hot",
       "headline_stats": {
-        "era": 3.08,
-        "k_per_9": 9.89
+        "era": 3.06,
+        "k_per_9": 9.94
       },
       "read": [
         {
@@ -136,7 +136,7 @@
           "highlight": false
         },
         {
-          "text": "Misses bats \u2014 9.89 K/9, about a strikeout an inning.",
+          "text": "Misses bats \u2014 9.94 K/9, about a strikeout an inning.",
           "highlight": false
         },
         {
@@ -148,7 +148,7 @@
         {
           "key": "era",
           "label": "ERA",
-          "value": 3.08,
+          "value": 3.06,
           "percentile": 84,
           "league": "NL",
           "league_rank": 14,
@@ -157,7 +157,7 @@
         {
           "key": "k_per_9",
           "label": "K/9",
-          "value": 9.89,
+          "value": 9.94,
           "percentile": 83,
           "league": "NL",
           "league_rank": null,
@@ -166,16 +166,16 @@
         {
           "key": "ip",
           "label": "IP",
-          "value": 154.2,
-          "percentile": 89,
+          "value": 155.2,
+          "percentile": 93,
           "league": "NL",
-          "league_rank": 9,
-          "mlb_rank": 16
+          "league_rank": 7,
+          "mlb_rank": 11
         },
         {
           "key": "k",
           "label": "K",
-          "value": 170,
+          "value": 172,
           "percentile": 93,
           "league": "NL",
           "league_rank": 7,
@@ -184,7 +184,7 @@
         {
           "key": "bb",
           "label": "BB",
-          "value": 60,
+          "value": 61,
           "percentile": 27,
           "league": "NL",
           "league_rank": null,
@@ -193,7 +193,7 @@
         {
           "key": "bb_per_9",
           "label": "BB/9",
-          "value": 3.49,
+          "value": 3.53,
           "percentile": 27,
           "league": "NL",
           "league_rank": null,
@@ -211,7 +211,7 @@
         {
           "key": "fip",
           "label": "FIP",
-          "value": 3.59,
+          "value": 3.58,
           "percentile": 73,
           "league": "NL",
           "league_rank": null,
@@ -220,12 +220,12 @@
       ],
       "splits": {
         "vs_lhb": {
-          "avg": 0.232,
-          "ab": 328
+          "avg": 0.23,
+          "ab": 335
         },
         "vs_rhb": {
-          "avg": 0.171,
-          "ab": 211
+          "avg": 0.164,
+          "ab": 226
         }
       },
       "last_starts": [

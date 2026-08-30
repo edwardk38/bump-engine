@@ -180,19 +180,103 @@
       ]
     },
     "home": {
-      "tbd": true,
-      "pitcher_id": null,
-      "name_display": null,
-      "throws": null,
+      "tbd": false,
+      "pitcher_id": "805074",
+      "name_display": "Y. Marte",
+      "throws": "RHP",
       "team_abbr": "SF",
       "opponent_abbr": "AZ",
-      "qualified": null,
-      "form_tag": null,
-      "headline_stats": null,
-      "read": null,
-      "season_stats": null,
-      "splits": null,
-      "last_starts": null
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": null,
+        "k_per_9": null
+      },
+      "read": [
+        {
+          "text": "No season line posted yet.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": null,
+        "vs_rhb": null
+      },
+      "last_starts": []
     }
   }
 }

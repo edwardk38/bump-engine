@@ -103,12 +103,12 @@
       ],
       "splits": {
         "vs_lhb": {
-          "avg": 0.333,
-          "ab": 6
+          "avg": 0.25,
+          "ab": 8
         },
         "vs_rhb": {
-          "avg": 0.231,
-          "ab": 13
+          "avg": 0.222,
+          "ab": 27
         }
       },
       "last_starts": [
@@ -150,7 +150,7 @@
           "highlight": false
         },
         {
-          "text": "Tough on right-handed bats \u2014 .213 against (230 AB).",
+          "text": "Tough on right-handed bats \u2014 .209 against (239 AB).",
           "highlight": false
         }
       ],
@@ -231,11 +231,11 @@
       "splits": {
         "vs_lhb": {
           "avg": 0.242,
-          "ab": 298
+          "ab": 314
         },
         "vs_rhb": {
-          "avg": 0.213,
-          "ab": 230
+          "avg": 0.209,
+          "ab": 239
         }
       },
       "last_starts": [

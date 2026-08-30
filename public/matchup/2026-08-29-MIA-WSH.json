@@ -115,12 +115,12 @@
       ],
       "splits": {
         "vs_lhb": {
-          "avg": 0.237,
-          "ab": 409
+          "avg": 0.238,
+          "ab": 428
         },
         "vs_rhb": {
-          "avg": 0.243,
-          "ab": 288
+          "avg": 0.248,
+          "ab": 294
         }
       },
       "last_starts": [
@@ -290,20 +290,20 @@
           "key": "fip",
           "label": "FIP",
           "value": 3.36,
-          "percentile": 81,
+          "percentile": 82,
           "league": "NL",
-          "league_rank": null,
-          "mlb_rank": null
+          "league_rank": 15,
+          "mlb_rank": 26
         }
       ],
       "splits": {
         "vs_lhb": {
-          "avg": 0.254,
-          "ab": 338
+          "avg": 0.249,
+          "ab": 345
         },
         "vs_rhb": {
-          "avg": 0.226,
-          "ab": 226
+          "avg": 0.221,
+          "ab": 231
         }
       },
       "last_starts": [

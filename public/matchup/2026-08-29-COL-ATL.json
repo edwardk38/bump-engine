@@ -41,7 +41,7 @@
           "key": "k_per_9",
           "label": "K/9",
           "value": 5.95,
-          "percentile": 4,
+          "percentile": 3,
           "league": "NL",
           "league_rank": null,
           "mlb_rank": null
@@ -103,12 +103,12 @@
       ],
       "splits": {
         "vs_lhb": {
-          "avg": 0.276,
-          "ab": 145
+          "avg": 0.27,
+          "ab": 152
         },
         "vs_rhb": {
-          "avg": 0.279,
-          "ab": 154
+          "avg": 0.28,
+          "ab": 157
         }
       },
       "last_starts": [
@@ -159,7 +159,7 @@
           "highlight": false
         },
         {
-          "text": "Tough on right-handed bats \u2014 .208 against (293 AB).",
+          "text": "Tough on right-handed bats \u2014 .212 against (307 AB).",
           "highlight": false
         }
       ],
@@ -239,12 +239,12 @@
       ],
       "splits": {
         "vs_lhb": {
-          "avg": 0.246,
-          "ab": 126
+          "avg": 0.241,
+          "ab": 133
         },
         "vs_rhb": {
-          "avg": 0.208,
-          "ab": 293
+          "avg": 0.212,
+          "ab": 307
         }
       },
       "last_starts": [
