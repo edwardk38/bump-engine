@@ -10,6 +10,7 @@ Writes:
   public/slate/<date>.json              a dated archive copy of the same payload
   public/matchup/<game_id>.json         one Deep-Dive file per game
   public/index/pitcher-to-matchup.json  pitcher_id -> {game_id, side}
+  public/leaderboards.json              every category x league, precomputed
 """
 
 import json
@@ -19,6 +20,7 @@ from pathlib import Path
 if __package__ in (None, ""):  # allow `python engine/build.py` too
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+from engine.leaderboards import build_leaderboards  # noqa: E402
 from engine.matchup import build_all  # noqa: E402
 from engine.slate import build_slate, target_date  # noqa: E402
 
@@ -48,11 +50,17 @@ def main() -> None:
         write_json(MATCHUP_DIR / f"{m['game_id']}.json", m)
     write_json(INDEX_DIR / "pitcher-to-matchup.json", index)
 
+    # Reuses the same league-wide rankings pull the matchups just used.
+    boards = build_leaderboards(date)
+    write_json(PUBLIC / "leaderboards.json", boards)
+
     tbd = sum(1 for g in slate["games"] for s in g["starters"].values() if s["tbd"])
     print(f"{date}: {slate['game_count']} games, {tbd} TBD starters", file=sys.stderr)
     print(f"  public/slate/today.json", file=sys.stderr)
     print(f"  public/matchup/ — {len(matchups)} files", file=sys.stderr)
     print(f"  public/index/pitcher-to-matchup.json — {len(index)} pitchers",
+          file=sys.stderr)
+    print(f"  public/leaderboards.json — {len(boards['categories'])} categories",
           file=sys.stderr)
 
 

@@ -58,7 +58,15 @@ STATS = [
     Stat("hr",      "HR",   higher_better=False, rank_on="hr_per_9"),
     Stat("fip",     "FIP",  higher_better=False),
 ]
-STAT_BY_KEY = {s.key: s for s in STATS}
+# Ranked but never shown as a matchup tile. STATS is the tile contract — adding
+# to it would put an extra box on every Deep-Dive card — so extras live here and
+# are ranked all the same.
+EXTRA_STATS = [
+    Stat("avg", "AVG", higher_better=False),   # opponent batting average
+]
+
+RANKABLE = STATS + EXTRA_STATS
+STAT_BY_KEY = {s.key: s for s in RANKABLE}
 
 
 # --------------------------------------------------------------------------- #
@@ -144,6 +152,7 @@ def _record(split, constant) -> dict | None:
         "bb": bb,
         "bb_per_9": to_float(st.get("walksPer9Inn")),
         "hr": hr,
+        "avg": to_float(st.get("avg")),
         "fip": fip(hr, bb, hbp, k, ip_true, constant),
         # Rank-only metrics
         "hr_per_9": round(9 * hr / ip_true, 2) if ip_true else None,
@@ -211,7 +220,7 @@ class Table:
         # Precompute per stat: the sorted qualified population, MLB ranks, and
         # a rank map per league. Built once, reused by every matchup today.
         self._pop, self._mlb_rank, self._league_rank = {}, {}, {}
-        for stat in STATS:
+        for stat in RANKABLE:
             vals = [_rank_value(r, stat) for r in self.qualified]
             self._pop[stat.key] = sorted(v for v in vals if v is not None)
             self._mlb_rank[stat.key] = _ranks(self.qualified, stat)
@@ -254,14 +263,25 @@ class Table:
             "mlb_rank": mlb_rank,
         }
 
-    def leaderboard(self, stat_key, n=10) -> list[tuple]:
-        """Top n qualified pitchers for a stat — the Leaderboards seam."""
+    def leaderboard(self, stat_key, league=None, n=None) -> list[tuple]:
+        """[(rank, record)] best-first for one slice of the qualified pool.
+
+        `league` None ranks the whole pool, "AL"/"NL" that league only. Ranks
+        come from the maps built above, so each slice restarts at 1 and ties
+        share a rank — no re-ranking here.
+        """
         stat = STAT_BY_KEY[stat_key]
-        ranked = sorted(
-            (r for r in self.qualified if _rank_value(r, stat) is not None),
-            key=lambda r: _rank_value(r, stat), reverse=stat.higher_better)
-        return [(r["name"], r[stat.key], self._mlb_rank[stat.key][r["pitcher_id"]])
-                for r in ranked[:n]]
+        if league is None:
+            ranks = self._mlb_rank[stat.key]
+            pool = self.qualified
+        else:
+            ranks = self._league_rank[stat.key].get(league, {})
+            pool = [r for r in self.qualified if r["league"] == league]
+
+        rows = [(ranks[r["pitcher_id"]], r) for r in pool
+                if r["pitcher_id"] in ranks and _rank_value(r, stat) is not None]
+        rows.sort(key=lambda pair: pair[0])
+        return rows[:n] if n else rows
 
 
 @lru_cache(maxsize=4)

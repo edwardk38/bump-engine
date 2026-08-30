@@ -10,7 +10,8 @@ frontend to render. No HTML, no email, no projections.
 engine/api.py          HTTP helper + cached reference lookups (team abbrs, results)
 engine/pitchers.py     season line, game logs, handedness splits, small helpers
 engine/notes.py        auto-notes + form tag, thresholds as named constants
-engine/rankings.py     league-wide percentiles and ranks (also powers Leaderboards)
+engine/rankings.py     league-wide percentiles and ranks (shared by both boards)
+engine/leaderboards.py category x league leaderboards
 engine/slate.py        schedule fetch + assembly into the slate contract
 engine/matchup.py      Deep-Dive matchup JSON, one file per game
 engine/build.py        entry point — writes the JSON outputs
@@ -18,6 +19,7 @@ engine/log_actuals.py  validation log — what starters actually did
 public/slate/          today's slate + dated archive copies
 public/matchup/        one Deep-Dive file per game
 public/index/          pitcher_id -> {game_id, side} lookup
+public/leaderboards.json  every category x league, precomputed
 data/actual_ks.csv     appended log of real strikeout totals
 ```
 
@@ -149,3 +151,22 @@ cFIP 3.075). Every innings figure goes through `ip_to_float` — the API sends
 MLB, so anyone top-15 in MLB is automatically top-15 in his league. Pitchers
 below the qualified gate are still *placed* on the distribution for a
 percentile, but carry null ranks — they are not in the ranked population.
+
+## Leaderboards
+
+`public/leaderboards.json` holds six categories — most strikeouts, hardest to
+hit, best control, workhorses, lowest ERA, FIP — each precomputed for three
+slices: `all`, `al`, `nl`. Ranks restart at 1 within a slice, top 40 rows each.
+
+Every rank comes from `engine/rankings.py`: the same starters-only qualified
+pool and the same competition-rank maps the Deep-Dive tiles use, so a pitcher
+can never be 3rd on a leaderboard and 5th on his matchup card. Nothing is
+re-sorted here.
+
+`bar_pct` is a 0-100 display bar scaled against the leader of that slice, with
+the ratio inverted for lower-is-better categories so the best ERA draws the
+longest bar rather than the shortest. The leader is always exactly 100.
+
+Opponent batting average is ranked but is deliberately **not** in `STATS`:
+that list is the matchup tile contract, and adding to it would put a ninth box
+on every Deep-Dive card. Rankable-but-not-a-tile stats live in `EXTRA_STATS`.
