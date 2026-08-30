@@ -16,11 +16,13 @@
           "tbd": false,
           "pitcher_id": "687562",
           "name_display": "J. Bennett",
+          "name_full": "Jake Bennett",
           "throws": "LHP",
           "team_abbr": "BOS",
           "stats": {
             "era": 3.27,
-            "k_per_9": 7.11
+            "k_per_9": 7.11,
+            "ip": 93.2
           },
           "form_tag": "cold",
           "read": "Rough stretch \u2014 5.73 ERA over his last four (14 ER in 22.0 IP)."
@@ -29,11 +31,13 @@
           "tbd": false,
           "pitcher_id": "607074",
           "name_display": "C. Rod\u00f3n",
+          "name_full": "Carlos Rod\u00f3n",
           "throws": "LHP",
           "team_abbr": "NYY",
           "stats": {
             "era": 3.2,
-            "k_per_9": 9.61
+            "k_per_9": 9.61,
+            "ip": 59.0
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts."
@@ -53,11 +57,13 @@
           "tbd": false,
           "pitcher_id": "687941",
           "name_display": "A. Gamboa",
+          "name_full": "Alec Gamboa",
           "throws": "LHP",
           "team_abbr": "BOS",
           "stats": {
             "era": 1.23,
-            "k_per_9": 6.14
+            "k_per_9": 6.14,
+            "ip": 22.0
           },
           "form_tag": "steady",
           "read": "1.23 ERA with 6.14 K/9 over 22.0 innings this season."
@@ -66,11 +72,13 @@
           "tbd": false,
           "pitcher_id": "608331",
           "name_display": "M. Fried",
+          "name_full": "Max Fried",
           "throws": "LHP",
           "team_abbr": "NYY",
           "stats": {
             "era": 2.8,
-            "k_per_9": 8.3
+            "k_per_9": 8.3,
+            "ip": 90.0
           },
           "form_tag": "hot",
           "read": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10."
@@ -90,11 +98,13 @@
           "tbd": false,
           "pitcher_id": "605483",
           "name_display": "B. Snell",
+          "name_full": "Blake Snell",
           "throws": "LHP",
           "team_abbr": "LAD",
           "stats": {
             "era": 2.42,
-            "k_per_9": 12.46
+            "k_per_9": 12.46,
+            "ip": 26.0
           },
           "form_tag": "hot",
           "read": "Misses bats \u2014 12.46 K/9, about a strikeout an inning."
@@ -103,11 +113,13 @@
           "tbd": false,
           "pitcher_id": "672456",
           "name_display": "K. Montero",
+          "name_full": "Keider Montero",
           "throws": "RHP",
           "team_abbr": "DET",
           "stats": {
             "era": 3.24,
-            "k_per_9": 5.96
+            "k_per_9": 5.96,
+            "ip": 139.0
           },
           "form_tag": "steady",
           "read": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10."
@@ -127,11 +139,13 @@
           "tbd": false,
           "pitcher_id": "607200",
           "name_display": "E. Fedde",
+          "name_full": "Erick Fedde",
           "throws": "RHP",
           "team_abbr": "CWS",
           "stats": {
             "era": 4.16,
-            "k_per_9": 6.42
+            "k_per_9": 6.42,
+            "ip": 123.1
           },
           "form_tag": "steady",
           "read": "Team has won 8 of his last 10 starts."
@@ -140,11 +154,13 @@
           "tbd": false,
           "pitcher_id": "641927",
           "name_display": "B. Ober",
+          "name_full": "Bailey Ober",
           "throws": "RHP",
           "team_abbr": "MIN",
           "stats": {
             "era": 4.37,
-            "k_per_9": 6.27
+            "k_per_9": 6.27,
+            "ip": 113.1
           },
           "form_tag": "steady",
           "read": "4.37 ERA with 6.27 K/9 over 113.1 innings this season."
@@ -164,11 +180,13 @@
           "tbd": false,
           "pitcher_id": "669199",
           "name_display": "L. Bachar",
+          "name_full": "Lake Bachar",
           "throws": "RHP",
           "team_abbr": "PIT",
           "stats": {
             "era": 3.7,
-            "k_per_9": 9.2
+            "k_per_9": 9.2,
+            "ip": 75.1
           },
           "form_tag": "steady",
           "read": "Misses bats \u2014 9.2 K/9, about a strikeout an inning."
@@ -177,11 +195,13 @@
           "tbd": false,
           "pitcher_id": "681517",
           "name_display": "K. Leahy",
+          "name_full": "Kyle Leahy",
           "throws": "RHP",
           "team_abbr": "STL",
           "stats": {
             "era": 3.13,
-            "k_per_9": 8.21
+            "k_per_9": 8.21,
+            "ip": 129.1
           },
           "form_tag": "hot",
           "read": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10."
@@ -201,11 +221,13 @@
           "tbd": false,
           "pitcher_id": "671096",
           "name_display": "A. Abbott",
+          "name_full": "Andrew Abbott",
           "throws": "LHP",
           "team_abbr": "CIN",
           "stats": {
             "era": 4.49,
-            "k_per_9": 6.98
+            "k_per_9": 6.98,
+            "ip": 148.1
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts."
@@ -214,11 +236,13 @@
           "tbd": false,
           "pitcher_id": "592332",
           "name_display": "K. Gausman",
+          "name_full": "Kevin Gausman",
           "throws": "RHP",
           "team_abbr": "CHC",
           "stats": {
             "era": 4.52,
-            "k_per_9": 9.04
+            "k_per_9": 9.04,
+            "ip": 155.1
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts."
@@ -238,11 +262,13 @@
           "tbd": false,
           "pitcher_id": "807739",
           "name_display": "K. Anderson",
+          "name_full": "Kade Anderson",
           "throws": "LHP",
           "team_abbr": "SEA",
           "stats": {
             "era": 4.5,
-            "k_per_9": 7.2
+            "k_per_9": 7.2,
+            "ip": 10.0
           },
           "form_tag": "steady",
           "read": "4.5 ERA with 7.2 K/9 over 10.0 innings this season."
@@ -251,11 +277,13 @@
           "tbd": false,
           "pitcher_id": "667755",
           "name_display": "J. Soriano",
+          "name_full": "Jos\u00e9 Soriano",
           "throws": "RHP",
           "team_abbr": "TOR",
           "stats": {
             "era": 3.45,
-            "k_per_9": 8.86
+            "k_per_9": 8.86,
+            "ip": 151.1
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts."
@@ -275,11 +303,13 @@
           "tbd": false,
           "pitcher_id": "518876",
           "name_display": "M. Kelly",
+          "name_full": "Merrill Kelly",
           "throws": "RHP",
           "team_abbr": "AZ",
           "stats": {
             "era": 5.08,
-            "k_per_9": 6.04
+            "k_per_9": 6.04,
+            "ip": 141.2
           },
           "form_tag": "cold",
           "read": "Rough stretch \u2014 7.08 ERA over his last four (16 ER in 20.1 IP)."
@@ -288,11 +318,13 @@
           "tbd": false,
           "pitcher_id": "683363",
           "name_display": "M. Wilkinson",
+          "name_full": "Matt Wilkinson",
           "throws": "LHP",
           "team_abbr": "SF",
           "stats": {
             "era": 4.63,
-            "k_per_9": 4.63
+            "k_per_9": 4.63,
+            "ip": 11.2
           },
           "form_tag": "steady",
           "read": "4.63 ERA with 4.63 K/9 over 11.2 innings this season."
@@ -312,11 +344,13 @@
           "tbd": false,
           "pitcher_id": "683352",
           "name_display": "M. Bratt",
+          "name_full": "Mitch Bratt",
           "throws": "LHP",
           "team_abbr": "AZ",
           "stats": {
             "era": 4.54,
-            "k_per_9": 6.35
+            "k_per_9": 6.35,
+            "ip": 39.2
           },
           "form_tag": "steady",
           "read": "4.54 ERA with 6.35 K/9 over 39.2 innings this season."
@@ -325,11 +359,13 @@
           "tbd": false,
           "pitcher_id": "805074",
           "name_display": "Y. Marte",
+          "name_full": "Yunior Marte",
           "throws": "RHP",
           "team_abbr": "SF",
           "stats": {
             "era": null,
-            "k_per_9": null
+            "k_per_9": null,
+            "ip": null
           },
           "form_tag": "steady",
           "read": "No season line posted yet."
@@ -349,11 +385,13 @@
           "tbd": false,
           "pitcher_id": "645261",
           "name_display": "S. Alcantara",
+          "name_full": "Sandy Alcantara",
           "throws": "RHP",
           "team_abbr": "MIA",
           "stats": {
             "era": 3.46,
-            "k_per_9": 6.64
+            "k_per_9": 6.64,
+            "ip": 189.2
           },
           "form_tag": "hot",
           "read": "Workhorse \u2014 90+ pitches in 10 of his last 10 starts."
@@ -362,11 +400,13 @@
           "tbd": false,
           "pitcher_id": "676917",
           "name_display": "C. Cavalli",
+          "name_full": "Cade Cavalli",
           "throws": "RHP",
           "team_abbr": "WSH",
           "stats": {
             "era": 3.12,
-            "k_per_9": 10.43
+            "k_per_9": 10.43,
+            "ip": 152.2
           },
           "form_tag": "hot",
           "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts."
@@ -386,11 +426,13 @@
           "tbd": false,
           "pitcher_id": "663738",
           "name_display": "D. Lynch IV",
+          "name_full": "Daniel Lynch IV",
           "throws": "LHP",
           "team_abbr": "KC",
           "stats": {
             "era": 3.06,
-            "k_per_9": 6.71
+            "k_per_9": 6.71,
+            "ip": 61.2
           },
           "form_tag": "cold",
           "read": "Rough stretch \u2014 6.57 ERA over his last four (9 ER in 12.1 IP)."
@@ -399,11 +441,13 @@
           "tbd": false,
           "pitcher_id": "656492",
           "name_display": "F. Griffin",
+          "name_full": "Foster Griffin",
           "throws": "LHP",
           "team_abbr": "CLE",
           "stats": {
             "era": 3.21,
-            "k_per_9": 8.11
+            "k_per_9": 8.11,
+            "ip": 154.1
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts."
@@ -423,11 +467,13 @@
           "tbd": false,
           "pitcher_id": "656986",
           "name_display": "B. Sousa",
+          "name_full": "Bennett Sousa",
           "throws": "LHP",
           "team_abbr": "HOU",
           "stats": {
             "era": 6.52,
-            "k_per_9": 9.78
+            "k_per_9": 9.78,
+            "ip": 19.1
           },
           "form_tag": "steady",
           "read": "Misses bats \u2014 9.78 K/9, about a strikeout an inning."
@@ -436,11 +482,13 @@
           "tbd": false,
           "pitcher_id": "690997",
           "name_display": "N. McLean",
+          "name_full": "Nolan McLean",
           "throws": "RHP",
           "team_abbr": "NYM",
           "stats": {
             "era": 3.06,
-            "k_per_9": 9.94
+            "k_per_9": 9.94,
+            "ip": 155.2
           },
           "form_tag": "hot",
           "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts."
@@ -460,11 +508,13 @@
           "tbd": false,
           "pitcher_id": "621111",
           "name_display": "W. Buehler",
+          "name_full": "Walker Buehler",
           "throws": "RHP",
           "team_abbr": "SD",
           "stats": {
             "era": 4.66,
-            "k_per_9": 7.61
+            "k_per_9": 7.61,
+            "ip": 131.1
           },
           "form_tag": "hot",
           "read": "Rolling \u2014 2.05 ERA over his last 4 (5 ER in 22.0 IP)."
@@ -473,11 +523,13 @@
           "tbd": false,
           "pitcher_id": "607259",
           "name_display": "N. Martinez",
+          "name_full": "Nick Martinez",
           "throws": "RHP",
           "team_abbr": "TB",
           "stats": {
             "era": 2.99,
-            "k_per_9": 5.33
+            "k_per_9": 5.33,
+            "ip": 153.2
           },
           "form_tag": "steady",
           "read": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10."
@@ -497,11 +549,13 @@
           "tbd": false,
           "pitcher_id": "688642",
           "name_display": "Z. Agnos",
+          "name_full": "Zach Agnos",
           "throws": "RHP",
           "team_abbr": "COL",
           "stats": {
             "era": 5.49,
-            "k_per_9": 5.95
+            "k_per_9": 5.95,
+            "ip": 78.2
           },
           "form_tag": "steady",
           "read": "5.49 ERA with 5.95 K/9 over 78.2 innings this season."
@@ -510,11 +564,13 @@
           "tbd": false,
           "pitcher_id": "527048",
           "name_display": "M. P\u00e9rez",
+          "name_full": "Mart\u00edn P\u00e9rez",
           "throws": "LHP",
           "team_abbr": "ATL",
           "stats": {
             "era": 3.05,
-            "k_per_9": 6.77
+            "k_per_9": 6.77,
+            "ip": 121.0
           },
           "form_tag": "hot",
           "read": "Rolling \u2014 2.50 ERA over his last 4 (5 ER in 18.0 IP)."
@@ -534,11 +590,13 @@
           "tbd": false,
           "pitcher_id": "615698",
           "name_display": "C. Quantrill",
+          "name_full": "Cal Quantrill",
           "throws": "RHP",
           "team_abbr": "TEX",
           "stats": {
             "era": 3.01,
-            "k_per_9": 6.83
+            "k_per_9": 6.83,
+            "ip": 89.2
           },
           "form_tag": "hot",
           "read": "Rolling \u2014 0.75 ERA over his last 4 (2 ER in 24.0 IP)."
@@ -547,11 +605,13 @@
           "tbd": false,
           "pitcher_id": "675660",
           "name_display": "S. Drohan",
+          "name_full": "Shane Drohan",
           "throws": "LHP",
           "team_abbr": "MIL",
           "stats": {
             "era": 3.75,
-            "k_per_9": 8.97
+            "k_per_9": 8.97,
+            "ip": 110.1
           },
           "form_tag": "cold",
           "read": "Durable \u2014 80+ pitches in 9 of his last 10 starts."
@@ -571,11 +631,13 @@
           "tbd": false,
           "pitcher_id": "669358",
           "name_display": "S. Baz",
+          "name_full": "Shane Baz",
           "throws": "RHP",
           "team_abbr": "BAL",
           "stats": {
             "era": 4.04,
-            "k_per_9": 8.03
+            "k_per_9": 8.03,
+            "ip": 151.1
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts."
@@ -584,11 +646,13 @@
           "tbd": false,
           "pitcher_id": "678022",
           "name_display": "J. Perkins",
+          "name_full": "Jack Perkins",
           "throws": "RHP",
           "team_abbr": "ATH",
           "stats": {
             "era": 6.68,
-            "k_per_9": 10.36
+            "k_per_9": 10.36,
+            "ip": 90.1
           },
           "form_tag": "cold",
           "read": "Struggling lately \u2014 4+ runs in three of his last four."
@@ -608,11 +672,13 @@
           "tbd": false,
           "pitcher_id": "650911",
           "name_display": "C. S\u00e1nchez",
+          "name_full": "Cristopher S\u00e1nchez",
           "throws": "LHP",
           "team_abbr": "PHI",
           "stats": {
             "era": 2.62,
-            "k_per_9": 10.37
+            "k_per_9": 10.37,
+            "ip": 168.1
           },
           "form_tag": "hot",
           "read": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts."
@@ -621,11 +687,13 @@
           "tbd": false,
           "pitcher_id": "696270",
           "name_display": "R. Johnson",
+          "name_full": "Ryan Johnson",
           "throws": "RHP",
           "team_abbr": "LAA",
           "stats": {
             "era": 5.75,
-            "k_per_9": 6.68
+            "k_per_9": 6.68,
+            "ip": 67.1
           },
           "form_tag": "hot",
           "read": "Rolling \u2014 1.69 ERA over his last 4 (4 ER in 21.1 IP)."
