@@ -4,7 +4,7 @@
   "name_full": "Chris Bassitt",
   "throws": "RHP",
   "team_abbr": "BAL",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -20,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.74,
-      "percentile": 26,
+      "value": 4.97,
+      "percentile": 23,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.2,
-      "percentile": 8,
+      "value": 6.21,
+      "percentile": 9,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 74.0,
-      "percentile": 4,
+      "value": 79.2,
+      "percentile": 7,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 51,
-      "percentile": 0,
+      "value": 55,
+      "percentile": 1,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 26,
-      "percentile": 40,
+      "value": 29,
+      "percentile": 36,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.16,
-      "percentile": 40,
+      "value": 3.28,
+      "percentile": 36,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -74,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 8,
-      "percentile": 65,
+      "value": 9,
+      "percentile": 62,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.52,
-      "percentile": 31,
+      "value": 4.59,
+      "percentile": 26,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.335,
-      "ab": 179
+      "avg": 0.326,
+      "ab": 190
     },
     "vs_rhb": {
-      "avg": 0.248,
-      "ab": 117
+      "avg": 0.269,
+      "ab": 130
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 30",
+      "opp_abbr": "ATH",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 8,
+      "er": 5,
+      "hr": 1,
+      "bb": 3,
+      "so": 4,
+      "pitches": 99,
+      "strikes": 65
+    },
     {
       "date_display": "Aug 25",
       "opp_abbr": "STL",
@@ -152,19 +165,6 @@
       "so": 1,
       "pitches": 56,
       "strikes": 35
-    },
-    {
-      "date_display": "May 28",
-      "opp_abbr": "TOR",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 4,
-      "er": 1,
-      "hr": 1,
-      "bb": 1,
-      "so": 2,
-      "pitches": 80,
-      "strikes": 48
     }
   ]
 }

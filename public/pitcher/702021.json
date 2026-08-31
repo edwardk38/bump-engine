@@ -1,0 +1,104 @@
+{
+  "pitcher_id": "702021",
+  "name_display": "W. Dion",
+  "name_full": "Will Dion",
+  "throws": "LHP",
+  "team_abbr": "WSH",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Misses bats \u2014 10.75 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .198 against (81 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.67,
+      "percentile": 60,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.75,
+      "percentile": 93,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 34.1,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 41,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 9,
+      "percentile": 79,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.36,
+      "percentile": 79,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 6,
+      "percentile": 17,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.83,
+      "percentile": 59,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.292,
+      "ab": 48
+    },
+    "vs_rhb": {
+      "avg": 0.198,
+      "ab": 81
+    }
+  },
+  "last_starts": []
+}

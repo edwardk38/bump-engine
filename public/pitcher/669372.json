@@ -56,7 +56,7 @@
       "key": "k",
       "label": "K",
       "value": 121,
-      "percentile": 63,
+      "percentile": 62,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.35,
-      "percentile": 37,
+      "value": 4.36,
+      "percentile": 36,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

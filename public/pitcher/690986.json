@@ -23,8 +23,8 @@
       "value": 2.79,
       "percentile": 90,
       "league": "NL",
-      "league_rank": 11,
-      "mlb_rank": 15
+      "league_rank": 10,
+      "mlb_rank": 14
     },
     {
       "key": "k_per_9",
@@ -48,7 +48,7 @@
       "key": "k",
       "label": "K",
       "value": 127,
-      "percentile": 68,
+      "percentile": 67,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null

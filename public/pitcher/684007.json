@@ -4,19 +4,15 @@
   "name_full": "Shota Imanaga",
   "throws": "LHP",
   "team_abbr": "CHC",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
+      "text": "Rough stretch \u2014 7.13 ERA over his last four (14 ER in 17.2 IP).",
+      "highlight": false
+    },
+    {
       "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
-      "highlight": false
-    },
-    {
-      "text": "Team has won 7 of his last 10 starts.",
-      "highlight": false
-    },
-    {
-      "text": "Tough on left-handed bats \u2014 .217 against (152 AB).",
       "highlight": false
     }
   ],
@@ -24,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.78,
-      "percentile": 56,
+      "value": 4.01,
+      "percentile": 49,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,7 +29,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.92,
+      "value": 8.86,
       "percentile": 64,
       "league": "NL",
       "league_rank": null,
@@ -42,16 +38,16 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 145.1,
-      "percentile": 78,
+      "value": 150.1,
+      "percentile": 83,
       "league": "NL",
-      "league_rank": 14,
-      "mlb_rank": 32
+      "league_rank": 12,
+      "mlb_rank": 25
     },
     {
       "key": "k",
       "label": "K",
-      "value": 144,
+      "value": 148,
       "percentile": 82,
       "league": "NL",
       "league_rank": 15,
@@ -60,7 +56,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 34,
+      "value": 35,
       "percentile": 87,
       "league": "NL",
       "league_rank": 11,
@@ -69,7 +65,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.11,
+      "value": 2.1,
       "percentile": 87,
       "league": "NL",
       "league_rank": 11,
@@ -78,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 30,
-      "percentile": 7,
+      "value": 33,
+      "percentile": 5,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.6,
-      "percentile": 26,
+      "value": 4.78,
+      "percentile": 17,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.217,
-      "ab": 152
+      "avg": 0.223,
+      "ab": 157
     },
     "vs_rhb": {
-      "avg": 0.241,
-      "ab": 398
+      "avg": 0.245,
+      "ab": 416
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 30",
+      "opp_abbr": "CIN",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 8,
+      "er": 6,
+      "hr": 3,
+      "bb": 1,
+      "so": 4,
+      "pitches": 85,
+      "strikes": 57
+    },
     {
       "date_display": "Aug 23",
       "opp_abbr": "SEA",
@@ -156,19 +165,6 @@
       "so": 6,
       "pitches": 89,
       "strikes": 62
-    },
-    {
-      "date_display": "Jul 31",
-      "opp_abbr": "NYY",
-      "is_home": true,
-      "ip": "6.2",
-      "h": 4,
-      "er": 2,
-      "hr": 2,
-      "bb": 0,
-      "so": 6,
-      "pitches": 101,
-      "strikes": 65
     }
   ]
 }

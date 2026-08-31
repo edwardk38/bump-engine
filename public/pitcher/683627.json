@@ -1,0 +1,100 @@
+{
+  "pitcher_id": "683627",
+  "name_display": "A. Molina",
+  "name_full": "Anthony Molina",
+  "throws": "RHP",
+  "team_abbr": "SF",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "2.89 ERA with 2.89 K/9 over 9.1 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 2.89,
+      "percentile": 88,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 2.89,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 9.1,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 3,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 2,
+      "percentile": 94,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 1.93,
+      "percentile": 94,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 1,
+      "percentile": 66,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.47,
+      "percentile": 34,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.25,
+      "ab": 20
+    },
+    "vs_rhb": {
+      "avg": 0.154,
+      "ab": 13
+    }
+  },
+  "last_starts": []
+}

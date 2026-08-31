@@ -52,10 +52,10 @@
       "key": "k",
       "label": "K",
       "value": 145,
-      "percentile": 83,
+      "percentile": 81,
       "league": "AL",
-      "league_rank": 12,
-      "mlb_rank": 26
+      "league_rank": 13,
+      "mlb_rank": 28
     },
     {
       "key": "bb",
@@ -79,7 +79,7 @@
       "key": "hr",
       "label": "HR",
       "value": 15,
-      "percentile": 64,
+      "percentile": 65,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,8 +87,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.98,
-      "percentile": 54,
+      "value": 3.99,
+      "percentile": 53,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

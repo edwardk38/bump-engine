@@ -12,11 +12,11 @@
       "highlight": false
     },
     {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
       "highlight": false
     },
     {
-      "text": "Rolling \u2014 1.52 ERA over his last 4 (4 ER in 23.2 IP).",
+      "text": "Rolling \u2014 1.85 ERA over his last 4 (5 ER in 24.1 IP).",
       "highlight": false
     }
   ],
@@ -24,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.41,
-      "percentile": 36,
+      "value": 4.25,
+      "percentile": 41,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,8 +33,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.52,
-      "percentile": 53,
+      "value": 8.71,
+      "percentile": 58,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -42,8 +42,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 118.1,
-      "percentile": 41,
+      "value": 125.0,
+      "percentile": 47,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -51,8 +51,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 112,
-      "percentile": 52,
+      "value": 121,
+      "percentile": 62,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,7 +61,7 @@
       "key": "bb",
       "label": "BB",
       "value": 42,
-      "percentile": 38,
+      "percentile": 46,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +69,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.19,
-      "percentile": 38,
+      "value": 3.02,
+      "percentile": 46,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -78,7 +78,7 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 16,
+      "value": 17,
       "percentile": 43,
       "league": "NL",
       "league_rank": null,
@@ -87,8 +87,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.08,
-      "percentile": 48,
+      "value": 3.99,
+      "percentile": 53,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.225,
-      "ab": 244
+      "avg": 0.227,
+      "ab": 260
     },
     "vs_rhb": {
-      "avg": 0.294,
-      "ab": 201
+      "avg": 0.287,
+      "ab": 209
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 30",
+      "opp_abbr": "COL",
+      "is_home": true,
+      "ip": "6.2",
+      "h": 5,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 9,
+      "pitches": 89,
+      "strikes": 60
+    },
     {
       "date_display": "Aug 23",
       "opp_abbr": "MIL",
@@ -156,19 +169,6 @@
       "so": 9,
       "pitches": 92,
       "strikes": 56
-    },
-    {
-      "date_display": "Aug 1",
-      "opp_abbr": "SD",
-      "is_home": false,
-      "ip": "5.2",
-      "h": 5,
-      "er": 5,
-      "hr": 1,
-      "bb": 2,
-      "so": 9,
-      "pitches": 99,
-      "strikes": 60
     }
   ]
 }

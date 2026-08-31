@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "685299",
+  "name_display": "T. Gordon",
+  "name_full": "Tanner Gordon",
+  "throws": "RHP",
+  "team_abbr": "COL",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "5.38 ERA with 7.42 K/9 over 83.2 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.38,
+      "percentile": 11,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.42,
+      "percentile": 33,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 83.2,
+      "percentile": 11,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 69,
+      "percentile": 8,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 15,
+      "percentile": 99,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 1.61,
+      "percentile": 99,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 17,
+      "percentile": 8,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.68,
+      "percentile": 22,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.298,
+      "ab": 198
+    },
+    "vs_rhb": {
+      "avg": 0.319,
+      "ab": 144
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 26",
+      "opp_abbr": "WSH",
+      "is_home": false,
+      "ip": "7.0",
+      "h": 6,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 5,
+      "pitches": 90,
+      "strikes": 67
+    },
+    {
+      "date_display": "Aug 21",
+      "opp_abbr": "CLE",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 9,
+      "er": 5,
+      "hr": 1,
+      "bb": 2,
+      "so": 2,
+      "pitches": 82,
+      "strikes": 62
+    },
+    {
+      "date_display": "Jul 10",
+      "opp_abbr": "SF",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 8,
+      "er": 1,
+      "hr": 1,
+      "bb": 1,
+      "so": 1,
+      "pitches": 81,
+      "strikes": 54
+    },
+    {
+      "date_display": "Jul 5",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 6,
+      "er": 5,
+      "hr": 4,
+      "bb": 2,
+      "so": 7,
+      "pitches": 94,
+      "strikes": 62
+    },
+    {
+      "date_display": "Jun 30",
+      "opp_abbr": "MIA",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 9,
+      "er": 5,
+      "hr": 1,
+      "bb": 0,
+      "so": 4,
+      "pitches": 74,
+      "strikes": 49
+    }
+  ]
+}

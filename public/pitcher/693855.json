@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "693855",
+  "name_display": "I. Seymour",
+  "name_full": "Ian Seymour",
+  "throws": "LHP",
+  "team_abbr": "TB",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Misses bats \u2014 10.77 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .210 against (257 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.21,
+      "percentile": 43,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.77,
+      "percentile": 93,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 107.0,
+      "percentile": 32,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 128,
+      "percentile": 68,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 32,
+      "percentile": 65,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.69,
+      "percentile": 65,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 19,
+      "percentile": 16,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.0,
+      "percentile": 52,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.252,
+      "ab": 147
+    },
+    "vs_rhb": {
+      "avg": 0.21,
+      "ab": 257
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 20",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 6,
+      "er": 3,
+      "hr": 3,
+      "bb": 1,
+      "so": 8,
+      "pitches": 90,
+      "strikes": 66
+    },
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 2,
+      "bb": 1,
+      "so": 9,
+      "pitches": 93,
+      "strikes": 69
+    },
+    {
+      "date_display": "Aug 9",
+      "opp_abbr": "SEA",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 5,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 7,
+      "pitches": 98,
+      "strikes": 65
+    },
+    {
+      "date_display": "Aug 3",
+      "opp_abbr": "COL",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 7,
+      "er": 2,
+      "hr": 1,
+      "bb": 0,
+      "so": 9,
+      "pitches": 90,
+      "strikes": 60
+    },
+    {
+      "date_display": "Jul 18",
+      "opp_abbr": "BOS",
+      "is_home": false,
+      "ip": "3.0",
+      "h": 2,
+      "er": 3,
+      "hr": 2,
+      "bb": 2,
+      "so": 4,
+      "pitches": 61,
+      "strikes": 39
+    }
+  ]
+}

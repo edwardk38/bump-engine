@@ -4,11 +4,11 @@
   "name_full": "Will Warren",
   "throws": "RHP",
   "team_abbr": "NYY",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 5.89 ERA over his last four (12 ER in 18.1 IP).",
+      "text": "4.23 ERA with 8.93 K/9 over 134.0 innings this season.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.39,
-      "percentile": 37,
+      "value": 4.23,
+      "percentile": 42,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 127.0,
-      "percentile": 54,
+      "value": 134.0,
+      "percentile": 61,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 126,
-      "percentile": 67,
+      "value": 133,
+      "percentile": 71,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 45,
-      "percentile": 38,
+      "value": 46,
+      "percentile": 42,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.19,
-      "percentile": 38,
+      "value": 3.09,
+      "percentile": 42,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 20,
-      "percentile": 26,
+      "percentile": 32,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.3,
-      "percentile": 39,
+      "value": 4.15,
+      "percentile": 45,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -89,14 +89,27 @@
   "splits": {
     "vs_lhb": {
       "avg": 0.278,
-      "ab": 281
+      "ab": 295
     },
     "vs_rhb": {
-      "avg": 0.259,
-      "ab": 220
+      "avg": 0.254,
+      "ab": 232
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 30",
+      "opp_abbr": "BOS",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 6,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 7,
+      "pitches": 98,
+      "strikes": 67
+    },
     {
       "date_display": "Aug 25",
       "opp_abbr": "HOU",
@@ -148,19 +161,6 @@
       "so": 5,
       "pitches": 91,
       "strikes": 56
-    },
-    {
-      "date_display": "Jul 31",
-      "opp_abbr": "CHC",
-      "is_home": false,
-      "ip": "6.2",
-      "h": 4,
-      "er": 0,
-      "hr": 0,
-      "bb": 0,
-      "so": 7,
-      "pitches": 88,
-      "strikes": 55
     }
   ]
 }

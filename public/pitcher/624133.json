@@ -4,11 +4,11 @@
   "name_full": "Ranger Suarez",
   "throws": "LHP",
   "team_abbr": "BOS",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Team has won 8 of his last 10 starts.",
+      "text": "Team has won 7 of his last 10 starts.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.35,
-      "percentile": 74,
+      "value": 3.64,
+      "percentile": 62,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.9,
-      "percentile": 63,
+      "value": 8.66,
+      "percentile": 57,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 118.1,
-      "percentile": 41,
+      "value": 123.2,
+      "percentile": 45,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 117,
-      "percentile": 57,
+      "value": 119,
+      "percentile": 59,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 37,
-      "percentile": 57,
+      "value": 39,
+      "percentile": 54,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.81,
-      "percentile": 57,
+      "value": 2.84,
+      "percentile": 54,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,33 +70,46 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 7,
-      "percentile": 96,
+      "value": 8,
+      "percentile": 95,
       "league": "AL",
-      "league_rank": 2,
-      "mlb_rank": 6
+      "league_rank": 3,
+      "mlb_rank": 8
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 2.96,
+      "value": 3.08,
       "percentile": 91,
       "league": "AL",
-      "league_rank": 5,
-      "mlb_rank": 13
+      "league_rank": 6,
+      "mlb_rank": 14
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.275,
-      "ab": 120
+      "avg": 0.277,
+      "ab": 130
     },
     "vs_rhb": {
-      "avg": 0.222,
-      "ab": 324
+      "avg": 0.232,
+      "ab": 336
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 30",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 9,
+      "er": 6,
+      "hr": 1,
+      "bb": 2,
+      "so": 2,
+      "pitches": 101,
+      "strikes": 60
+    },
     {
       "date_display": "Aug 24",
       "opp_abbr": "MIA",
@@ -148,19 +161,6 @@
       "so": 3,
       "pitches": 70,
       "strikes": 41
-    },
-    {
-      "date_display": "Jul 31",
-      "opp_abbr": "LAD",
-      "is_home": false,
-      "ip": "4.2",
-      "h": 4,
-      "er": 3,
-      "hr": 0,
-      "bb": 2,
-      "so": 2,
-      "pitches": 65,
-      "strikes": 42
     }
   ]
 }

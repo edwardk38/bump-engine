@@ -4,23 +4,11 @@
   "name_full": "Kumar Rocker",
   "throws": "RHP",
   "team_abbr": "TEX",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 6.27 ERA over his last four (13 ER in 18.2 IP).",
-      "highlight": false
-    },
-    {
       "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
-      "highlight": false
-    },
-    {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
-      "highlight": false
-    },
-    {
-      "text": "Tough on right-handed bats \u2014 .219 against (215 AB).",
       "highlight": false
     }
   ],
@@ -28,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.41,
-      "percentile": 36,
+      "value": 4.44,
+      "percentile": 35,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.31,
-      "percentile": 51,
+      "value": 8.61,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 126.2,
-      "percentile": 53,
+      "value": 129.2,
+      "percentile": 55,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 117,
-      "percentile": 57,
+      "value": 124,
+      "percentile": 64,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 51,
-      "percentile": 25,
+      "value": 55,
+      "percentile": 20,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.62,
-      "percentile": 25,
+      "value": 3.82,
+      "percentile": 20,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 18,
-      "percentile": 37,
+      "percentile": 39,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.38,
-      "percentile": 36,
+      "value": 4.33,
+      "percentile": 38,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -100,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.283,
-      "ab": 279
+      "avg": 0.282,
+      "ab": 287
     },
     "vs_rhb": {
-      "avg": 0.219,
-      "ab": 215
+      "avg": 0.223,
+      "ab": 220
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 30",
+      "opp_abbr": "MIL",
+      "is_home": false,
+      "ip": "3.0",
+      "h": 4,
+      "er": 2,
+      "hr": 0,
+      "bb": 4,
+      "so": 7,
+      "pitches": 86,
+      "strikes": 48
+    },
     {
       "date_display": "Aug 24",
       "opp_abbr": "CWS",
@@ -160,19 +161,6 @@
       "so": 5,
       "pitches": 69,
       "strikes": 40
-    },
-    {
-      "date_display": "Aug 2",
-      "opp_abbr": "HOU",
-      "is_home": false,
-      "ip": "5.1",
-      "h": 10,
-      "er": 3,
-      "hr": 1,
-      "bb": 2,
-      "so": 5,
-      "pitches": 88,
-      "strikes": 59
     }
   ]
 }

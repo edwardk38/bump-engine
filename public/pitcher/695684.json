@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "695684",
+  "name_display": "E. Rodr\u00edguez",
+  "name_full": "Elmer Rodr\u00edguez",
+  "throws": "RHP",
+  "team_abbr": "NYY",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "4.7 ERA with 6.26 K/9 over 23.0 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.7,
+      "percentile": 27,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.26,
+      "percentile": 9,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 23.0,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 16,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 13,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 5.09,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 2,
+      "percentile": 85,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.9,
+      "percentile": 12,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.206,
+      "ab": 34
+    },
+    "vs_rhb": {
+      "avg": 0.283,
+      "ab": 53
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 26",
+      "opp_abbr": "HOU",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 3,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 6,
+      "pitches": 88,
+      "strikes": 57
+    },
+    {
+      "date_display": "Jun 21",
+      "opp_abbr": "CIN",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 4,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 4,
+      "pitches": 80,
+      "strikes": 46
+    },
+    {
+      "date_display": "May 17",
+      "opp_abbr": "NYM",
+      "is_home": false,
+      "ip": "4.1",
+      "h": 5,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 1,
+      "pitches": 64,
+      "strikes": 38
+    },
+    {
+      "date_display": "May 5",
+      "opp_abbr": "TEX",
+      "is_home": true,
+      "ip": "4.2",
+      "h": 6,
+      "er": 3,
+      "hr": 0,
+      "bb": 4,
+      "so": 2,
+      "pitches": 94,
+      "strikes": 55
+    },
+    {
+      "date_display": "Apr 29",
+      "opp_abbr": "TEX",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 4,
+      "er": 2,
+      "hr": 0,
+      "bb": 4,
+      "so": 3,
+      "pitches": 80,
+      "strikes": 42
+    }
+  ]
+}

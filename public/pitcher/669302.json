@@ -4,11 +4,11 @@
   "name_full": "Logan Gilbert",
   "throws": "RHP",
   "team_abbr": "SEA",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 10 of his last 10 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
       "highlight": false
     },
     {
@@ -16,7 +16,7 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 9.39 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 9.32 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
@@ -28,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.36,
-      "percentile": 74,
+      "value": 3.42,
+      "percentile": 72,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,8 +37,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.39,
-      "percentile": 74,
+      "value": 9.32,
+      "percentile": 72,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,25 +46,25 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 155.1,
-      "percentile": 91,
+      "value": 160.1,
+      "percentile": 94,
       "league": "AL",
-      "league_rank": 6,
-      "mlb_rank": 13
+      "league_rank": 5,
+      "mlb_rank": 9
     },
     {
       "key": "k",
       "label": "K",
-      "value": 162,
-      "percentile": 90,
+      "value": 166,
+      "percentile": 91,
       "league": "AL",
-      "league_rank": 7,
-      "mlb_rank": 15
+      "league_rank": 6,
+      "mlb_rank": 14
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 39,
+      "value": 40,
       "percentile": 83,
       "league": "AL",
       "league_rank": 12,
@@ -73,7 +73,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.26,
+      "value": 2.25,
       "percentile": 83,
       "league": "AL",
       "league_rank": 12,
@@ -82,8 +82,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 21,
-      "percentile": 43,
+      "value": 22,
+      "percentile": 41,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.6,
-      "percentile": 72,
+      "value": 3.63,
+      "percentile": 71,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -101,14 +101,27 @@
   "splits": {
     "vs_lhb": {
       "avg": 0.199,
-      "ab": 321
+      "ab": 326
     },
     "vs_rhb": {
-      "avg": 0.229,
-      "ab": 245
+      "avg": 0.235,
+      "ab": 260
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 30",
+      "opp_abbr": "TOR",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 6,
+      "er": 3,
+      "hr": 1,
+      "bb": 1,
+      "so": 4,
+      "pitches": 87,
+      "strikes": 59
+    },
     {
       "date_display": "Aug 24",
       "opp_abbr": "PHI",
@@ -160,19 +173,6 @@
       "so": 6,
       "pitches": 95,
       "strikes": 54
-    },
-    {
-      "date_display": "Aug 1",
-      "opp_abbr": "MIN",
-      "is_home": true,
-      "ip": "7.0",
-      "h": 5,
-      "er": 3,
-      "hr": 2,
-      "bb": 1,
-      "so": 6,
-      "pitches": 96,
-      "strikes": 63
     }
   ]
 }
