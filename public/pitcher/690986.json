@@ -4,15 +4,15 @@
   "name_full": "Kyle Harrison",
   "throws": "LHP",
   "team_abbr": "MIL",
-  "form_tag": "hot",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Misses bats \u2014 11.06 K/9, about a strikeout an inning.",
+      "text": "Rough stretch \u2014 6.38 ERA over his last four (13 ER in 18.1 IP).",
       "highlight": false
     },
     {
-      "text": "Rolling \u2014 1.83 ERA over his last 4 (4 ER in 19.2 IP).",
+      "text": "Misses bats \u2014 10.93 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -20,25 +20,25 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.79,
-      "percentile": 90,
+      "value": 3.45,
+      "percentile": 70,
       "league": "NL",
-      "league_rank": 10,
-      "mlb_rank": 14
+      "league_rank": null,
+      "mlb_rank": null
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 11.06,
-      "percentile": 97,
+      "value": 10.93,
+      "percentile": 95,
       "league": "NL",
-      "league_rank": 3,
-      "mlb_rank": 5
+      "league_rank": 4,
+      "mlb_rank": 8
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 103.1,
+      "value": 107.0,
       "percentile": 30,
       "league": "NL",
       "league_rank": null,
@@ -47,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 127,
-      "percentile": 67,
+      "value": 130,
+      "percentile": 68,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 27,
-      "percentile": 79,
+      "value": 29,
+      "percentile": 74,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.35,
-      "percentile": 79,
+      "value": 2.44,
+      "percentile": 74,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -74,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 14,
-      "percentile": 43,
+      "value": 19,
+      "percentile": 16,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,24 +83,37 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.28,
-      "percentile": 86,
+      "value": 3.88,
+      "percentile": 59,
       "league": "NL",
-      "league_rank": 11,
-      "mlb_rank": 21
+      "league_rank": null,
+      "mlb_rank": null
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.235,
-      "ab": 115
+      "avg": 0.231,
+      "ab": 121
     },
     "vs_rhb": {
-      "avg": 0.224,
-      "ab": 277
+      "avg": 0.242,
+      "ab": 293
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 31",
+      "opp_abbr": "CHC",
+      "is_home": false,
+      "ip": "3.2",
+      "h": 10,
+      "er": 9,
+      "hr": 5,
+      "bb": 2,
+      "so": 3,
+      "pitches": 98,
+      "strikes": 62
+    },
     {
       "date_display": "Aug 25",
       "opp_abbr": "NYM",
@@ -152,19 +165,6 @@
       "so": 10,
       "pitches": 69,
       "strikes": 50
-    },
-    {
-      "date_display": "Jul 8",
-      "opp_abbr": "STL",
-      "is_home": false,
-      "ip": "4.0",
-      "h": 4,
-      "er": 3,
-      "hr": 1,
-      "bb": 0,
-      "so": 2,
-      "pitches": 70,
-      "strikes": 47
     }
   ]
 }

@@ -1,0 +1,127 @@
+{
+  "pitcher_id": "702193",
+  "name_display": "A. Morris",
+  "name_full": "Andrew Morris",
+  "throws": "RHP",
+  "team_abbr": "MIN",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "3.82 ERA with 8.34 K/9 over 63.2 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.82,
+      "percentile": 55,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.34,
+      "percentile": 51,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 63.2,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 59,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 22,
+      "percentile": 41,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.11,
+      "percentile": 41,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 4,
+      "percentile": 96,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.17,
+      "percentile": 88,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.252,
+      "ab": 123
+    },
+    "vs_rhb": {
+      "avg": 0.258,
+      "ab": 124
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jun 4",
+      "opp_abbr": "KC",
+      "is_home": true,
+      "ip": "2.0",
+      "h": 5,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 2,
+      "pitches": 48,
+      "strikes": 32
+    },
+    {
+      "date_display": "May 10",
+      "opp_abbr": "CLE",
+      "is_home": false,
+      "ip": "1.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 0,
+      "pitches": 6,
+      "strikes": 4
+    }
+  ]
+}

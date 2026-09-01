@@ -1,0 +1,140 @@
+{
+  "pitcher_id": "669620",
+  "name_display": "B. Basso",
+  "name_full": "Brady Basso",
+  "throws": "LHP",
+  "team_abbr": "ATH",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "4.5 ERA with 7.07 K/9 over 28.0 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.5,
+      "percentile": 33,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.07,
+      "percentile": 20,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 28.0,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 22,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 4,
+      "percentile": 100,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 1.29,
+      "percentile": 100,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 3,
+      "percentile": 67,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.33,
+      "percentile": 85,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.261,
+      "ab": 46
+    },
+    "vs_rhb": {
+      "avg": 0.324,
+      "ab": 71
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "HOU",
+      "is_home": false,
+      "ip": "1.0",
+      "h": 4,
+      "er": 3,
+      "hr": 1,
+      "bb": 0,
+      "so": 0,
+      "pitches": 22,
+      "strikes": 17
+    },
+    {
+      "date_display": "Aug 18",
+      "opp_abbr": "KC",
+      "is_home": false,
+      "ip": "2.1",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 1,
+      "pitches": 32,
+      "strikes": 23
+    },
+    {
+      "date_display": "Jul 25",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "2.1",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 3,
+      "pitches": 36,
+      "strikes": 24
+    }
+  ]
+}

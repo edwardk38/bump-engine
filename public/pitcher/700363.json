@@ -1,0 +1,140 @@
+{
+  "pitcher_id": "700363",
+  "name_display": "A. Smith-Shawver",
+  "name_full": "AJ Smith-Shawver",
+  "throws": "RHP",
+  "team_abbr": "ATL",
+  "form_tag": "cold",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Rough stretch \u2014 5.93 ERA over his last three (9 ER in 13.2 IP).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.93,
+      "percentile": 5,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.59,
+      "percentile": 12,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 13.2,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 10,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 8,
+      "percentile": 1,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 5.27,
+      "percentile": 1,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 1,
+      "percentile": 93,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.32,
+      "percentile": 38,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.216,
+      "ab": 37
+    },
+    "vs_rhb": {
+      "avg": 0.353,
+      "ab": 17
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 26",
+      "opp_abbr": "LAD",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 5,
+      "er": 3,
+      "hr": 1,
+      "bb": 3,
+      "so": 3,
+      "pitches": 90,
+      "strikes": 52
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "4.1",
+      "h": 5,
+      "er": 4,
+      "hr": 0,
+      "bb": 3,
+      "so": 3,
+      "pitches": 75,
+      "strikes": 49
+    },
+    {
+      "date_display": "Jul 29",
+      "opp_abbr": "NYM",
+      "is_home": false,
+      "ip": "4.1",
+      "h": 4,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 69,
+      "strikes": 43
+    }
+  ]
+}

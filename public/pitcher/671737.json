@@ -4,13 +4,9 @@
   "name_full": "Taj Bradley",
   "throws": "RHP",
   "team_abbr": "MIN",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 5.66 ERA over his last four (13 ER in 20.2 IP).",
-      "highlight": false
-    },
     {
       "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
       "highlight": false
@@ -20,7 +16,11 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 10.32 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 10.38 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .210 against (338 AB).",
       "highlight": false
     }
   ],
@@ -28,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.97,
-      "percentile": 52,
+      "value": 3.85,
+      "percentile": 54,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,34 +37,34 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 10.32,
+      "value": 10.38,
       "percentile": 89,
       "league": "AL",
       "league_rank": 6,
-      "mlb_rank": 17
+      "mlb_rank": 16
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 147.1,
-      "percentile": 77,
+      "value": 154.1,
+      "percentile": 88,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 9,
+      "mlb_rank": 18
     },
     {
       "key": "k",
       "label": "K",
-      "value": 169,
-      "percentile": 91,
+      "value": 178,
+      "percentile": 96,
       "league": "AL",
-      "league_rank": 5,
-      "mlb_rank": 13
+      "league_rank": 4,
+      "mlb_rank": 7
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 63,
+      "value": 66,
       "percentile": 18,
       "league": "AL",
       "league_rank": null,
@@ -82,7 +82,7 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 20,
+      "value": 21,
       "percentile": 43,
       "league": "AL",
       "league_rank": null,
@@ -91,7 +91,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.89,
+      "value": 3.9,
       "percentile": 57,
       "league": "AL",
       "league_rank": null,
@@ -100,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.215,
-      "ab": 325
+      "avg": 0.21,
+      "ab": 338
     },
     "vs_rhb": {
-      "avg": 0.236,
-      "ab": 233
+      "avg": 0.239,
+      "ab": 243
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 31",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 3,
+      "so": 9,
+      "pitches": 104,
+      "strikes": 66
+    },
     {
       "date_display": "Aug 25",
       "opp_abbr": "ATH",
@@ -160,19 +173,6 @@
       "so": 7,
       "pitches": 97,
       "strikes": 62
-    },
-    {
-      "date_display": "Aug 2",
-      "opp_abbr": "SEA",
-      "is_home": false,
-      "ip": "6.0",
-      "h": 7,
-      "er": 3,
-      "hr": 0,
-      "bb": 4,
-      "so": 2,
-      "pitches": 94,
-      "strikes": 57
     }
   ]
 }

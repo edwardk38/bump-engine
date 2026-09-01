@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "687312",
+  "name_display": "G. Hughes",
+  "name_full": "Gabriel Hughes",
+  "throws": "RHP",
+  "team_abbr": "COL",
+  "form_tag": "cold",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Struggling lately \u2014 4+ runs in three of his last four.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 6.61,
+      "percentile": 1,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.17,
+      "percentile": 25,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 47.2,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 38,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 19,
+      "percentile": 26,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.59,
+      "percentile": 26,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 5,
+      "percentile": 70,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.17,
+      "percentile": 44,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.269,
+      "ab": 119
+    },
+    "vs_rhb": {
+      "avg": 0.273,
+      "ab": 66
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 27",
+      "opp_abbr": "WSH",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 7,
+      "er": 4,
+      "hr": 1,
+      "bb": 4,
+      "so": 3,
+      "pitches": 95,
+      "strikes": 54
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "CLE",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 4,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 2,
+      "pitches": 86,
+      "strikes": 51
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "SF",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 8,
+      "er": 7,
+      "hr": 1,
+      "bb": 1,
+      "so": 2,
+      "pitches": 81,
+      "strikes": 54
+    },
+    {
+      "date_display": "Aug 10",
+      "opp_abbr": "AZ",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 5,
+      "er": 7,
+      "hr": 1,
+      "bb": 3,
+      "so": 3,
+      "pitches": 88,
+      "strikes": 49
+    },
+    {
+      "date_display": "Aug 4",
+      "opp_abbr": "TB",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 4,
+      "er": 5,
+      "hr": 1,
+      "bb": 2,
+      "so": 7,
+      "pitches": 77,
+      "strikes": 49
+    }
+  ]
+}

@@ -10,10 +10,6 @@
     {
       "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
       "highlight": false
-    },
-    {
-      "text": "Tough on right-handed bats \u2014 .218 against (197 AB).",
-      "highlight": false
     }
   ],
   "season_stats": [
@@ -29,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.68,
-      "percentile": 14,
+      "value": 6.78,
+      "percentile": 15,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 126.2,
-      "percentile": 51,
+      "value": 128.2,
+      "percentile": 52,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 94,
-      "percentile": 33,
+      "value": 97,
+      "percentile": 36,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -57,7 +53,7 @@
       "key": "bb",
       "label": "BB",
       "value": 45,
-      "percentile": 38,
+      "percentile": 39,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.2,
-      "percentile": 38,
+      "value": 3.15,
+      "percentile": 39,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 20,
-      "percentile": 25,
+      "percentile": 27,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.88,
-      "percentile": 14,
+      "value": 4.8,
+      "percentile": 15,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,12 +88,12 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.281,
-      "ab": 292
+      "avg": 0.278,
+      "ab": 295
     },
     "vs_rhb": {
-      "avg": 0.218,
-      "ab": 197
+      "avg": 0.223,
+      "ab": 202
     }
   },
   "last_starts": [
