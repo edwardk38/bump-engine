@@ -53,7 +53,7 @@
       "key": "bb",
       "label": "BB",
       "value": 45,
-      "percentile": 39,
+      "percentile": 40,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -62,7 +62,7 @@
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 3.15,
-      "percentile": 39,
+      "percentile": 40,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +79,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.8,
+      "value": 4.81,
       "percentile": 15,
       "league": "NL",
       "league_rank": null,

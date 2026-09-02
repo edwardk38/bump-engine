@@ -1,0 +1,170 @@
+{
+  "pitcher_id": "665152",
+  "name_display": "D. Kremer",
+  "name_full": "Dean Kremer",
+  "throws": "RHP",
+  "team_abbr": "MIN",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .211 against (95 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.6,
+      "percentile": 7,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.76,
+      "percentile": 60,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 62.2,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 61,
+      "percentile": 3,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 22,
+      "percentile": 39,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.16,
+      "percentile": 39,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 15,
+      "percentile": 3,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.3,
+      "percentile": 8,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.264,
+      "ab": 140
+    },
+    "vs_rhb": {
+      "avg": 0.211,
+      "ab": 95
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "CWS",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 7,
+      "er": 5,
+      "hr": 1,
+      "bb": 3,
+      "so": 3,
+      "pitches": 90,
+      "strikes": 53
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "SD",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 3,
+      "er": 2,
+      "hr": 1,
+      "bb": 3,
+      "so": 5,
+      "pitches": 101,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "PHI",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 5,
+      "er": 4,
+      "hr": 1,
+      "bb": 2,
+      "so": 6,
+      "pitches": 89,
+      "strikes": 52
+    },
+    {
+      "date_display": "Aug 10",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 1,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 7,
+      "pitches": 89,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 5",
+      "opp_abbr": "KC",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 2,
+      "pitches": 88,
+      "strikes": 52
+    }
+  ]
+}

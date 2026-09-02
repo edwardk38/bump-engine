@@ -1,0 +1,94 @@
+{
+  "pitcher_id": "663795",
+  "name_display": "J. Hagenman",
+  "name_full": "Justin Hagenman",
+  "throws": "RHP",
+  "team_abbr": "NYM",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "No season line posted yet.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": null,
+      "percentile": null,
+      "league": null,
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": null,
+      "percentile": null,
+      "league": null,
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": null,
+      "percentile": null,
+      "league": null,
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": null,
+      "percentile": null,
+      "league": null,
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": null,
+      "percentile": null,
+      "league": null,
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": null,
+      "percentile": null,
+      "league": null,
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": null,
+      "percentile": null,
+      "league": null,
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": null,
+      "percentile": null,
+      "league": null,
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": null,
+    "vs_rhb": null
+  },
+  "last_starts": []
+}

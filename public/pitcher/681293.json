@@ -4,15 +4,11 @@
   "name_full": "Spencer Arrighetti",
   "throws": "RHP",
   "team_abbr": "TOR",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 6.30 ERA over his last three (7 ER in 10.0 IP).",
-      "highlight": false
-    },
-    {
-      "text": "Tough on right-handed bats \u2014 .197 against (152 AB).",
+      "text": "Tough on right-handed bats \u2014 .201 against (154 AB).",
       "highlight": false
     }
   ],
@@ -20,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.81,
-      "percentile": 26,
+      "value": 4.82,
+      "percentile": 27,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.97,
-      "percentile": 66,
+      "value": 8.82,
+      "percentile": 62,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 95.1,
-      "percentile": 21,
+      "value": 99.0,
+      "percentile": 25,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 95,
-      "percentile": 33,
+      "value": 97,
+      "percentile": 36,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 54,
-      "percentile": 1,
+      "value": 55,
+      "percentile": 2,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 5.1,
-      "percentile": 1,
+      "value": 5.0,
+      "percentile": 2,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -74,8 +70,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 14,
-      "percentile": 35,
+      "value": 15,
+      "percentile": 31,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,7 +79,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.13,
+      "value": 5.19,
       "percentile": 10,
       "league": "AL",
       "league_rank": null,
@@ -92,12 +88,12 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.236,
-      "ab": 195
+      "avg": 0.228,
+      "ab": 206
     },
     "vs_rhb": {
-      "avg": 0.197,
-      "ab": 152
+      "avg": 0.201,
+      "ab": 154
     }
   },
   "last_starts": [

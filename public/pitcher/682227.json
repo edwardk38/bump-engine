@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "682227",
+  "name_display": "B. Williamson",
+  "name_full": "Brandon Williamson",
+  "throws": "LHP",
+  "team_abbr": "CIN",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "6.11 ERA with 6.11 K/9 over 28.0 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 6.11,
+      "percentile": 3,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.11,
+      "percentile": 6,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 28.0,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 19,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 20,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 6.43,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 4,
+      "percentile": 38,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 6.05,
+      "percentile": 3,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.3,
+      "ab": 20
+    },
+    "vs_rhb": {
+      "avg": 0.244,
+      "ab": 82
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Apr 29",
+      "opp_abbr": "COL",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 4,
+      "er": 4,
+      "hr": 0,
+      "bb": 4,
+      "so": 4,
+      "pitches": 58,
+      "strikes": 33
+    },
+    {
+      "date_display": "Apr 22",
+      "opp_abbr": "TB",
+      "is_home": false,
+      "ip": "4.1",
+      "h": 7,
+      "er": 5,
+      "hr": 1,
+      "bb": 3,
+      "so": 3,
+      "pitches": 87,
+      "strikes": 54
+    },
+    {
+      "date_display": "Apr 17",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 4,
+      "so": 2,
+      "pitches": 93,
+      "strikes": 50
+    },
+    {
+      "date_display": "Apr 11",
+      "opp_abbr": "LAA",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 3,
+      "er": 3,
+      "hr": 0,
+      "bb": 6,
+      "so": 3,
+      "pitches": 93,
+      "strikes": 49
+    },
+    {
+      "date_display": "Apr 6",
+      "opp_abbr": "MIA",
+      "is_home": false,
+      "ip": "6.2",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 4,
+      "pitches": 93,
+      "strikes": 59
+    }
+  ]
+}

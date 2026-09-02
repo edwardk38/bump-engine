@@ -8,7 +8,7 @@
   "qualified": true,
   "read": [
     {
-      "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false
     }
   ],
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.16,
-      "percentile": 48,
+      "value": 8.34,
+      "percentile": 51,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 71.2,
-      "percentile": 2,
+      "value": 77.2,
+      "percentile": 5,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 65,
-      "percentile": 7,
+      "value": 72,
+      "percentile": 8,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 31,
-      "percentile": 16,
+      "value": 33,
+      "percentile": 20,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.89,
-      "percentile": 16,
+      "value": 3.82,
+      "percentile": 20,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,8 +70,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 10,
-      "percentile": 39,
+      "value": 12,
+      "percentile": 29,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.63,
-      "percentile": 23,
+      "value": 4.75,
+      "percentile": 20,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.316,
-      "ab": 155
+      "avg": 0.318,
+      "ab": 176
     },
     "vs_rhb": {
-      "avg": 0.234,
-      "ab": 124
+      "avg": 0.228,
+      "ab": 127
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 1",
+      "opp_abbr": "NYY",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 7,
+      "er": 4,
+      "hr": 2,
+      "bb": 2,
+      "so": 7,
+      "pitches": 102,
+      "strikes": 68
+    },
     {
       "date_display": "Aug 26",
       "opp_abbr": "CLE",
@@ -148,19 +161,6 @@
       "so": 8,
       "pitches": 83,
       "strikes": 47
-    },
-    {
-      "date_display": "Aug 4",
-      "opp_abbr": "BAL",
-      "is_home": false,
-      "ip": "7.0",
-      "h": 3,
-      "er": 2,
-      "hr": 0,
-      "bb": 1,
-      "so": 6,
-      "pitches": 98,
-      "strikes": 69
     }
   ]
 }

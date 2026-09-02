@@ -44,7 +44,7 @@
       "key": "k",
       "label": "K",
       "value": 67,
-      "percentile": 7,
+      "percentile": 6,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.18,
-      "percentile": 9,
+      "value": 5.19,
+      "percentile": 10,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null

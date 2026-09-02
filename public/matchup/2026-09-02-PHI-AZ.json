@@ -1,0 +1,288 @@
+{
+  "game_id": "2026-09-02-PHI-AZ",
+  "date_display": "Wednesday, Sep 2",
+  "start_time_display": "3:40 PM",
+  "venue": "Chase Field",
+  "away_team": "Philadelphia Phillies",
+  "home_team": "Arizona Diamondbacks",
+  "away_abbr": "PHI",
+  "home_abbr": "AZ",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "691725",
+      "name_display": "A. Painter",
+      "throws": "RHP",
+      "team_abbr": "PHI",
+      "opponent_abbr": "AZ",
+      "qualified": true,
+      "form_tag": "hot",
+      "headline_stats": {
+        "era": 5.95,
+        "k_per_9": 7.78
+      },
+      "read": [
+        {
+          "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 5.95,
+          "percentile": 4,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 7.78,
+          "percentile": 36,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 98.1,
+          "percentile": 24,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 85,
+          "percentile": 21,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 37,
+          "percentile": 32,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.39,
+          "percentile": 32,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 17,
+          "percentile": 19,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 4.89,
+          "percentile": 13,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.296,
+          "ab": 233
+        },
+        "vs_rhb": {
+          "avg": 0.24,
+          "ab": 150
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Aug 28",
+          "opp_abbr": "LAA",
+          "is_home": false,
+          "ip": "6.0",
+          "h": 2,
+          "er": 3,
+          "hr": 0,
+          "bb": 3,
+          "so": 6,
+          "pitches": 94,
+          "strikes": 57
+        },
+        {
+          "date_display": "Aug 22",
+          "opp_abbr": "STL",
+          "is_home": true,
+          "ip": "7.0",
+          "h": 5,
+          "er": 1,
+          "hr": 0,
+          "bb": 0,
+          "so": 8,
+          "pitches": 103,
+          "strikes": 75
+        },
+        {
+          "date_display": "Aug 16",
+          "opp_abbr": "MIN",
+          "is_home": false,
+          "ip": "5.0",
+          "h": 6,
+          "er": 5,
+          "hr": 2,
+          "bb": 3,
+          "so": 2,
+          "pitches": 94,
+          "strikes": 58
+        },
+        {
+          "date_display": "Aug 10",
+          "opp_abbr": "STL",
+          "is_home": false,
+          "ip": "5.1",
+          "h": 2,
+          "er": 2,
+          "hr": 0,
+          "bb": 3,
+          "so": 6,
+          "pitches": 93,
+          "strikes": 56
+        },
+        {
+          "date_display": "Aug 5",
+          "opp_abbr": "WSH",
+          "is_home": true,
+          "ip": "4.0",
+          "h": 3,
+          "er": 1,
+          "hr": 0,
+          "bb": 1,
+          "so": 4,
+          "pitches": 63,
+          "strikes": 37
+        }
+      ]
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "664199",
+      "name_display": "T. Clarke",
+      "throws": "RHP",
+      "team_abbr": "AZ",
+      "opponent_abbr": "PHI",
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 2.6,
+        "k_per_9": 5.34
+      },
+      "read": [
+        {
+          "text": "Tough on right-handed bats \u2014 .174 against (92 AB).",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 2.6,
+          "percentile": 92,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 5.34,
+          "percentile": 1,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 62.1,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 37,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 11,
+          "percentile": 99,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 1.59,
+          "percentile": 99,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 6,
+          "percentile": 80,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 3.82,
+          "percentile": 61,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.222,
+          "ab": 126
+        },
+        "vs_rhb": {
+          "avg": 0.174,
+          "ab": 92
+        }
+      },
+      "last_starts": []
+    }
+  }
+}

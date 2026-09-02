@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "669713",
+  "name_display": "H. Wesneski",
+  "name_full": "Hayden Wesneski",
+  "throws": "RHP",
+  "team_abbr": "HOU",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "3.86 ERA with 7.71 K/9 over 32.2 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.86,
+      "percentile": 55,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.71,
+      "percentile": 36,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 32.2,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 28,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 12,
+      "percentile": 36,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.31,
+      "percentile": 36,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 2,
+      "percentile": 97,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.36,
+      "percentile": 83,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.227,
+      "ab": 66
+    },
+    "vs_rhb": {
+      "avg": 0.231,
+      "ab": 52
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 27",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 6,
+      "pitches": 91,
+      "strikes": 55
+    },
+    {
+      "date_display": "Aug 21",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 4,
+      "pitches": 91,
+      "strikes": 59
+    },
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "SEA",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 7,
+      "er": 5,
+      "hr": 0,
+      "bb": 1,
+      "so": 6,
+      "pitches": 81,
+      "strikes": 52
+    },
+    {
+      "date_display": "Aug 10",
+      "opp_abbr": "SF",
+      "is_home": false,
+      "ip": "7.0",
+      "h": 5,
+      "er": 3,
+      "hr": 2,
+      "bb": 2,
+      "so": 4,
+      "pitches": 83,
+      "strikes": 51
+    },
+    {
+      "date_display": "Aug 4",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 78,
+      "strikes": 51
+    }
+  ]
+}

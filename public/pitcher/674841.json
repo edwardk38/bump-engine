@@ -26,7 +26,7 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 8.54,
-      "percentile": 54,
+      "percentile": 53,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -35,7 +35,7 @@
       "key": "ip",
       "label": "IP",
       "value": 90.2,
-      "percentile": 14,
+      "percentile": 15,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -44,7 +44,7 @@
       "key": "k",
       "label": "K",
       "value": 86,
-      "percentile": 24,
+      "percentile": 23,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -53,7 +53,7 @@
       "key": "bb",
       "label": "BB",
       "value": 41,
-      "percentile": 12,
+      "percentile": 13,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -62,7 +62,7 @@
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 4.07,
-      "percentile": 12,
+      "percentile": 13,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,11 +79,11 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.35,
-      "percentile": 84,
+      "value": 3.36,
+      "percentile": 83,
       "league": "NL",
       "league_rank": 13,
-      "mlb_rank": 24
+      "mlb_rank": 25
     }
   ],
   "splits": {

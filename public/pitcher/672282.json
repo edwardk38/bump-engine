@@ -38,10 +38,10 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 10.1,
-      "percentile": 86,
+      "percentile": 85,
       "league": "AL",
-      "league_rank": 7,
-      "mlb_rank": 21
+      "league_rank": 8,
+      "mlb_rank": 22
     },
     {
       "key": "ip",
@@ -65,7 +65,7 @@
       "key": "bb",
       "label": "BB",
       "value": 44,
-      "percentile": 68,
+      "percentile": 69,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -74,7 +74,7 @@
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 2.55,
-      "percentile": 68,
+      "percentile": 69,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,7 +83,7 @@
       "key": "hr",
       "label": "HR",
       "value": 17,
-      "percentile": 65,
+      "percentile": 66,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,7 +91,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.19,
+      "value": 3.2,
       "percentile": 88,
       "league": "AL",
       "league_rank": 9,

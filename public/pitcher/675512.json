@@ -4,11 +4,11 @@
   "name_full": "Troy Melton",
   "throws": "RHP",
   "team_abbr": "DET",
-  "form_tag": "hot",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
       "highlight": false
     },
     {
@@ -16,11 +16,11 @@
       "highlight": false
     },
     {
-      "text": "Rolling \u2014 2.74 ERA over his last 4 (7 ER in 23.0 IP).",
+      "text": "Tough on left-handed bats \u2014 .211 against (213 AB).",
       "highlight": false
     },
     {
-      "text": "Team has won 7 of his last 10 starts.",
+      "text": "Tough on right-handed bats \u2014 .196 against (158 AB).",
       "highlight": false
     }
   ],
@@ -28,16 +28,16 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 1.86,
-      "percentile": 98,
+      "value": 2.2,
+      "percentile": 96,
       "league": "AL",
-      "league_rank": 1,
-      "mlb_rank": 3
+      "league_rank": 2,
+      "mlb_rank": 6
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.42,
+      "value": 7.39,
       "percentile": 31,
       "league": "AL",
       "league_rank": null,
@@ -46,8 +46,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 97.0,
-      "percentile": 23,
+      "value": 102.1,
+      "percentile": 27,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 80,
-      "percentile": 18,
+      "value": 84,
+      "percentile": 20,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,8 +64,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 28,
-      "percentile": 67,
+      "value": 29,
+      "percentile": 69,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.6,
-      "percentile": 67,
+      "value": 2.55,
+      "percentile": 69,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -82,8 +82,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 10,
-      "percentile": 71,
+      "value": 12,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.73,
-      "percentile": 64,
+      "value": 3.94,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -100,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.214,
-      "ab": 201
+      "avg": 0.211,
+      "ab": 213
     },
     "vs_rhb": {
-      "avg": 0.184,
-      "ab": 147
+      "avg": 0.196,
+      "ab": 158
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 1",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 6,
+      "er": 5,
+      "hr": 2,
+      "bb": 1,
+      "so": 4,
+      "pitches": 96,
+      "strikes": 61
+    },
     {
       "date_display": "Aug 26",
       "opp_abbr": "TB",
@@ -160,19 +173,6 @@
       "so": 5,
       "pitches": 92,
       "strikes": 60
-    },
-    {
-      "date_display": "Aug 4",
-      "opp_abbr": "SEA",
-      "is_home": false,
-      "ip": "7.0",
-      "h": 3,
-      "er": 0,
-      "hr": 0,
-      "bb": 2,
-      "so": 4,
-      "pitches": 97,
-      "strikes": 66
     }
   ]
 }

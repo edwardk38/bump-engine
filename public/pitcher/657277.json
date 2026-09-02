@@ -4,9 +4,13 @@
   "name_full": "Logan Webb",
   "throws": "RHP",
   "team_abbr": "SF",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
+    {
+      "text": "Rough stretch \u2014 9.18 ERA over his last four (17 ER in 16.2 IP).",
+      "highlight": false
+    },
     {
       "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
       "highlight": false
@@ -14,22 +18,14 @@
     {
       "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
       "highlight": false
-    },
-    {
-      "text": "Going deep \u2014 6+ innings in 5 of his last 6 starts.",
-      "highlight": false
-    },
-    {
-      "text": "Tough on right-handed bats \u2014 .215 against (219 AB).",
-      "highlight": false
     }
   ],
   "season_stats": [
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.72,
-      "percentile": 57,
+      "value": 4.21,
+      "percentile": 44,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,8 +33,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.19,
-      "percentile": 26,
+      "value": 7.16,
+      "percentile": 24,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,17 +42,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 147.2,
-      "percentile": 76,
+      "value": 149.2,
+      "percentile": 79,
       "league": "NL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 13,
+      "mlb_rank": 31
     },
     {
       "key": "k",
       "label": "K",
-      "value": 118,
-      "percentile": 56,
+      "value": 119,
+      "percentile": 57,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,51 +60,64 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 36,
-      "percentile": 85,
+      "value": 38,
+      "percentile": 81,
       "league": "NL",
-      "league_rank": 12,
-      "mlb_rank": 22
+      "league_rank": 15,
+      "mlb_rank": 28
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.19,
-      "percentile": 85,
+      "value": 2.29,
+      "percentile": 81,
       "league": "NL",
-      "league_rank": 12,
-      "mlb_rank": 22
+      "league_rank": 15,
+      "mlb_rank": 28
     },
     {
       "key": "hr",
       "label": "HR",
       "value": 11,
-      "percentile": 92,
+      "percentile": 93,
       "league": "NL",
-      "league_rank": 7,
-      "mlb_rank": 12
+      "league_rank": 6,
+      "mlb_rank": 11
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.36,
-      "percentile": 83,
+      "value": 3.43,
+      "percentile": 79,
       "league": "NL",
-      "league_rank": 14,
-      "mlb_rank": 25
+      "league_rank": null,
+      "mlb_rank": null
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.239,
-      "ab": 335
+      "avg": 0.249,
+      "ab": 342
     },
     "vs_rhb": {
-      "avg": 0.215,
-      "ab": 219
+      "avg": 0.226,
+      "ab": 226
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 1",
+      "opp_abbr": "PIT",
+      "is_home": false,
+      "ip": "2.0",
+      "h": 9,
+      "er": 9,
+      "hr": 0,
+      "bb": 2,
+      "so": 1,
+      "pitches": 65,
+      "strikes": 37
+    },
     {
       "date_display": "Aug 26",
       "opp_abbr": "CIN",
@@ -160,19 +169,6 @@
       "so": 2,
       "pitches": 100,
       "strikes": 66
-    },
-    {
-      "date_display": "Aug 3",
-      "opp_abbr": "TEX",
-      "is_home": false,
-      "ip": "6.0",
-      "h": 5,
-      "er": 0,
-      "hr": 0,
-      "bb": 1,
-      "so": 8,
-      "pitches": 96,
-      "strikes": 64
     }
   ]
 }

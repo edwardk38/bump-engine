@@ -39,7 +39,7 @@
       "key": "ip",
       "label": "IP",
       "value": 110.1,
-      "percentile": 33,
+      "percentile": 34,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,11 +83,11 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.4,
-      "percentile": 80,
+      "value": 3.41,
+      "percentile": 81,
       "league": "NL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 15,
+      "mlb_rank": 27
     }
   ],
   "splits": {

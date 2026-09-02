@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "663776",
+  "name_display": "P. Sandoval",
+  "name_full": "Patrick Sandoval",
+  "throws": "LHP",
+  "team_abbr": "BOS",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Misses bats \u2014 9.6 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.2,
+      "percentile": 45,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.6,
+      "percentile": 78,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 45.0,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 48,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 22,
+      "percentile": 8,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.4,
+      "percentile": 8,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 6,
+      "percentile": 45,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.22,
+      "percentile": 44,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.375,
+      "ab": 56
+    },
+    "vs_rhb": {
+      "avg": 0.274,
+      "ab": 124
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 28",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 3,
+      "er": 1,
+      "hr": 1,
+      "bb": 4,
+      "so": 7,
+      "pitches": 96,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 22",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 5,
+      "er": 2,
+      "hr": 2,
+      "bb": 2,
+      "so": 6,
+      "pitches": 93,
+      "strikes": 60
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "PIT",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 9,
+      "er": 7,
+      "hr": 0,
+      "bb": 3,
+      "so": 6,
+      "pitches": 89,
+      "strikes": 58
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "TOR",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 8,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 4,
+      "pitches": 84,
+      "strikes": 50
+    },
+    {
+      "date_display": "Aug 4",
+      "opp_abbr": "CWS",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 6,
+      "er": 2,
+      "hr": 0,
+      "bb": 4,
+      "so": 5,
+      "pitches": 89,
+      "strikes": 50
+    }
+  ]
+}
