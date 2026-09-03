@@ -4,7 +4,7 @@
   "name_full": "Joey Cantillo",
   "throws": "LHP",
   "team_abbr": "CLE",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -12,11 +12,7 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 9.57 K/9, about a strikeout an inning.",
-      "highlight": false
-    },
-    {
-      "text": "Rolling \u2014 2.55 ERA over his last 4 (5 ER in 17.2 IP).",
+      "text": "Misses bats \u2014 9.59 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -24,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.7,
-      "percentile": 60,
+      "value": 3.81,
+      "percentile": 57,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,7 +29,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.57,
+      "value": 9.59,
       "percentile": 77,
       "league": "AL",
       "league_rank": null,
@@ -42,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 136.1,
-      "percentile": 62,
+      "value": 141.2,
+      "percentile": 67,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -51,16 +47,16 @@
     {
       "key": "k",
       "label": "K",
-      "value": 145,
-      "percentile": 80,
+      "value": 151,
+      "percentile": 83,
       "league": "AL",
-      "league_rank": 15,
-      "mlb_rank": 30
+      "league_rank": 11,
+      "mlb_rank": 25
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 70,
+      "value": 72,
       "percentile": 4,
       "league": "AL",
       "league_rank": null,
@@ -69,7 +65,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.62,
+      "value": 4.57,
       "percentile": 4,
       "league": "AL",
       "league_rank": null,
@@ -78,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 15,
-      "percentile": 66,
+      "value": 16,
+      "percentile": 65,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,7 +83,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.0,
+      "value": 4.01,
       "percentile": 54,
       "league": "AL",
       "league_rank": null,
@@ -96,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.228,
-      "ab": 123
+      "avg": 0.242,
+      "ab": 132
     },
     "vs_rhb": {
-      "avg": 0.258,
-      "ab": 388
+      "avg": 0.259,
+      "ab": 405
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 2",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 9,
+      "er": 4,
+      "hr": 1,
+      "bb": 2,
+      "so": 6,
+      "pitches": 102,
+      "strikes": 66
+    },
     {
       "date_display": "Aug 26",
       "opp_abbr": "LAA",
@@ -156,19 +165,6 @@
       "so": 3,
       "pitches": 31,
       "strikes": 21
-    },
-    {
-      "date_display": "Aug 4",
-      "opp_abbr": "NYM",
-      "is_home": true,
-      "ip": "5.0",
-      "h": 7,
-      "er": 2,
-      "hr": 2,
-      "bb": 2,
-      "so": 5,
-      "pitches": 81,
-      "strikes": 49
     }
   ]
 }

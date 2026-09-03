@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "669199",
+  "name_display": "L. Bachar",
+  "name_full": "Lake Bachar",
+  "throws": "RHP",
+  "team_abbr": "PIT",
+  "form_tag": "hot",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Misses bats \u2014 9.2 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 2.45 ERA over his last 3 (2 ER in 7.1 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .212 against (151 AB).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .167 against (120 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.7,
+      "percentile": 61,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.2,
+      "percentile": 70,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 75.1,
+      "percentile": 3,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 77,
+      "percentile": 14,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 30,
+      "percentile": 27,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.58,
+      "percentile": 27,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 13,
+      "percentile": 19,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.64,
+      "percentile": 22,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.212,
+      "ab": 151
+    },
+    "vs_rhb": {
+      "avg": 0.167,
+      "ab": 120
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "STL",
+      "is_home": false,
+      "ip": "2.1",
+      "h": 1,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 2,
+      "pitches": 28,
+      "strikes": 18
+    },
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "LAD",
+      "is_home": false,
+      "ip": "2.0",
+      "h": 1,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 1,
+      "pitches": 35,
+      "strikes": 20
+    },
+    {
+      "date_display": "Aug 16",
+      "opp_abbr": "BOS",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 4,
+      "pitches": 52,
+      "strikes": 33
+    },
+    {
+      "date_display": "Jun 19",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "1.1",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 1,
+      "pitches": 37,
+      "strikes": 21
+    },
+    {
+      "date_display": "Jun 13",
+      "opp_abbr": "PIT",
+      "is_home": false,
+      "ip": "2.0",
+      "h": 1,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 4,
+      "pitches": 42,
+      "strikes": 21
+    }
+  ]
+}

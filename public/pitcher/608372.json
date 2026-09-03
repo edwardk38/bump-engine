@@ -24,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 5.23,
-      "percentile": 16,
+      "value": 5.19,
+      "percentile": 17,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,7 +33,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 5.37,
+      "value": 5.4,
       "percentile": 2,
       "league": "NL",
       "league_rank": null,
@@ -42,8 +42,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 125.2,
-      "percentile": 48,
+      "value": 131.2,
+      "percentile": 56,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -51,8 +51,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 75,
-      "percentile": 12,
+      "value": 79,
+      "percentile": 15,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -60,26 +60,26 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 29,
-      "percentile": 89,
+      "value": 30,
+      "percentile": 90,
       "league": "NL",
-      "league_rank": 9,
-      "mlb_rank": 16
+      "league_rank": 8,
+      "mlb_rank": 15
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.08,
-      "percentile": 89,
+      "value": 2.05,
+      "percentile": 90,
       "league": "NL",
-      "league_rank": 9,
-      "mlb_rank": 16
+      "league_rank": 8,
+      "mlb_rank": 15
     },
     {
       "key": "hr",
       "label": "HR",
       "value": 27,
-      "percentile": 6,
+      "percentile": 7,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,8 +87,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.45,
-      "percentile": 6,
+      "value": 5.31,
+      "percentile": 7,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.28,
-      "ab": 279
+      "avg": 0.271,
+      "ab": 292
     },
     "vs_rhb": {
-      "avg": 0.29,
-      "ab": 221
+      "avg": 0.296,
+      "ab": 233
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 2",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 0,
+      "bb": 1,
+      "so": 4,
+      "pitches": 90,
+      "strikes": 61
+    },
     {
       "date_display": "Aug 28",
       "opp_abbr": "ATL",
@@ -156,19 +169,6 @@
       "so": 5,
       "pitches": 93,
       "strikes": 63
-    },
-    {
-      "date_display": "Aug 5",
-      "opp_abbr": "TB",
-      "is_home": true,
-      "ip": "5.0",
-      "h": 5,
-      "er": 3,
-      "hr": 1,
-      "bb": 2,
-      "so": 3,
-      "pitches": 85,
-      "strikes": 49
     }
   ]
 }

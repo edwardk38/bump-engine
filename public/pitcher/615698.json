@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "615698",
+  "name_display": "C. Quantrill",
+  "name_full": "Cal Quantrill",
+  "throws": "RHP",
+  "team_abbr": "TEX",
+  "form_tag": "hot",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 1.50 ERA over his last 4 (4 ER in 24.0 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .213 against (155 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.01,
+      "percentile": 86,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.83,
+      "percentile": 16,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 89.2,
+      "percentile": 14,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 68,
+      "percentile": 6,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 22,
+      "percentile": 85,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.21,
+      "percentile": 85,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 11,
+      "percentile": 56,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.07,
+      "percentile": 52,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.24,
+      "ab": 183
+    },
+    "vs_rhb": {
+      "avg": 0.213,
+      "ab": 155
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "MIL",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 4,
+      "er": 3,
+      "hr": 2,
+      "bb": 0,
+      "so": 8,
+      "pitches": 88,
+      "strikes": 58
+    },
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "LAA",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 6,
+      "pitches": 96,
+      "strikes": 68
+    },
+    {
+      "date_display": "Aug 18",
+      "opp_abbr": "WSH",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 5,
+      "pitches": 91,
+      "strikes": 61
+    },
+    {
+      "date_display": "Aug 12",
+      "opp_abbr": "LAA",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 4,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 6,
+      "pitches": 85,
+      "strikes": 50
+    },
+    {
+      "date_display": "Aug 3",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 1,
+      "so": 4,
+      "pitches": 87,
+      "strikes": 57
+    }
+  ]
+}

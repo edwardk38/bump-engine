@@ -1,0 +1,174 @@
+{
+  "pitcher_id": "678022",
+  "name_display": "J. Perkins",
+  "name_full": "Jack Perkins",
+  "throws": "RHP",
+  "team_abbr": "ATH",
+  "form_tag": "cold",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Struggling lately \u2014 4+ runs in three of his last four.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 10.29 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 6.42,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.29,
+      "percentile": 88,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 95.1,
+      "percentile": 20,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 109,
+      "percentile": 46,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 42,
+      "percentile": 15,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.97,
+      "percentile": 15,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 18,
+      "percentile": 9,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.86,
+      "percentile": 13,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.263,
+      "ab": 194
+    },
+    "vs_rhb": {
+      "avg": 0.266,
+      "ab": 184
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 4,
+      "so": 5,
+      "pitches": 80,
+      "strikes": 53
+    },
+    {
+      "date_display": "Aug 12",
+      "opp_abbr": "TB",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 12,
+      "er": 6,
+      "hr": 1,
+      "bb": 1,
+      "so": 2,
+      "pitches": 97,
+      "strikes": 65
+    },
+    {
+      "date_display": "Aug 7",
+      "opp_abbr": "BOS",
+      "is_home": false,
+      "ip": "3.0",
+      "h": 5,
+      "er": 5,
+      "hr": 1,
+      "bb": 3,
+      "so": 3,
+      "pitches": 70,
+      "strikes": 41
+    },
+    {
+      "date_display": "Aug 1",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "5.1",
+      "h": 9,
+      "er": 6,
+      "hr": 3,
+      "bb": 1,
+      "so": 9,
+      "pitches": 91,
+      "strikes": 62
+    },
+    {
+      "date_display": "Jul 27",
+      "opp_abbr": "BOS",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 1,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 4,
+      "pitches": 69,
+      "strikes": 41
+    }
+  ]
+}

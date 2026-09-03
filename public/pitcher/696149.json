@@ -4,7 +4,7 @@
   "name_full": "Bubba Chandler",
   "throws": "RHP",
   "team_abbr": "PIT",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -12,7 +12,7 @@
       "highlight": false
     },
     {
-      "text": "Tough on right-handed bats \u2014 .211 against (227 AB).",
+      "text": "Tough on right-handed bats \u2014 .216 against (231 AB).",
       "highlight": false
     }
   ],
@@ -20,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.26,
-      "percentile": 40,
+      "value": 4.3,
+      "percentile": 39,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.04,
-      "percentile": 46,
+      "value": 8.01,
+      "percentile": 43,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 131.0,
-      "percentile": 57,
+      "value": 136.0,
+      "percentile": 61,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 117,
-      "percentile": 54,
+      "value": 121,
+      "percentile": 60,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,7 +56,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 68,
+      "value": 71,
       "percentile": 3,
       "league": "NL",
       "league_rank": null,
@@ -65,7 +65,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.67,
+      "value": 4.7,
       "percentile": 3,
       "league": "NL",
       "league_rank": null,
@@ -74,17 +74,17 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 11,
-      "percentile": 87,
+      "value": 12,
+      "percentile": 86,
       "league": "NL",
       "league_rank": 12,
-      "mlb_rank": 19
+      "mlb_rank": 20
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.09,
-      "percentile": 50,
+      "value": 4.16,
+      "percentile": 47,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.236,
-      "ab": 263
+      "avg": 0.234,
+      "ab": 278
     },
     "vs_rhb": {
-      "avg": 0.211,
-      "ab": 227
+      "avg": 0.216,
+      "ab": 231
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 2",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 5,
+      "er": 3,
+      "hr": 1,
+      "bb": 3,
+      "so": 4,
+      "pitches": 88,
+      "strikes": 55
+    },
     {
       "date_display": "Aug 26",
       "opp_abbr": "SD",
@@ -152,19 +165,6 @@
       "so": 5,
       "pitches": 85,
       "strikes": 58
-    },
-    {
-      "date_display": "Aug 3",
-      "opp_abbr": "MIL",
-      "is_home": false,
-      "ip": "5.2",
-      "h": 4,
-      "er": 2,
-      "hr": 0,
-      "bb": 4,
-      "so": 5,
-      "pitches": 96,
-      "strikes": 57
     }
   ]
 }
