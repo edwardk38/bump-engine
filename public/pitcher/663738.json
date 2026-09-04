@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "663738",
+  "name_display": "D. Lynch IV",
+  "name_full": "Daniel Lynch IV",
+  "throws": "LHP",
+  "team_abbr": "KC",
+  "form_tag": "cold",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Tough on left-handed bats \u2014 .175 against (97 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.06,
+      "percentile": 85,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.71,
+      "percentile": 14,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 61.2,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 46,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 19,
+      "percentile": 61,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.77,
+      "percentile": 61,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 5,
+      "percentile": 90,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.67,
+      "percentile": 68,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.175,
+      "ab": 97
+    },
+    "vs_rhb": {
+      "avg": 0.221,
+      "ab": 131
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "CLE",
+      "is_home": false,
+      "ip": "3.1",
+      "h": 3,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 3,
+      "pitches": 70,
+      "strikes": 43
+    },
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "4.1",
+      "h": 4,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 2,
+      "pitches": 59,
+      "strikes": 38
+    },
+    {
+      "date_display": "Aug 18",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 2,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 1,
+      "pitches": 45,
+      "strikes": 27
+    },
+    {
+      "date_display": "Aug 12",
+      "opp_abbr": "LAD",
+      "is_home": false,
+      "ip": "2.1",
+      "h": 3,
+      "er": 3,
+      "hr": 2,
+      "bb": 0,
+      "so": 3,
+      "pitches": 39,
+      "strikes": 28
+    },
+    {
+      "date_display": "Aug 7",
+      "opp_abbr": "CHC",
+      "is_home": true,
+      "ip": "1.2",
+      "h": 3,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 2,
+      "pitches": 35,
+      "strikes": 21
+    }
+  ]
+}

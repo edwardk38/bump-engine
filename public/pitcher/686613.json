@@ -8,19 +8,19 @@
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 9.56 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 9.62 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
-      "text": "Tough on left-handed bats \u2014 .217 against (161 AB).",
+      "text": "Rolling \u2014 2.31 ERA over his last 4 (6 ER in 23.1 IP).",
       "highlight": false
     }
   ],
@@ -28,26 +28,26 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.33,
-      "percentile": 75,
+      "value": 3.31,
+      "percentile": 78,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 15,
+      "mlb_rank": 33
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.56,
-      "percentile": 77,
+      "value": 9.62,
+      "percentile": 78,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 14,
+      "mlb_rank": 32
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 81.0,
-      "percentile": 8,
+      "value": 87.0,
+      "percentile": 13,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 86,
-      "percentile": 22,
+      "value": 93,
+      "percentile": 31,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,7 +64,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 44,
+      "value": 46,
       "percentile": 2,
       "league": "AL",
       "league_rank": null,
@@ -73,7 +73,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.89,
+      "value": 4.76,
       "percentile": 2,
       "league": "AL",
       "league_rank": null,
@@ -83,7 +83,7 @@
       "key": "hr",
       "label": "HR",
       "value": 10,
-      "percentile": 55,
+      "percentile": 63,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.35,
-      "percentile": 37,
+      "value": 4.17,
+      "percentile": 45,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -100,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.217,
-      "ab": 161
+      "avg": 0.21,
+      "ab": 176
     },
     "vs_rhb": {
-      "avg": 0.2,
-      "ab": 130
+      "avg": 0.217,
+      "ab": 138
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 3",
+      "opp_abbr": "CWS",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 7,
+      "pitches": 101,
+      "strikes": 65
+    },
     {
       "date_display": "Aug 28",
       "opp_abbr": "NYM",
@@ -160,19 +173,6 @@
       "so": 4,
       "pitches": 89,
       "strikes": 56
-    },
-    {
-      "date_display": "Aug 5",
-      "opp_abbr": "TOR",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 3,
-      "er": 3,
-      "hr": 1,
-      "bb": 2,
-      "so": 8,
-      "pitches": 93,
-      "strikes": 54
     }
   ]
 }

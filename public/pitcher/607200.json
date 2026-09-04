@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "607200",
+  "name_display": "E. Fedde",
+  "name_full": "Erick Fedde",
+  "throws": "RHP",
+  "team_abbr": "CWS",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Team has won 9 of his last 10 starts.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.16,
+      "percentile": 45,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.42,
+      "percentile": 11,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 123.1,
+      "percentile": 42,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 88,
+      "percentile": 23,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 45,
+      "percentile": 36,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.28,
+      "percentile": 36,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 22,
+      "percentile": 15,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.15,
+      "percentile": 10,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.253,
+      "ab": 253
+    },
+    "vs_rhb": {
+      "avg": 0.268,
+      "ab": 224
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 3,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 88,
+      "strikes": 57
+    },
+    {
+      "date_display": "Jul 31",
+      "opp_abbr": "TB",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 6,
+      "pitches": 91,
+      "strikes": 53
+    },
+    {
+      "date_display": "Jul 26",
+      "opp_abbr": "HOU",
+      "is_home": true,
+      "ip": "4.1",
+      "h": 5,
+      "er": 3,
+      "hr": 3,
+      "bb": 1,
+      "so": 2,
+      "pitches": 68,
+      "strikes": 42
+    },
+    {
+      "date_display": "Jul 20",
+      "opp_abbr": "TEX",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 4,
+      "er": 2,
+      "hr": 1,
+      "bb": 0,
+      "so": 6,
+      "pitches": 64,
+      "strikes": 42
+    },
+    {
+      "date_display": "Jun 30",
+      "opp_abbr": "BAL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 5,
+      "er": 3,
+      "hr": 0,
+      "bb": 3,
+      "so": 3,
+      "pitches": 90,
+      "strikes": 54
+    }
+  ]
+}

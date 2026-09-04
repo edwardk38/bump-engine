@@ -4,13 +4,9 @@
   "name_full": "Joe Ryan",
   "throws": "RHP",
   "team_abbr": "MIN",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Struggling lately \u2014 4+ runs in three of his last three.",
-      "highlight": false
-    },
     {
       "text": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
       "highlight": false
@@ -47,7 +43,7 @@
       "key": "ip",
       "label": "IP",
       "value": 125.2,
-      "percentile": 46,
+      "percentile": 45,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,7 +79,7 @@
       "key": "hr",
       "label": "HR",
       "value": 17,
-      "percentile": 43,
+      "percentile": 44,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,7 +88,7 @@
       "key": "fip",
       "label": "FIP",
       "value": 3.42,
-      "percentile": 81,
+      "percentile": 82,
       "league": "AL",
       "league_rank": 13,
       "mlb_rank": 27

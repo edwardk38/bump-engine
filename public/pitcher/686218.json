@@ -4,13 +4,9 @@
   "name_full": "Emmet Sheehan",
   "throws": "RHP",
   "team_abbr": "LAD",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 8.31 ERA over his last three (12 ER in 13.0 IP).",
-      "highlight": false
-    },
     {
       "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
       "highlight": false
@@ -52,7 +48,7 @@
       "key": "k",
       "label": "K",
       "value": 108,
-      "percentile": 46,
+      "percentile": 45,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null

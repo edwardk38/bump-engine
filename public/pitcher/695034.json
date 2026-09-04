@@ -1,0 +1,114 @@
+{
+  "pitcher_id": "695034",
+  "name_display": "K. Morris",
+  "name_full": "Kade Morris",
+  "throws": "RHP",
+  "team_abbr": "ATH",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "9.82 ERA with 6.14 K/9 over 14.2 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 9.82,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.14,
+      "percentile": 7,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 14.2,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 10,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 6,
+      "percentile": 25,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.68,
+      "percentile": 25,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 4,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 6.91,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.455,
+      "ab": 33
+    },
+    "vs_rhb": {
+      "avg": 0.313,
+      "ab": 32
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jun 6",
+      "opp_abbr": "HOU",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 9,
+      "er": 9,
+      "hr": 3,
+      "bb": 3,
+      "so": 4,
+      "pitches": 90,
+      "strikes": 54
+    }
+  ]
+}

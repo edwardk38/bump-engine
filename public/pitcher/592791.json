@@ -8,7 +8,7 @@
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 7.71 ERA over his last four (14 ER in 16.1 IP).",
+      "text": "Rough stretch \u2014 7.50 ERA over his last three (10 ER in 12.0 IP).",
       "highlight": false
     }
   ],
@@ -35,7 +35,7 @@
       "key": "ip",
       "label": "IP",
       "value": 84.0,
-      "percentile": 10,
+      "percentile": 9,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -44,7 +44,7 @@
       "key": "k",
       "label": "K",
       "value": 75,
-      "percentile": 12,
+      "percentile": 11,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

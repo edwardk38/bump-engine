@@ -4,11 +4,15 @@
   "name_full": "Luis Castillo",
   "throws": "RHP",
   "team_abbr": "CWS",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "text": "Struggling lately \u2014 4+ runs in three of his last four.",
+      "highlight": false
+    },
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
       "highlight": false
     }
   ],
@@ -16,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 5.31,
-      "percentile": 12,
+      "value": 5.57,
+      "percentile": 7,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,7 +29,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.82,
+      "value": 7.79,
       "percentile": 37,
       "league": "AL",
       "league_rank": null,
@@ -34,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 122.0,
-      "percentile": 41,
+      "value": 126.0,
+      "percentile": 46,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,7 +47,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 106,
+      "value": 109,
       "percentile": 45,
       "league": "AL",
       "league_rank": null,
@@ -52,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 38,
-      "percentile": 59,
+      "value": 40,
+      "percentile": 53,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.8,
-      "percentile": 59,
+      "value": 2.86,
+      "percentile": 53,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,7 +74,7 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 23,
+      "value": 24,
       "percentile": 9,
       "league": "AL",
       "league_rank": null,
@@ -79,7 +83,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.88,
+      "value": 4.95,
       "percentile": 13,
       "league": "AL",
       "league_rank": null,
@@ -89,14 +93,27 @@
   "splits": {
     "vs_lhb": {
       "avg": 0.288,
-      "ab": 285
+      "ab": 292
     },
     "vs_rhb": {
-      "avg": 0.269,
-      "ab": 208
+      "avg": 0.274,
+      "ab": 219
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 3",
+      "opp_abbr": "HOU",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 6,
+      "er": 6,
+      "hr": 1,
+      "bb": 2,
+      "so": 3,
+      "pitches": 78,
+      "strikes": 48
+    },
     {
       "date_display": "Aug 28",
       "opp_abbr": "MIN",
@@ -148,19 +165,6 @@
       "so": 10,
       "pitches": 104,
       "strikes": 60
-    },
-    {
-      "date_display": "Aug 6",
-      "opp_abbr": "BOS",
-      "is_home": false,
-      "ip": "4.0",
-      "h": 6,
-      "er": 5,
-      "hr": 1,
-      "bb": 1,
-      "so": 5,
-      "pitches": 71,
-      "strikes": 42
     }
   ]
 }

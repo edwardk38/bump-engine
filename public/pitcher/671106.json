@@ -1,0 +1,114 @@
+{
+  "pitcher_id": "671106",
+  "name_display": "L. Allen",
+  "name_full": "Logan Allen",
+  "throws": "LHP",
+  "team_abbr": "CLE",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Misses bats \u2014 9.42 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.77,
+      "percentile": 59,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 9.42,
+      "percentile": 74,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 14.1,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 15,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 4,
+      "percentile": 70,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.51,
+      "percentile": 70,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 3,
+      "percentile": 7,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.97,
+      "percentile": 12,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.368,
+      "ab": 19
+    },
+    "vs_rhb": {
+      "avg": 0.244,
+      "ab": 41
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jul 18",
+      "opp_abbr": "PIT",
+      "is_home": true,
+      "ip": "3.1",
+      "h": 6,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 3,
+      "pitches": 81,
+      "strikes": 51
+    }
+  ]
+}

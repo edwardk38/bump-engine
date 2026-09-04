@@ -1,0 +1,178 @@
+{
+  "pitcher_id": "605483",
+  "name_display": "B. Snell",
+  "name_full": "Blake Snell",
+  "throws": "LHP",
+  "team_abbr": "LAD",
+  "form_tag": "hot",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Misses bats \u2014 12.46 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 1.17 ERA over his last 4 (3 ER in 23.0 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Strikeout run \u2014 5+ K in 5 straight starts.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .149 against (67 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 2.42,
+      "percentile": 95,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 12.46,
+      "percentile": 99,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 26.0,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 36,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 12,
+      "percentile": 12,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.15,
+      "percentile": 12,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 0,
+      "percentile": 100,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 1.82,
+      "percentile": 100,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.222,
+      "ab": 27
+    },
+    "vs_rhb": {
+      "avg": 0.149,
+      "ab": 67
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 29",
+      "opp_abbr": "DET",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 10,
+      "pitches": 99,
+      "strikes": 57
+    },
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "PIT",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 6,
+      "pitches": 94,
+      "strikes": 62
+    },
+    {
+      "date_display": "Aug 17",
+      "opp_abbr": "COL",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 2,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 5,
+      "pitches": 90,
+      "strikes": 64
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "KC",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 10,
+      "pitches": 84,
+      "strikes": 55
+    },
+    {
+      "date_display": "May 9",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 6,
+      "er": 4,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 77,
+      "strikes": 50
+    }
+  ]
+}

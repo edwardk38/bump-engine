@@ -31,8 +31,8 @@
       "value": 3.24,
       "percentile": 79,
       "league": "AL",
-      "league_rank": 14,
-      "mlb_rank": 32
+      "league_rank": 13,
+      "mlb_rank": 31
     },
     {
       "key": "k_per_9",
@@ -56,7 +56,7 @@
       "key": "k",
       "label": "K",
       "value": 92,
-      "percentile": 30,
+      "percentile": 29,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
