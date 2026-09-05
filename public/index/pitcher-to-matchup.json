@@ -1,130 +1,122 @@
 {
-  "672456": {
-    "game_id": "2026-09-04-DET-CLE",
+  "683627": {
+    "game_id": "2026-09-05-SF-NYM",
     "side": "away"
   },
-  "671106": {
-    "game_id": "2026-09-04-DET-CLE",
+  "804267": {
+    "game_id": "2026-09-05-SF-NYM",
     "side": "home"
   },
-  "808825": {
-    "game_id": "2026-09-04-DET-CLE-G2",
+  "665871": {
+    "game_id": "2026-09-05-CHC-MIA",
     "side": "away"
   },
-  "656492": {
-    "game_id": "2026-09-04-DET-CLE-G2",
+  "687473": {
+    "game_id": "2026-09-05-CHC-MIA",
     "side": "home"
   },
-  "675660": {
-    "game_id": "2026-09-04-MIL-CIN",
+  "527048": {
+    "game_id": "2026-09-05-ATL-PHI",
     "side": "away"
   },
-  "695076": {
-    "game_id": "2026-09-04-MIL-CIN",
+  "554430": {
+    "game_id": "2026-09-05-ATL-PHI",
     "side": "home"
   },
-  "519242": {
-    "game_id": "2026-09-04-ATL-PHI",
+  "664285": {
+    "game_id": "2026-09-05-DET-CLE",
     "side": "away"
   },
-  "650911": {
-    "game_id": "2026-09-04-ATL-PHI",
+  "800048": {
+    "game_id": "2026-09-05-DET-CLE",
     "side": "home"
   },
-  "696270": {
-    "game_id": "2026-09-04-LAA-PIT",
+  "579328": {
+    "game_id": "2026-09-05-LAA-PIT",
     "side": "away"
   },
-  "683003": {
-    "game_id": "2026-09-04-LAA-PIT",
+  "677952": {
+    "game_id": "2026-09-05-LAA-PIT",
     "side": "home"
   },
-  "624133": {
-    "game_id": "2026-09-04-BOS-BAL",
+  "669160": {
+    "game_id": "2026-09-05-MIL-CIN",
     "side": "away"
   },
-  "669358": {
-    "game_id": "2026-09-04-BOS-BAL",
+  "671096": {
+    "game_id": "2026-09-05-MIL-CIN",
     "side": "home"
   },
-  "683363": {
-    "game_id": "2026-09-04-SF-NYM",
+  "543243": {
+    "game_id": "2026-09-05-BOS-BAL",
     "side": "away"
   },
-  "690997": {
-    "game_id": "2026-09-04-SF-NYM",
+  "605135": {
+    "game_id": "2026-09-05-BOS-BAL",
     "side": "home"
   },
-  "684007": {
-    "game_id": "2026-09-04-CHC-MIA",
+  "656876": {
+    "game_id": "2026-09-05-TB-TEX",
     "side": "away"
   },
-  "676083": {
-    "game_id": "2026-09-04-CHC-MIA",
+  "594798": {
+    "game_id": "2026-09-05-TB-TEX",
     "side": "home"
   },
-  "805673": {
-    "game_id": "2026-09-04-MIN-CWS",
+  "453286": {
+    "game_id": "2026-09-05-TOR-KC",
     "side": "away"
   },
-  "607200": {
-    "game_id": "2026-09-04-MIN-CWS",
+  "607625": {
+    "game_id": "2026-09-05-TOR-KC",
     "side": "home"
   },
-  "607259": {
-    "game_id": "2026-09-04-TB-TEX",
+  "671737": {
+    "game_id": "2026-09-05-MIN-CWS",
     "side": "away"
   },
-  "592866": {
-    "game_id": "2026-09-04-TB-TEX",
+  "641743": {
+    "game_id": "2026-09-05-MIN-CWS",
     "side": "home"
   },
-  "518876": {
-    "game_id": "2026-09-04-AZ-HOU",
+  "694297": {
+    "game_id": "2026-09-05-AZ-HOU",
     "side": "away"
   },
-  "664299": {
-    "game_id": "2026-09-04-AZ-HOU",
+  "814490": {
+    "game_id": "2026-09-05-AZ-HOU",
     "side": "home"
   },
-  "592791": {
-    "game_id": "2026-09-04-TOR-KC",
+  "607074": {
+    "game_id": "2026-09-05-NYY-SD",
     "side": "away"
   },
-  "663738": {
-    "game_id": "2026-09-04-TOR-KC",
+  "592662": {
+    "game_id": "2026-09-05-NYY-SD",
     "side": "home"
   },
-  "669467": {
-    "game_id": "2026-09-04-STL-COL",
+  "669461": {
+    "game_id": "2026-09-05-STL-COL",
     "side": "away"
   },
-  "663372": {
-    "game_id": "2026-09-04-STL-COL",
+  "690279": {
+    "game_id": "2026-09-05-STL-COL",
     "side": "home"
   },
-  "608331": {
-    "game_id": "2026-09-04-NYY-SD",
+  "676917": {
+    "game_id": "2026-09-05-WSH-LAD",
     "side": "away"
   },
-  "621111": {
-    "game_id": "2026-09-04-NYY-SD",
+  "607192": {
+    "game_id": "2026-09-05-WSH-LAD",
     "side": "home"
   },
-  "800600": {
-    "game_id": "2026-09-04-WSH-LAD",
+  "605488": {
+    "game_id": "2026-09-05-ATH-SEA",
     "side": "away"
   },
-  "605483": {
-    "game_id": "2026-09-04-WSH-LAD",
-    "side": "home"
-  },
-  "695034": {
-    "game_id": "2026-09-04-ATH-SEA",
-    "side": "away"
-  },
-  "669302": {
-    "game_id": "2026-09-04-ATH-SEA",
+  "669923": {
+    "game_id": "2026-09-05-ATH-SEA",
     "side": "home"
   }
 }

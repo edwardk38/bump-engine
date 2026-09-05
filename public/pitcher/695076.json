@@ -4,15 +4,15 @@
   "name_full": "Rhett Lowder",
   "throws": "RHP",
   "team_abbr": "CIN",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "text": "Rough stretch \u2014 6.65 ERA over his last four (16 ER in 21.2 IP).",
       "highlight": false
     },
     {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
       "highlight": false
     }
   ],
@@ -20,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 5.14,
-      "percentile": 19,
+      "value": 5.43,
+      "percentile": 10,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,7 +29,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.07,
+      "value": 6.98,
       "percentile": 20,
       "league": "NL",
       "league_rank": null,
@@ -38,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 112.0,
-      "percentile": 35,
+      "value": 116.0,
+      "percentile": 37,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 88,
-      "percentile": 23,
+      "value": 90,
+      "percentile": 24,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 43,
-      "percentile": 29,
+      "value": 47,
+      "percentile": 26,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.46,
-      "percentile": 29,
+      "value": 3.65,
+      "percentile": 26,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 16,
-      "percentile": 38,
+      "percentile": 41,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.63,
-      "percentile": 24,
+      "value": 4.65,
+      "percentile": 23,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.257,
-      "ab": 268
+      "avg": 0.264,
+      "ab": 280
     },
     "vs_rhb": {
-      "avg": 0.283,
-      "ab": 180
+      "avg": 0.278,
+      "ab": 187
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 4",
+      "opp_abbr": "MIL",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 6,
+      "er": 6,
+      "hr": 0,
+      "bb": 4,
+      "so": 2,
+      "pitches": 104,
+      "strikes": 59
+    },
     {
       "date_display": "Aug 28",
       "opp_abbr": "CHC",
@@ -152,19 +165,6 @@
       "so": 4,
       "pitches": 94,
       "strikes": 59
-    },
-    {
-      "date_display": "Aug 5",
-      "opp_abbr": "ATH",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 4,
-      "er": 2,
-      "hr": 1,
-      "bb": 2,
-      "so": 3,
-      "pitches": 95,
-      "strikes": 62
     }
   ]
 }

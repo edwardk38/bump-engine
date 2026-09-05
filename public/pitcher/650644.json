@@ -8,7 +8,7 @@
   "qualified": true,
   "read": [
     {
-      "text": "4.5 ERA with 7.35 K/9 over 98.0 innings this season.",
+      "text": "4.37 ERA with 7.4 K/9 over 101.0 innings this season.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.5,
-      "percentile": 33,
+      "value": 4.37,
+      "percentile": 36,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.35,
-      "percentile": 30,
+      "value": 7.4,
+      "percentile": 31,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 98.0,
-      "percentile": 22,
+      "value": 101.0,
+      "percentile": 24,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 80,
-      "percentile": 16,
+      "value": 83,
+      "percentile": 18,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 29,
-      "percentile": 66,
+      "value": 31,
+      "percentile": 62,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.66,
-      "percentile": 66,
+      "value": 2.76,
+      "percentile": 62,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 17,
-      "percentile": 18,
+      "percentile": 20,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.72,
-      "percentile": 21,
+      "value": 4.67,
+      "percentile": 22,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,12 +88,12 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.301,
-      "ab": 226
+      "avg": 0.298,
+      "ab": 228
     },
     "vs_rhb": {
-      "avg": 0.276,
-      "ab": 174
+      "avg": 0.269,
+      "ab": 182
     }
   },
   "last_starts": [

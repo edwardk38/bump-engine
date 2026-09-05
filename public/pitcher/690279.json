@@ -8,7 +8,7 @@
   "qualified": false,
   "read": [
     {
-      "text": "Misses bats \u2014 11.25 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 10.0 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.25,
-      "percentile": 97,
+      "value": 3.0,
+      "percentile": 87,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 11.25,
-      "percentile": 98,
+      "value": 10.0,
+      "percentile": 84,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,7 +34,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 4.0,
+      "value": 9.0,
       "percentile": 0,
       "league": "NL",
       "league_rank": null,
@@ -43,7 +43,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 5,
+      "value": 10,
       "percentile": 0,
       "league": "NL",
       "league_rank": null,
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 3,
-      "percentile": 0,
+      "value": 5,
+      "percentile": 2,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 6.75,
-      "percentile": 0,
+      "value": 5.0,
+      "percentile": 2,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,8 +70,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 1,
-      "percentile": 1,
+      "value": 2,
+      "percentile": 3,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 6.08,
-      "percentile": 2,
+      "value": 5.42,
+      "percentile": 5,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.286,
-      "ab": 7
+      "avg": 0.188,
+      "ab": 16
     },
     "vs_rhb": {
-      "avg": 0.125,
-      "ab": 8
+      "avg": 0.294,
+      "ab": 17
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 30",
+      "opp_abbr": "ATL",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 5,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 5,
+      "pitches": 74,
+      "strikes": 47
+    },
     {
       "date_display": "Aug 25",
       "opp_abbr": "WSH",

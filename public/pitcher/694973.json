@@ -41,17 +41,17 @@
       "value": 149.2,
       "percentile": 78,
       "league": "NL",
-      "league_rank": 13,
-      "mlb_rank": 32
+      "league_rank": 14,
+      "mlb_rank": 33
     },
     {
       "key": "k",
       "label": "K",
       "value": 179,
-      "percentile": 95,
+      "percentile": 94,
       "league": "NL",
-      "league_rank": 4,
-      "mlb_rank": 8
+      "league_rank": 5,
+      "mlb_rank": 9
     },
     {
       "key": "bb",
@@ -75,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 15,
-      "percentile": 76,
+      "percentile": 77,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null

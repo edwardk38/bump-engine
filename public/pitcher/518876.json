@@ -4,13 +4,9 @@
   "name_full": "Merrill Kelly",
   "throws": "RHP",
   "team_abbr": "AZ",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 6.23 ERA over his last four (15 ER in 21.2 IP).",
-      "highlight": false
-    },
     {
       "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false
@@ -24,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 5.08,
-      "percentile": 20,
+      "value": 5.06,
+      "percentile": 21,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.04,
-      "percentile": 6,
+      "value": 6.03,
+      "percentile": 5,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -42,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 141.2,
-      "percentile": 67,
+      "value": 147.2,
+      "percentile": 72,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -51,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 95,
-      "percentile": 33,
+      "value": 99,
+      "percentile": 37,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,7 +57,7 @@
       "key": "bb",
       "label": "BB",
       "value": 64,
-      "percentile": 13,
+      "percentile": 17,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.07,
-      "percentile": 13,
+      "value": 3.9,
+      "percentile": 17,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -78,7 +74,7 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 26,
+      "value": 27,
       "percentile": 13,
       "league": "NL",
       "league_rank": null,
@@ -87,7 +83,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.55,
+      "value": 5.49,
       "percentile": 5,
       "league": "NL",
       "league_rank": null,
@@ -96,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.276,
-      "ab": 326
+      "avg": 0.273,
+      "ab": 337
     },
     "vs_rhb": {
-      "avg": 0.26,
-      "ab": 215
+      "avg": 0.268,
+      "ab": 228
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 4",
+      "opp_abbr": "HOU",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 7,
+      "er": 3,
+      "hr": 1,
+      "bb": 0,
+      "so": 4,
+      "pitches": 94,
+      "strikes": 64
+    },
     {
       "date_display": "Aug 29",
       "opp_abbr": "SF",
@@ -156,19 +165,6 @@
       "so": 2,
       "pitches": 71,
       "strikes": 42
-    },
-    {
-      "date_display": "Aug 7",
-      "opp_abbr": "LAD",
-      "is_home": true,
-      "ip": "5.2",
-      "h": 2,
-      "er": 1,
-      "hr": 0,
-      "bb": 4,
-      "so": 4,
-      "pitches": 80,
-      "strikes": 49
     }
   ]
 }

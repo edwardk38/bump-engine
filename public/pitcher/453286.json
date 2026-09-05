@@ -4,15 +4,11 @@
   "name_full": "Max Scherzer",
   "throws": "RHP",
   "team_abbr": "TOR",
-  "form_tag": "cold",
+  "form_tag": "hot",
   "qualified": false,
   "read": [
     {
-      "text": "Rough stretch \u2014 5.59 ERA over his last four (12 ER in 19.1 IP).",
-      "highlight": false
-    },
-    {
-      "text": "Tough on right-handed bats \u2014 .216 against (74 AB).",
+      "text": "Tough on right-handed bats \u2014 .198 against (81 AB).",
       "highlight": false
     }
   ],
@@ -20,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 7.02,
-      "percentile": 1,
+      "value": 6.16,
+      "percentile": 3,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.48,
-      "percentile": 12,
+      "value": 7.26,
+      "percentile": 26,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,7 +34,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 50.0,
+      "value": 57.0,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -47,7 +43,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 36,
+      "value": 46,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -56,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 25,
-      "percentile": 5,
+      "value": 26,
+      "percentile": 12,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.5,
-      "percentile": 5,
+      "value": 4.11,
+      "percentile": 12,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 12,
-      "percentile": 2,
+      "percentile": 6,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 6.32,
-      "percentile": 1,
+      "value": 5.63,
+      "percentile": 3,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.293,
-      "ab": 123
+      "avg": 0.268,
+      "ab": 138
     },
     "vs_rhb": {
-      "avg": 0.216,
-      "ab": 74
+      "avg": 0.198,
+      "ab": 81
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 30",
+      "opp_abbr": "SEA",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 10,
+      "pitches": 97,
+      "strikes": 67
+    },
     {
       "date_display": "Aug 25",
       "opp_abbr": "KC",
@@ -150,19 +159,6 @@
       "hr": 2,
       "bb": 0,
       "so": 4,
-      "pitches": 84,
-      "strikes": 58
-    },
-    {
-      "date_display": "Aug 2",
-      "opp_abbr": "STL",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 4,
-      "er": 1,
-      "hr": 0,
-      "bb": 1,
-      "so": 5,
       "pitches": 84,
       "strikes": 58
     }

@@ -4,13 +4,9 @@
   "name_full": "Brandon Sproat",
   "throws": "RHP",
   "team_abbr": "MIL",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 5.93 ERA over his last three (9 ER in 13.2 IP).",
-      "highlight": false
-    },
     {
       "text": "Misses bats \u2014 9.41 K/9, about a strikeout an inning.",
       "highlight": false
@@ -30,7 +26,7 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 9.41,
-      "percentile": 74,
+      "percentile": 73,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -39,7 +35,7 @@
       "key": "ip",
       "label": "IP",
       "value": 95.2,
-      "percentile": 21,
+      "percentile": 20,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,7 +79,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.1,
+      "value": 5.09,
       "percentile": 11,
       "league": "NL",
       "league_rank": null,

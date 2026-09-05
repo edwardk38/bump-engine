@@ -20,16 +20,16 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.99,
-      "percentile": 87,
+      "value": 3.04,
+      "percentile": 86,
       "league": "AL",
       "league_rank": 9,
-      "mlb_rank": 20
+      "mlb_rank": 21
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 5.33,
+      "value": 5.34,
       "percentile": 1,
       "league": "AL",
       "league_rank": null,
@@ -38,17 +38,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 153.2,
-      "percentile": 82,
+      "value": 160.0,
+      "percentile": 87,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 10,
+      "mlb_rank": 19
     },
     {
       "key": "k",
       "label": "K",
-      "value": 91,
-      "percentile": 27,
+      "value": 95,
+      "percentile": 31,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,7 +56,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 22,
+      "value": 24,
       "percentile": 100,
       "league": "AL",
       "league_rank": 1,
@@ -65,7 +65,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 1.29,
+      "value": 1.35,
       "percentile": 100,
       "league": "AL",
       "league_rank": 1,
@@ -74,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 18,
-      "percentile": 59,
+      "value": 19,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.92,
-      "percentile": 57,
+      "value": 3.95,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -93,14 +93,27 @@
   "splits": {
     "vs_lhb": {
       "avg": 0.231,
-      "ab": 351
+      "ab": 363
     },
     "vs_rhb": {
-      "avg": 0.278,
-      "ab": 237
+      "avg": 0.274,
+      "ab": 248
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 4",
+      "opp_abbr": "TEX",
+      "is_home": false,
+      "ip": "6.1",
+      "h": 5,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 4,
+      "pitches": 90,
+      "strikes": 61
+    },
     {
       "date_display": "Aug 29",
       "opp_abbr": "SD",
@@ -152,19 +165,6 @@
       "so": 5,
       "pitches": 101,
       "strikes": 68
-    },
-    {
-      "date_display": "Aug 5",
-      "opp_abbr": "COL",
-      "is_home": false,
-      "ip": "5.2",
-      "h": 6,
-      "er": 0,
-      "hr": 0,
-      "bb": 0,
-      "so": 4,
-      "pitches": 75,
-      "strikes": 52
     }
   ]
 }

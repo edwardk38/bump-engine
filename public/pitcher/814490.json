@@ -4,11 +4,11 @@
   "name_full": "Ethan Pecko",
   "throws": "RHP",
   "team_abbr": "HOU",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": false,
   "read": [
     {
-      "text": "7.88 ERA with 5.63 K/9 over 8.0 innings this season.",
+      "text": "Rough stretch \u2014 6.23 ERA over his last three (9 ER in 13.0 IP).",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 7.88,
-      "percentile": 0,
+      "value": 6.23,
+      "percentile": 3,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 5.63,
-      "percentile": 3,
+      "value": 6.23,
+      "percentile": 9,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,7 +34,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 8.0,
+      "value": 13.0,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -43,7 +43,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 5,
+      "value": 9,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -52,7 +52,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 7,
+      "value": 9,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -61,7 +61,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 7.88,
+      "value": 6.23,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -70,7 +70,7 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 2,
+      "value": 4,
       "percentile": 1,
       "league": "AL",
       "league_rank": null,
@@ -79,7 +79,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 8.07,
+      "value": 8.01,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.263,
-      "ab": 19
+      "avg": 0.241,
+      "ab": 29
     },
     "vs_rhb": {
-      "avg": 0.25,
-      "ab": 12
+      "avg": 0.211,
+      "ab": 19
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 30",
+      "opp_abbr": "NYM",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 3,
+      "er": 2,
+      "hr": 2,
+      "bb": 2,
+      "so": 4,
+      "pitches": 83,
+      "strikes": 47
+    },
     {
       "date_display": "Aug 25",
       "opp_abbr": "NYY",

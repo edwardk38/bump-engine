@@ -4,13 +4,9 @@
   "name_full": "Shane Baz",
   "throws": "RHP",
   "team_abbr": "BAL",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 5.66 ERA over his last four (13 ER in 20.2 IP).",
-      "highlight": false
-    },
     {
       "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
       "highlight": false
@@ -20,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.01,
-      "percentile": 52,
+      "value": 3.91,
+      "percentile": 55,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.97,
-      "percentile": 42,
+      "value": 7.99,
+      "percentile": 43,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,17 +34,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 157.0,
-      "percentile": 89,
+      "value": 163.1,
+      "percentile": 94,
       "league": "AL",
-      "league_rank": 8,
-      "mlb_rank": 16
+      "league_rank": 5,
+      "mlb_rank": 10
     },
     {
       "key": "k",
       "label": "K",
-      "value": 139,
-      "percentile": 74,
+      "value": 145,
+      "percentile": 79,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 55,
-      "percentile": 39,
+      "value": 57,
+      "percentile": 40,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.15,
-      "percentile": 39,
+      "value": 3.14,
+      "percentile": 40,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -74,33 +70,46 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 11,
-      "percentile": 94,
+      "value": 12,
+      "percentile": 93,
       "league": "AL",
       "league_rank": 5,
-      "mlb_rank": 10
+      "mlb_rank": 11
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.36,
-      "percentile": 84,
+      "value": 3.39,
+      "percentile": 83,
       "league": "AL",
       "league_rank": 12,
-      "mlb_rank": 23
+      "mlb_rank": 26
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.281,
-      "ab": 345
+      "avg": 0.274,
+      "ab": 361
     },
     "vs_rhb": {
       "avg": 0.239,
-      "ab": 251
+      "ab": 259
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 4",
+      "opp_abbr": "BOS",
+      "is_home": true,
+      "ip": "6.1",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 2,
+      "so": 6,
+      "pitches": 95,
+      "strikes": 61
+    },
     {
       "date_display": "Aug 29",
       "opp_abbr": "ATH",
@@ -152,19 +161,6 @@
       "so": 2,
       "pitches": 65,
       "strikes": 41
-    },
-    {
-      "date_display": "Aug 7",
-      "opp_abbr": "TEX",
-      "is_home": false,
-      "ip": "8.0",
-      "h": 3,
-      "er": 2,
-      "hr": 1,
-      "bb": 1,
-      "so": 9,
-      "pitches": 93,
-      "strikes": 66
     }
   ]
 }

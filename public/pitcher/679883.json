@@ -4,13 +4,9 @@
   "name_full": "Luinder Avila",
   "throws": "RHP",
   "team_abbr": "KC",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 7.43 ERA over his last three (11 ER in 13.1 IP).",
-      "highlight": false
-    },
     {
       "text": "Team has won 7 of his last 10 starts.",
       "highlight": false
@@ -75,10 +71,10 @@
       "key": "hr",
       "label": "HR",
       "value": 7,
-      "percentile": 76,
+      "percentile": 77,
       "league": "AL",
       "league_rank": 14,
-      "mlb_rank": 34
+      "mlb_rank": 33
     },
     {
       "key": "fip",

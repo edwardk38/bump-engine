@@ -4,11 +4,11 @@
   "name_full": "Foster Griffin",
   "throws": "LHP",
   "team_abbr": "CLE",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
       "highlight": false
     },
     {
@@ -16,11 +16,7 @@
       "highlight": false
     },
     {
-      "text": "Rolling \u2014 2.57 ERA over his last 4 (6 ER in 21.0 IP).",
-      "highlight": false
-    },
-    {
-      "text": "Tough on left-handed bats \u2014 .182 against (154 AB).",
+      "text": "Tough on left-handed bats \u2014 .190 against (163 AB).",
       "highlight": false
     }
   ],
@@ -28,17 +24,17 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.21,
-      "percentile": 81,
+      "value": 3.26,
+      "percentile": 80,
       "league": "AL",
-      "league_rank": 11,
-      "mlb_rank": 29
+      "league_rank": 12,
+      "mlb_rank": 30
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.11,
-      "percentile": 47,
+      "value": 7.97,
+      "percentile": 43,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,17 +42,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 154.1,
-      "percentile": 84,
+      "value": 160.1,
+      "percentile": 88,
       "league": "AL",
-      "league_rank": 13,
-      "mlb_rank": 23
+      "league_rank": 9,
+      "mlb_rank": 17
     },
     {
       "key": "k",
       "label": "K",
-      "value": 139,
-      "percentile": 74,
+      "value": 142,
+      "percentile": 76,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,26 +60,26 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 39,
-      "percentile": 82,
+      "value": 41,
+      "percentile": 81,
       "league": "AL",
       "league_rank": 14,
-      "mlb_rank": 27
+      "mlb_rank": 29
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.27,
-      "percentile": 82,
+      "value": 2.3,
+      "percentile": 81,
       "league": "AL",
       "league_rank": 14,
-      "mlb_rank": 27
+      "mlb_rank": 29
     },
     {
       "key": "hr",
       "label": "HR",
       "value": 23,
-      "percentile": 33,
+      "percentile": 38,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +87,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.14,
-      "percentile": 50,
+      "value": 4.1,
+      "percentile": 49,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -100,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.182,
-      "ab": 154
+      "avg": 0.19,
+      "ab": 163
     },
     "vs_rhb": {
-      "avg": 0.249,
-      "ab": 425
+      "avg": 0.252,
+      "ab": 441
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 4",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 8,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 3,
+      "pitches": 92,
+      "strikes": 58
+    },
     {
       "date_display": "Aug 29",
       "opp_abbr": "KC",
@@ -160,19 +169,6 @@
       "so": 3,
       "pitches": 83,
       "strikes": 55
-    },
-    {
-      "date_display": "Aug 6",
-      "opp_abbr": "NYM",
-      "is_home": true,
-      "ip": "4.0",
-      "h": 7,
-      "er": 5,
-      "hr": 2,
-      "bb": 2,
-      "so": 6,
-      "pitches": 88,
-      "strikes": 54
     }
   ]
 }
