@@ -4,11 +4,11 @@
   "name_full": "Brandon Pfaadt",
   "throws": "RHP",
   "team_abbr": "AZ",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
       "highlight": false
     },
     {
@@ -28,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.49,
-      "percentile": 70,
+      "value": 3.53,
+      "percentile": 69,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,7 +37,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 5.92,
+      "value": 5.91,
       "percentile": 4,
       "league": "NL",
       "league_rank": null,
@@ -46,8 +46,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 111.0,
-      "percentile": 33,
+      "value": 117.1,
+      "percentile": 38,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 73,
-      "percentile": 9,
+      "value": 77,
+      "percentile": 12,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,26 +64,26 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 27,
-      "percentile": 86,
+      "value": 29,
+      "percentile": 85,
       "league": "NL",
       "league_rank": 11,
-      "mlb_rank": 21
+      "mlb_rank": 22
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.19,
-      "percentile": 86,
+      "value": 2.22,
+      "percentile": 85,
       "league": "NL",
       "league_rank": 11,
-      "mlb_rank": 21
+      "mlb_rank": 22
     },
     {
       "key": "hr",
       "label": "HR",
       "value": 13,
-      "percentile": 59,
+      "percentile": 65,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.16,
-      "percentile": 47,
+      "value": 4.09,
+      "percentile": 50,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -101,14 +101,27 @@
   "splits": {
     "vs_lhb": {
       "avg": 0.265,
-      "ab": 238
+      "ab": 245
     },
     "vs_rhb": {
-      "avg": 0.198,
-      "ab": 182
+      "avg": 0.205,
+      "ab": 200
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 5",
+      "opp_abbr": "HOU",
+      "is_home": false,
+      "ip": "6.1",
+      "h": 7,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 93,
+      "strikes": 60
+    },
     {
       "date_display": "Aug 31",
       "opp_abbr": "PHI",
@@ -160,19 +173,6 @@
       "so": 7,
       "pitches": 87,
       "strikes": 64
-    },
-    {
-      "date_display": "Aug 8",
-      "opp_abbr": "LAD",
-      "is_home": true,
-      "ip": "7.0",
-      "h": 2,
-      "er": 0,
-      "hr": 0,
-      "bb": 2,
-      "so": 2,
-      "pitches": 93,
-      "strikes": 56
     }
   ]
 }

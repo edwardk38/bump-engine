@@ -4,15 +4,11 @@
   "name_full": "Mart\u00edn P\u00e9rez",
   "throws": "LHP",
   "team_abbr": "ATL",
-  "form_tag": "hot",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Rolling \u2014 2.61 ERA over his last 4 (6 ER in 20.2 IP).",
-      "highlight": false
-    },
-    {
-      "text": "Tough on right-handed bats \u2014 .212 against (307 AB).",
+      "text": "Tough on right-handed bats \u2014 .213 against (315 AB).",
       "highlight": false
     }
   ],
@@ -20,17 +16,17 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.05,
-      "percentile": 85,
+      "value": 3.25,
+      "percentile": 81,
       "league": "NL",
-      "league_rank": 13,
-      "mlb_rank": 22
+      "league_rank": null,
+      "mlb_rank": null
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.77,
-      "percentile": 15,
+      "value": 6.79,
+      "percentile": 16,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 121.0,
-      "percentile": 40,
+      "value": 124.2,
+      "percentile": 43,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 91,
-      "percentile": 26,
+      "value": 94,
+      "percentile": 30,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 50,
-      "percentile": 22,
+      "value": 54,
+      "percentile": 17,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.72,
-      "percentile": 22,
+      "value": 3.9,
+      "percentile": 17,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -74,8 +70,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 12,
-      "percentile": 79,
+      "value": 13,
+      "percentile": 72,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.19,
-      "percentile": 43,
+      "value": 4.31,
+      "percentile": 39,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.241,
-      "ab": 133
+      "avg": 0.259,
+      "ab": 143
     },
     "vs_rhb": {
-      "avg": 0.212,
-      "ab": 307
+      "avg": 0.213,
+      "ab": 315
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 5",
+      "opp_abbr": "PHI",
+      "is_home": false,
+      "ip": "3.2",
+      "h": 7,
+      "er": 4,
+      "hr": 1,
+      "bb": 4,
+      "so": 3,
+      "pitches": 84,
+      "strikes": 49
+    },
     {
       "date_display": "Aug 29",
       "opp_abbr": "COL",
@@ -152,19 +161,6 @@
       "so": 2,
       "pitches": 82,
       "strikes": 49
-    },
-    {
-      "date_display": "Aug 6",
-      "opp_abbr": "MIA",
-      "is_home": true,
-      "ip": "3.0",
-      "h": 0,
-      "er": 0,
-      "hr": 0,
-      "bb": 1,
-      "so": 3,
-      "pitches": 35,
-      "strikes": 22
     }
   ]
 }

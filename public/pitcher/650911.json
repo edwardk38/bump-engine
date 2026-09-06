@@ -38,7 +38,7 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 10.27,
-      "percentile": 87,
+      "percentile": 88,
       "league": "NL",
       "league_rank": 12,
       "mlb_rank": 19
@@ -65,7 +65,7 @@
       "key": "bb",
       "label": "BB",
       "value": 42,
-      "percentile": 88,
+      "percentile": 89,
       "league": "NL",
       "league_rank": 10,
       "mlb_rank": 17
@@ -74,7 +74,7 @@
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 2.08,
-      "percentile": 88,
+      "percentile": 89,
       "league": "NL",
       "league_rank": 10,
       "mlb_rank": 17

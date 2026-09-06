@@ -4,7 +4,7 @@
   "name_full": "Griffin Jax",
   "throws": "RHP",
   "team_abbr": "TB",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -84,7 +84,7 @@
       "key": "fip",
       "label": "FIP",
       "value": 3.96,
-      "percentile": 55,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

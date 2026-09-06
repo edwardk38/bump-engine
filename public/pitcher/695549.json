@@ -4,11 +4,11 @@
   "name_full": "Jackson Jobe",
   "throws": "RHP",
   "team_abbr": "DET",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": false,
   "read": [
     {
-      "text": "3.93 ERA with 7.36 K/9 over 18.1 innings this season.",
+      "text": "Rough stretch \u2014 5.89 ERA over his last four (12 ER in 18.1 IP).",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.93,
-      "percentile": 53,
+      "value": 4.63,
+      "percentile": 29,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.36,
-      "percentile": 31,
+      "value": 7.33,
+      "percentile": 30,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,7 +34,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 18.1,
+      "value": 23.1,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -43,7 +43,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 15,
+      "value": 19,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 8,
-      "percentile": 15,
+      "value": 10,
+      "percentile": 18,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.93,
-      "percentile": 15,
+      "value": 3.86,
+      "percentile": 18,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,8 +70,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 2,
-      "percentile": 66,
+      "value": 4,
+      "percentile": 20,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.66,
-      "percentile": 22,
+      "value": 5.36,
+      "percentile": 6,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.227,
-      "ab": 44
+      "avg": 0.214,
+      "ab": 56
     },
     "vs_rhb": {
-      "avg": 0.32,
-      "ab": 25
+      "avg": 0.353,
+      "ab": 34
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 31",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 6,
+      "er": 4,
+      "hr": 2,
+      "bb": 2,
+      "so": 4,
+      "pitches": 92,
+      "strikes": 57
+    },
     {
       "date_display": "Aug 25",
       "opp_abbr": "TB",

@@ -4,11 +4,11 @@
   "name_full": "Tanner Gordon",
   "throws": "RHP",
   "team_abbr": "COL",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": false,
   "read": [
     {
-      "text": "5.38 ERA with 7.42 K/9 over 83.2 innings this season.",
+      "text": "5.18 ERA with 7.31 K/9 over 88.2 innings this season.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 5.38,
-      "percentile": 11,
+      "value": 5.18,
+      "percentile": 18,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.42,
-      "percentile": 33,
+      "value": 7.31,
+      "percentile": 29,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 83.2,
-      "percentile": 11,
+      "value": 88.2,
+      "percentile": 14,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,7 +43,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 69,
+      "value": 72,
       "percentile": 8,
       "league": "NL",
       "league_rank": null,
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 15,
-      "percentile": 99,
+      "value": 16,
+      "percentile": 97,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 1.61,
-      "percentile": 99,
+      "value": 1.62,
+      "percentile": 97,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 17,
-      "percentile": 8,
+      "percentile": 9,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.68,
-      "percentile": 22,
+      "value": 4.57,
+      "percentile": 28,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.298,
-      "ab": 198
+      "avg": 0.292,
+      "ab": 209
     },
     "vs_rhb": {
-      "avg": 0.319,
-      "ab": 144
+      "avg": 0.313,
+      "ab": 150
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 31",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 3,
+      "pitches": 60,
+      "strikes": 40
+    },
     {
       "date_display": "Aug 26",
       "opp_abbr": "WSH",
@@ -148,19 +161,6 @@
       "so": 7,
       "pitches": 94,
       "strikes": 62
-    },
-    {
-      "date_display": "Jun 30",
-      "opp_abbr": "MIA",
-      "is_home": true,
-      "ip": "5.0",
-      "h": 9,
-      "er": 5,
-      "hr": 1,
-      "bb": 0,
-      "so": 4,
-      "pitches": 74,
-      "strikes": 49
     }
   ]
 }

@@ -4,13 +4,9 @@
   "name_full": "Mitch Keller",
   "throws": "RHP",
   "team_abbr": "PIT",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 6.57 ERA over his last three (9 ER in 12.1 IP).",
-      "highlight": false
-    },
     {
       "text": "Tough on right-handed bats \u2014 .205 against (161 AB).",
       "highlight": false
@@ -57,7 +53,7 @@
       "key": "bb",
       "label": "BB",
       "value": 42,
-      "percentile": 36,
+      "percentile": 35,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -66,7 +62,7 @@
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 3.27,
-      "percentile": 36,
+      "percentile": 35,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -84,7 +80,7 @@
       "key": "fip",
       "label": "FIP",
       "value": 4.53,
-      "percentile": 33,
+      "percentile": 31,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
