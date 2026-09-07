@@ -4,13 +4,9 @@
   "name_full": "Gavin Williams",
   "throws": "RHP",
   "team_abbr": "CLE",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 5.89 ERA over his last four (12 ER in 18.1 IP).",
-      "highlight": false
-    },
     {
       "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
       "highlight": false
@@ -20,7 +16,11 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 11.98 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 12.14 K/9, about a strikeout an inning.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .190 against (374 AB).",
       "highlight": false
     }
   ],
@@ -28,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.81,
-      "percentile": 58,
+      "value": 3.78,
+      "percentile": 59,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,7 +37,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 11.98,
+      "value": 12.14,
       "percentile": 98,
       "league": "AL",
       "league_rank": 2,
@@ -46,26 +46,26 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 163.0,
-      "percentile": 92,
+      "value": 169.0,
+      "percentile": 96,
       "league": "AL",
-      "league_rank": 7,
-      "mlb_rank": 13
+      "league_rank": 3,
+      "mlb_rank": 7
     },
     {
       "key": "k",
       "label": "K",
-      "value": 217,
-      "percentile": 98,
+      "value": 228,
+      "percentile": 100,
       "league": "AL",
-      "league_rank": 2,
-      "mlb_rank": 3
+      "league_rank": 1,
+      "mlb_rank": 1
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 50,
-      "percentile": 61,
+      "value": 53,
+      "percentile": 58,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.76,
-      "percentile": 61,
+      "value": 2.82,
+      "percentile": 58,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,7 +83,7 @@
       "key": "hr",
       "label": "HR",
       "value": 27,
-      "percentile": 21,
+      "percentile": 25,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,24 +91,37 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.57,
-      "percentile": 75,
+      "value": 3.48,
+      "percentile": 81,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 14,
+      "mlb_rank": 29
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.188,
-      "ab": 361
+      "avg": 0.19,
+      "ab": 374
     },
     "vs_rhb": {
-      "avg": 0.251,
-      "ab": 239
+      "avg": 0.247,
+      "ab": 247
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 6",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 11,
+      "pitches": 99,
+      "strikes": 64
+    },
     {
       "date_display": "Sep 1",
       "opp_abbr": "TOR",
@@ -160,19 +173,6 @@
       "so": 5,
       "pitches": 91,
       "strikes": 59
-    },
-    {
-      "date_display": "Aug 8",
-      "opp_abbr": "CWS",
-      "is_home": false,
-      "ip": "5.2",
-      "h": 3,
-      "er": 2,
-      "hr": 1,
-      "bb": 2,
-      "so": 7,
-      "pitches": 102,
-      "strikes": 68
     }
   ]
 }

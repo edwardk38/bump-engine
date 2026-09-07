@@ -47,10 +47,10 @@
       "key": "ip",
       "label": "IP",
       "value": 171.2,
-      "percentile": 98,
+      "percentile": 97,
       "league": "AL",
       "league_rank": 2,
-      "mlb_rank": 4
+      "mlb_rank": 5
     },
     {
       "key": "k",

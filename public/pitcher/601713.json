@@ -1,0 +1,153 @@
+{
+  "pitcher_id": "601713",
+  "name_display": "N. Pivetta",
+  "name_full": "Nick Pivetta",
+  "throws": "RHP",
+  "team_abbr": "SD",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Misses bats \u2014 13.5 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.5,
+      "percentile": 33,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 13.5,
+      "percentile": 100,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 16.0,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 24,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 6,
+      "percentile": 31,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.38,
+      "percentile": 31,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 0,
+      "percentile": 100,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 1.21,
+      "percentile": 100,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.25,
+      "ab": 32
+    },
+    "vs_rhb": {
+      "avg": 0.143,
+      "ab": 28
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Apr 12",
+      "opp_abbr": "COL",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 4,
+      "pitches": 46,
+      "strikes": 28
+    },
+    {
+      "date_display": "Apr 7",
+      "opp_abbr": "PIT",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 4,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 8,
+      "pitches": 86,
+      "strikes": 60
+    },
+    {
+      "date_display": "Apr 1",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 8,
+      "pitches": 82,
+      "strikes": 54
+    },
+    {
+      "date_display": "Mar 26",
+      "opp_abbr": "DET",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 7,
+      "er": 6,
+      "hr": 0,
+      "bb": 3,
+      "so": 4,
+      "pitches": 69,
+      "strikes": 42
+    }
+  ]
+}

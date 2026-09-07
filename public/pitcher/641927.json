@@ -4,11 +4,11 @@
   "name_full": "Bailey Ober",
   "throws": "RHP",
   "team_abbr": "MIN",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
-      "text": "4.37 ERA with 6.27 K/9 over 113.1 innings this season.",
+      "text": "Rolling \u2014 2.41 ERA over his last 4 (5 ER in 18.2 IP).",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.37,
-      "percentile": 36,
+      "value": 4.28,
+      "percentile": 39,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.27,
-      "percentile": 9,
+      "value": 6.5,
+      "percentile": 10,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 113.1,
-      "percentile": 34,
+      "value": 117.2,
+      "percentile": 39,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 79,
-      "percentile": 14,
+      "value": 85,
+      "percentile": 19,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 31,
-      "percentile": 72,
+      "value": 34,
+      "percentile": 69,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.46,
-      "percentile": 72,
+      "value": 2.6,
+      "percentile": 69,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 18,
-      "percentile": 25,
+      "percentile": 30,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.63,
-      "percentile": 25,
+      "value": 4.55,
+      "percentile": 29,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.238,
-      "ab": 248
+      "avg": 0.237,
+      "ab": 262
     },
     "vs_rhb": {
       "avg": 0.258,
-      "ab": 194
+      "ab": 198
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 6",
+      "opp_abbr": "CWS",
+      "is_home": false,
+      "ip": "4.1",
+      "h": 4,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 6,
+      "pitches": 84,
+      "strikes": 50
+    },
     {
       "date_display": "Aug 29",
       "opp_abbr": "CWS",
@@ -148,19 +161,6 @@
       "so": 4,
       "pitches": 100,
       "strikes": 60
-    },
-    {
-      "date_display": "Aug 6",
-      "opp_abbr": "KC",
-      "is_home": false,
-      "ip": "6.0",
-      "h": 6,
-      "er": 3,
-      "hr": 0,
-      "bb": 0,
-      "so": 0,
-      "pitches": 74,
-      "strikes": 50
     }
   ]
 }

@@ -4,11 +4,19 @@
   "name_full": "Spencer Arrighetti",
   "throws": "RHP",
   "team_abbr": "TOR",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Tough on right-handed bats \u2014 .201 against (154 AB).",
+      "text": "Rough stretch \u2014 11.17 ERA over his last three (12 ER in 9.2 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .216 against (162 AB).",
       "highlight": false
     }
   ],
@@ -16,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.82,
-      "percentile": 26,
+      "value": 5.12,
+      "percentile": 19,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +33,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.82,
-      "percentile": 64,
+      "value": 8.68,
+      "percentile": 60,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +42,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 99.0,
-      "percentile": 23,
+      "value": 103.2,
+      "percentile": 26,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +51,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 97,
-      "percentile": 34,
+      "value": 100,
+      "percentile": 37,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,7 +60,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 55,
+      "value": 58,
       "percentile": 2,
       "league": "AL",
       "league_rank": null,
@@ -61,7 +69,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 5.0,
+      "value": 5.04,
       "percentile": 2,
       "league": "AL",
       "league_rank": null,
@@ -70,8 +78,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 15,
-      "percentile": 31,
+      "value": 17,
+      "percentile": 20,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +87,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.19,
-      "percentile": 9,
+      "value": 5.41,
+      "percentile": 6,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.228,
-      "ab": 206
+      "avg": 0.225,
+      "ab": 218
     },
     "vs_rhb": {
-      "avg": 0.201,
-      "ab": 154
+      "avg": 0.216,
+      "ab": 162
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 6",
+      "opp_abbr": "KC",
+      "is_home": false,
+      "ip": "4.2",
+      "h": 6,
+      "er": 6,
+      "hr": 2,
+      "bb": 3,
+      "so": 3,
+      "pitches": 91,
+      "strikes": 56
+    },
     {
       "date_display": "Aug 27",
       "opp_abbr": "KC",
@@ -148,19 +169,6 @@
       "so": 2,
       "pitches": 94,
       "strikes": 48
-    },
-    {
-      "date_display": "Jul 3",
-      "opp_abbr": "TB",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 2,
-      "er": 1,
-      "hr": 1,
-      "bb": 1,
-      "so": 4,
-      "pitches": 73,
-      "strikes": 46
     }
   ]
 }

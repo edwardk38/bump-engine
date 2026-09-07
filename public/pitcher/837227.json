@@ -52,7 +52,7 @@
       "key": "k",
       "label": "K",
       "value": 88,
-      "percentile": 23,
+      "percentile": 22,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +79,7 @@
       "key": "hr",
       "label": "HR",
       "value": 9,
-      "percentile": 51,
+      "percentile": 52,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

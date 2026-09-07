@@ -25,7 +25,7 @@
       "key": "era",
       "label": "ERA",
       "value": 3.96,
-      "percentile": 54,
+      "percentile": 53,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,10 +88,10 @@
       "key": "fip",
       "label": "FIP",
       "value": 3.18,
-      "percentile": 89,
+      "percentile": 88,
       "league": "AL",
-      "league_rank": 8,
-      "mlb_rank": 17
+      "league_rank": 9,
+      "mlb_rank": 18
     }
   ],
   "splits": {
