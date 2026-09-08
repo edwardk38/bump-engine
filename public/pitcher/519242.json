@@ -47,7 +47,7 @@
       "key": "ip",
       "label": "IP",
       "value": 150.0,
-      "percentile": 73,
+      "percentile": 71,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 2.26,
-      "percentile": 99,
+      "value": 2.25,
+      "percentile": 100,
       "league": "NL",
       "league_rank": 1,
       "mlb_rank": 1

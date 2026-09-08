@@ -25,7 +25,7 @@
       "key": "era",
       "label": "ERA",
       "value": 3.54,
-      "percentile": 69,
+      "percentile": 68,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,7 +52,7 @@
       "key": "k",
       "label": "K",
       "value": 142,
-      "percentile": 75,
+      "percentile": 74,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null

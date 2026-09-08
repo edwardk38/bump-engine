@@ -1,0 +1,42 @@
+{
+  "game_id": "2026-09-08-TEX-SEA",
+  "date_display": "Tuesday, Sep 8",
+  "start_time_display": "9:40 PM",
+  "venue": "T-Mobile Park",
+  "away_team": "Texas Rangers",
+  "home_team": "Seattle Mariners",
+  "away_abbr": "TEX",
+  "home_abbr": "SEA",
+  "pitchers": {
+    "away": {
+      "tbd": true,
+      "pitcher_id": null,
+      "name_display": null,
+      "throws": null,
+      "team_abbr": "TEX",
+      "opponent_abbr": "SEA",
+      "qualified": null,
+      "form_tag": null,
+      "headline_stats": null,
+      "read": null,
+      "season_stats": null,
+      "splits": null,
+      "last_starts": null
+    },
+    "home": {
+      "tbd": true,
+      "pitcher_id": null,
+      "name_display": null,
+      "throws": null,
+      "team_abbr": "SEA",
+      "opponent_abbr": "TEX",
+      "qualified": null,
+      "form_tag": null,
+      "headline_stats": null,
+      "read": null,
+      "season_stats": null,
+      "splits": null,
+      "last_starts": null
+    }
+  }
+}

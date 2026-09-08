@@ -4,13 +4,9 @@
   "name_full": "Spencer Arrighetti",
   "throws": "RHP",
   "team_abbr": "TOR",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 11.17 ERA over his last three (12 ER in 9.2 IP).",
-      "highlight": false
-    },
     {
       "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
       "highlight": false
@@ -25,7 +21,7 @@
       "key": "era",
       "label": "ERA",
       "value": 5.12,
-      "percentile": 19,
+      "percentile": 18,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,7 +30,7 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 8.68,
-      "percentile": 60,
+      "percentile": 61,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,7 +39,7 @@
       "key": "ip",
       "label": "IP",
       "value": 103.2,
-      "percentile": 26,
+      "percentile": 24,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 17,
-      "percentile": 20,
+      "percentile": 22,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,7 +83,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.41,
+      "value": 5.4,
       "percentile": 6,
       "league": "AL",
       "league_rank": null,

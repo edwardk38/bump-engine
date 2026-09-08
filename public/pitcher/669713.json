@@ -4,11 +4,15 @@
   "name_full": "Hayden Wesneski",
   "throws": "RHP",
   "team_abbr": "HOU",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": false,
   "read": [
     {
-      "text": "3.86 ERA with 7.71 K/9 over 32.2 innings this season.",
+      "text": "Rolling \u2014 2.57 ERA over his last 4 (6 ER in 21.0 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .195 against (82 AB).",
       "highlight": false
     }
   ],
@@ -16,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.86,
-      "percentile": 55,
+      "value": 3.18,
+      "percentile": 83,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.71,
-      "percentile": 36,
+      "value": 7.49,
+      "percentile": 34,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,7 +38,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 32.2,
+      "value": 39.2,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -43,7 +47,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 28,
+      "value": 33,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -52,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 12,
-      "percentile": 36,
+      "value": 14,
+      "percentile": 38,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.31,
-      "percentile": 36,
+      "value": 3.18,
+      "percentile": 38,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 2,
-      "percentile": 97,
+      "percentile": 99,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.36,
-      "percentile": 83,
+      "value": 3.29,
+      "percentile": 86,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.227,
-      "ab": 66
+      "avg": 0.195,
+      "ab": 82
     },
     "vs_rhb": {
-      "avg": 0.231,
-      "ab": 52
+      "avg": 0.207,
+      "ab": 58
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 2",
+      "opp_abbr": "CWS",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 90,
+      "strikes": 58
+    },
     {
       "date_display": "Aug 27",
       "opp_abbr": "NYY",
@@ -147,19 +164,6 @@
       "bb": 2,
       "so": 4,
       "pitches": 83,
-      "strikes": 51
-    },
-    {
-      "date_display": "Aug 4",
-      "opp_abbr": "TOR",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 4,
-      "er": 2,
-      "hr": 0,
-      "bb": 2,
-      "so": 4,
-      "pitches": 78,
       "strikes": 51
     }
   ]

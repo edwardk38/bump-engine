@@ -4,19 +4,15 @@
   "name_full": "Robert Gasser",
   "throws": "LHP",
   "team_abbr": "MIL",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 5.68 ERA over his last four (12 ER in 19.0 IP).",
-      "highlight": false
-    },
     {
       "text": "Team has won 8 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Tough on left-handed bats \u2014 .168 against (107 AB).",
+      "text": "Tough on left-handed bats \u2014 .165 against (109 AB).",
       "highlight": false
     }
   ],
@@ -24,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.57,
-      "percentile": 31,
+      "value": 4.43,
+      "percentile": 35,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.52,
-      "percentile": 55,
+      "value": 8.57,
+      "percentile": 57,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -42,7 +38,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 86.2,
+      "value": 91.1,
       "percentile": 13,
       "league": "NL",
       "league_rank": null,
@@ -51,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 82,
-      "percentile": 16,
+      "value": 87,
+      "percentile": 20,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -60,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 27,
-      "percentile": 59,
+      "value": 29,
+      "percentile": 55,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.8,
-      "percentile": 59,
+      "value": 2.86,
+      "percentile": 55,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -78,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 13,
-      "percentile": 32,
+      "value": 14,
+      "percentile": 31,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.36,
-      "percentile": 37,
+      "value": 4.42,
+      "percentile": 35,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.168,
-      "ab": 107
+      "avg": 0.165,
+      "ab": 109
     },
     "vs_rhb": {
-      "avg": 0.289,
-      "ab": 232
+      "avg": 0.283,
+      "ab": 247
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 7",
+      "opp_abbr": "CHC",
+      "is_home": true,
+      "ip": "4.2",
+      "h": 3,
+      "er": 1,
+      "hr": 1,
+      "bb": 2,
+      "so": 5,
+      "pitches": 83,
+      "strikes": 56
+    },
     {
       "date_display": "Sep 1",
       "opp_abbr": "CHC",
@@ -156,19 +165,6 @@
       "so": 3,
       "pitches": 94,
       "strikes": 60
-    },
-    {
-      "date_display": "Aug 1",
-      "opp_abbr": "LAA",
-      "is_home": false,
-      "ip": "5.0",
-      "h": 4,
-      "er": 1,
-      "hr": 0,
-      "bb": 2,
-      "so": 6,
-      "pitches": 76,
-      "strikes": 50
     }
   ]
 }

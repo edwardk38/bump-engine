@@ -24,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.21,
-      "percentile": 40,
+      "value": 4.1,
+      "percentile": 45,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,8 +33,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.16,
-      "percentile": 23,
+      "value": 7.34,
+      "percentile": 30,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -42,17 +42,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 149.2,
-      "percentile": 73,
+      "value": 155.2,
+      "percentile": 80,
       "league": "NL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 12,
+      "mlb_rank": 31
     },
     {
       "key": "k",
       "label": "K",
-      "value": 119,
-      "percentile": 53,
+      "value": 127,
+      "percentile": 64,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -60,29 +60,29 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 38,
-      "percentile": 82,
+      "value": 40,
+      "percentile": 80,
       "league": "NL",
       "league_rank": 15,
-      "mlb_rank": 27
+      "mlb_rank": 30
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.29,
-      "percentile": 82,
+      "value": 2.31,
+      "percentile": 80,
       "league": "NL",
       "league_rank": 15,
-      "mlb_rank": 27
+      "mlb_rank": 30
     },
     {
       "key": "hr",
       "label": "HR",
-      "value": 11,
-      "percentile": 93,
+      "value": 12,
+      "percentile": 91,
       "league": "NL",
-      "league_rank": 7,
-      "mlb_rank": 11
+      "league_rank": 8,
+      "mlb_rank": 13
     },
     {
       "key": "fip",
@@ -96,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.249,
-      "ab": 342
+      "avg": 0.245,
+      "ab": 355
     },
     "vs_rhb": {
-      "avg": 0.226,
-      "ab": 226
+      "avg": 0.222,
+      "ab": 234
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 7",
+      "opp_abbr": "STL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 3,
+      "er": 1,
+      "hr": 1,
+      "bb": 2,
+      "so": 8,
+      "pitches": 99,
+      "strikes": 65
+    },
     {
       "date_display": "Sep 1",
       "opp_abbr": "PIT",
@@ -156,19 +169,6 @@
       "so": 7,
       "pitches": 80,
       "strikes": 57
-    },
-    {
-      "date_display": "Aug 9",
-      "opp_abbr": "DET",
-      "is_home": true,
-      "ip": "8.0",
-      "h": 4,
-      "er": 1,
-      "hr": 0,
-      "bb": 1,
-      "so": 2,
-      "pitches": 100,
-      "strikes": 66
     }
   ]
 }

@@ -1,0 +1,341 @@
+{
+  "game_id": "2026-09-08-TB-ATL",
+  "date_display": "Tuesday, Sep 8",
+  "start_time_display": "7:15 PM",
+  "venue": "Truist Park",
+  "away_team": "Tampa Bay Rays",
+  "home_team": "Atlanta Braves",
+  "away_abbr": "TB",
+  "home_abbr": "ATL",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "642547",
+      "name_display": "F. Peralta",
+      "throws": "RHP",
+      "team_abbr": "TB",
+      "opponent_abbr": "ATL",
+      "qualified": true,
+      "form_tag": "hot",
+      "headline_stats": {
+        "era": 4.96,
+        "k_per_9": 8.57
+      },
+      "read": [
+        {
+          "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 4.96,
+          "percentile": 25,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 8.57,
+          "percentile": 57,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 147.0,
+          "percentile": 69,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 140,
+          "percentile": 72,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 54,
+          "percentile": 35,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.31,
+          "percentile": 35,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 23,
+          "percentile": 29,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 4.48,
+          "percentile": 33,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.26,
+          "ab": 377
+        },
+        "vs_rhb": {
+          "avg": 0.251,
+          "ab": 199
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 1",
+          "opp_abbr": "NYM",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 3,
+          "er": 1,
+          "hr": 1,
+          "bb": 0,
+          "so": 7,
+          "pitches": 74,
+          "strikes": 53
+        },
+        {
+          "date_display": "Aug 26",
+          "opp_abbr": "DET",
+          "is_home": false,
+          "ip": "6.0",
+          "h": 2,
+          "er": 0,
+          "hr": 0,
+          "bb": 0,
+          "so": 4,
+          "pitches": 81,
+          "strikes": 50
+        },
+        {
+          "date_display": "Aug 21",
+          "opp_abbr": "BAL",
+          "is_home": false,
+          "ip": "7.0",
+          "h": 7,
+          "er": 5,
+          "hr": 2,
+          "bb": 1,
+          "so": 6,
+          "pitches": 98,
+          "strikes": 63
+        },
+        {
+          "date_display": "Aug 16",
+          "opp_abbr": "BAL",
+          "is_home": true,
+          "ip": "4.2",
+          "h": 1,
+          "er": 2,
+          "hr": 0,
+          "bb": 3,
+          "so": 2,
+          "pitches": 76,
+          "strikes": 40
+        },
+        {
+          "date_display": "Aug 10",
+          "opp_abbr": "ATH",
+          "is_home": false,
+          "ip": "6.0",
+          "h": 6,
+          "er": 3,
+          "hr": 1,
+          "bb": 1,
+          "so": 5,
+          "pitches": 98,
+          "strikes": 66
+        }
+      ]
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "700363",
+      "name_display": "A. Smith-Shawver",
+      "throws": "RHP",
+      "team_abbr": "ATL",
+      "opponent_abbr": "TB",
+      "qualified": false,
+      "form_tag": "cold",
+      "headline_stats": {
+        "era": 7.13,
+        "k_per_9": 7.64
+      },
+      "read": [
+        {
+          "text": "Rough stretch \u2014 7.13 ERA over his last four (14 ER in 17.2 IP).",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 7.13,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 7.64,
+          "percentile": 36,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 17.2,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 15,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 11,
+          "percentile": 1,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 5.6,
+          "percentile": 1,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 2,
+          "percentile": 63,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 4.73,
+          "percentile": 19,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.239,
+          "ab": 46
+        },
+        "vs_rhb": {
+          "avg": 0.346,
+          "ab": 26
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 1",
+          "opp_abbr": "WSH",
+          "is_home": false,
+          "ip": "4.0",
+          "h": 6,
+          "er": 5,
+          "hr": 1,
+          "bb": 3,
+          "so": 5,
+          "pitches": 86,
+          "strikes": 57
+        },
+        {
+          "date_display": "Aug 26",
+          "opp_abbr": "LAD",
+          "is_home": true,
+          "ip": "5.0",
+          "h": 5,
+          "er": 3,
+          "hr": 1,
+          "bb": 3,
+          "so": 3,
+          "pitches": 90,
+          "strikes": 52
+        },
+        {
+          "date_display": "Aug 19",
+          "opp_abbr": "MIN",
+          "is_home": false,
+          "ip": "4.1",
+          "h": 5,
+          "er": 4,
+          "hr": 0,
+          "bb": 3,
+          "so": 3,
+          "pitches": 75,
+          "strikes": 49
+        },
+        {
+          "date_display": "Jul 29",
+          "opp_abbr": "NYM",
+          "is_home": false,
+          "ip": "4.1",
+          "h": 4,
+          "er": 2,
+          "hr": 0,
+          "bb": 2,
+          "so": 4,
+          "pitches": 69,
+          "strikes": 43
+        }
+      ]
+    }
+  }
+}
