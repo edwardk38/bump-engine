@@ -4,15 +4,11 @@
   "name_full": "Robert Stock",
   "throws": "RHP",
   "team_abbr": "NYM",
-  "form_tag": "cold",
+  "form_tag": "hot",
   "qualified": false,
   "read": [
     {
-      "text": "Rough stretch \u2014 9.19 ERA over his last four (16 ER in 15.2 IP).",
-      "highlight": false
-    },
-    {
-      "text": "Misses bats \u2014 9.15 K/9, about a strikeout an inning.",
+      "text": "5.81 ERA with 8.54 K/9 over 26.1 innings this season.",
       "highlight": false
     }
   ],
@@ -20,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 7.4,
-      "percentile": 0,
+      "value": 5.81,
+      "percentile": 5,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.15,
-      "percentile": 70,
+      "value": 8.54,
+      "percentile": 57,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,7 +34,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 20.2,
+      "value": 26.1,
       "percentile": 0,
       "league": "NL",
       "league_rank": null,
@@ -47,7 +43,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 21,
+      "value": 25,
       "percentile": 0,
       "league": "NL",
       "league_rank": null,
@@ -57,7 +53,7 @@
       "key": "bb",
       "label": "BB",
       "value": 13,
-      "percentile": 0,
+      "percentile": 6,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 5.66,
-      "percentile": 0,
+      "value": 4.44,
+      "percentile": 6,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 2,
-      "percentile": 79,
+      "percentile": 92,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.62,
-      "percentile": 24,
+      "value": 4.0,
+      "percentile": 57,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.293,
-      "ab": 58
+      "avg": 0.288,
+      "ab": 73
     },
     "vs_rhb": {
-      "avg": 0.333,
-      "ab": 30
+      "avg": 0.316,
+      "ab": 38
     }
   },
   "last_starts": [
+    {
+      "date_display": "Aug 31",
+      "opp_abbr": "TB",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 5,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 4,
+      "pitches": 72,
+      "strikes": 50
+    },
     {
       "date_display": "Aug 26",
       "opp_abbr": "MIL",
@@ -152,19 +161,6 @@
       "so": 4,
       "pitches": 80,
       "strikes": 52
-    },
-    {
-      "date_display": "Aug 2",
-      "opp_abbr": "MIA",
-      "is_home": true,
-      "ip": "5.0",
-      "h": 3,
-      "er": 1,
-      "hr": 1,
-      "bb": 0,
-      "so": 4,
-      "pitches": 70,
-      "strikes": 45
     }
   ]
 }

@@ -4,11 +4,11 @@
   "name_full": "Brady Basso",
   "throws": "LHP",
   "team_abbr": "ATH",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": false,
   "read": [
     {
-      "text": "4.5 ERA with 7.07 K/9 over 28.0 innings this season.",
+      "text": "Rough stretch \u2014 7.94 ERA over his last three (5 ER in 5.2 IP).",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.5,
-      "percentile": 33,
+      "value": 4.32,
+      "percentile": 37,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.07,
-      "percentile": 20,
+      "value": 6.48,
+      "percentile": 11,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,7 +34,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 28.0,
+      "value": 33.1,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -43,7 +43,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 22,
+      "value": 24,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -52,7 +52,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 4,
+      "value": 5,
       "percentile": 100,
       "league": "AL",
       "league_rank": null,
@@ -61,7 +61,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 1.29,
+      "value": 1.35,
       "percentile": 100,
       "league": "AL",
       "league_rank": null,
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 3,
-      "percentile": 67,
+      "percentile": 87,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.33,
-      "percentile": 85,
+      "value": 3.27,
+      "percentile": 87,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.261,
-      "ab": 46
+      "avg": 0.309,
+      "ab": 55
     },
     "vs_rhb": {
-      "avg": 0.324,
-      "ab": 71
+      "avg": 0.305,
+      "ab": 82
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 1",
+      "opp_abbr": "TEX",
+      "is_home": false,
+      "ip": "2.1",
+      "h": 4,
+      "er": 2,
+      "hr": 0,
+      "bb": 0,
+      "so": 2,
+      "pitches": 40,
+      "strikes": 26
+    },
     {
       "date_display": "Aug 23",
       "opp_abbr": "HOU",

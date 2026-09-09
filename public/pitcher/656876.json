@@ -83,15 +83,15 @@
       "key": "hr",
       "label": "HR",
       "value": 14,
-      "percentile": 84,
+      "percentile": 85,
       "league": "AL",
-      "league_rank": 10,
-      "mlb_rank": 24
+      "league_rank": 9,
+      "mlb_rank": 22
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 2.91,
+      "value": 2.9,
       "percentile": 94,
       "league": "AL",
       "league_rank": 4,

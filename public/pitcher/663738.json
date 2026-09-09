@@ -8,7 +8,7 @@
   "qualified": false,
   "read": [
     {
-      "text": "Tough on left-handed bats \u2014 .175 against (97 AB).",
+      "text": "Tough on left-handed bats \u2014 .168 against (101 AB).",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.06,
-      "percentile": 85,
+      "value": 3.51,
+      "percentile": 72,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.71,
-      "percentile": 14,
+      "value": 6.21,
+      "percentile": 8,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,7 +34,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 61.2,
+      "value": 66.2,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 19,
-      "percentile": 61,
+      "value": 20,
+      "percentile": 66,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.77,
-      "percentile": 61,
+      "value": 2.7,
+      "percentile": 66,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 5,
-      "percentile": 90,
+      "percentile": 92,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +79,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.67,
+      "value": 3.72,
       "percentile": 68,
       "league": "AL",
       "league_rank": null,
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.175,
-      "ab": 97
+      "avg": 0.168,
+      "ab": 101
     },
     "vs_rhb": {
-      "avg": 0.221,
-      "ab": 131
+      "avg": 0.242,
+      "ab": 149
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 4",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 7,
+      "er": 5,
+      "hr": 0,
+      "bb": 1,
+      "so": 0,
+      "pitches": 70,
+      "strikes": 46
+    },
     {
       "date_display": "Aug 29",
       "opp_abbr": "CLE",
@@ -148,19 +161,6 @@
       "so": 3,
       "pitches": 39,
       "strikes": 28
-    },
-    {
-      "date_display": "Aug 7",
-      "opp_abbr": "CHC",
-      "is_home": true,
-      "ip": "1.2",
-      "h": 3,
-      "er": 3,
-      "hr": 0,
-      "bb": 2,
-      "so": 2,
-      "pitches": 35,
-      "strikes": 21
     }
   ]
 }

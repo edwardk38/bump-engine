@@ -1,0 +1,341 @@
+{
+  "game_id": "2026-09-09-TOR-ATH",
+  "date_display": "Wednesday, Sep 9",
+  "start_time_display": "3:05 PM",
+  "venue": "Sutter Health Park",
+  "away_team": "Toronto Blue Jays",
+  "home_team": "Athletics",
+  "away_abbr": "TOR",
+  "home_abbr": "ATH",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "680755",
+      "name_display": "B. Fisher",
+      "throws": "RHP",
+      "team_abbr": "TOR",
+      "opponent_abbr": "ATH",
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 3.2,
+        "k_per_9": 8.7
+      },
+      "read": [
+        {
+          "text": "Tough on right-handed bats \u2014 .189 against (122 AB).",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 3.2,
+          "percentile": 83,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 8.7,
+          "percentile": 61,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 70.1,
+          "percentile": 1,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 68,
+          "percentile": 7,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 38,
+          "percentile": 2,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 4.86,
+          "percentile": 2,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 7,
+          "percentile": 78,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 4.2,
+          "percentile": 43,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.224,
+          "ab": 116
+        },
+        "vs_rhb": {
+          "avg": 0.189,
+          "ab": 122
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Aug 15",
+          "opp_abbr": "NYY",
+          "is_home": true,
+          "ip": "1.0",
+          "h": 0,
+          "er": 0,
+          "hr": 0,
+          "bb": 1,
+          "so": 0,
+          "pitches": 12,
+          "strikes": 6
+        },
+        {
+          "date_display": "Jul 22",
+          "opp_abbr": "TB",
+          "is_home": true,
+          "ip": "1.1",
+          "h": 0,
+          "er": 1,
+          "hr": 0,
+          "bb": 2,
+          "so": 1,
+          "pitches": 26,
+          "strikes": 11
+        },
+        {
+          "date_display": "Jul 1",
+          "opp_abbr": "NYM",
+          "is_home": true,
+          "ip": "1.0",
+          "h": 0,
+          "er": 0,
+          "hr": 0,
+          "bb": 1,
+          "so": 1,
+          "pitches": 14,
+          "strikes": 7
+        },
+        {
+          "date_display": "Jun 17",
+          "opp_abbr": "BOS",
+          "is_home": false,
+          "ip": "1.1",
+          "h": 0,
+          "er": 0,
+          "hr": 0,
+          "bb": 2,
+          "so": 0,
+          "pitches": 21,
+          "strikes": 13
+        },
+        {
+          "date_display": "Jun 6",
+          "opp_abbr": "BAL",
+          "is_home": true,
+          "ip": "1.0",
+          "h": 1,
+          "er": 0,
+          "hr": 0,
+          "bb": 1,
+          "so": 2,
+          "pitches": 18,
+          "strikes": 10
+        }
+      ]
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "669620",
+      "name_display": "B. Basso",
+      "throws": "LHP",
+      "team_abbr": "ATH",
+      "opponent_abbr": "TOR",
+      "qualified": false,
+      "form_tag": "cold",
+      "headline_stats": {
+        "era": 4.32,
+        "k_per_9": 6.48
+      },
+      "read": [
+        {
+          "text": "Rough stretch \u2014 7.94 ERA over his last three (5 ER in 5.2 IP).",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 4.32,
+          "percentile": 37,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 6.48,
+          "percentile": 11,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 33.1,
+          "percentile": 0,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 24,
+          "percentile": 0,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 5,
+          "percentile": 100,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 1.35,
+          "percentile": 100,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 3,
+          "percentile": 87,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 3.27,
+          "percentile": 87,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.309,
+          "ab": 55
+        },
+        "vs_rhb": {
+          "avg": 0.305,
+          "ab": 82
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 1",
+          "opp_abbr": "TEX",
+          "is_home": false,
+          "ip": "2.1",
+          "h": 4,
+          "er": 2,
+          "hr": 0,
+          "bb": 0,
+          "so": 2,
+          "pitches": 40,
+          "strikes": 26
+        },
+        {
+          "date_display": "Aug 23",
+          "opp_abbr": "HOU",
+          "is_home": false,
+          "ip": "1.0",
+          "h": 4,
+          "er": 3,
+          "hr": 1,
+          "bb": 0,
+          "so": 0,
+          "pitches": 22,
+          "strikes": 17
+        },
+        {
+          "date_display": "Aug 18",
+          "opp_abbr": "KC",
+          "is_home": false,
+          "ip": "2.1",
+          "h": 2,
+          "er": 0,
+          "hr": 0,
+          "bb": 0,
+          "so": 1,
+          "pitches": 32,
+          "strikes": 23
+        },
+        {
+          "date_display": "Jul 25",
+          "opp_abbr": "MIN",
+          "is_home": false,
+          "ip": "2.1",
+          "h": 2,
+          "er": 0,
+          "hr": 0,
+          "bb": 1,
+          "so": 3,
+          "pitches": 36,
+          "strikes": 24
+        }
+      ]
+    }
+  }
+}

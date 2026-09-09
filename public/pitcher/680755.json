@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "680755",
+  "name_display": "B. Fisher",
+  "name_full": "Braydon Fisher",
+  "throws": "RHP",
+  "team_abbr": "TOR",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Tough on right-handed bats \u2014 .189 against (122 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.2,
+      "percentile": 83,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.7,
+      "percentile": 61,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 70.1,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 68,
+      "percentile": 7,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 38,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.86,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 7,
+      "percentile": 78,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.2,
+      "percentile": 43,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.224,
+      "ab": 116
+    },
+    "vs_rhb": {
+      "avg": 0.189,
+      "ab": 122
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 15",
+      "opp_abbr": "NYY",
+      "is_home": true,
+      "ip": "1.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 0,
+      "pitches": 12,
+      "strikes": 6
+    },
+    {
+      "date_display": "Jul 22",
+      "opp_abbr": "TB",
+      "is_home": true,
+      "ip": "1.1",
+      "h": 0,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 1,
+      "pitches": 26,
+      "strikes": 11
+    },
+    {
+      "date_display": "Jul 1",
+      "opp_abbr": "NYM",
+      "is_home": true,
+      "ip": "1.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 1,
+      "pitches": 14,
+      "strikes": 7
+    },
+    {
+      "date_display": "Jun 17",
+      "opp_abbr": "BOS",
+      "is_home": false,
+      "ip": "1.1",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 0,
+      "pitches": 21,
+      "strikes": 13
+    },
+    {
+      "date_display": "Jun 6",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "1.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 2,
+      "pitches": 18,
+      "strikes": 10
+    }
+  ]
+}

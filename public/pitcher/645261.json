@@ -4,19 +4,23 @@
   "name_full": "Sandy Alcantara",
   "throws": "RHP",
   "team_abbr": "MIA",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
+    {
+      "text": "Struggling lately \u2014 4+ runs in three of his last four.",
+      "highlight": false
+    },
     {
       "text": "Workhorse \u2014 90+ pitches in 10 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 10 of his last 10.",
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
       "highlight": false
     },
     {
-      "text": "Going deep \u2014 6+ innings in 6 of his last 6 starts.",
+      "text": "Going deep \u2014 6+ innings in 5 of his last 6 starts.",
       "highlight": false
     }
   ],
@@ -24,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.54,
-      "percentile": 68,
+      "value": 3.78,
+      "percentile": 61,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,8 +37,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.53,
-      "percentile": 11,
+      "value": 6.44,
+      "percentile": 10,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -42,7 +46,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 195.2,
+      "value": 200.0,
       "percentile": 100,
       "league": "NL",
       "league_rank": 1,
@@ -51,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 142,
-      "percentile": 74,
+      "value": 143,
+      "percentile": 75,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -60,8 +64,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 51,
-      "percentile": 80,
+      "value": 55,
+      "percentile": 73,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.35,
-      "percentile": 80,
+      "value": 2.48,
+      "percentile": 73,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -78,8 +82,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 19,
-      "percentile": 80,
+      "value": 22,
+      "percentile": 65,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.79,
-      "percentile": 64,
+      "value": 4.03,
+      "percentile": 55,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.242,
-      "ab": 446
+      "avg": 0.248,
+      "ab": 459
     },
     "vs_rhb": {
-      "avg": 0.244,
-      "ab": 299
+      "avg": 0.242,
+      "ab": 306
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 8",
+      "opp_abbr": "NYM",
+      "is_home": true,
+      "ip": "4.1",
+      "h": 7,
+      "er": 7,
+      "hr": 3,
+      "bb": 4,
+      "so": 1,
+      "pitches": 99,
+      "strikes": 57
+    },
     {
       "date_display": "Sep 3",
       "opp_abbr": "KC",
@@ -156,19 +173,6 @@
       "so": 1,
       "pitches": 97,
       "strikes": 68
-    },
-    {
-      "date_display": "Aug 14",
-      "opp_abbr": "CIN",
-      "is_home": false,
-      "ip": "7.0",
-      "h": 3,
-      "er": 1,
-      "hr": 0,
-      "bb": 4,
-      "so": 2,
-      "pitches": 103,
-      "strikes": 67
     }
   ]
 }
