@@ -4,15 +4,11 @@
   "name_full": "Janson Junk",
   "throws": "RHP",
   "team_abbr": "MIA",
-  "form_tag": "hot",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Rolling \u2014 2.33 ERA over his last 4 (5 ER in 19.1 IP).",
-      "highlight": false
-    },
-    {
-      "text": "Tough on right-handed bats \u2014 .210 against (157 AB).",
+      "text": "Rough stretch \u2014 5.71 ERA over his last four (11 ER in 17.1 IP).",
       "highlight": false
     }
   ],
@@ -20,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.0,
-      "percentile": 50,
+      "value": 4.54,
+      "percentile": 33,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.17,
-      "percentile": 7,
+      "value": 6.0,
+      "percentile": 5,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 108.0,
-      "percentile": 27,
+      "value": 111.0,
+      "percentile": 32,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 29,
-      "percentile": 77,
+      "value": 30,
+      "percentile": 76,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.42,
-      "percentile": 77,
+      "value": 2.43,
+      "percentile": 76,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -74,8 +70,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 12,
-      "percentile": 64,
+      "value": 13,
+      "percentile": 61,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.05,
-      "percentile": 54,
+      "value": 4.2,
+      "percentile": 44,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.293,
-      "ab": 259
+      "avg": 0.296,
+      "ab": 270
     },
     "vs_rhb": {
-      "avg": 0.21,
-      "ab": 157
+      "avg": 0.227,
+      "ab": 163
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 9",
+      "opp_abbr": "NYM",
+      "is_home": true,
+      "ip": "3.0",
+      "h": 8,
+      "er": 8,
+      "hr": 1,
+      "bb": 1,
+      "so": 0,
+      "pitches": 60,
+      "strikes": 37
+    },
     {
       "date_display": "Sep 4",
       "opp_abbr": "CHC",
@@ -152,19 +161,6 @@
       "so": 2,
       "pitches": 88,
       "strikes": 55
-    },
-    {
-      "date_display": "Aug 12",
-      "opp_abbr": "PIT",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 4,
-      "er": 1,
-      "hr": 0,
-      "bb": 1,
-      "so": 2,
-      "pitches": 81,
-      "strikes": 56
     }
   ]
 }

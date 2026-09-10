@@ -4,15 +4,15 @@
   "name_full": "Keider Montero",
   "throws": "RHP",
   "team_abbr": "DET",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "text": "Rough stretch \u2014 5.89 ERA over his last four (12 ER in 18.1 IP).",
       "highlight": false
     },
     {
-      "text": "Tough on right-handed bats \u2014 .204 against (225 AB).",
+      "text": "Tough on right-handed bats \u2014 .200 against (230 AB).",
       "highlight": false
     }
   ],
@@ -20,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.52,
-      "percentile": 71,
+      "value": 3.55,
+      "percentile": 72,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.04,
-      "percentile": 6,
+      "value": 6.0,
+      "percentile": 5,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 143.0,
-      "percentile": 66,
+      "value": 147.0,
+      "percentile": 68,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,7 +47,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 96,
+      "value": 98,
       "percentile": 32,
       "league": "AL",
       "league_rank": null,
@@ -56,26 +56,26 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 32,
-      "percentile": 93,
+      "value": 34,
+      "percentile": 89,
       "league": "AL",
       "league_rank": 7,
-      "mlb_rank": 11
+      "mlb_rank": 16
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.01,
-      "percentile": 93,
+      "value": 2.08,
+      "percentile": 89,
       "league": "AL",
       "league_rank": 7,
-      "mlb_rank": 11
+      "mlb_rank": 16
     },
     {
       "key": "hr",
       "label": "HR",
-      "value": 15,
-      "percentile": 72,
+      "value": 17,
+      "percentile": 62,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.88,
-      "percentile": 62,
+      "value": 4.08,
+      "percentile": 53,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.224,
-      "ab": 308
+      "avg": 0.225,
+      "ab": 316
     },
     "vs_rhb": {
-      "avg": 0.204,
-      "ab": 225
+      "avg": 0.2,
+      "ab": 230
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 9",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 2,
+      "er": 2,
+      "hr": 2,
+      "bb": 2,
+      "so": 2,
+      "pitches": 74,
+      "strikes": 39
+    },
     {
       "date_display": "Sep 4",
       "opp_abbr": "CLE",
@@ -152,19 +165,6 @@
       "so": 0,
       "pitches": 88,
       "strikes": 51
-    },
-    {
-      "date_display": "Aug 7",
-      "opp_abbr": "SF",
-      "is_home": false,
-      "ip": "6.0",
-      "h": 5,
-      "er": 5,
-      "hr": 2,
-      "bb": 3,
-      "so": 5,
-      "pitches": 82,
-      "strikes": 56
     }
   ]
 }

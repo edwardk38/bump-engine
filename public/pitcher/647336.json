@@ -8,7 +8,7 @@
   "qualified": true,
   "read": [
     {
-      "text": "Tough on right-handed bats \u2014 .182 against (143 AB).",
+      "text": "Tough on right-handed bats \u2014 .182 against (148 AB).",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.4,
-      "percentile": 77,
+      "value": 3.53,
+      "percentile": 73,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,7 +25,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.59,
+      "value": 8.61,
       "percentile": 58,
       "league": "NL",
       "league_rank": null,
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 95.1,
-      "percentile": 18,
+      "value": 99.1,
+      "percentile": 20,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 91,
-      "percentile": 25,
+      "value": 95,
+      "percentile": 30,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,7 +52,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 24,
+      "value": 25,
       "percentile": 84,
       "league": "NL",
       "league_rank": 13,
@@ -70,16 +70,16 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 6,
-      "percentile": 96,
+      "value": 7,
+      "percentile": 94,
       "league": "NL",
-      "league_rank": 5,
-      "mlb_rank": 7
+      "league_rank": 6,
+      "mlb_rank": 10
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 2.94,
+      "value": 3.03,
       "percentile": 93,
       "league": "NL",
       "league_rank": 7,
@@ -88,12 +88,12 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.279,
-      "ab": 219
+      "avg": 0.275,
+      "ab": 229
     },
     "vs_rhb": {
       "avg": 0.182,
-      "ab": 143
+      "ab": 148
     }
   },
   "last_starts": [

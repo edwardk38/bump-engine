@@ -4,11 +4,11 @@
   "name_full": "Davis Martin",
   "throws": "RHP",
   "team_abbr": "CWS",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 8.56 ERA over his last four (13 ER in 13.2 IP).",
+      "text": "4.05 ERA with 7.63 K/9 over 135.2 innings this season.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.13,
-      "percentile": 44,
+      "value": 4.05,
+      "percentile": 47,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.85,
-      "percentile": 39,
+      "value": 7.63,
+      "percentile": 36,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 130.2,
-      "percentile": 47,
+      "value": 135.2,
+      "percentile": 54,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,7 +43,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 114,
+      "value": 115,
       "percentile": 48,
       "league": "AL",
       "league_rank": null,
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 40,
-      "percentile": 61,
+      "value": 42,
+      "percentile": 59,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.76,
-      "percentile": 61,
+      "value": 2.79,
+      "percentile": 59,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,17 +70,17 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 12,
-      "percentile": 84,
+      "value": 13,
+      "percentile": 83,
       "league": "AL",
-      "league_rank": 10,
-      "mlb_rank": 24
+      "league_rank": 9,
+      "mlb_rank": 25
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.66,
-      "percentile": 70,
+      "value": 3.77,
+      "percentile": 65,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.259,
-      "ab": 286
+      "avg": 0.261,
+      "ab": 295
     },
     "vs_rhb": {
-      "avg": 0.271,
-      "ab": 214
+      "avg": 0.266,
+      "ab": 222
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 9",
+      "opp_abbr": "PIT",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 2,
+      "so": 1,
+      "pitches": 68,
+      "strikes": 41
+    },
     {
       "date_display": "Sep 2",
       "opp_abbr": "HOU",
@@ -148,19 +161,6 @@
       "so": 1,
       "pitches": 91,
       "strikes": 59
-    },
-    {
-      "date_display": "Jul 29",
-      "opp_abbr": "NYY",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 5,
-      "er": 4,
-      "hr": 1,
-      "bb": 2,
-      "so": 6,
-      "pitches": 106,
-      "strikes": 64
     }
   ]
 }

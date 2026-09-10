@@ -4,11 +4,11 @@
   "name_full": "Jameson Taillon",
   "throws": "RHP",
   "team_abbr": "TOR",
-  "form_tag": "cold",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 7.07 ERA over his last four (11 ER in 14.0 IP).",
+      "text": "5.65 ERA with 7.95 K/9 over 86.0 innings this season.",
       "highlight": false
     }
   ],
@@ -35,7 +35,7 @@
       "key": "ip",
       "label": "IP",
       "value": 86.0,
-      "percentile": 11,
+      "percentile": 10,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
