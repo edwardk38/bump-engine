@@ -4,11 +4,11 @@
   "name_full": "Yusei Kikuchi",
   "throws": "LHP",
   "team_abbr": "LAA",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": false,
   "read": [
     {
-      "text": "Durable \u2014 80+ pitches in 8 of his last 9 starts.",
+      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false
     },
     {
@@ -20,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 5.65,
-      "percentile": 6,
+      "value": 4.96,
+      "percentile": 26,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -30,7 +30,7 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 9.0,
-      "percentile": 66,
+      "percentile": 67,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,7 +38,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 43.0,
+      "value": 49.0,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -47,7 +47,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 43,
+      "value": 49,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -56,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 16,
-      "percentile": 32,
+      "value": 19,
+      "percentile": 29,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.35,
-      "percentile": 32,
+      "value": 3.49,
+      "percentile": 29,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 7,
-      "percentile": 22,
+      "percentile": 37,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.46,
-      "percentile": 34,
+      "value": 4.23,
+      "percentile": 43,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.302,
-      "ab": 43
+      "avg": 0.283,
+      "ab": 46
     },
     "vs_rhb": {
       "avg": 0.278,
-      "ab": 126
+      "ab": 144
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 5",
+      "opp_abbr": "PIT",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 5,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 6,
+      "pitches": 89,
+      "strikes": 58
+    },
     {
       "date_display": "Aug 30",
       "opp_abbr": "PHI",
@@ -152,19 +165,6 @@
       "so": 5,
       "pitches": 90,
       "strikes": 60
-    },
-    {
-      "date_display": "Apr 18",
-      "opp_abbr": "SD",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 4,
-      "er": 0,
-      "hr": 0,
-      "bb": 1,
-      "so": 8,
-      "pitches": 86,
-      "strikes": 56
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "game_id": "2026-09-11-TEX-AZ",
+  "date_display": "Friday, Sep 11",
+  "start_time_display": "9:40 PM",
+  "venue": "Chase Field",
+  "away_team": "Texas Rangers",
+  "home_team": "Arizona Diamondbacks",
+  "away_abbr": "TEX",
+  "home_abbr": "AZ",
+  "pitchers": {
+    "away": {
+      "tbd": true,
+      "pitcher_id": null,
+      "name_display": null,
+      "throws": null,
+      "team_abbr": "TEX",
+      "opponent_abbr": "AZ",
+      "qualified": null,
+      "form_tag": null,
+      "headline_stats": null,
+      "read": null,
+      "season_stats": null,
+      "splits": null,
+      "last_starts": null
+    },
+    "home": {
+      "tbd": true,
+      "pitcher_id": null,
+      "name_display": null,
+      "throws": null,
+      "team_abbr": "AZ",
+      "opponent_abbr": "TEX",
+      "qualified": null,
+      "form_tag": null,
+      "headline_stats": null,
+      "read": null,
+      "season_stats": null,
+      "splits": null,
+      "last_starts": null
+    }
+  }
+}

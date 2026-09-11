@@ -49,8 +49,8 @@
       "value": 162.2,
       "percentile": 88,
       "league": "AL",
-      "league_rank": 10,
-      "mlb_rank": 18
+      "league_rank": 11,
+      "mlb_rank": 19
     },
     {
       "key": "k",
@@ -65,25 +65,25 @@
       "key": "bb",
       "label": "BB",
       "value": 43,
-      "percentile": 80,
+      "percentile": 79,
       "league": "AL",
-      "league_rank": 15,
-      "mlb_rank": 30
+      "league_rank": null,
+      "mlb_rank": null
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 2.38,
-      "percentile": 80,
+      "percentile": 79,
       "league": "AL",
-      "league_rank": 15,
-      "mlb_rank": 30
+      "league_rank": null,
+      "mlb_rank": null
     },
     {
       "key": "hr",
       "label": "HR",
       "value": 23,
-      "percentile": 41,
+      "percentile": 40,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

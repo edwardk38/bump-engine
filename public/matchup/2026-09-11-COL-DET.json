@@ -1,0 +1,332 @@
+{
+  "game_id": "2026-09-11-COL-DET",
+  "date_display": "Friday, Sep 11",
+  "start_time_display": "6:40 PM",
+  "venue": "Comerica Park",
+  "away_team": "Colorado Rockies",
+  "home_team": "Detroit Tigers",
+  "away_abbr": "COL",
+  "home_abbr": "DET",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "690279",
+      "name_display": "M. Adams",
+      "throws": "RHP",
+      "team_abbr": "COL",
+      "opponent_abbr": "DET",
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 3.95,
+        "k_per_9": 11.2
+      },
+      "read": [
+        {
+          "text": "Misses bats \u2014 11.2 K/9, about a strikeout an inning.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 3.95,
+          "percentile": 54,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 11.2,
+          "percentile": 97,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 13.2,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 17,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 6,
+          "percentile": 16,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.95,
+          "percentile": 16,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 4,
+          "percentile": 1,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 5.73,
+          "percentile": 3,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.259,
+          "ab": 27
+        },
+        "vs_rhb": {
+          "avg": 0.346,
+          "ab": 26
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 5",
+          "opp_abbr": "STL",
+          "is_home": true,
+          "ip": "4.2",
+          "h": 8,
+          "er": 3,
+          "hr": 2,
+          "bb": 1,
+          "so": 7,
+          "pitches": 78,
+          "strikes": 56
+        },
+        {
+          "date_display": "Aug 30",
+          "opp_abbr": "ATL",
+          "is_home": false,
+          "ip": "5.0",
+          "h": 5,
+          "er": 2,
+          "hr": 1,
+          "bb": 2,
+          "so": 5,
+          "pitches": 74,
+          "strikes": 47
+        },
+        {
+          "date_display": "Aug 25",
+          "opp_abbr": "WSH",
+          "is_home": false,
+          "ip": "4.0",
+          "h": 3,
+          "er": 1,
+          "hr": 1,
+          "bb": 3,
+          "so": 5,
+          "pitches": 75,
+          "strikes": 48
+        }
+      ]
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "664285",
+      "name_display": "F. Valdez",
+      "throws": "LHP",
+      "team_abbr": "DET",
+      "opponent_abbr": "COL",
+      "qualified": true,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 4.17,
+        "k_per_9": 6.79
+      },
+      "read": [
+        {
+          "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+          "highlight": false
+        },
+        {
+          "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 4.17,
+          "percentile": 42,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 6.79,
+          "percentile": 16,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 157.2,
+          "percentile": 81,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 119,
+          "percentile": 53,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 58,
+          "percentile": 34,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.31,
+          "percentile": 34,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 15,
+          "percentile": 83,
+          "league": "AL",
+          "league_rank": 9,
+          "mlb_rank": 25
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 4.19,
+          "percentile": 45,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.259,
+          "ab": 147
+        },
+        "vs_rhb": {
+          "avg": 0.257,
+          "ab": 463
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 5",
+          "opp_abbr": "CLE",
+          "is_home": false,
+          "ip": "7.0",
+          "h": 3,
+          "er": 0,
+          "hr": 0,
+          "bb": 1,
+          "so": 3,
+          "pitches": 94,
+          "strikes": 60
+        },
+        {
+          "date_display": "Aug 30",
+          "opp_abbr": "LAD",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 6,
+          "er": 3,
+          "hr": 1,
+          "bb": 1,
+          "so": 5,
+          "pitches": 105,
+          "strikes": 72
+        },
+        {
+          "date_display": "Aug 24",
+          "opp_abbr": "TB",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 8,
+          "er": 3,
+          "hr": 1,
+          "bb": 2,
+          "so": 0,
+          "pitches": 84,
+          "strikes": 54
+        },
+        {
+          "date_display": "Aug 17",
+          "opp_abbr": "PIT",
+          "is_home": false,
+          "ip": "5.2",
+          "h": 5,
+          "er": 4,
+          "hr": 0,
+          "bb": 4,
+          "so": 5,
+          "pitches": 91,
+          "strikes": 52
+        },
+        {
+          "date_display": "Aug 12",
+          "opp_abbr": "CLE",
+          "is_home": true,
+          "ip": "5.2",
+          "h": 6,
+          "er": 4,
+          "hr": 1,
+          "bb": 5,
+          "so": 3,
+          "pitches": 102,
+          "strikes": 64
+        }
+      ]
+    }
+  }
+}

@@ -40,8 +40,8 @@
       "value": 9.75,
       "percentile": 80,
       "league": "AL",
-      "league_rank": 13,
-      "mlb_rank": 30
+      "league_rank": 14,
+      "mlb_rank": 31
     },
     {
       "key": "ip",
@@ -59,7 +59,7 @@
       "percentile": 86,
       "league": "AL",
       "league_rank": 10,
-      "mlb_rank": 21
+      "mlb_rank": 22
     },
     {
       "key": "bb",
