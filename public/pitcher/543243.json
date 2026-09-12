@@ -4,7 +4,7 @@
   "name_full": "Sonny Gray",
   "throws": "RHP",
   "team_abbr": "BOS",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -16,11 +16,11 @@
       "highlight": false
     },
     {
-      "text": "Rolling \u2014 2.16 ERA over his last 4 (6 ER in 25.0 IP).",
+      "text": "Going deep \u2014 6+ innings in 5 of his last 6 starts.",
       "highlight": false
     },
     {
-      "text": "Going deep \u2014 6+ innings in 5 of his last 6 starts.",
+      "text": "Strikeout run \u2014 5+ K in 5 straight starts.",
       "highlight": false
     }
   ],
@@ -28,17 +28,17 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.69,
-      "percentile": 92,
+      "value": 2.76,
+      "percentile": 90,
       "league": "AL",
-      "league_rank": 5,
-      "mlb_rank": 12
+      "league_rank": 7,
+      "mlb_rank": 15
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.06,
-      "percentile": 44,
+      "value": 8.04,
+      "percentile": 43,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,8 +46,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 150.2,
-      "percentile": 71,
+      "value": 156.2,
+      "percentile": 78,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 135,
-      "percentile": 68,
+      "value": 140,
+      "percentile": 72,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,7 +64,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 40,
+      "value": 42,
       "percentile": 78,
       "league": "AL",
       "league_rank": null,
@@ -73,7 +73,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.39,
+      "value": 2.41,
       "percentile": 78,
       "league": "AL",
       "league_rank": null,
@@ -83,32 +83,45 @@
       "key": "hr",
       "label": "HR",
       "value": 15,
-      "percentile": 78,
+      "percentile": 82,
       "league": "AL",
-      "league_rank": 13,
-      "mlb_rank": 32
+      "league_rank": 12,
+      "mlb_rank": 27
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.49,
-      "percentile": 80,
+      "value": 3.45,
+      "percentile": 82,
       "league": "AL",
-      "league_rank": 14,
-      "mlb_rank": 29
+      "league_rank": 12,
+      "mlb_rank": 26
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.229,
-      "ab": 363
+      "avg": 0.233,
+      "ab": 377
     },
     "vs_rhb": {
-      "avg": 0.26,
-      "ab": 200
+      "avg": 0.254,
+      "ab": 209
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 11",
+      "opp_abbr": "KC",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 90,
+      "strikes": 60
+    },
     {
       "date_display": "Sep 5",
       "opp_abbr": "BAL",
@@ -160,19 +173,6 @@
       "so": 7,
       "pitches": 86,
       "strikes": 56
-    },
-    {
-      "date_display": "Aug 10",
-      "opp_abbr": "TOR",
-      "is_home": false,
-      "ip": "6.0",
-      "h": 6,
-      "er": 2,
-      "hr": 1,
-      "bb": 1,
-      "so": 4,
-      "pitches": 99,
-      "strikes": 63
     }
   ]
 }

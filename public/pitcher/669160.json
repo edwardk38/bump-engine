@@ -4,11 +4,11 @@
   "name_full": "Dustin May",
   "throws": "RHP",
   "team_abbr": "MIL",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 11.32 ERA over his last four (13 ER in 10.1 IP).",
+      "text": "4.49 ERA with 8.65 K/9 over 138.1 innings this season.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.69,
-      "percentile": 29,
+      "value": 4.49,
+      "percentile": 35,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,7 +25,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.64,
+      "value": 8.65,
       "percentile": 60,
       "league": "NL",
       "league_rank": null,
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 132.1,
-      "percentile": 50,
+      "value": 138.1,
+      "percentile": 57,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 127,
-      "percentile": 63,
+      "value": 133,
+      "percentile": 66,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 45,
-      "percentile": 46,
+      "value": 46,
+      "percentile": 47,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.06,
-      "percentile": 46,
+      "value": 2.99,
+      "percentile": 47,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 11,
-      "percentile": 91,
+      "percentile": 92,
       "league": "NL",
       "league_rank": 9,
       "mlb_rank": 13
@@ -79,24 +79,37 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.5,
-      "percentile": 79,
+      "value": 3.42,
+      "percentile": 84,
       "league": "NL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 14,
+      "mlb_rank": 24
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.274,
-      "ab": 292
+      "avg": 0.265,
+      "ab": 302
     },
     "vs_rhb": {
-      "avg": 0.239,
-      "ab": 209
+      "avg": 0.236,
+      "ab": 220
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 11",
+      "opp_abbr": "CIN",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 6,
+      "pitches": 84,
+      "strikes": 56
+    },
     {
       "date_display": "Sep 5",
       "opp_abbr": "CIN",
@@ -148,19 +161,6 @@
       "so": 1,
       "pitches": 66,
       "strikes": 41
-    },
-    {
-      "date_display": "Aug 12",
-      "opp_abbr": "SD",
-      "is_home": false,
-      "ip": "7.0",
-      "h": 4,
-      "er": 1,
-      "hr": 1,
-      "bb": 2,
-      "so": 6,
-      "pitches": 83,
-      "strikes": 57
     }
   ]
 }

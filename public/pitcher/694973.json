@@ -21,7 +21,7 @@
       "key": "era",
       "label": "ERA",
       "value": 3.83,
-      "percentile": 58,
+      "percentile": 57,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -30,28 +30,28 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 10.51,
-      "percentile": 90,
+      "percentile": 89,
       "league": "NL",
-      "league_rank": 9,
-      "mlb_rank": 15
+      "league_rank": 10,
+      "mlb_rank": 16
     },
     {
       "key": "ip",
       "label": "IP",
       "value": 155.0,
-      "percentile": 77,
+      "percentile": 75,
       "league": "NL",
-      "league_rank": 14,
-      "mlb_rank": 34
+      "league_rank": null,
+      "mlb_rank": null
     },
     {
       "key": "k",
       "label": "K",
       "value": 181,
-      "percentile": 92,
+      "percentile": 91,
       "league": "NL",
-      "league_rank": 6,
-      "mlb_rank": 13
+      "league_rank": 7,
+      "mlb_rank": 14
     },
     {
       "key": "bb",
@@ -75,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 15,
-      "percentile": 82,
+      "percentile": 81,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null

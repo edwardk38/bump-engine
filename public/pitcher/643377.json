@@ -4,9 +4,13 @@
   "name_full": "Griffin Jax",
   "throws": "RHP",
   "team_abbr": "TB",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
+    {
+      "text": "Rough stretch \u2014 5.68 ERA over his last three (8 ER in 12.2 IP).",
+      "highlight": false
+    },
     {
       "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
       "highlight": false
@@ -39,7 +43,7 @@
       "key": "ip",
       "label": "IP",
       "value": 99.1,
-      "percentile": 20,
+      "percentile": 21,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -48,7 +52,7 @@
       "key": "k",
       "label": "K",
       "value": 103,
-      "percentile": 39,
+      "percentile": 40,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

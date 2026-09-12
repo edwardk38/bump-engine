@@ -4,11 +4,11 @@
   "name_full": "Ryan Gusto",
   "throws": "RHP",
   "team_abbr": "MIA",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "4.23 ERA with 7.71 K/9 over 72.1 innings this season.",
+      "text": "4.14 ERA with 7.47 K/9 over 78.1 innings this season.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.23,
-      "percentile": 39,
+      "value": 4.14,
+      "percentile": 42,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.71,
-      "percentile": 37,
+      "value": 7.47,
+      "percentile": 32,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 72.1,
-      "percentile": 2,
+      "value": 78.1,
+      "percentile": 4,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 62,
-      "percentile": 3,
+      "value": 65,
+      "percentile": 5,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 22,
-      "percentile": 64,
+      "value": 25,
+      "percentile": 54,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.74,
-      "percentile": 64,
+      "value": 2.87,
+      "percentile": 54,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 9,
-      "percentile": 54,
+      "percentile": 63,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.11,
-      "percentile": 49,
+      "value": 4.08,
+      "percentile": 53,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.256,
-      "ab": 168
+      "avg": 0.264,
+      "ab": 178
     },
     "vs_rhb": {
-      "avg": 0.294,
-      "ab": 126
+      "avg": 0.277,
+      "ab": 137
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 11",
+      "opp_abbr": "LAD",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 5,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 3,
+      "pitches": 89,
+      "strikes": 60
+    },
     {
       "date_display": "Sep 5",
       "opp_abbr": "CHC",
@@ -148,19 +161,6 @@
       "so": 2,
       "pitches": 62,
       "strikes": 48
-    },
-    {
-      "date_display": "Aug 15",
-      "opp_abbr": "CIN",
-      "is_home": false,
-      "ip": "4.2",
-      "h": 6,
-      "er": 2,
-      "hr": 2,
-      "bb": 0,
-      "so": 6,
-      "pitches": 70,
-      "strikes": 53
     }
   ]
 }

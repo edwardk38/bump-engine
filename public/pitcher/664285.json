@@ -4,15 +4,19 @@
   "name_full": "Framber Valdez",
   "throws": "LHP",
   "team_abbr": "DET",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
       "highlight": false
     },
     {
       "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 2.16 ERA over his last 4 (6 ER in 25.0 IP).",
       "highlight": false
     }
   ],
@@ -20,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.17,
-      "percentile": 42,
+      "value": 4.01,
+      "percentile": 50,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +33,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.79,
-      "percentile": 16,
+      "value": 6.65,
+      "percentile": 12,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,17 +42,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 157.2,
-      "percentile": 81,
+      "value": 163.2,
+      "percentile": 85,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 13,
+      "mlb_rank": 23
     },
     {
       "key": "k",
       "label": "K",
-      "value": 119,
-      "percentile": 53,
+      "value": 121,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,8 +60,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 58,
-      "percentile": 34,
+      "value": 60,
+      "percentile": 35,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +69,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.31,
-      "percentile": 34,
+      "value": 3.3,
+      "percentile": 35,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,16 +79,16 @@
       "key": "hr",
       "label": "HR",
       "value": 15,
-      "percentile": 83,
+      "percentile": 85,
       "league": "AL",
-      "league_rank": 9,
-      "mlb_rank": 25
+      "league_rank": 10,
+      "mlb_rank": 23
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.19,
-      "percentile": 45,
+      "value": 4.16,
+      "percentile": 46,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.259,
-      "ab": 147
+      "avg": 0.268,
+      "ab": 153
     },
     "vs_rhb": {
-      "avg": 0.257,
-      "ab": 463
+      "avg": 0.254,
+      "ab": 480
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 11",
+      "opp_abbr": "COL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 2,
+      "pitches": 90,
+      "strikes": 58
+    },
     {
       "date_display": "Sep 5",
       "opp_abbr": "CLE",
@@ -152,19 +169,6 @@
       "so": 5,
       "pitches": 91,
       "strikes": 52
-    },
-    {
-      "date_display": "Aug 12",
-      "opp_abbr": "CLE",
-      "is_home": true,
-      "ip": "5.2",
-      "h": 6,
-      "er": 4,
-      "hr": 1,
-      "bb": 5,
-      "so": 3,
-      "pitches": 102,
-      "strikes": 64
     }
   ]
 }

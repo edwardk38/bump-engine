@@ -4,11 +4,15 @@
   "name_full": "Randy Dobnak",
   "throws": "RHP",
   "team_abbr": "KC",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": false,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 7 of his last 9 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
       "highlight": false
     }
   ],
@@ -16,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.65,
-      "percentile": 93,
+      "value": 2.54,
+      "percentile": 95,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.24,
-      "percentile": 8,
+      "value": 6.08,
+      "percentile": 7,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,7 +38,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 57.2,
+      "value": 63.2,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -43,7 +47,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 40,
+      "value": 43,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -53,7 +57,7 @@
       "key": "bb",
       "label": "BB",
       "value": 23,
-      "percentile": 28,
+      "percentile": 36,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.59,
-      "percentile": 28,
+      "value": 3.25,
+      "percentile": 36,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 5,
-      "percentile": 89,
+      "value": 6,
+      "percentile": 83,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.03,
-      "percentile": 53,
+      "value": 4.1,
+      "percentile": 49,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.269,
-      "ab": 134
+      "avg": 0.268,
+      "ab": 149
     },
     "vs_rhb": {
-      "avg": 0.241,
-      "ab": 87
+      "avg": 0.228,
+      "ab": 92
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 6",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 3,
+      "pitches": 83,
+      "strikes": 53
+    },
     {
       "date_display": "Sep 1",
       "opp_abbr": "MIA",
@@ -148,19 +165,6 @@
       "so": 6,
       "pitches": 93,
       "strikes": 59
-    },
-    {
-      "date_display": "Aug 9",
-      "opp_abbr": "CHC",
-      "is_home": true,
-      "ip": "5.0",
-      "h": 10,
-      "er": 4,
-      "hr": 0,
-      "bb": 1,
-      "so": 4,
-      "pitches": 94,
-      "strikes": 65
     }
   ]
 }

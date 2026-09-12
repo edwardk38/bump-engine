@@ -8,7 +8,7 @@
   "qualified": false,
   "read": [
     {
-      "text": "Misses bats \u2014 9.0 K/9, about a strikeout an inning.",
+      "text": "0.9 ERA with 7.2 K/9 over 10.0 innings this season.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.25,
-      "percentile": 96,
+      "value": 0.9,
+      "percentile": 100,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.0,
-      "percentile": 66,
+      "value": 7.2,
+      "percentile": 25,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,7 +34,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 4.0,
+      "value": 10.0,
       "percentile": 0,
       "league": "NL",
       "league_rank": null,
@@ -43,7 +43,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 4,
+      "value": 8,
       "percentile": 0,
       "league": "NL",
       "league_rank": null,
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 1,
-      "percentile": 84,
+      "value": 2,
+      "percentile": 95,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.25,
-      "percentile": 84,
+      "value": 1.8,
+      "percentile": 95,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 1,
-      "percentile": 1,
+      "percentile": 77,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.09,
-      "percentile": 11,
+      "value": 3.39,
+      "percentile": 85,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,13 +88,27 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.429,
-      "ab": 7
+      "avg": 0.357,
+      "ab": 14
     },
     "vs_rhb": {
-      "avg": 0.0,
-      "ab": 7
+      "avg": 0.053,
+      "ab": 19
     }
   },
-  "last_starts": []
+  "last_starts": [
+    {
+      "date_display": "Sep 6",
+      "opp_abbr": "NYM",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 4,
+      "pitches": 83,
+      "strikes": 48
+    }
+  ]
 }

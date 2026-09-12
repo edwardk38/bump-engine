@@ -1,0 +1,206 @@
+{
+  "game_id": "2026-09-12-CIN-MIL",
+  "date_display": "Saturday, Sep 12",
+  "start_time_display": "7:10 PM",
+  "venue": "American Family Field",
+  "away_team": "Cincinnati Reds",
+  "home_team": "Milwaukee Brewers",
+  "away_abbr": "CIN",
+  "home_abbr": "MIL",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "663903",
+      "name_display": "B. Singer",
+      "throws": "RHP",
+      "team_abbr": "CIN",
+      "opponent_abbr": "MIL",
+      "qualified": true,
+      "form_tag": "cold",
+      "headline_stats": {
+        "era": 5.03,
+        "k_per_9": 7.36
+      },
+      "read": [
+        {
+          "text": "Struggling lately \u2014 4+ runs in three of his last four.",
+          "highlight": false
+        },
+        {
+          "text": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
+          "highlight": false
+        },
+        {
+          "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 5.03,
+          "percentile": 22,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 7.36,
+          "percentile": 30,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 146.2,
+          "percentile": 67,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 120,
+          "percentile": 53,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 51,
+          "percentile": 43,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.13,
+          "percentile": 43,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 27,
+          "percentile": 13,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 5.16,
+          "percentile": 11,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.303,
+          "ab": 380
+        },
+        "vs_rhb": {
+          "avg": 0.236,
+          "ab": 208
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 6",
+          "opp_abbr": "MIL",
+          "is_home": true,
+          "ip": "5.0",
+          "h": 4,
+          "er": 6,
+          "hr": 1,
+          "bb": 6,
+          "so": 3,
+          "pitches": 97,
+          "strikes": 50
+        },
+        {
+          "date_display": "Aug 31",
+          "opp_abbr": "SD",
+          "is_home": true,
+          "ip": "4.1",
+          "h": 10,
+          "er": 4,
+          "hr": 0,
+          "bb": 0,
+          "so": 5,
+          "pitches": 87,
+          "strikes": 57
+        },
+        {
+          "date_display": "Aug 25",
+          "opp_abbr": "SF",
+          "is_home": false,
+          "ip": "5.2",
+          "h": 6,
+          "er": 3,
+          "hr": 1,
+          "bb": 2,
+          "so": 5,
+          "pitches": 91,
+          "strikes": 55
+        },
+        {
+          "date_display": "Aug 20",
+          "opp_abbr": "STL",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 5,
+          "er": 4,
+          "hr": 1,
+          "bb": 1,
+          "so": 3,
+          "pitches": 103,
+          "strikes": 66
+        },
+        {
+          "date_display": "Aug 15",
+          "opp_abbr": "MIA",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 8,
+          "er": 3,
+          "hr": 2,
+          "bb": 2,
+          "so": 4,
+          "pitches": 93,
+          "strikes": 60
+        }
+      ]
+    },
+    "home": {
+      "tbd": true,
+      "pitcher_id": null,
+      "name_display": null,
+      "throws": null,
+      "team_abbr": "MIL",
+      "opponent_abbr": "CIN",
+      "qualified": null,
+      "form_tag": null,
+      "headline_stats": null,
+      "read": null,
+      "season_stats": null,
+      "splits": null,
+      "last_starts": null
+    }
+  }
+}

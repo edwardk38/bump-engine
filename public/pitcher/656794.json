@@ -1,0 +1,157 @@
+{
+  "pitcher_id": "656794",
+  "name_display": "S. Newcomb",
+  "name_full": "Sean Newcomb",
+  "throws": "LHP",
+  "team_abbr": "CWS",
+  "form_tag": "hot",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Rolling \u2014 0.00 ERA over his last 3 (0 ER in 5.1 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .204 against (181 AB).",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 2.71,
+      "percentile": 93,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.02,
+      "percentile": 43,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 83.0,
+      "percentile": 7,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 74,
+      "percentile": 9,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 29,
+      "percentile": 42,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.14,
+      "percentile": 42,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 2,
+      "percentile": 100,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 2.92,
+      "percentile": 93,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.235,
+      "ab": 119
+    },
+    "vs_rhb": {
+      "avg": 0.204,
+      "ab": 181
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 23",
+      "opp_abbr": "NYM",
+      "is_home": true,
+      "ip": "2.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 3,
+      "pitches": 38,
+      "strikes": 25
+    },
+    {
+      "date_display": "Aug 19",
+      "opp_abbr": "CHC",
+      "is_home": false,
+      "ip": "2.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 0,
+      "pitches": 34,
+      "strikes": 20
+    },
+    {
+      "date_display": "Aug 14",
+      "opp_abbr": "DET",
+      "is_home": false,
+      "ip": "1.1",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 2,
+      "pitches": 25,
+      "strikes": 17
+    },
+    {
+      "date_display": "Jun 20",
+      "opp_abbr": "DET",
+      "is_home": false,
+      "ip": "3.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 4,
+      "pitches": 42,
+      "strikes": 28
+    }
+  ]
+}

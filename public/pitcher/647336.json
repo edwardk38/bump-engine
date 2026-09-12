@@ -35,7 +35,7 @@
       "key": "ip",
       "label": "IP",
       "value": 99.1,
-      "percentile": 20,
+      "percentile": 21,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null

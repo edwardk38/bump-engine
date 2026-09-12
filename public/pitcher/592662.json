@@ -4,15 +4,19 @@
   "name_full": "Robbie Ray",
   "throws": "LHP",
   "team_abbr": "SD",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
+    {
+      "text": "Rough stretch \u2014 6.27 ERA over his last four (13 ER in 18.2 IP).",
+      "highlight": false
+    },
     {
       "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Tough on right-handed bats \u2014 .213 against (403 AB).",
+      "text": "Tough on right-handed bats \u2014 .214 against (411 AB).",
       "highlight": false
     }
   ],
@@ -20,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.39,
-      "percentile": 80,
+      "value": 3.57,
+      "percentile": 71,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +33,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.55,
-      "percentile": 34,
+      "value": 7.6,
+      "percentile": 35,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,17 +42,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 151.1,
-      "percentile": 72,
+      "value": 156.1,
+      "percentile": 77,
       "league": "NL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 15,
+      "mlb_rank": 35
     },
     {
       "key": "k",
       "label": "K",
-      "value": 127,
-      "percentile": 63,
+      "value": 132,
+      "percentile": 65,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,7 +60,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 77,
+      "value": 81,
       "percentile": 4,
       "league": "NL",
       "league_rank": null,
@@ -65,7 +69,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.58,
+      "value": 4.66,
       "percentile": 4,
       "league": "NL",
       "league_rank": null,
@@ -74,8 +78,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 20,
-      "percentile": 46,
+      "value": 21,
+      "percentile": 45,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +87,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.68,
-      "percentile": 22,
+      "value": 4.72,
+      "percentile": 21,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.272,
-      "ab": 147
+      "avg": 0.266,
+      "ab": 158
     },
     "vs_rhb": {
-      "avg": 0.213,
-      "ab": 403
+      "avg": 0.214,
+      "ab": 411
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 11",
+      "opp_abbr": "SF",
+      "is_home": false,
+      "ip": "5.0",
+      "h": 4,
+      "er": 5,
+      "hr": 1,
+      "bb": 4,
+      "so": 5,
+      "pitches": 94,
+      "strikes": 52
+    },
     {
       "date_display": "Sep 5",
       "opp_abbr": "NYY",
@@ -151,19 +168,6 @@
       "bb": 3,
       "so": 4,
       "pitches": 91,
-      "strikes": 53
-    },
-    {
-      "date_display": "Aug 12",
-      "opp_abbr": "MIL",
-      "is_home": true,
-      "ip": "4.0",
-      "h": 2,
-      "er": 2,
-      "hr": 1,
-      "bb": 3,
-      "so": 4,
-      "pitches": 84,
       "strikes": 53
     }
   ]
