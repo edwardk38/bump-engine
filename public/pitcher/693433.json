@@ -4,7 +4,7 @@
   "name_full": "Bryan Woo",
   "throws": "RHP",
   "team_abbr": "SEA",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
@@ -16,11 +16,11 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 9.1 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 9.04 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
-      "text": "Strikeout run \u2014 5+ K in 11 straight starts.",
+      "text": "Rolling \u2014 2.62 ERA over his last 4 (7 ER in 24.0 IP).",
       "highlight": false
     }
   ],
@@ -28,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.03,
-      "percentile": 48,
+      "value": 3.88,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,8 +37,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.1,
-      "percentile": 68,
+      "value": 9.04,
+      "percentile": 67,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,8 +46,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 156.1,
-      "percentile": 77,
+      "value": 162.1,
+      "percentile": 83,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,35 +55,35 @@
     {
       "key": "k",
       "label": "K",
-      "value": 158,
-      "percentile": 82,
+      "value": 163,
+      "percentile": 84,
       "league": "AL",
-      "league_rank": 13,
-      "mlb_rank": 27
+      "league_rank": 11,
+      "mlb_rank": 25
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 33,
-      "percentile": 95,
+      "value": 35,
+      "percentile": 94,
       "league": "AL",
       "league_rank": 5,
-      "mlb_rank": 8
+      "mlb_rank": 9
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 1.9,
-      "percentile": 95,
+      "value": 1.94,
+      "percentile": 94,
       "league": "AL",
       "league_rank": 5,
-      "mlb_rank": 8
+      "mlb_rank": 9
     },
     {
       "key": "hr",
       "label": "HR",
       "value": 18,
-      "percentile": 61,
+      "percentile": 67,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,24 +91,37 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.34,
-      "percentile": 85,
+      "value": 3.31,
+      "percentile": 87,
       "league": "AL",
       "league_rank": 10,
-      "mlb_rank": 23
+      "mlb_rank": 21
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.235,
-      "ab": 332
+      "avg": 0.228,
+      "ab": 342
     },
     "vs_rhb": {
-      "avg": 0.21,
-      "ab": 257
+      "avg": 0.212,
+      "ab": 269
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 12",
+      "opp_abbr": "ATH",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 80,
+      "strikes": 57
+    },
     {
       "date_display": "Sep 6",
       "opp_abbr": "ATH",
@@ -160,19 +173,6 @@
       "so": 5,
       "pitches": 75,
       "strikes": 49
-    },
-    {
-      "date_display": "Aug 11",
-      "opp_abbr": "NYY",
-      "is_home": false,
-      "ip": "5.0",
-      "h": 3,
-      "er": 0,
-      "hr": 0,
-      "bb": 1,
-      "so": 5,
-      "pitches": 92,
-      "strikes": 66
     }
   ]
 }

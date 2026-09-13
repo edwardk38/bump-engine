@@ -4,23 +4,23 @@
   "name_full": "Gerrit Cole",
   "throws": "RHP",
   "team_abbr": "NYY",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "text": "Rough stretch \u2014 5.96 ERA over his last four (15 ER in 22.2 IP).",
       "highlight": false
     },
     {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 10 of his last 10.",
+      "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 9.16 K/9, about a strikeout an inning.",
+      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
       "highlight": false
     },
     {
-      "text": "Going deep \u2014 6+ innings in 5 of his last 6 starts.",
+      "text": "Misses bats \u2014 9.13 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -28,16 +28,16 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.41,
-      "percentile": 79,
+      "value": 3.67,
+      "percentile": 67,
       "league": "AL",
-      "league_rank": 15,
-      "mlb_rank": 32
+      "league_rank": null,
+      "mlb_rank": null
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.16,
+      "value": 9.13,
       "percentile": 69,
       "league": "AL",
       "league_rank": null,
@@ -46,8 +46,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 111.0,
-      "percentile": 32,
+      "value": 115.1,
+      "percentile": 34,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 113,
-      "percentile": 47,
+      "value": 117,
+      "percentile": 49,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,7 +73,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 1.78,
+      "value": 1.72,
       "percentile": 96,
       "league": "AL",
       "league_rank": 4,
@@ -82,8 +82,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 17,
-      "percentile": 31,
+      "value": 20,
+      "percentile": 19,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.7,
-      "percentile": 69,
+      "value": 3.95,
+      "percentile": 61,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -100,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.206,
-      "ab": 253
+      "avg": 0.222,
+      "ab": 266
     },
     "vs_rhb": {
-      "avg": 0.27,
-      "ab": 174
+      "avg": 0.268,
+      "ab": 183
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 12",
+      "opp_abbr": "NYM",
+      "is_home": true,
+      "ip": "4.1",
+      "h": 9,
+      "er": 5,
+      "hr": 3,
+      "bb": 0,
+      "so": 4,
+      "pitches": 77,
+      "strikes": 53
+    },
     {
       "date_display": "Sep 6",
       "opp_abbr": "SD",
@@ -160,19 +173,6 @@
       "so": 8,
       "pitches": 93,
       "strikes": 70
-    },
-    {
-      "date_display": "Aug 14",
-      "opp_abbr": "TOR",
-      "is_home": false,
-      "ip": "6.0",
-      "h": 5,
-      "er": 1,
-      "hr": 0,
-      "bb": 2,
-      "so": 5,
-      "pitches": 87,
-      "strikes": 57
     }
   ]
 }

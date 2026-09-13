@@ -83,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.35,
-      "percentile": 8,
+      "value": 5.36,
+      "percentile": 9,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

@@ -38,7 +38,7 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 7.24,
-      "percentile": 25,
+      "percentile": 26,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -68,7 +68,7 @@
       "percentile": 80,
       "league": "AL",
       "league_rank": 15,
-      "mlb_rank": 30
+      "mlb_rank": 31
     },
     {
       "key": "bb_per_9",
@@ -77,13 +77,13 @@
       "percentile": 80,
       "league": "AL",
       "league_rank": 15,
-      "mlb_rank": 30
+      "mlb_rank": 31
     },
     {
       "key": "hr",
       "label": "HR",
       "value": 24,
-      "percentile": 47,
+      "percentile": 48,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

@@ -4,13 +4,9 @@
   "name_full": "Joe Ryan",
   "throws": "RHP",
   "team_abbr": "MIN",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 5.87 ERA over his last three (10 ER in 15.1 IP).",
-      "highlight": false
-    },
     {
       "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
       "highlight": false
@@ -25,7 +21,7 @@
       "key": "era",
       "label": "ERA",
       "value": 3.68,
-      "percentile": 65,
+      "percentile": 66,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,7 +30,7 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 10.06,
-      "percentile": 84,
+      "percentile": 85,
       "league": "AL",
       "league_rank": 10,
       "mlb_rank": 24
@@ -63,8 +59,8 @@
       "value": 28,
       "percentile": 94,
       "league": "AL",
-      "league_rank": 6,
-      "mlb_rank": 10
+      "league_rank": 5,
+      "mlb_rank": 9
     },
     {
       "key": "bb_per_9",
@@ -72,14 +68,14 @@
       "value": 1.94,
       "percentile": 94,
       "league": "AL",
-      "league_rank": 6,
-      "mlb_rank": 10
+      "league_rank": 5,
+      "mlb_rank": 9
     },
     {
       "key": "hr",
       "label": "HR",
       "value": 18,
-      "percentile": 40,
+      "percentile": 41,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,10 +84,10 @@
       "key": "fip",
       "label": "FIP",
       "value": 3.47,
-      "percentile": 81,
+      "percentile": 82,
       "league": "AL",
       "league_rank": 13,
-      "mlb_rank": 29
+      "mlb_rank": 28
     }
   ],
   "splits": {

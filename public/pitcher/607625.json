@@ -25,7 +25,7 @@
       "key": "era",
       "label": "ERA",
       "value": 4.99,
-      "percentile": 23,
+      "percentile": 22,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,7 +52,7 @@
       "key": "k",
       "label": "K",
       "value": 126,
-      "percentile": 61,
+      "percentile": 59,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +79,7 @@
       "key": "hr",
       "label": "HR",
       "value": 19,
-      "percentile": 61,
+      "percentile": 62,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

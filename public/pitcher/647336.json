@@ -53,19 +53,19 @@
       "key": "bb",
       "label": "BB",
       "value": 25,
-      "percentile": 84,
+      "percentile": 83,
       "league": "NL",
-      "league_rank": 13,
-      "mlb_rank": 25
+      "league_rank": 14,
+      "mlb_rank": 26
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 2.27,
-      "percentile": 84,
+      "percentile": 83,
       "league": "NL",
-      "league_rank": 13,
-      "mlb_rank": 25
+      "league_rank": 14,
+      "mlb_rank": 26
     },
     {
       "key": "hr",
@@ -79,11 +79,11 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.03,
+      "value": 3.04,
       "percentile": 92,
       "league": "NL",
       "league_rank": 7,
-      "mlb_rank": 12
+      "mlb_rank": 13
     }
   ],
   "splits": {

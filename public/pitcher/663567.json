@@ -4,15 +4,11 @@
   "name_full": "Peter Lambert",
   "throws": "RHP",
   "team_abbr": "HOU",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 6.86 ERA over his last four (16 ER in 21.0 IP).",
-      "highlight": false
-    },
-    {
-      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
       "highlight": false
     },
     {
@@ -20,7 +16,7 @@
       "highlight": false
     },
     {
-      "text": "Tough on left-handed bats \u2014 .186 against (274 AB).",
+      "text": "Tough on left-handed bats \u2014 .195 against (287 AB).",
       "highlight": false
     }
   ],
@@ -28,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.67,
-      "percentile": 65,
+      "value": 3.71,
+      "percentile": 63,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,8 +33,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.83,
-      "percentile": 63,
+      "value": 8.71,
+      "percentile": 62,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,8 +42,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 139.2,
-      "percentile": 60,
+      "value": 145.2,
+      "percentile": 65,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,8 +51,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 137,
-      "percentile": 68,
+      "value": 141,
+      "percentile": 72,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,7 +61,7 @@
       "key": "bb",
       "label": "BB",
       "value": 56,
-      "percentile": 27,
+      "percentile": 29,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +69,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.61,
-      "percentile": 27,
+      "value": 3.46,
+      "percentile": 29,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,16 +79,16 @@
       "key": "hr",
       "label": "HR",
       "value": 14,
-      "percentile": 77,
+      "percentile": 82,
       "league": "AL",
-      "league_rank": 15,
-      "mlb_rank": 33
+      "league_rank": 12,
+      "mlb_rank": 27
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.89,
-      "percentile": 62,
+      "value": 3.81,
+      "percentile": 65,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -100,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.186,
-      "ab": 274
+      "avg": 0.195,
+      "ab": 287
     },
     "vs_rhb": {
-      "avg": 0.263,
-      "ab": 247
+      "avg": 0.259,
+      "ab": 255
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 12",
+      "opp_abbr": "TB",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 6,
+      "er": 3,
+      "hr": 0,
+      "bb": 0,
+      "so": 4,
+      "pitches": 85,
+      "strikes": 62
+    },
     {
       "date_display": "Sep 6",
       "opp_abbr": "AZ",
@@ -160,19 +169,6 @@
       "so": 3,
       "pitches": 79,
       "strikes": 50
-    },
-    {
-      "date_display": "Aug 14",
-      "opp_abbr": "SEA",
-      "is_home": true,
-      "ip": "5.0",
-      "h": 4,
-      "er": 2,
-      "hr": 0,
-      "bb": 2,
-      "so": 6,
-      "pitches": 96,
-      "strikes": 60
     }
   ]
 }
