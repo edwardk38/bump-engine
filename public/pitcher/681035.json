@@ -4,23 +4,19 @@
   "name_full": "Christian Scott",
   "throws": "RHP",
   "team_abbr": "NYM",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 10.87 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 10.85 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
-      "text": "Team has won 7 of his last 10 starts.",
-      "highlight": false
-    },
-    {
-      "text": "Tough on right-handed bats \u2014 .212 against (137 AB).",
+      "text": "Tough on right-handed bats \u2014 .203 against (143 AB).",
       "highlight": false
     }
   ],
@@ -28,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.81,
-      "percentile": 57,
+      "value": 3.76,
+      "percentile": 62,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,7 +33,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 10.87,
+      "value": 10.85,
       "percentile": 94,
       "league": "NL",
       "league_rank": 5,
@@ -46,8 +42,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 99.1,
-      "percentile": 21,
+      "value": 105.1,
+      "percentile": 24,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,8 +51,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 120,
-      "percentile": 53,
+      "value": 127,
+      "percentile": 60,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,8 +60,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 44,
-      "percentile": 15,
+      "value": 46,
+      "percentile": 17,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +69,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.99,
-      "percentile": 15,
+      "value": 3.93,
+      "percentile": 17,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -82,8 +78,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 10,
-      "percentile": 76,
+      "value": 12,
+      "percentile": 65,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +87,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.59,
-      "percentile": 75,
+      "value": 3.73,
+      "percentile": 69,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -100,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.229,
-      "ab": 240
+      "avg": 0.228,
+      "ab": 254
     },
     "vs_rhb": {
-      "avg": 0.212,
-      "ab": 137
+      "avg": 0.203,
+      "ab": 143
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 13",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 3,
+      "er": 2,
+      "hr": 2,
+      "bb": 2,
+      "so": 7,
+      "pitches": 82,
+      "strikes": 51
+    },
     {
       "date_display": "Sep 6",
       "opp_abbr": "SF",
@@ -160,19 +169,6 @@
       "so": 7,
       "pitches": 90,
       "strikes": 61
-    },
-    {
-      "date_display": "Aug 10",
-      "opp_abbr": "ATL",
-      "is_home": false,
-      "ip": "4.0",
-      "h": 7,
-      "er": 4,
-      "hr": 0,
-      "bb": 1,
-      "so": 6,
-      "pitches": 82,
-      "strikes": 56
     }
   ]
 }

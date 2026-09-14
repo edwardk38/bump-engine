@@ -4,15 +4,15 @@
   "name_full": "Payton Tolle",
   "throws": "LHP",
   "team_abbr": "BOS",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "text": "Works into the 6th regularly \u2014 5+ IP in 10 of his last 10.",
       "highlight": false
     },
     {
@@ -20,7 +20,7 @@
       "highlight": false
     },
     {
-      "text": "Team has won 9 of his last 10 starts.",
+      "text": "Rolling \u2014 2.74 ERA over his last 4 (7 ER in 23.0 IP).",
       "highlight": false
     }
   ],
@@ -28,26 +28,26 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.15,
-      "percentile": 83,
+      "value": 3.02,
+      "percentile": 85,
       "league": "AL",
       "league_rank": 11,
-      "mlb_rank": 27
+      "mlb_rank": 23
     },
     {
       "key": "k_per_9",
       "label": "K/9",
       "value": 10.45,
-      "percentile": 88,
+      "percentile": 89,
       "league": "AL",
       "league_rank": 7,
-      "mlb_rank": 18
+      "mlb_rank": 17
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 137.0,
-      "percentile": 52,
+      "value": 143.0,
+      "percentile": 61,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,17 +55,17 @@
     {
       "key": "k",
       "label": "K",
-      "value": 159,
-      "percentile": 82,
+      "value": 166,
+      "percentile": 85,
       "league": "AL",
-      "league_rank": 14,
-      "mlb_rank": 28
+      "league_rank": 11,
+      "mlb_rank": 23
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 37,
-      "percentile": 76,
+      "value": 38,
+      "percentile": 78,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.43,
-      "percentile": 76,
+      "value": 2.39,
+      "percentile": 78,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,7 +83,7 @@
       "key": "hr",
       "label": "HR",
       "value": 15,
-      "percentile": 69,
+      "percentile": 74,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,24 +91,37 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.1,
-      "percentile": 90,
+      "value": 3.04,
+      "percentile": 91,
       "league": "AL",
-      "league_rank": 8,
-      "mlb_rank": 16
+      "league_rank": 7,
+      "mlb_rank": 13
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.245,
-      "ab": 147
+      "avg": 0.243,
+      "ab": 152
     },
     "vs_rhb": {
-      "avg": 0.208,
-      "ab": 360
+      "avg": 0.207,
+      "ab": 377
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 13",
+      "opp_abbr": "KC",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 7,
+      "pitches": 96,
+      "strikes": 70
+    },
     {
       "date_display": "Sep 6",
       "opp_abbr": "BAL",
@@ -160,19 +173,6 @@
       "so": 6,
       "pitches": 98,
       "strikes": 68
-    },
-    {
-      "date_display": "Aug 13",
-      "opp_abbr": "TOR",
-      "is_home": false,
-      "ip": "8.0",
-      "h": 2,
-      "er": 0,
-      "hr": 0,
-      "bb": 2,
-      "so": 4,
-      "pitches": 91,
-      "strikes": 61
     }
   ]
 }

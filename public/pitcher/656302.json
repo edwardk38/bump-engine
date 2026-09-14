@@ -16,11 +16,11 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 12.66 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 12.77 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
-      "text": "Rolling \u2014 2.28 ERA over his last 4 (6 ER in 23.2 IP).",
+      "text": "Rolling \u2014 2.45 ERA over his last 4 (6 ER in 22.0 IP).",
       "highlight": false
     }
   ],
@@ -28,7 +28,7 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.4,
+      "value": 2.38,
       "percentile": 96,
       "league": "AL",
       "league_rank": 2,
@@ -37,7 +37,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 12.66,
+      "value": 12.77,
       "percentile": 99,
       "league": "AL",
       "league_rank": 1,
@@ -46,26 +46,26 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 161.1,
-      "percentile": 80,
+      "value": 166.1,
+      "percentile": 89,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 9,
+      "mlb_rank": 16
     },
     {
       "key": "k",
       "label": "K",
-      "value": 227,
-      "percentile": 98,
+      "value": 236,
+      "percentile": 99,
       "league": "AL",
-      "league_rank": 2,
-      "mlb_rank": 3
+      "league_rank": 1,
+      "mlb_rank": 1
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 67,
-      "percentile": 22,
+      "value": 72,
+      "percentile": 19,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.74,
-      "percentile": 22,
+      "value": 3.9,
+      "percentile": 19,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -100,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.164,
-      "ab": 330
+      "avg": 0.161,
+      "ab": 341
     },
     "vs_rhb": {
-      "avg": 0.196,
-      "ab": 240
+      "avg": 0.202,
+      "ab": 248
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 13",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 4,
+      "er": 1,
+      "hr": 0,
+      "bb": 5,
+      "so": 9,
+      "pitches": 94,
+      "strikes": 60
+    },
     {
       "date_display": "Sep 7",
       "opp_abbr": "ATH",
@@ -159,19 +172,6 @@
       "bb": 5,
       "so": 8,
       "pitches": 111,
-      "strikes": 60
-    },
-    {
-      "date_display": "Aug 16",
-      "opp_abbr": "NYY",
-      "is_home": true,
-      "ip": "6.1",
-      "h": 2,
-      "er": 2,
-      "hr": 0,
-      "bb": 3,
-      "so": 10,
-      "pitches": 104,
       "strikes": 60
     }
   ]

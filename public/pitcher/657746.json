@@ -4,15 +4,19 @@
   "name_full": "Joe Ryan",
   "throws": "RHP",
   "team_abbr": "MIN",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
+      "text": "Rough stretch \u2014 6.75 ERA over his last three (10 ER in 13.1 IP).",
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 10.06 K/9, about a strikeout an inning.",
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 9.83 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -20,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.68,
-      "percentile": 66,
+      "value": 3.84,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,17 +33,17 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 10.06,
-      "percentile": 85,
+      "value": 9.83,
+      "percentile": 81,
       "league": "AL",
-      "league_rank": 10,
-      "mlb_rank": 24
+      "league_rank": 13,
+      "mlb_rank": 29
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 129.2,
-      "percentile": 45,
+      "value": 133.2,
+      "percentile": 48,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,7 +51,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 145,
+      "value": 146,
       "percentile": 76,
       "league": "AL",
       "league_rank": null,
@@ -56,26 +60,26 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 28,
+      "value": 29,
       "percentile": 94,
       "league": "AL",
-      "league_rank": 5,
-      "mlb_rank": 9
+      "league_rank": 6,
+      "mlb_rank": 10
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 1.94,
+      "value": 1.95,
       "percentile": 94,
       "league": "AL",
-      "league_rank": 5,
-      "mlb_rank": 9
+      "league_rank": 6,
+      "mlb_rank": 10
     },
     {
       "key": "hr",
       "label": "HR",
-      "value": 18,
-      "percentile": 41,
+      "value": 20,
+      "percentile": 33,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,24 +87,37 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.47,
-      "percentile": 82,
+      "value": 3.69,
+      "percentile": 71,
       "league": "AL",
-      "league_rank": 13,
-      "mlb_rank": 28
+      "league_rank": null,
+      "mlb_rank": null
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.246,
-      "ab": 293
+      "avg": 0.252,
+      "ab": 310
     },
     "vs_rhb": {
-      "avg": 0.225,
-      "ab": 209
+      "avg": 0.226,
+      "ab": 212
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 13",
+      "opp_abbr": "CLE",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 7,
+      "er": 4,
+      "hr": 2,
+      "bb": 1,
+      "so": 1,
+      "pitches": 84,
+      "strikes": 51
+    },
     {
       "date_display": "Sep 7",
       "opp_abbr": "DET",
@@ -152,19 +169,6 @@
       "so": 3,
       "pitches": 78,
       "strikes": 55
-    },
-    {
-      "date_display": "Jul 11",
-      "opp_abbr": "LAA",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 6,
-      "er": 2,
-      "hr": 0,
-      "bb": 2,
-      "so": 6,
-      "pitches": 94,
-      "strikes": 61
     }
   ]
 }
