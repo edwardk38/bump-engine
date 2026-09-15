@@ -5,10 +5,8 @@ for the read and the form tag, and rankings.py for the stat boxes. Nothing
 here projects anything.
 """
 
-from datetime import datetime
-
 from engine.notes import form_tag, pitcher_notes
-from engine.pitchers import (gamelog_starts, name_display, pitcher_season,
+from engine.pitchers import (game_log_rows, gamelog_starts, name_display, pitcher_season,
                              pitcher_vshand, to_float)
 from engine.rankings import STATS, table
 from engine.slate import (date_display, game_id, season_read, time_display,
@@ -24,15 +22,6 @@ def is_qualified(pitcher_id, season) -> bool:
     """Is this arm inside the ranked starter population?"""
     rec = table(season).row(pitcher_id)
     return bool(rec and rec["qualified"])
-
-
-def start_date_display(iso_date: str) -> str:
-    """'2026-08-21' -> 'Aug 21'."""
-    try:
-        d = datetime.strptime(iso_date, "%Y-%m-%d")
-    except (ValueError, TypeError):
-        return iso_date or ""
-    return f"{d.strftime('%b')} {d.day}"
 
 
 def gate_ranks(line: dict) -> dict:
@@ -86,20 +75,7 @@ def splits_block(vshand) -> dict:
 
 def last_starts(starts) -> list[dict]:
     """Most recent starts, newest first."""
-    recent = list(reversed(starts[-LAST_STARTS_COUNT:]))
-    return [{
-        "date_display": start_date_display(s["date"]),
-        "opp_abbr": s["opp_abbr"],
-        "is_home": s["is_home"],
-        "ip": s["ip_str"],
-        "h": s["hits"],
-        "er": s["er"],
-        "hr": s["hr"],
-        "bb": s["bb"],
-        "so": s["k"],
-        "pitches": s["pitches"],
-        "strikes": s["strikes"],
-    } for s in recent]
+    return game_log_rows(starts, LAST_STARTS_COUNT)
 
 
 def build_pitcher(pitcher, team_abbr, opponent_abbr, season, date) -> dict:

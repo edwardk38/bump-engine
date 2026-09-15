@@ -4,6 +4,7 @@ All numbers come back as raw floats/ints (or None) — formatting is the
 frontend's job. Nothing here computes a projection.
 """
 
+from datetime import datetime
 from functools import lru_cache
 
 from engine.api import code_for, dig, get_json
@@ -53,6 +54,37 @@ def name_display(full_name: str) -> str:
     if len(parts) == 1:
         return parts[0]
     return f"{parts[0][0]}. {' '.join(parts[1:])}"
+
+
+def start_date_display(iso_date: str) -> str:
+    """'2026-08-21' -> 'Aug 21'."""
+    try:
+        d = datetime.strptime(iso_date, "%Y-%m-%d")
+    except (ValueError, TypeError):
+        return iso_date or ""
+    return f"{d.strftime('%b')} {d.day}"
+
+
+def game_log_rows(starts, n) -> list[dict]:
+    """The last `n` starts as game-log table rows, newest first.
+
+    Shared by the slate and the Deep-Dive so both tables read identically.
+    Pitches and strikes stay separate raw numbers; the frontend renders NP-S.
+    """
+    recent = list(reversed(starts[-n:]))
+    return [{
+        "date_display": start_date_display(s["date"]),
+        "opp_abbr": s["opp_abbr"],
+        "is_home": s["is_home"],
+        "ip": s["ip_str"],
+        "h": s["hits"],
+        "er": s["er"],
+        "hr": s["hr"],
+        "bb": s["bb"],
+        "so": s["k"],
+        "pitches": s["pitches"],
+        "strikes": s["strikes"],
+    } for s in recent]
 
 
 def avg_pitches_per_start(starts) -> int | None:

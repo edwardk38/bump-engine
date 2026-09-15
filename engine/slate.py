@@ -5,8 +5,11 @@ from functools import lru_cache
 
 from engine.api import ET, code_for, dig, get_json
 from engine.notes import form_tag, pitcher_notes
-from engine.pitchers import (gamelog_starts, name_display, pitcher_season,
+from engine.pitchers import (game_log_rows, gamelog_starts, name_display, pitcher_season,
                              pitcher_vshand)
+
+
+SLATE_LAST_STARTS = 4   # game-log rows per starter on the slate card
 
 
 def target_date(argv_date=None) -> str:
@@ -86,7 +89,7 @@ def build_starter(pitcher, team_abbr, season, date) -> dict:
     if not pitcher or not pitcher.get("id"):
         return {"tbd": True, "pitcher_id": None, "name_display": None,
                 "name_full": None, "throws": None, "team_abbr": team_abbr,
-                "stats": None, "form_tag": None, "read": None}
+                "stats": None, "form_tag": None, "read": None, "last_4": None}
 
     pid = pitcher["id"]
     # Exclude a start dated today: the build can run while a game is live.
@@ -105,9 +108,13 @@ def build_starter(pitcher, team_abbr, season, date) -> dict:
         "team_abbr": team_abbr,
         # ip is the same season figure the Deep-Dive tile shows, in baseball
         # notation (151.2 = 151 and 2/3), so the two views can't disagree.
-        "stats": {"era": prof["era"], "k_per_9": prof["k_per_9"], "ip": prof["ip"]},
+        "stats": {"era": prof["era"], "k_per_9": prof["k_per_9"],
+                  "ip": prof["ip"], "k": prof["k"]},
         "form_tag": tag,
         "read": notes[0] if notes else season_read(prof),
+        # Same rows and order as the Deep-Dive table, newest first. `starts`
+        # already excludes today, so a live game never shows up here.
+        "last_4": game_log_rows(starts, SLATE_LAST_STARTS),
     }
 
 
