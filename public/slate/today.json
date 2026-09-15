@@ -22,10 +22,65 @@
           "stats": {
             "era": 2.62,
             "k_per_9": 8.95,
-            "ip": 172.0
+            "ip": 172.0,
+            "k": 171
           },
           "form_tag": "hot",
-          "read": "Workhorse \u2014 90+ pitches in 10 of his last 10 starts."
+          "read": "Workhorse \u2014 90+ pitches in 10 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "CIN",
+              "is_home": true,
+              "ip": "7.0",
+              "h": 3,
+              "er": 1,
+              "hr": 1,
+              "bb": 1,
+              "so": 10,
+              "pitches": 90,
+              "strikes": 66
+            },
+            {
+              "date_display": "Sep 2",
+              "opp_abbr": "STL",
+              "is_home": true,
+              "ip": "7.0",
+              "h": 5,
+              "er": 4,
+              "hr": 2,
+              "bb": 2,
+              "so": 8,
+              "pitches": 93,
+              "strikes": 60
+            },
+            {
+              "date_display": "Aug 27",
+              "opp_abbr": "ATL",
+              "is_home": false,
+              "ip": "6.1",
+              "h": 4,
+              "er": 1,
+              "hr": 1,
+              "bb": 1,
+              "so": 8,
+              "pitches": 105,
+              "strikes": 69
+            },
+            {
+              "date_display": "Aug 21",
+              "opp_abbr": "PIT",
+              "is_home": true,
+              "ip": "6.1",
+              "h": 5,
+              "er": 2,
+              "hr": 0,
+              "bb": 1,
+              "so": 9,
+              "pitches": 107,
+              "strikes": 69
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -37,10 +92,65 @@
           "stats": {
             "era": 5.81,
             "k_per_9": 7.09,
-            "ip": 119.1
+            "ip": 119.1,
+            "k": 94
           },
           "form_tag": "cold",
-          "read": "Rough stretch \u2014 9.33 ERA over his last four (19 ER in 18.1 IP)."
+          "read": "Rough stretch \u2014 9.33 ERA over his last four (19 ER in 18.1 IP).",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "LAD",
+              "is_home": false,
+              "ip": "3.1",
+              "h": 7,
+              "er": 7,
+              "hr": 1,
+              "bb": 2,
+              "so": 4,
+              "pitches": 72,
+              "strikes": 43
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "MIL",
+              "is_home": true,
+              "ip": "4.0",
+              "h": 6,
+              "er": 6,
+              "hr": 0,
+              "bb": 4,
+              "so": 2,
+              "pitches": 104,
+              "strikes": 59
+            },
+            {
+              "date_display": "Aug 28",
+              "opp_abbr": "CHC",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 6,
+              "er": 3,
+              "hr": 1,
+              "bb": 0,
+              "so": 5,
+              "pitches": 96,
+              "strikes": 60
+            },
+            {
+              "date_display": "Aug 22",
+              "opp_abbr": "AZ",
+              "is_home": false,
+              "ip": "6.0",
+              "h": 6,
+              "er": 3,
+              "hr": 2,
+              "bb": 1,
+              "so": 1,
+              "pitches": 92,
+              "strikes": 63
+            }
+          ]
         }
       }
     },
@@ -63,10 +173,65 @@
           "stats": {
             "era": 6.53,
             "k_per_9": 10.36,
-            "ip": 103.1
+            "ip": 103.1,
+            "k": 119
           },
           "form_tag": "cold",
-          "read": "Rough stretch \u2014 7.00 ERA over his last four (14 ER in 18.0 IP)."
+          "read": "Rough stretch \u2014 7.00 ERA over his last four (14 ER in 18.0 IP).",
+          "last_4": [
+            {
+              "date_display": "Sep 8",
+              "opp_abbr": "TOR",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 7,
+              "er": 4,
+              "hr": 2,
+              "bb": 0,
+              "so": 3,
+              "pitches": 85,
+              "strikes": 56
+            },
+            {
+              "date_display": "Sep 3",
+              "opp_abbr": "SEA",
+              "is_home": false,
+              "ip": "3.0",
+              "h": 4,
+              "er": 3,
+              "hr": 0,
+              "bb": 5,
+              "so": 7,
+              "pitches": 86,
+              "strikes": 49
+            },
+            {
+              "date_display": "Aug 29",
+              "opp_abbr": "BAL",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 4,
+              "er": 1,
+              "hr": 1,
+              "bb": 4,
+              "so": 5,
+              "pitches": 80,
+              "strikes": 53
+            },
+            {
+              "date_display": "Aug 12",
+              "opp_abbr": "TB",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 12,
+              "er": 6,
+              "hr": 1,
+              "bb": 1,
+              "so": 2,
+              "pitches": 97,
+              "strikes": 65
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -78,10 +243,65 @@
           "stats": {
             "era": 3.99,
             "k_per_9": 9.33,
-            "ip": 99.1
+            "ip": 99.1,
+            "k": 103
           },
           "form_tag": "cold",
-          "read": "Rough stretch \u2014 5.68 ERA over his last three (8 ER in 12.2 IP)."
+          "read": "Rough stretch \u2014 5.68 ERA over his last three (8 ER in 12.2 IP).",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "ATL",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 2,
+              "er": 1,
+              "hr": 1,
+              "bb": 1,
+              "so": 2,
+              "pitches": 66,
+              "strikes": 45
+            },
+            {
+              "date_display": "Sep 2",
+              "opp_abbr": "NYM",
+              "is_home": true,
+              "ip": "2.2",
+              "h": 7,
+              "er": 6,
+              "hr": 0,
+              "bb": 2,
+              "so": 1,
+              "pitches": 63,
+              "strikes": 39
+            },
+            {
+              "date_display": "Aug 2",
+              "opp_abbr": "CWS",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 4,
+              "er": 1,
+              "hr": 1,
+              "bb": 0,
+              "so": 8,
+              "pitches": 82,
+              "strikes": 59
+            },
+            {
+              "date_display": "Jul 28",
+              "opp_abbr": "TEX",
+              "is_home": true,
+              "ip": "5.2",
+              "h": 5,
+              "er": 1,
+              "hr": 0,
+              "bb": 3,
+              "so": 10,
+              "pitches": 93,
+              "strikes": 62
+            }
+          ]
         }
       }
     },
@@ -96,18 +316,47 @@
       "starters": {
         "away": {
           "tbd": false,
-          "pitcher_id": "663436",
-          "name_display": "D. Martin",
-          "name_full": "Davis Martin",
-          "throws": "RHP",
+          "pitcher_id": "669684",
+          "name_display": "C. Murphy",
+          "name_full": "Chris Murphy",
+          "throws": "LHP",
           "team_abbr": "CWS",
           "stats": {
-            "era": 4.05,
-            "k_per_9": 7.63,
-            "ip": 135.2
+            "era": 3.94,
+            "k_per_9": 9.56,
+            "ip": 32.0,
+            "k": 34
           },
           "form_tag": "steady",
-          "read": "4.05 ERA with 7.63 K/9 over 135.2 innings this season."
+          "read": "Misses bats \u2014 9.56 K/9, about a strikeout an inning.",
+          "last_4": [
+            {
+              "date_display": "Jul 5",
+              "opp_abbr": "CLE",
+              "is_home": false,
+              "ip": "0.2",
+              "h": 3,
+              "er": 3,
+              "hr": 1,
+              "bb": 1,
+              "so": 1,
+              "pitches": 31,
+              "strikes": 20
+            },
+            {
+              "date_display": "Jun 24",
+              "opp_abbr": "CLE",
+              "is_home": true,
+              "ip": "1.1",
+              "h": 0,
+              "er": 0,
+              "hr": 0,
+              "bb": 0,
+              "so": 2,
+              "pitches": 23,
+              "strikes": 16
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -119,10 +368,65 @@
           "stats": {
             "era": 3.65,
             "k_per_9": 8.08,
-            "ip": 162.2
+            "ip": 162.2,
+            "k": 146
           },
           "form_tag": "cold",
-          "read": "Rough stretch \u2014 7.36 ERA over his last four (15 ER in 18.1 IP)."
+          "read": "Rough stretch \u2014 7.36 ERA over his last four (15 ER in 18.1 IP).",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "BAL",
+              "is_home": false,
+              "ip": "2.1",
+              "h": 7,
+              "er": 8,
+              "hr": 0,
+              "bb": 2,
+              "so": 4,
+              "pitches": 62,
+              "strikes": 39
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "DET",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 8,
+              "er": 3,
+              "hr": 0,
+              "bb": 2,
+              "so": 3,
+              "pitches": 92,
+              "strikes": 58
+            },
+            {
+              "date_display": "Aug 29",
+              "opp_abbr": "KC",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 4,
+              "er": 2,
+              "hr": 0,
+              "bb": 1,
+              "so": 4,
+              "pitches": 82,
+              "strikes": 50
+            },
+            {
+              "date_display": "Aug 23",
+              "opp_abbr": "COL",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 5,
+              "er": 2,
+              "hr": 0,
+              "bb": 3,
+              "so": 4,
+              "pitches": 105,
+              "strikes": 71
+            }
+          ]
         }
       }
     },
@@ -145,10 +449,65 @@
           "stats": {
             "era": 1.95,
             "k_per_9": 13.17,
-            "ip": 161.1
+            "ip": 161.1,
+            "k": 236
           },
           "form_tag": "cold",
-          "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts."
+          "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 8",
+              "opp_abbr": "CHC",
+              "is_home": true,
+              "ip": "6.1",
+              "h": 4,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 9,
+              "pitches": 93,
+              "strikes": 64
+            },
+            {
+              "date_display": "Sep 2",
+              "opp_abbr": "CHC",
+              "is_home": false,
+              "ip": "4.0",
+              "h": 5,
+              "er": 5,
+              "hr": 1,
+              "bb": 4,
+              "so": 5,
+              "pitches": 92,
+              "strikes": 53
+            },
+            {
+              "date_display": "Aug 27",
+              "opp_abbr": "NYM",
+              "is_home": false,
+              "ip": "6.0",
+              "h": 2,
+              "er": 2,
+              "hr": 0,
+              "bb": 2,
+              "so": 6,
+              "pitches": 89,
+              "strikes": 53
+            },
+            {
+              "date_display": "Aug 21",
+              "opp_abbr": "ATL",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 4,
+              "er": 0,
+              "hr": 0,
+              "bb": 2,
+              "so": 6,
+              "pitches": 96,
+              "strikes": 55
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -160,10 +519,65 @@
           "stats": {
             "era": 3.52,
             "k_per_9": 9.42,
-            "ip": 79.1
+            "ip": 79.1,
+            "k": 83
           },
           "form_tag": "hot",
-          "read": "Misses bats \u2014 9.42 K/9, about a strikeout an inning."
+          "read": "Misses bats \u2014 9.42 K/9, about a strikeout an inning.",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "CWS",
+              "is_home": false,
+              "ip": "1.2",
+              "h": 2,
+              "er": 0,
+              "hr": 0,
+              "bb": 1,
+              "so": 3,
+              "pitches": 27,
+              "strikes": 20
+            },
+            {
+              "date_display": "Sep 3",
+              "opp_abbr": "SF",
+              "is_home": true,
+              "ip": "2.1",
+              "h": 0,
+              "er": 0,
+              "hr": 0,
+              "bb": 2,
+              "so": 3,
+              "pitches": 38,
+              "strikes": 20
+            },
+            {
+              "date_display": "Aug 29",
+              "opp_abbr": "STL",
+              "is_home": false,
+              "ip": "2.1",
+              "h": 1,
+              "er": 1,
+              "hr": 1,
+              "bb": 0,
+              "so": 2,
+              "pitches": 28,
+              "strikes": 18
+            },
+            {
+              "date_display": "Aug 23",
+              "opp_abbr": "LAD",
+              "is_home": false,
+              "ip": "2.0",
+              "h": 1,
+              "er": 1,
+              "hr": 0,
+              "bb": 3,
+              "so": 1,
+              "pitches": 35,
+              "strikes": 20
+            }
+          ]
         }
       }
     },
@@ -186,10 +600,65 @@
           "stats": {
             "era": 2.79,
             "k_per_9": 10.09,
-            "ip": 187.1
+            "ip": 187.1,
+            "k": 210
           },
           "form_tag": "cold",
-          "read": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts."
+          "read": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "HOU",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 10,
+              "er": 6,
+              "hr": 2,
+              "bb": 0,
+              "so": 3,
+              "pitches": 81,
+              "strikes": 55
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "ATL",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 5,
+              "er": 3,
+              "hr": 0,
+              "bb": 3,
+              "so": 5,
+              "pitches": 108,
+              "strikes": 67
+            },
+            {
+              "date_display": "Aug 29",
+              "opp_abbr": "LAA",
+              "is_home": false,
+              "ip": "7.0",
+              "h": 2,
+              "er": 0,
+              "hr": 0,
+              "bb": 1,
+              "so": 8,
+              "pitches": 91,
+              "strikes": 65
+            },
+            {
+              "date_display": "Aug 23",
+              "opp_abbr": "STL",
+              "is_home": true,
+              "ip": "6.2",
+              "h": 9,
+              "er": 4,
+              "hr": 1,
+              "bb": 0,
+              "so": 7,
+              "pitches": 103,
+              "strikes": 73
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -201,10 +670,65 @@
           "stats": {
             "era": 6.59,
             "k_per_9": 7.57,
-            "ip": 27.1
+            "ip": 27.1,
+            "k": 23
           },
           "form_tag": "hot",
-          "read": "6.59 ERA with 7.57 K/9 over 27.1 innings this season."
+          "read": "6.59 ERA with 7.57 K/9 over 27.1 innings this season.",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "SD",
+              "is_home": false,
+              "ip": "3.0",
+              "h": 8,
+              "er": 5,
+              "hr": 0,
+              "bb": 1,
+              "so": 2,
+              "pitches": 72,
+              "strikes": 47
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "LAD",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 4,
+              "er": 3,
+              "hr": 0,
+              "bb": 4,
+              "so": 4,
+              "pitches": 87,
+              "strikes": 49
+            },
+            {
+              "date_display": "Aug 28",
+              "opp_abbr": "MIA",
+              "is_home": true,
+              "ip": "7.0",
+              "h": 3,
+              "er": 1,
+              "hr": 0,
+              "bb": 4,
+              "so": 3,
+              "pitches": 106,
+              "strikes": 64
+            },
+            {
+              "date_display": "Aug 23",
+              "opp_abbr": "MIA",
+              "is_home": false,
+              "ip": "4.2",
+              "h": 4,
+              "er": 3,
+              "hr": 0,
+              "bb": 3,
+              "so": 5,
+              "pitches": 90,
+              "strikes": 59
+            }
+          ]
         }
       }
     },
@@ -227,10 +751,65 @@
           "stats": {
             "era": 3.8,
             "k_per_9": 9.74,
-            "ip": 97.0
+            "ip": 97.0,
+            "k": 105
           },
           "form_tag": "steady",
-          "read": "Misses bats \u2014 9.74 K/9, about a strikeout an inning."
+          "read": "Misses bats \u2014 9.74 K/9, about a strikeout an inning.",
+          "last_4": [
+            {
+              "date_display": "Sep 8",
+              "opp_abbr": "MIN",
+              "is_home": true,
+              "ip": "5.1",
+              "h": 4,
+              "er": 3,
+              "hr": 1,
+              "bb": 3,
+              "so": 4,
+              "pitches": 86,
+              "strikes": 56
+            },
+            {
+              "date_display": "Sep 2",
+              "opp_abbr": "MIN",
+              "is_home": false,
+              "ip": "5.2",
+              "h": 4,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 5,
+              "pitches": 90,
+              "strikes": 63
+            },
+            {
+              "date_display": "Aug 28",
+              "opp_abbr": "LAD",
+              "is_home": true,
+              "ip": "4.2",
+              "h": 4,
+              "er": 0,
+              "hr": 0,
+              "bb": 5,
+              "so": 5,
+              "pitches": 89,
+              "strikes": 54
+            },
+            {
+              "date_display": "Aug 22",
+              "opp_abbr": "KC",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 5,
+              "er": 3,
+              "hr": 2,
+              "bb": 1,
+              "so": 4,
+              "pitches": 75,
+              "strikes": 53
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -242,10 +821,65 @@
           "stats": {
             "era": 3.22,
             "k_per_9": 8.92,
-            "ip": 72.2
+            "ip": 72.2,
+            "k": 72
           },
           "form_tag": "steady",
-          "read": "Tough on right-handed bats \u2014 .189 against (127 AB)."
+          "read": "Tough on right-handed bats \u2014 .189 against (127 AB).",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "ATH",
+              "is_home": false,
+              "ip": "1.0",
+              "h": 0,
+              "er": 0,
+              "hr": 0,
+              "bb": 0,
+              "so": 1,
+              "pitches": 18,
+              "strikes": 12
+            },
+            {
+              "date_display": "Aug 15",
+              "opp_abbr": "NYY",
+              "is_home": true,
+              "ip": "1.0",
+              "h": 0,
+              "er": 0,
+              "hr": 0,
+              "bb": 1,
+              "so": 0,
+              "pitches": 12,
+              "strikes": 6
+            },
+            {
+              "date_display": "Jul 22",
+              "opp_abbr": "TB",
+              "is_home": true,
+              "ip": "1.1",
+              "h": 0,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 1,
+              "pitches": 26,
+              "strikes": 11
+            },
+            {
+              "date_display": "Jul 1",
+              "opp_abbr": "NYM",
+              "is_home": true,
+              "ip": "1.0",
+              "h": 0,
+              "er": 0,
+              "hr": 0,
+              "bb": 1,
+              "so": 1,
+              "pitches": 14,
+              "strikes": 7
+            }
+          ]
         }
       }
     },
@@ -268,10 +902,65 @@
           "stats": {
             "era": 4.05,
             "k_per_9": 7.99,
-            "ip": 169.0
+            "ip": 169.0,
+            "k": 150
           },
           "form_tag": "steady",
-          "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts."
+          "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "CLE",
+              "is_home": true,
+              "ip": "5.2",
+              "h": 6,
+              "er": 5,
+              "hr": 2,
+              "bb": 1,
+              "so": 5,
+              "pitches": 100,
+              "strikes": 61
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "BOS",
+              "is_home": true,
+              "ip": "6.1",
+              "h": 4,
+              "er": 1,
+              "hr": 1,
+              "bb": 2,
+              "so": 6,
+              "pitches": 95,
+              "strikes": 61
+            },
+            {
+              "date_display": "Aug 29",
+              "opp_abbr": "ATH",
+              "is_home": false,
+              "ip": "5.2",
+              "h": 5,
+              "er": 2,
+              "hr": 0,
+              "bb": 3,
+              "so": 4,
+              "pitches": 84,
+              "strikes": 52
+            },
+            {
+              "date_display": "Aug 23",
+              "opp_abbr": "TB",
+              "is_home": true,
+              "ip": "5.2",
+              "h": 5,
+              "er": 3,
+              "hr": 0,
+              "bb": 3,
+              "so": 3,
+              "pitches": 96,
+              "strikes": 54
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -283,10 +972,65 @@
           "stats": {
             "era": 4.79,
             "k_per_9": 8.51,
-            "ip": 133.1
+            "ip": 133.1,
+            "k": 126
           },
           "form_tag": "cold",
-          "read": "Struggling lately \u2014 4+ runs in four of his last four."
+          "read": "Struggling lately \u2014 4+ runs in four of his last four.",
+          "last_4": [
+            {
+              "date_display": "Sep 8",
+              "opp_abbr": "MIA",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 5,
+              "er": 4,
+              "hr": 0,
+              "bb": 0,
+              "so": 4,
+              "pitches": 61,
+              "strikes": 45
+            },
+            {
+              "date_display": "Sep 1",
+              "opp_abbr": "TB",
+              "is_home": false,
+              "ip": "5.2",
+              "h": 11,
+              "er": 5,
+              "hr": 1,
+              "bb": 1,
+              "so": 2,
+              "pitches": 86,
+              "strikes": 59
+            },
+            {
+              "date_display": "Aug 27",
+              "opp_abbr": "MIL",
+              "is_home": true,
+              "ip": "5.2",
+              "h": 8,
+              "er": 6,
+              "hr": 1,
+              "bb": 1,
+              "so": 3,
+              "pitches": 95,
+              "strikes": 63
+            },
+            {
+              "date_display": "Aug 21",
+              "opp_abbr": "CWS",
+              "is_home": false,
+              "ip": "6.0",
+              "h": 5,
+              "er": 4,
+              "hr": 3,
+              "bb": 2,
+              "so": 4,
+              "pitches": 93,
+              "strikes": 62
+            }
+          ]
         }
       }
     },
@@ -309,10 +1053,65 @@
           "stats": {
             "era": 3.08,
             "k_per_9": 6.7,
-            "ip": 131.2
+            "ip": 131.2,
+            "k": 98
           },
           "form_tag": "hot",
-          "read": "Rolling \u2014 2.66 ERA over his last 4 (6 ER in 20.1 IP)."
+          "read": "Rolling \u2014 2.66 ERA over his last 4 (6 ER in 20.1 IP).",
+          "last_4": [
+            {
+              "date_display": "Sep 10",
+              "opp_abbr": "TB",
+              "is_home": true,
+              "ip": "7.0",
+              "h": 4,
+              "er": 0,
+              "hr": 0,
+              "bb": 2,
+              "so": 4,
+              "pitches": 90,
+              "strikes": 57
+            },
+            {
+              "date_display": "Sep 5",
+              "opp_abbr": "PHI",
+              "is_home": false,
+              "ip": "3.2",
+              "h": 7,
+              "er": 4,
+              "hr": 1,
+              "bb": 4,
+              "so": 3,
+              "pitches": 84,
+              "strikes": 49
+            },
+            {
+              "date_display": "Aug 29",
+              "opp_abbr": "COL",
+              "is_home": true,
+              "ip": "5.2",
+              "h": 5,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 6,
+              "pitches": 83,
+              "strikes": 52
+            },
+            {
+              "date_display": "Aug 22",
+              "opp_abbr": "MIL",
+              "is_home": false,
+              "ip": "4.0",
+              "h": 4,
+              "er": 1,
+              "hr": 1,
+              "bb": 3,
+              "so": 2,
+              "pitches": 97,
+              "strikes": 58
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -324,10 +1123,65 @@
           "stats": {
             "era": 4.6,
             "k_per_9": 9.25,
-            "ip": 166.1
+            "ip": 166.1,
+            "k": 171
           },
           "form_tag": "steady",
-          "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts."
+          "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "MIL",
+              "is_home": false,
+              "ip": "4.0",
+              "h": 8,
+              "er": 6,
+              "hr": 3,
+              "bb": 2,
+              "so": 6,
+              "pitches": 94,
+              "strikes": 64
+            },
+            {
+              "date_display": "Sep 3",
+              "opp_abbr": "MIL",
+              "is_home": true,
+              "ip": "7.0",
+              "h": 5,
+              "er": 1,
+              "hr": 1,
+              "bb": 1,
+              "so": 9,
+              "pitches": 103,
+              "strikes": 69
+            },
+            {
+              "date_display": "Aug 29",
+              "opp_abbr": "CIN",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 6,
+              "er": 5,
+              "hr": 2,
+              "bb": 2,
+              "so": 7,
+              "pitches": 102,
+              "strikes": 67
+            },
+            {
+              "date_display": "Aug 24",
+              "opp_abbr": "AZ",
+              "is_home": false,
+              "ip": "7.0",
+              "h": 3,
+              "er": 0,
+              "hr": 0,
+              "bb": 1,
+              "so": 6,
+              "pitches": 94,
+              "strikes": 67
+            }
+          ]
         }
       }
     },
@@ -350,10 +1204,65 @@
           "stats": {
             "era": 2.73,
             "k_per_9": 8.55,
-            "ip": 99.0
+            "ip": 99.0,
+            "k": 94
           },
           "form_tag": "hot",
-          "read": "Rolling \u2014 2.04 ERA over his last 4 (4 ER in 17.2 IP)."
+          "read": "Rolling \u2014 2.04 ERA over his last 4 (4 ER in 17.2 IP).",
+          "last_4": [
+            {
+              "date_display": "Sep 10",
+              "opp_abbr": "COL",
+              "is_home": true,
+              "ip": "3.1",
+              "h": 1,
+              "er": 1,
+              "hr": 1,
+              "bb": 2,
+              "so": 7,
+              "pitches": 80,
+              "strikes": 48
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "SD",
+              "is_home": false,
+              "ip": "5.2",
+              "h": 4,
+              "er": 1,
+              "hr": 0,
+              "bb": 1,
+              "so": 4,
+              "pitches": 72,
+              "strikes": 51
+            },
+            {
+              "date_display": "Aug 29",
+              "opp_abbr": "BOS",
+              "is_home": true,
+              "ip": "3.2",
+              "h": 3,
+              "er": 1,
+              "hr": 1,
+              "bb": 1,
+              "so": 4,
+              "pitches": 63,
+              "strikes": 39
+            },
+            {
+              "date_display": "Aug 13",
+              "opp_abbr": "SEA",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 5,
+              "er": 1,
+              "hr": 1,
+              "bb": 2,
+              "so": 4,
+              "pitches": 88,
+              "strikes": 55
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -365,10 +1274,65 @@
           "stats": {
             "era": 4.28,
             "k_per_9": 6.5,
-            "ip": 117.2
+            "ip": 117.2,
+            "k": 85
           },
           "form_tag": "hot",
-          "read": "Rolling \u2014 2.41 ERA over his last 4 (5 ER in 18.2 IP)."
+          "read": "Rolling \u2014 2.41 ERA over his last 4 (5 ER in 18.2 IP).",
+          "last_4": [
+            {
+              "date_display": "Sep 6",
+              "opp_abbr": "CWS",
+              "is_home": false,
+              "ip": "4.1",
+              "h": 4,
+              "er": 1,
+              "hr": 0,
+              "bb": 3,
+              "so": 6,
+              "pitches": 84,
+              "strikes": 50
+            },
+            {
+              "date_display": "Aug 29",
+              "opp_abbr": "CWS",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 2,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 5,
+              "pitches": 80,
+              "strikes": 53
+            },
+            {
+              "date_display": "Aug 23",
+              "opp_abbr": "SD",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 4,
+              "er": 1,
+              "hr": 1,
+              "bb": 3,
+              "so": 3,
+              "pitches": 87,
+              "strikes": 54
+            },
+            {
+              "date_display": "Aug 17",
+              "opp_abbr": "ATL",
+              "is_home": true,
+              "ip": "4.1",
+              "h": 6,
+              "er": 2,
+              "hr": 0,
+              "bb": 1,
+              "so": 4,
+              "pitches": 94,
+              "strikes": 62
+            }
+          ]
         }
       }
     },
@@ -391,10 +1355,65 @@
           "stats": {
             "era": 4.82,
             "k_per_9": 7.33,
-            "ip": 46.2
+            "ip": 46.2,
+            "k": 38
           },
           "form_tag": "steady",
-          "read": "Tough on right-handed bats \u2014 .175 against (80 AB)."
+          "read": "Tough on right-handed bats \u2014 .175 against (80 AB).",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "STL",
+              "is_home": true,
+              "ip": "4.0",
+              "h": 5,
+              "er": 4,
+              "hr": 1,
+              "bb": 2,
+              "so": 2,
+              "pitches": 78,
+              "strikes": 45
+            },
+            {
+              "date_display": "Sep 3",
+              "opp_abbr": "PIT",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 2,
+              "er": 2,
+              "hr": 0,
+              "bb": 5,
+              "so": 5,
+              "pitches": 95,
+              "strikes": 49
+            },
+            {
+              "date_display": "Aug 28",
+              "opp_abbr": "AZ",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 7,
+              "er": 6,
+              "hr": 3,
+              "bb": 1,
+              "so": 4,
+              "pitches": 100,
+              "strikes": 67
+            },
+            {
+              "date_display": "Aug 22",
+              "opp_abbr": "BOS",
+              "is_home": false,
+              "ip": "5.2",
+              "h": 3,
+              "er": 0,
+              "hr": 0,
+              "bb": 2,
+              "so": 7,
+              "pitches": 93,
+              "strikes": 57
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -406,10 +1425,65 @@
           "stats": {
             "era": 3.45,
             "k_per_9": 6.29,
-            "ip": 146.0
+            "ip": 146.0,
+            "k": 102
           },
           "form_tag": "hot",
-          "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts."
+          "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "SF",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 5,
+              "er": 1,
+              "hr": 0,
+              "bb": 0,
+              "so": 4,
+              "pitches": 88,
+              "strikes": 54
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "COL",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 2,
+              "er": 1,
+              "hr": 0,
+              "bb": 4,
+              "so": 1,
+              "pitches": 72,
+              "strikes": 38
+            },
+            {
+              "date_display": "Aug 17",
+              "opp_abbr": "CIN",
+              "is_home": false,
+              "ip": "6.0",
+              "h": 10,
+              "er": 4,
+              "hr": 0,
+              "bb": 1,
+              "so": 5,
+              "pitches": 88,
+              "strikes": 58
+            },
+            {
+              "date_display": "Aug 11",
+              "opp_abbr": "PHI",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 4,
+              "er": 0,
+              "hr": 0,
+              "bb": 3,
+              "so": 2,
+              "pitches": 97,
+              "strikes": 54
+            }
+          ]
         }
       }
     },
@@ -432,21 +1506,135 @@
           "stats": {
             "era": 4.58,
             "k_per_9": 9.33,
-            "ip": 55.0
+            "ip": 55.0,
+            "k": 57
           },
           "form_tag": "steady",
-          "read": "Durable \u2014 80+ pitches in 9 of his last 10 starts."
+          "read": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 8",
+              "opp_abbr": "LAA",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 10,
+              "er": 4,
+              "hr": 0,
+              "bb": 2,
+              "so": 7,
+              "pitches": 99,
+              "strikes": 66
+            },
+            {
+              "date_display": "Sep 2",
+              "opp_abbr": "SEA",
+              "is_home": true,
+              "ip": "4.0",
+              "h": 5,
+              "er": 3,
+              "hr": 0,
+              "bb": 3,
+              "so": 2,
+              "pitches": 80,
+              "strikes": 40
+            },
+            {
+              "date_display": "Aug 28",
+              "opp_abbr": "NYY",
+              "is_home": false,
+              "ip": "5.1",
+              "h": 3,
+              "er": 1,
+              "hr": 1,
+              "bb": 4,
+              "so": 7,
+              "pitches": 96,
+              "strikes": 57
+            },
+            {
+              "date_display": "Aug 22",
+              "opp_abbr": "SF",
+              "is_home": true,
+              "ip": "5.2",
+              "h": 5,
+              "er": 2,
+              "hr": 2,
+              "bb": 2,
+              "so": 6,
+              "pitches": 93,
+              "strikes": 60
+            }
+          ]
         },
         "home": {
-          "tbd": true,
-          "pitcher_id": null,
-          "name_display": null,
-          "name_full": null,
-          "throws": null,
+          "tbd": false,
+          "pitcher_id": "594798",
+          "name_display": "J. deGrom",
+          "name_full": "Jacob deGrom",
+          "throws": "RHP",
           "team_abbr": "TEX",
-          "stats": null,
-          "form_tag": null,
-          "read": null
+          "stats": {
+            "era": 3.8,
+            "k_per_9": 11.21,
+            "ip": 149.1,
+            "k": 186
+          },
+          "form_tag": "steady",
+          "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 10",
+              "opp_abbr": "SEA",
+              "is_home": false,
+              "ip": "6.0",
+              "h": 1,
+              "er": 0,
+              "hr": 0,
+              "bb": 0,
+              "so": 12,
+              "pitches": 92,
+              "strikes": 64
+            },
+            {
+              "date_display": "Sep 5",
+              "opp_abbr": "TB",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 4,
+              "er": 2,
+              "hr": 2,
+              "bb": 1,
+              "so": 7,
+              "pitches": 90,
+              "strikes": 66
+            },
+            {
+              "date_display": "Aug 31",
+              "opp_abbr": "ATH",
+              "is_home": true,
+              "ip": "7.0",
+              "h": 1,
+              "er": 0,
+              "hr": 0,
+              "bb": 0,
+              "so": 8,
+              "pitches": 85,
+              "strikes": 56
+            },
+            {
+              "date_display": "Aug 25",
+              "opp_abbr": "CWS",
+              "is_home": false,
+              "ip": "3.2",
+              "h": 6,
+              "er": 8,
+              "hr": 0,
+              "bb": 5,
+              "so": 2,
+              "pitches": 87,
+              "strikes": 45
+            }
+          ]
         }
       }
     },
@@ -469,10 +1657,65 @@
           "stats": {
             "era": 3.25,
             "k_per_9": 7.24,
-            "ip": 182.2
+            "ip": 182.2,
+            "k": 147
           },
           "form_tag": "hot",
-          "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts."
+          "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 8",
+              "opp_abbr": "AZ",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 3,
+              "er": 0,
+              "hr": 0,
+              "bb": 4,
+              "so": 4,
+              "pitches": 93,
+              "strikes": 58
+            },
+            {
+              "date_display": "Sep 3",
+              "opp_abbr": "MIA",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 6,
+              "er": 3,
+              "hr": 2,
+              "bb": 2,
+              "so": 7,
+              "pitches": 96,
+              "strikes": 62
+            },
+            {
+              "date_display": "Aug 28",
+              "opp_abbr": "CLE",
+              "is_home": false,
+              "ip": "8.0",
+              "h": 4,
+              "er": 0,
+              "hr": 0,
+              "bb": 0,
+              "so": 10,
+              "pitches": 103,
+              "strikes": 75
+            },
+            {
+              "date_display": "Aug 22",
+              "opp_abbr": "DET",
+              "is_home": true,
+              "ip": "7.0",
+              "h": 3,
+              "er": 1,
+              "hr": 1,
+              "bb": 1,
+              "so": 6,
+              "pitches": 96,
+              "strikes": 64
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -484,10 +1727,65 @@
           "stats": {
             "era": 3.52,
             "k_per_9": 9.78,
-            "ip": 92.0
+            "ip": 92.0,
+            "k": 100
           },
           "form_tag": "steady",
-          "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts."
+          "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "PHI",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 7,
+              "er": 4,
+              "hr": 1,
+              "bb": 0,
+              "so": 7,
+              "pitches": 90,
+              "strikes": 57
+            },
+            {
+              "date_display": "Sep 3",
+              "opp_abbr": "CWS",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 6,
+              "er": 2,
+              "hr": 0,
+              "bb": 2,
+              "so": 7,
+              "pitches": 101,
+              "strikes": 65
+            },
+            {
+              "date_display": "Aug 28",
+              "opp_abbr": "NYM",
+              "is_home": false,
+              "ip": "6.2",
+              "h": 5,
+              "er": 1,
+              "hr": 0,
+              "bb": 1,
+              "so": 10,
+              "pitches": 102,
+              "strikes": 65
+            },
+            {
+              "date_display": "Aug 22",
+              "opp_abbr": "ATH",
+              "is_home": true,
+              "ip": "5.2",
+              "h": 7,
+              "er": 1,
+              "hr": 1,
+              "bb": 3,
+              "so": 4,
+              "pitches": 101,
+              "strikes": 66
+            }
+          ]
         }
       }
     },
@@ -510,10 +1808,65 @@
           "stats": {
             "era": 4.61,
             "k_per_9": 7.85,
-            "ip": 138.2
+            "ip": 138.2,
+            "k": 121
           },
           "form_tag": "hot",
-          "read": "Team has won 8 of his last 10 starts."
+          "read": "Team has won 8 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "WSH",
+              "is_home": true,
+              "ip": "2.1",
+              "h": 3,
+              "er": 2,
+              "hr": 1,
+              "bb": 2,
+              "so": 4,
+              "pitches": 60,
+              "strikes": 37
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "NYY",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 3,
+              "er": 1,
+              "hr": 1,
+              "bb": 2,
+              "so": 6,
+              "pitches": 76,
+              "strikes": 49
+            },
+            {
+              "date_display": "Aug 29",
+              "opp_abbr": "TB",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 7,
+              "er": 3,
+              "hr": 2,
+              "bb": 0,
+              "so": 3,
+              "pitches": 71,
+              "strikes": 47
+            },
+            {
+              "date_display": "Aug 23",
+              "opp_abbr": "MIN",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 4,
+              "er": 1,
+              "hr": 1,
+              "bb": 0,
+              "so": 4,
+              "pitches": 86,
+              "strikes": 62
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -525,10 +1878,65 @@
           "stats": {
             "era": 6.37,
             "k_per_9": 7.46,
-            "ip": 124.1
+            "ip": 124.1,
+            "k": 103
           },
           "form_tag": "hot",
-          "read": "Durable \u2014 80+ pitches in 8 of his last 10 starts."
+          "read": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Aug 19",
+              "opp_abbr": "LAD",
+              "is_home": true,
+              "ip": "3.2",
+              "h": 6,
+              "er": 4,
+              "hr": 2,
+              "bb": 1,
+              "so": 5,
+              "pitches": 66,
+              "strikes": 43
+            },
+            {
+              "date_display": "Aug 14",
+              "opp_abbr": "SF",
+              "is_home": false,
+              "ip": "8.0",
+              "h": 4,
+              "er": 1,
+              "hr": 1,
+              "bb": 1,
+              "so": 2,
+              "pitches": 95,
+              "strikes": 66
+            },
+            {
+              "date_display": "Aug 8",
+              "opp_abbr": "STL",
+              "is_home": false,
+              "ip": "4.1",
+              "h": 5,
+              "er": 1,
+              "hr": 0,
+              "bb": 3,
+              "so": 3,
+              "pitches": 101,
+              "strikes": 64
+            },
+            {
+              "date_display": "Aug 2",
+              "opp_abbr": "KC",
+              "is_home": true,
+              "ip": "9.0",
+              "h": 5,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 8,
+              "pitches": 115,
+              "strikes": 74
+            }
+          ]
         }
       }
     },
@@ -551,10 +1959,65 @@
           "stats": {
             "era": 3.72,
             "k_per_9": 9.78,
-            "ip": 172.0
+            "ip": 172.0,
+            "k": 187
           },
           "form_tag": "cold",
-          "read": "Rough stretch \u2014 6.23 ERA over his last four (15 ER in 21.2 IP)."
+          "read": "Rough stretch \u2014 6.23 ERA over his last four (15 ER in 21.2 IP).",
+          "last_4": [
+            {
+              "date_display": "Sep 10",
+              "opp_abbr": "TEX",
+              "is_home": true,
+              "ip": "7.0",
+              "h": 3,
+              "er": 3,
+              "hr": 1,
+              "bb": 2,
+              "so": 11,
+              "pitches": 100,
+              "strikes": 63
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "ATH",
+              "is_home": true,
+              "ip": "4.2",
+              "h": 8,
+              "er": 7,
+              "hr": 4,
+              "bb": 2,
+              "so": 10,
+              "pitches": 99,
+              "strikes": 59
+            },
+            {
+              "date_display": "Aug 30",
+              "opp_abbr": "TOR",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 6,
+              "er": 3,
+              "hr": 1,
+              "bb": 1,
+              "so": 4,
+              "pitches": 87,
+              "strikes": 59
+            },
+            {
+              "date_display": "Aug 24",
+              "opp_abbr": "PHI",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 5,
+              "er": 2,
+              "hr": 1,
+              "bb": 2,
+              "so": 5,
+              "pitches": 102,
+              "strikes": 66
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -566,10 +2029,65 @@
           "stats": {
             "era": 5.12,
             "k_per_9": 6.72,
-            "ip": 84.1
+            "ip": 84.1,
+            "k": 63
           },
           "form_tag": "hot",
-          "read": "Durable \u2014 80+ pitches in 8 of his last 10 starts."
+          "read": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "BOS",
+              "is_home": false,
+              "ip": "6.0",
+              "h": 5,
+              "er": 3,
+              "hr": 2,
+              "bb": 1,
+              "so": 5,
+              "pitches": 103,
+              "strikes": 67
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "PIT",
+              "is_home": false,
+              "ip": "6.0",
+              "h": 4,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 6,
+              "pitches": 89,
+              "strikes": 58
+            },
+            {
+              "date_display": "Aug 29",
+              "opp_abbr": "PHI",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 2,
+              "er": 1,
+              "hr": 0,
+              "bb": 5,
+              "so": 2,
+              "pitches": 88,
+              "strikes": 48
+            },
+            {
+              "date_display": "Aug 22",
+              "opp_abbr": "TEX",
+              "is_home": false,
+              "ip": "7.0",
+              "h": 1,
+              "er": 0,
+              "hr": 0,
+              "bb": 2,
+              "so": 3,
+              "pitches": 88,
+              "strikes": 57
+            }
+          ]
         }
       }
     },
@@ -592,10 +2110,65 @@
           "stats": {
             "era": 4.54,
             "k_per_9": 6.0,
-            "ip": 111.0
+            "ip": 111.0,
+            "k": 74
           },
           "form_tag": "cold",
-          "read": "Rough stretch \u2014 5.71 ERA over his last four (11 ER in 17.1 IP)."
+          "read": "Rough stretch \u2014 5.71 ERA over his last four (11 ER in 17.1 IP).",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "NYM",
+              "is_home": true,
+              "ip": "3.0",
+              "h": 8,
+              "er": 8,
+              "hr": 1,
+              "bb": 1,
+              "so": 0,
+              "pitches": 60,
+              "strikes": 37
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "CHC",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 3,
+              "er": 1,
+              "hr": 0,
+              "bb": 1,
+              "so": 4,
+              "pitches": 75,
+              "strikes": 50
+            },
+            {
+              "date_display": "Aug 30",
+              "opp_abbr": "WSH",
+              "is_home": false,
+              "ip": "4.2",
+              "h": 4,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 2,
+              "pitches": 65,
+              "strikes": 43
+            },
+            {
+              "date_display": "Aug 23",
+              "opp_abbr": "WSH",
+              "is_home": true,
+              "ip": "4.2",
+              "h": 2,
+              "er": 1,
+              "hr": 0,
+              "bb": 0,
+              "so": 2,
+              "pitches": 69,
+              "strikes": 44
+            }
+          ]
         },
         "home": {
           "tbd": false,
@@ -607,10 +2180,65 @@
           "stats": {
             "era": 3.53,
             "k_per_9": 8.61,
-            "ip": 99.1
+            "ip": 99.1,
+            "k": 95
           },
           "form_tag": "cold",
-          "read": "Tough on right-handed bats \u2014 .182 against (148 AB)."
+          "read": "Tough on right-handed bats \u2014 .182 against (148 AB).",
+          "last_4": [
+            {
+              "date_display": "Aug 22",
+              "opp_abbr": "CIN",
+              "is_home": true,
+              "ip": "3.1",
+              "h": 6,
+              "er": 6,
+              "hr": 0,
+              "bb": 3,
+              "so": 3,
+              "pitches": 84,
+              "strikes": 50
+            },
+            {
+              "date_display": "Aug 16",
+              "opp_abbr": "ATL",
+              "is_home": false,
+              "ip": "5.2",
+              "h": 6,
+              "er": 2,
+              "hr": 0,
+              "bb": 1,
+              "so": 5,
+              "pitches": 80,
+              "strikes": 51
+            },
+            {
+              "date_display": "Aug 10",
+              "opp_abbr": "COL",
+              "is_home": true,
+              "ip": "4.1",
+              "h": 3,
+              "er": 0,
+              "hr": 0,
+              "bb": 3,
+              "so": 4,
+              "pitches": 77,
+              "strikes": 47
+            },
+            {
+              "date_display": "Jun 19",
+              "opp_abbr": "MIN",
+              "is_home": true,
+              "ip": "1.0",
+              "h": 2,
+              "er": 0,
+              "hr": 0,
+              "bb": 0,
+              "so": 0,
+              "pitches": 9,
+              "strikes": 6
+            }
+          ]
         }
       }
     }

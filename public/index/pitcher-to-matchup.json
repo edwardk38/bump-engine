@@ -15,7 +15,7 @@
     "game_id": "2026-09-15-ATH-TB",
     "side": "home"
   },
-  "663436": {
+  "669684": {
     "game_id": "2026-09-15-CWS-CLE",
     "side": "away"
   },
@@ -82,6 +82,10 @@
   "663776": {
     "game_id": "2026-09-15-BOS-TEX",
     "side": "away"
+  },
+  "594798": {
+    "game_id": "2026-09-15-BOS-TEX",
+    "side": "home"
   },
   "608379": {
     "game_id": "2026-09-15-KC-HOU",
