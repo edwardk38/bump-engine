@@ -58,8 +58,8 @@
       "value": 228,
       "percentile": 98,
       "league": "AL",
-      "league_rank": 2,
-      "mlb_rank": 3
+      "league_rank": 3,
+      "mlb_rank": 4
     },
     {
       "key": "bb",
@@ -92,10 +92,10 @@
       "key": "fip",
       "label": "FIP",
       "value": 2.57,
-      "percentile": 98,
+      "percentile": 97,
       "league": "AL",
       "league_rank": 2,
-      "mlb_rank": 4
+      "mlb_rank": 5
     }
   ],
   "splits": {

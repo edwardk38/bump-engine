@@ -4,19 +4,15 @@
   "name_full": "Patrick Sandoval",
   "throws": "LHP",
   "team_abbr": "BOS",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": false,
   "read": [
     {
-      "text": "Rough stretch \u2014 6.16 ERA over his last four (13 ER in 19.0 IP).",
+      "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
-      "highlight": false
-    },
-    {
-      "text": "Misses bats \u2014 9.18 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 9.33 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -24,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.41,
-      "percentile": 36,
+      "value": 4.58,
+      "percentile": 32,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.18,
-      "percentile": 70,
+      "value": 9.33,
+      "percentile": 74,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -42,7 +38,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 49.0,
+      "value": 55.0,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -51,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 50,
-      "percentile": 0,
+      "value": 57,
+      "percentile": 1,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -60,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 25,
-      "percentile": 4,
+      "value": 27,
+      "percentile": 6,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.59,
-      "percentile": 4,
+      "value": 4.42,
+      "percentile": 6,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 6,
-      "percentile": 55,
+      "percentile": 72,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.23,
-      "percentile": 42,
+      "value": 3.97,
+      "percentile": 60,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.371,
-      "ab": 62
+      "avg": 0.369,
+      "ab": 65
     },
     "vs_rhb": {
-      "avg": 0.274,
-      "ab": 135
+      "avg": 0.295,
+      "ab": 156
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 8",
+      "opp_abbr": "LAA",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 10,
+      "er": 4,
+      "hr": 0,
+      "bb": 2,
+      "so": 7,
+      "pitches": 99,
+      "strikes": 66
+    },
     {
       "date_display": "Sep 2",
       "opp_abbr": "SEA",
@@ -156,19 +165,6 @@
       "so": 6,
       "pitches": 89,
       "strikes": 58
-    },
-    {
-      "date_display": "Aug 11",
-      "opp_abbr": "TOR",
-      "is_home": false,
-      "ip": "6.0",
-      "h": 8,
-      "er": 2,
-      "hr": 0,
-      "bb": 3,
-      "so": 4,
-      "pitches": 84,
-      "strikes": 50
     }
   ]
 }
