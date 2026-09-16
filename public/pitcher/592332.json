@@ -4,19 +4,23 @@
   "name_full": "Kevin Gausman",
   "throws": "RHP",
   "team_abbr": "CHC",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
+    {
+      "text": "Rough stretch \u2014 5.82 ERA over his last four (14 ER in 21.2 IP).",
+      "highlight": false
+    },
     {
       "text": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 9.23 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 9.26 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
-      "text": "Strikeout run \u2014 5+ K in 6 straight starts.",
+      "text": "Strikeout run \u2014 5+ K in 7 straight starts.",
       "highlight": false
     }
   ],
@@ -24,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.51,
-      "percentile": 34,
+      "value": 4.55,
+      "percentile": 32,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,7 +37,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.23,
+      "value": 9.26,
       "percentile": 72,
       "league": "NL",
       "league_rank": null,
@@ -42,7 +46,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 169.2,
+      "value": 172.0,
       "percentile": 91,
       "league": "NL",
       "league_rank": 7,
@@ -51,7 +55,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 174,
+      "value": 177,
       "percentile": 89,
       "league": "NL",
       "league_rank": 10,
@@ -61,7 +65,7 @@
       "key": "bb",
       "label": "BB",
       "value": 46,
-      "percentile": 75,
+      "percentile": 77,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.44,
-      "percentile": 75,
+      "value": 2.41,
+      "percentile": 77,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -78,8 +82,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 24,
-      "percentile": 39,
+      "value": 25,
+      "percentile": 34,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.71,
-      "percentile": 70,
+      "value": 3.74,
+      "percentile": 68,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.252,
-      "ab": 361
+      "avg": 0.251,
+      "ab": 374
     },
     "vs_rhb": {
-      "avg": 0.268,
-      "ab": 287
+      "avg": 0.267,
+      "ab": 296
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 15",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 5,
+      "er": 2,
+      "hr": 1,
+      "bb": 0,
+      "so": 6,
+      "pitches": 94,
+      "strikes": 71
+    },
     {
       "date_display": "Sep 9",
       "opp_abbr": "MIL",
@@ -156,19 +173,6 @@
       "so": 6,
       "pitches": 94,
       "strikes": 67
-    },
-    {
-      "date_display": "Aug 18",
-      "opp_abbr": "CWS",
-      "is_home": true,
-      "ip": "4.1",
-      "h": 7,
-      "er": 3,
-      "hr": 1,
-      "bb": 2,
-      "so": 5,
-      "pitches": 86,
-      "strikes": 53
     }
   ]
 }

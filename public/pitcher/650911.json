@@ -16,7 +16,7 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 10.01 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 9.99 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
@@ -28,25 +28,25 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.84,
-      "percentile": 89,
+      "value": 2.93,
+      "percentile": 87,
       "league": "NL",
-      "league_rank": 10,
-      "mlb_rank": 17
+      "league_rank": 12,
+      "mlb_rank": 21
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 10.01,
+      "value": 9.99,
       "percentile": 85,
       "league": "NL",
       "league_rank": 14,
-      "mlb_rank": 23
+      "mlb_rank": 24
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 193.1,
+      "value": 193.2,
       "percentile": 99,
       "league": "NL",
       "league_rank": 2,
@@ -73,7 +73,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.05,
+      "value": 2.04,
       "percentile": 92,
       "league": "NL",
       "league_rank": 7,
@@ -100,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.162,
-      "ab": 173
+      "avg": 0.165,
+      "ab": 176
     },
     "vs_rhb": {
-      "avg": 0.284,
-      "ab": 553
+      "avg": 0.286,
+      "ab": 573
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 15",
+      "opp_abbr": "WSH",
+      "is_home": false,
+      "ip": "6.1",
+      "h": 8,
+      "er": 5,
+      "hr": 1,
+      "bb": 2,
+      "so": 5,
+      "pitches": 98,
+      "strikes": 57
+    },
     {
       "date_display": "Sep 9",
       "opp_abbr": "HOU",
@@ -160,19 +173,6 @@
       "so": 7,
       "pitches": 103,
       "strikes": 73
-    },
-    {
-      "date_display": "Aug 17",
-      "opp_abbr": "MIA",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 8,
-      "er": 1,
-      "hr": 0,
-      "bb": 3,
-      "so": 6,
-      "pitches": 90,
-      "strikes": 56
     }
   ]
 }

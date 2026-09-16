@@ -8,7 +8,7 @@
   "qualified": true,
   "read": [
     {
-      "text": "3.92 ERA with 7.39 K/9 over 140.0 innings this season.",
+      "text": "3.96 ERA with 7.34 K/9 over 141.0 innings this season.",
       "highlight": false
     }
   ],
@@ -16,7 +16,7 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.92,
+      "value": 3.96,
       "percentile": 51,
       "league": "AL",
       "league_rank": null,
@@ -25,7 +25,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.39,
+      "value": 7.34,
       "percentile": 30,
       "league": "AL",
       "league_rank": null,
@@ -34,7 +34,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 140.0,
+      "value": 141.0,
       "percentile": 57,
       "league": "AL",
       "league_rank": null,
@@ -53,7 +53,7 @@
       "key": "bb",
       "label": "BB",
       "value": 43,
-      "percentile": 63,
+      "percentile": 64,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.76,
-      "percentile": 63,
+      "value": 2.74,
+      "percentile": 64,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,17 +70,17 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 13,
-      "percentile": 84,
+      "value": 14,
+      "percentile": 80,
       "league": "AL",
-      "league_rank": 11,
-      "mlb_rank": 25
+      "league_rank": 15,
+      "mlb_rank": 31
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.77,
-      "percentile": 67,
+      "value": 3.86,
+      "percentile": 63,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,12 +88,12 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.261,
-      "ab": 295
+      "avg": 0.26,
+      "ab": 312
     },
     "vs_rhb": {
-      "avg": 0.266,
-      "ab": 222
+      "avg": 0.263,
+      "ab": 224
     }
   },
   "last_starts": [

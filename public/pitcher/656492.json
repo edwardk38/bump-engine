@@ -8,7 +8,7 @@
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 7.36 ERA over his last four (15 ER in 18.1 IP).",
+      "text": "Rough stretch \u2014 7.79 ERA over his last four (15 ER in 17.1 IP).",
       "highlight": false
     },
     {
@@ -16,11 +16,7 @@
       "highlight": false
     },
     {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
-      "highlight": false
-    },
-    {
-      "text": "Tough on left-handed bats \u2014 .198 against (167 AB).",
+      "text": "Tough on left-handed bats \u2014 .198 against (172 AB).",
       "highlight": false
     }
   ],
@@ -83,7 +79,7 @@
       "key": "hr",
       "label": "HR",
       "value": 23,
-      "percentile": 43,
+      "percentile": 44,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -101,14 +97,27 @@
   "splits": {
     "vs_lhb": {
       "avg": 0.198,
-      "ab": 167
+      "ab": 172
     },
     "vs_rhb": {
-      "avg": 0.258,
-      "ab": 450
+      "avg": 0.26,
+      "ab": 461
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 15",
+      "opp_abbr": "CWS",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 5,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 83,
+      "strikes": 47
+    },
     {
       "date_display": "Sep 9",
       "opp_abbr": "BAL",
@@ -160,19 +169,6 @@
       "so": 4,
       "pitches": 105,
       "strikes": 71
-    },
-    {
-      "date_display": "Aug 18",
-      "opp_abbr": "SF",
-      "is_home": true,
-      "ip": "6.0",
-      "h": 5,
-      "er": 1,
-      "hr": 1,
-      "bb": 2,
-      "so": 6,
-      "pitches": 101,
-      "strikes": 66
     }
   ]
 }

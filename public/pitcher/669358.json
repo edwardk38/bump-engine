@@ -10,10 +10,6 @@
     {
       "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
       "highlight": false
-    },
-    {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
-      "highlight": false
     }
   ],
   "season_stats": [
@@ -41,8 +37,8 @@
       "value": 173.0,
       "percentile": 92,
       "league": "AL",
-      "league_rank": 6,
-      "mlb_rank": 12
+      "league_rank": 7,
+      "mlb_rank": 13
     },
     {
       "key": "k",
@@ -92,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.276,
-      "ab": 381
+      "avg": 0.281,
+      "ab": 392
     },
     "vs_rhb": {
-      "avg": 0.237,
-      "ab": 262
+      "avg": 0.238,
+      "ab": 269
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 15",
+      "opp_abbr": "NYM",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 7,
+      "er": 3,
+      "hr": 1,
+      "bb": 2,
+      "so": 2,
+      "pitches": 68,
+      "strikes": 43
+    },
     {
       "date_display": "Sep 9",
       "opp_abbr": "CLE",
@@ -152,19 +161,6 @@
       "so": 3,
       "pitches": 96,
       "strikes": 54
-    },
-    {
-      "date_display": "Aug 18",
-      "opp_abbr": "NYY",
-      "is_home": true,
-      "ip": "6.1",
-      "h": 4,
-      "er": 3,
-      "hr": 1,
-      "bb": 2,
-      "so": 10,
-      "pitches": 104,
-      "strikes": 69
     }
   ]
 }

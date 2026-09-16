@@ -1,0 +1,362 @@
+{
+  "game_id": "2026-09-16-MIA-AZ",
+  "date_display": "Wednesday, Sep 16",
+  "start_time_display": "9:40 PM",
+  "venue": "Chase Field",
+  "away_team": "Miami Marlins",
+  "home_team": "Arizona Diamondbacks",
+  "away_abbr": "MIA",
+  "home_abbr": "AZ",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "687473",
+      "name_display": "R. Gusto",
+      "throws": "RHP",
+      "team_abbr": "MIA",
+      "opponent_abbr": "AZ",
+      "qualified": true,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 4.14,
+        "k_per_9": 7.47
+      },
+      "read": [
+        {
+          "text": "4.14 ERA with 7.47 K/9 over 78.1 innings this season.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 4.14,
+          "percentile": 44,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 7.47,
+          "percentile": 32,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 78.1,
+          "percentile": 5,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 65,
+          "percentile": 4,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 25,
+          "percentile": 55,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 2.87,
+          "percentile": 55,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 9,
+          "percentile": 63,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 4.08,
+          "percentile": 51,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.264,
+          "ab": 178
+        },
+        "vs_rhb": {
+          "avg": 0.277,
+          "ab": 137
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 11",
+          "opp_abbr": "LAD",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 5,
+          "er": 2,
+          "hr": 0,
+          "bb": 3,
+          "so": 3,
+          "pitches": 89,
+          "strikes": 60
+        },
+        {
+          "date_display": "Sep 5",
+          "opp_abbr": "CHC",
+          "is_home": true,
+          "ip": "4.2",
+          "h": 10,
+          "er": 5,
+          "hr": 1,
+          "bb": 2,
+          "so": 5,
+          "pitches": 100,
+          "strikes": 67
+        },
+        {
+          "date_display": "Aug 31",
+          "opp_abbr": "WSH",
+          "is_home": false,
+          "ip": "4.1",
+          "h": 4,
+          "er": 1,
+          "hr": 0,
+          "bb": 2,
+          "so": 4,
+          "pitches": 69,
+          "strikes": 49
+        },
+        {
+          "date_display": "Aug 26",
+          "opp_abbr": "BOS",
+          "is_home": true,
+          "ip": "5.2",
+          "h": 4,
+          "er": 0,
+          "hr": 0,
+          "bb": 3,
+          "so": 2,
+          "pitches": 89,
+          "strikes": 59
+        },
+        {
+          "date_display": "Aug 21",
+          "opp_abbr": "WSH",
+          "is_home": true,
+          "ip": "4.0",
+          "h": 5,
+          "er": 0,
+          "hr": 0,
+          "bb": 1,
+          "so": 2,
+          "pitches": 62,
+          "strikes": 48
+        }
+      ]
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "518876",
+      "name_display": "M. Kelly",
+      "throws": "RHP",
+      "team_abbr": "AZ",
+      "opponent_abbr": "MIA",
+      "qualified": true,
+      "form_tag": "hot",
+      "headline_stats": {
+        "era": 4.97,
+        "k_per_9": 6.04
+      },
+      "read": [
+        {
+          "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
+          "highlight": false
+        },
+        {
+          "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+          "highlight": false
+        },
+        {
+          "text": "Rolling \u2014 2.74 ERA over his last 4 (7 ER in 23.0 IP).",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 4.97,
+          "percentile": 23,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 6.04,
+          "percentile": 5,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 152.0,
+          "percentile": 70,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 102,
+          "percentile": 37,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 67,
+          "percentile": 14,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.97,
+          "percentile": 14,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 27,
+          "percentile": 16,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 5.46,
+          "percentile": 6,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.27,
+          "ab": 345
+        },
+        "vs_rhb": {
+          "avg": 0.265,
+          "ab": 234
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 11",
+          "opp_abbr": "TEX",
+          "is_home": true,
+          "ip": "4.1",
+          "h": 2,
+          "er": 1,
+          "hr": 0,
+          "bb": 3,
+          "so": 3,
+          "pitches": 80,
+          "strikes": 48
+        },
+        {
+          "date_display": "Sep 4",
+          "opp_abbr": "HOU",
+          "is_home": false,
+          "ip": "6.0",
+          "h": 7,
+          "er": 3,
+          "hr": 1,
+          "bb": 0,
+          "so": 4,
+          "pitches": 94,
+          "strikes": 64
+        },
+        {
+          "date_display": "Aug 29",
+          "opp_abbr": "SF",
+          "is_home": false,
+          "ip": "7.0",
+          "h": 2,
+          "er": 0,
+          "hr": 0,
+          "bb": 4,
+          "so": 7,
+          "pitches": 100,
+          "strikes": 66
+        },
+        {
+          "date_display": "Aug 24",
+          "opp_abbr": "CHC",
+          "is_home": true,
+          "ip": "5.2",
+          "h": 5,
+          "er": 3,
+          "hr": 0,
+          "bb": 3,
+          "so": 4,
+          "pitches": 99,
+          "strikes": 60
+        },
+        {
+          "date_display": "Aug 18",
+          "opp_abbr": "BOS",
+          "is_home": false,
+          "ip": "4.0",
+          "h": 7,
+          "er": 6,
+          "hr": 1,
+          "bb": 4,
+          "so": 2,
+          "pitches": 86,
+          "strikes": 53
+        }
+      ]
+    }
+  }
+}

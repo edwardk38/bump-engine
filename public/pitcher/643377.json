@@ -4,13 +4,9 @@
   "name_full": "Griffin Jax",
   "throws": "RHP",
   "team_abbr": "TB",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 5.68 ERA over his last three (8 ER in 12.2 IP).",
-      "highlight": false
-    },
     {
       "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
       "highlight": false
@@ -43,7 +39,7 @@
       "key": "ip",
       "label": "IP",
       "value": 104.1,
-      "percentile": 23,
+      "percentile": 22,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 15,
-      "percentile": 37,
+      "percentile": 38,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,7 +84,7 @@
       "key": "fip",
       "label": "FIP",
       "value": 3.86,
-      "percentile": 62,
+      "percentile": 63,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.256,
-      "ab": 227
+      "avg": 0.247,
+      "ab": 235
     },
     "vs_rhb": {
       "avg": 0.227,
-      "ab": 141
+      "ab": 150
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 15",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 7,
+      "pitches": 67,
+      "strikes": 46
+    },
     {
       "date_display": "Sep 9",
       "opp_abbr": "ATL",
@@ -156,19 +165,6 @@
       "so": 10,
       "pitches": 93,
       "strikes": 62
-    },
-    {
-      "date_display": "Jul 22",
-      "opp_abbr": "TOR",
-      "is_home": false,
-      "ip": "6.0",
-      "h": 3,
-      "er": 1,
-      "hr": 0,
-      "bb": 1,
-      "so": 5,
-      "pitches": 83,
-      "strikes": 57
     }
   ]
 }
