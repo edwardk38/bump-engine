@@ -11,6 +11,51 @@ from engine.pitchers import (game_log_rows, gamelog_starts, name_display, pitche
 
 SLATE_LAST_STARTS = 4   # game-log rows per starter on the slate card
 
+# Home ballpark by team abbreviation, used only when the schedule does not name
+# a venue. The schedule wins: ballparks get renamed and teams move (Tampa Bay
+# played 2025 at Steinbrenner Field), and a neutral-site game is not played at
+# the home team's park at all. Aliases cover both spellings the API has used for
+# Arizona and the White Sox.
+BALLPARKS = {
+    "ARI": "Chase Field",
+    "AZ": "Chase Field",
+    "ATL": "Truist Park",
+    "BAL": "Oriole Park at Camden Yards",
+    "BOS": "Fenway Park",
+    "CHC": "Wrigley Field",
+    "CWS": "Rate Field",
+    "CHW": "Rate Field",
+    "CIN": "Great American Ball Park",
+    "CLE": "Progressive Field",
+    "COL": "Coors Field",
+    "DET": "Comerica Park",
+    "HOU": "Daikin Park",
+    "KC": "Kauffman Stadium",
+    "LAA": "Angel Stadium",
+    "LAD": "Dodger Stadium",
+    "MIA": "loanDepot park",
+    "MIL": "American Family Field",
+    "MIN": "Target Field",
+    "NYM": "Citi Field",
+    "NYY": "Yankee Stadium",
+    "ATH": "Sutter Health Park",
+    "PHI": "Citizens Bank Park",
+    "PIT": "PNC Park",
+    "SD": "Petco Park",
+    "SF": "Oracle Park",
+    "SEA": "T-Mobile Park",
+    "STL": "Busch Stadium",
+    "TB": "George M. Steinbrenner Field",
+    "TEX": "Globe Life Field",
+    "TOR": "Rogers Centre",
+    "WSH": "Nationals Park",
+}
+
+
+def venue_for(api_venue, home_abbr) -> str:
+    """The venue the schedule reports, falling back to the home team's park."""
+    return api_venue or BALLPARKS.get((home_abbr or "").upper()) or ""
+
 
 def target_date(argv_date=None) -> str:
     """The date to build, defaulting to today in US/Eastern."""
@@ -131,6 +176,7 @@ def build_slate(date: str) -> dict:
             "home_abbr": g["home_abbr"],
             "start_time_display": time_display(g["start_utc"]),
             "start_time_utc": g["start_utc"],
+            "venue": venue_for(g.get("venue"), g["home_abbr"]),
             "starters": {
                 "away": build_starter(g["away_pitcher"], g["away_abbr"], season, date),
                 "home": build_starter(g["home_pitcher"], g["home_abbr"], season, date),
