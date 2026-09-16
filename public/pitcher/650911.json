@@ -16,7 +16,7 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 10.09 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 10.01 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
@@ -28,25 +28,25 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.79,
-      "percentile": 91,
+      "value": 2.84,
+      "percentile": 89,
       "league": "NL",
-      "league_rank": 9,
-      "mlb_rank": 15
+      "league_rank": 10,
+      "mlb_rank": 17
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 10.09,
-      "percentile": 86,
+      "value": 10.01,
+      "percentile": 85,
       "league": "NL",
-      "league_rank": 13,
-      "mlb_rank": 22
+      "league_rank": 14,
+      "mlb_rank": 23
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 187.1,
+      "value": 193.1,
       "percentile": 99,
       "league": "NL",
       "league_rank": 2,
@@ -55,7 +55,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 210,
+      "value": 215,
       "percentile": 96,
       "league": "NL",
       "league_rank": 3,
@@ -64,38 +64,38 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 42,
+      "value": 44,
       "percentile": 92,
       "league": "NL",
-      "league_rank": 6,
-      "mlb_rank": 12
+      "league_rank": 7,
+      "mlb_rank": 13
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.02,
+      "value": 2.05,
       "percentile": 92,
       "league": "NL",
-      "league_rank": 6,
-      "mlb_rank": 12
+      "league_rank": 7,
+      "mlb_rank": 13
     },
     {
       "key": "hr",
       "label": "HR",
-      "value": 16,
-      "percentile": 89,
+      "value": 17,
+      "percentile": 87,
       "league": "NL",
-      "league_rank": 11,
-      "mlb_rank": 17
+      "league_rank": 12,
+      "mlb_rank": 20
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 2.72,
-      "percentile": 95,
+      "value": 2.79,
+      "percentile": 94,
       "league": "NL",
-      "league_rank": 5,
-      "mlb_rank": 7
+      "league_rank": 6,
+      "mlb_rank": 9
     }
   ],
   "splits": {

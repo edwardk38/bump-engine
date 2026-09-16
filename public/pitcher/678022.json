@@ -16,7 +16,7 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 10.36 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 10.39 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -24,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 6.53,
-      "percentile": 1,
+      "value": 6.14,
+      "percentile": 2,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,7 +33,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 10.36,
+      "value": 10.39,
       "percentile": 89,
       "league": "AL",
       "league_rank": null,
@@ -42,8 +42,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 103.1,
-      "percentile": 23,
+      "value": 110.0,
+      "percentile": 28,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -51,8 +51,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 119,
-      "percentile": 51,
+      "value": 127,
+      "percentile": 59,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -60,8 +60,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 47,
-      "percentile": 12,
+      "value": 48,
+      "percentile": 18,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +69,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.09,
-      "percentile": 12,
+      "value": 3.93,
+      "percentile": 18,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +79,7 @@
       "key": "hr",
       "label": "HR",
       "value": 20,
-      "percentile": 10,
+      "percentile": 14,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,8 +87,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.96,
-      "percentile": 14,
+      "value": 4.73,
+      "percentile": 21,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

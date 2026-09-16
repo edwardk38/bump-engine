@@ -15,17 +15,17 @@
             "name_display": "J. Misiorowski",
             "throws": "RHP",
             "team_abbr": "MIL",
-            "value": 236,
+            "value": 243,
             "bar_pct": 100
           },
           {
-            "rank": 1,
+            "rank": 2,
             "pitcher_id": "656302",
             "name_display": "D. Cease",
             "throws": "RHP",
             "team_abbr": "TOR",
             "value": 236,
-            "bar_pct": 100
+            "bar_pct": 97
           },
           {
             "rank": 3,
@@ -34,7 +34,7 @@
             "throws": "RHP",
             "team_abbr": "CLE",
             "value": 235,
-            "bar_pct": 100
+            "bar_pct": 97
           },
           {
             "rank": 4,
@@ -43,7 +43,7 @@
             "throws": "RHP",
             "team_abbr": "NYY",
             "value": 228,
-            "bar_pct": 97
+            "bar_pct": 94
           },
           {
             "rank": 5,
@@ -52,7 +52,7 @@
             "throws": "LHP",
             "team_abbr": "PHI",
             "value": 221,
-            "bar_pct": 94
+            "bar_pct": 91
           },
           {
             "rank": 6,
@@ -60,8 +60,8 @@
             "name_display": "C. S\u00e1nchez",
             "throws": "LHP",
             "team_abbr": "PHI",
-            "value": 210,
-            "bar_pct": 89
+            "value": 215,
+            "bar_pct": 88
           },
           {
             "rank": 7,
@@ -70,7 +70,7 @@
             "throws": "LHP",
             "team_abbr": "LAA",
             "value": 199,
-            "bar_pct": 84
+            "bar_pct": 82
           },
           {
             "rank": 8,
@@ -79,7 +79,7 @@
             "throws": "RHP",
             "team_abbr": "WSH",
             "value": 194,
-            "bar_pct": 82
+            "bar_pct": 80
           },
           {
             "rank": 9,
@@ -88,7 +88,7 @@
             "throws": "LHP",
             "team_abbr": "ATL",
             "value": 190,
-            "bar_pct": 81
+            "bar_pct": 78
           },
           {
             "rank": 9,
@@ -97,25 +97,25 @@
             "throws": "RHP",
             "team_abbr": "MIN",
             "value": 190,
-            "bar_pct": 81
+            "bar_pct": 78
           },
           {
             "rank": 11,
+            "pitcher_id": "594798",
+            "name_display": "J. deGrom",
+            "throws": "RHP",
+            "team_abbr": "TEX",
+            "value": 188,
+            "bar_pct": 77
+          },
+          {
+            "rank": 12,
             "pitcher_id": "669302",
             "name_display": "L. Gilbert",
             "throws": "RHP",
             "team_abbr": "SEA",
             "value": 187,
-            "bar_pct": 79
-          },
-          {
-            "rank": 12,
-            "pitcher_id": "594798",
-            "name_display": "J. deGrom",
-            "throws": "RHP",
-            "team_abbr": "TEX",
-            "value": 186,
-            "bar_pct": 79
+            "bar_pct": 77
           },
           {
             "rank": 13,
@@ -124,7 +124,7 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 185,
-            "bar_pct": 78
+            "bar_pct": 76
           },
           {
             "rank": 14,
@@ -133,7 +133,7 @@
             "throws": "RHP",
             "team_abbr": "NYM",
             "value": 184,
-            "bar_pct": 78
+            "bar_pct": 76
           },
           {
             "rank": 15,
@@ -142,7 +142,7 @@
             "throws": "RHP",
             "team_abbr": "CIN",
             "value": 181,
-            "bar_pct": 77
+            "bar_pct": 74
           },
           {
             "rank": 16,
@@ -151,70 +151,70 @@
             "throws": "LHP",
             "team_abbr": "CLE",
             "value": 178,
-            "bar_pct": 75
+            "bar_pct": 73
           },
           {
-            "rank": 17,
+            "rank": 16,
+            "pitcher_id": "808967",
+            "name_display": "Y. Yamamoto",
+            "throws": "RHP",
+            "team_abbr": "LAD",
+            "value": 178,
+            "bar_pct": 73
+          },
+          {
+            "rank": 18,
+            "pitcher_id": "592332",
+            "name_display": "K. Gausman",
+            "throws": "RHP",
+            "team_abbr": "CHC",
+            "value": 174,
+            "bar_pct": 72
+          },
+          {
+            "rank": 19,
             "pitcher_id": "669373",
             "name_display": "T. Skubal",
             "throws": "LHP",
             "team_abbr": "LAD",
             "value": 173,
-            "bar_pct": 73
+            "bar_pct": 71
           },
           {
-            "rank": 17,
+            "rank": 19,
             "pitcher_id": "680732",
             "name_display": "S. Burke",
             "throws": "RHP",
             "team_abbr": "CWS",
             "value": 173,
-            "bar_pct": 73
+            "bar_pct": 71
           },
           {
-            "rank": 17,
+            "rank": 19,
             "pitcher_id": "677952",
             "name_display": "B. Ashcraft",
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 173,
-            "bar_pct": 73
+            "bar_pct": 71
           },
           {
-            "rank": 20,
+            "rank": 22,
             "pitcher_id": "554430",
             "name_display": "Z. Wheeler",
             "throws": "RHP",
             "team_abbr": "PHI",
             "value": 172,
-            "bar_pct": 73
+            "bar_pct": 71
           },
           {
-            "rank": 20,
+            "rank": 22,
             "pitcher_id": "669022",
             "name_display": "M. Gore",
             "throws": "LHP",
             "team_abbr": "TEX",
             "value": 172,
-            "bar_pct": 73
-          },
-          {
-            "rank": 22,
-            "pitcher_id": "808967",
-            "name_display": "Y. Yamamoto",
-            "throws": "RHP",
-            "team_abbr": "LAD",
-            "value": 171,
-            "bar_pct": 72
-          },
-          {
-            "rank": 22,
-            "pitcher_id": "592332",
-            "name_display": "K. Gausman",
-            "throws": "RHP",
-            "team_abbr": "CHC",
-            "value": 171,
-            "bar_pct": 72
+            "bar_pct": 71
           },
           {
             "rank": 24,
@@ -223,7 +223,7 @@
             "throws": "LHP",
             "team_abbr": "BOS",
             "value": 166,
-            "bar_pct": 70
+            "bar_pct": 68
           },
           {
             "rank": 25,
@@ -232,7 +232,7 @@
             "throws": "RHP",
             "team_abbr": "PHI",
             "value": 165,
-            "bar_pct": 70
+            "bar_pct": 68
           },
           {
             "rank": 26,
@@ -241,7 +241,7 @@
             "throws": "RHP",
             "team_abbr": "SEA",
             "value": 163,
-            "bar_pct": 69
+            "bar_pct": 67
           },
           {
             "rank": 27,
@@ -250,7 +250,7 @@
             "throws": "LHP",
             "team_abbr": "CLE",
             "value": 162,
-            "bar_pct": 69
+            "bar_pct": 67
           },
           {
             "rank": 28,
@@ -259,7 +259,7 @@
             "throws": "RHP",
             "team_abbr": "TB",
             "value": 160,
-            "bar_pct": 68
+            "bar_pct": 66
           },
           {
             "rank": 29,
@@ -268,7 +268,7 @@
             "throws": "RHP",
             "team_abbr": "TOR",
             "value": 159,
-            "bar_pct": 67
+            "bar_pct": 65
           },
           {
             "rank": 30,
@@ -277,7 +277,7 @@
             "throws": "LHP",
             "team_abbr": "CHC",
             "value": 156,
-            "bar_pct": 66
+            "bar_pct": 64
           },
           {
             "rank": 31,
@@ -286,7 +286,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 155,
-            "bar_pct": 66
+            "bar_pct": 64
           },
           {
             "rank": 32,
@@ -294,80 +294,80 @@
             "name_display": "S. Baz",
             "throws": "RHP",
             "team_abbr": "BAL",
-            "value": 150,
-            "bar_pct": 64
+            "value": 152,
+            "bar_pct": 63
           },
           {
             "rank": 33,
+            "pitcher_id": "656492",
+            "name_display": "F. Griffin",
+            "throws": "LHP",
+            "team_abbr": "CLE",
+            "value": 151,
+            "bar_pct": 62
+          },
+          {
+            "rank": 34,
             "pitcher_id": "702070",
             "name_display": "N. Cameron",
             "throws": "LHP",
             "team_abbr": "KC",
             "value": 149,
-            "bar_pct": 63
+            "bar_pct": 61
           },
           {
-            "rank": 33,
+            "rank": 34,
             "pitcher_id": "645261",
             "name_display": "S. Alcantara",
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 149,
-            "bar_pct": 63
+            "bar_pct": 61
           },
           {
-            "rank": 35,
+            "rank": 36,
             "pitcher_id": "650633",
             "name_display": "M. King",
             "throws": "RHP",
             "team_abbr": "SD",
             "value": 148,
-            "bar_pct": 63
+            "bar_pct": 61
           },
           {
-            "rank": 36,
+            "rank": 37,
             "pitcher_id": "608379",
             "name_display": "M. Wacha",
             "throws": "RHP",
             "team_abbr": "KC",
             "value": 147,
-            "bar_pct": 62
+            "bar_pct": 60
           },
           {
-            "rank": 36,
+            "rank": 37,
             "pitcher_id": "701542",
             "name_display": "W. Warren",
             "throws": "RHP",
             "team_abbr": "NYY",
             "value": 147,
-            "bar_pct": 62
+            "bar_pct": 60
           },
           {
-            "rank": 38,
-            "pitcher_id": "656492",
-            "name_display": "F. Griffin",
-            "throws": "LHP",
-            "team_abbr": "CLE",
-            "value": 146,
-            "bar_pct": 62
-          },
-          {
-            "rank": 38,
+            "rank": 39,
             "pitcher_id": "657746",
             "name_display": "J. Ryan",
             "throws": "RHP",
             "team_abbr": "MIN",
             "value": 146,
-            "bar_pct": 62
+            "bar_pct": 60
           },
           {
-            "rank": 38,
+            "rank": 39,
             "pitcher_id": "642547",
             "name_display": "F. Peralta",
             "throws": "RHP",
             "team_abbr": "TB",
             "value": 146,
-            "bar_pct": 62
+            "bar_pct": 60
           }
         ],
         "al": [
@@ -418,20 +418,20 @@
           },
           {
             "rank": 6,
+            "pitcher_id": "594798",
+            "name_display": "J. deGrom",
+            "throws": "RHP",
+            "team_abbr": "TEX",
+            "value": 188,
+            "bar_pct": 80
+          },
+          {
+            "rank": 7,
             "pitcher_id": "669302",
             "name_display": "L. Gilbert",
             "throws": "RHP",
             "team_abbr": "SEA",
             "value": 187,
-            "bar_pct": 79
-          },
-          {
-            "rank": 7,
-            "pitcher_id": "594798",
-            "name_display": "J. deGrom",
-            "throws": "RHP",
-            "team_abbr": "TEX",
-            "value": 186,
             "bar_pct": 79
           },
           {
@@ -512,11 +512,20 @@
             "name_display": "S. Baz",
             "throws": "RHP",
             "team_abbr": "BAL",
-            "value": 150,
+            "value": 152,
             "bar_pct": 64
           },
           {
             "rank": 17,
+            "pitcher_id": "656492",
+            "name_display": "F. Griffin",
+            "throws": "LHP",
+            "team_abbr": "CLE",
+            "value": 151,
+            "bar_pct": 64
+          },
+          {
+            "rank": 18,
             "pitcher_id": "702070",
             "name_display": "N. Cameron",
             "throws": "LHP",
@@ -525,7 +534,7 @@
             "bar_pct": 63
           },
           {
-            "rank": 18,
+            "rank": 19,
             "pitcher_id": "608379",
             "name_display": "M. Wacha",
             "throws": "RHP",
@@ -534,7 +543,7 @@
             "bar_pct": 62
           },
           {
-            "rank": 18,
+            "rank": 19,
             "pitcher_id": "701542",
             "name_display": "W. Warren",
             "throws": "RHP",
@@ -543,16 +552,7 @@
             "bar_pct": 62
           },
           {
-            "rank": 20,
-            "pitcher_id": "656492",
-            "name_display": "F. Griffin",
-            "throws": "LHP",
-            "team_abbr": "CLE",
-            "value": 146,
-            "bar_pct": 62
-          },
-          {
-            "rank": 20,
+            "rank": 21,
             "pitcher_id": "657746",
             "name_display": "J. Ryan",
             "throws": "RHP",
@@ -561,7 +561,7 @@
             "bar_pct": 62
           },
           {
-            "rank": 20,
+            "rank": 21,
             "pitcher_id": "642547",
             "name_display": "F. Peralta",
             "throws": "RHP",
@@ -739,7 +739,7 @@
             "name_display": "J. Misiorowski",
             "throws": "RHP",
             "team_abbr": "MIL",
-            "value": 236,
+            "value": 243,
             "bar_pct": 100
           },
           {
@@ -749,7 +749,7 @@
             "throws": "LHP",
             "team_abbr": "PHI",
             "value": 221,
-            "bar_pct": 94
+            "bar_pct": 91
           },
           {
             "rank": 3,
@@ -757,8 +757,8 @@
             "name_display": "C. S\u00e1nchez",
             "throws": "LHP",
             "team_abbr": "PHI",
-            "value": 210,
-            "bar_pct": 89
+            "value": 215,
+            "bar_pct": 88
           },
           {
             "rank": 4,
@@ -767,7 +767,7 @@
             "throws": "RHP",
             "team_abbr": "WSH",
             "value": 194,
-            "bar_pct": 82
+            "bar_pct": 80
           },
           {
             "rank": 5,
@@ -776,7 +776,7 @@
             "throws": "LHP",
             "team_abbr": "ATL",
             "value": 190,
-            "bar_pct": 81
+            "bar_pct": 78
           },
           {
             "rank": 6,
@@ -785,7 +785,7 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 185,
-            "bar_pct": 78
+            "bar_pct": 76
           },
           {
             "rank": 7,
@@ -794,7 +794,7 @@
             "throws": "RHP",
             "team_abbr": "NYM",
             "value": 184,
-            "bar_pct": 78
+            "bar_pct": 76
           },
           {
             "rank": 8,
@@ -803,52 +803,52 @@
             "throws": "RHP",
             "team_abbr": "CIN",
             "value": 181,
-            "bar_pct": 77
+            "bar_pct": 74
           },
           {
             "rank": 9,
+            "pitcher_id": "808967",
+            "name_display": "Y. Yamamoto",
+            "throws": "RHP",
+            "team_abbr": "LAD",
+            "value": 178,
+            "bar_pct": 73
+          },
+          {
+            "rank": 10,
+            "pitcher_id": "592332",
+            "name_display": "K. Gausman",
+            "throws": "RHP",
+            "team_abbr": "CHC",
+            "value": 174,
+            "bar_pct": 72
+          },
+          {
+            "rank": 11,
             "pitcher_id": "669373",
             "name_display": "T. Skubal",
             "throws": "LHP",
             "team_abbr": "LAD",
             "value": 173,
-            "bar_pct": 73
+            "bar_pct": 71
           },
           {
-            "rank": 9,
+            "rank": 11,
             "pitcher_id": "677952",
             "name_display": "B. Ashcraft",
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 173,
-            "bar_pct": 73
+            "bar_pct": 71
           },
           {
-            "rank": 11,
+            "rank": 13,
             "pitcher_id": "554430",
             "name_display": "Z. Wheeler",
             "throws": "RHP",
             "team_abbr": "PHI",
             "value": 172,
-            "bar_pct": 73
-          },
-          {
-            "rank": 12,
-            "pitcher_id": "808967",
-            "name_display": "Y. Yamamoto",
-            "throws": "RHP",
-            "team_abbr": "LAD",
-            "value": 171,
-            "bar_pct": 72
-          },
-          {
-            "rank": 12,
-            "pitcher_id": "592332",
-            "name_display": "K. Gausman",
-            "throws": "RHP",
-            "team_abbr": "CHC",
-            "value": 171,
-            "bar_pct": 72
+            "bar_pct": 71
           },
           {
             "rank": 14,
@@ -857,7 +857,7 @@
             "throws": "RHP",
             "team_abbr": "PHI",
             "value": 165,
-            "bar_pct": 70
+            "bar_pct": 68
           },
           {
             "rank": 15,
@@ -866,7 +866,7 @@
             "throws": "LHP",
             "team_abbr": "CHC",
             "value": 156,
-            "bar_pct": 66
+            "bar_pct": 64
           },
           {
             "rank": 16,
@@ -875,7 +875,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 155,
-            "bar_pct": 66
+            "bar_pct": 64
           },
           {
             "rank": 17,
@@ -884,7 +884,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 149,
-            "bar_pct": 63
+            "bar_pct": 61
           },
           {
             "rank": 18,
@@ -893,7 +893,7 @@
             "throws": "RHP",
             "team_abbr": "SD",
             "value": 148,
-            "bar_pct": 63
+            "bar_pct": 61
           },
           {
             "rank": 19,
@@ -902,7 +902,7 @@
             "throws": "LHP",
             "team_abbr": "STL",
             "value": 146,
-            "bar_pct": 62
+            "bar_pct": 60
           },
           {
             "rank": 20,
@@ -911,7 +911,7 @@
             "throws": "RHP",
             "team_abbr": "SF",
             "value": 143,
-            "bar_pct": 61
+            "bar_pct": 59
           },
           {
             "rank": 21,
@@ -920,7 +920,7 @@
             "throws": "LHP",
             "team_abbr": "AZ",
             "value": 135,
-            "bar_pct": 57
+            "bar_pct": 56
           },
           {
             "rank": 22,
@@ -929,7 +929,7 @@
             "throws": "LHP",
             "team_abbr": "MIL",
             "value": 134,
-            "bar_pct": 57
+            "bar_pct": 55
           },
           {
             "rank": 22,
@@ -938,7 +938,7 @@
             "throws": "RHP",
             "team_abbr": "SF",
             "value": 134,
-            "bar_pct": 57
+            "bar_pct": 55
           },
           {
             "rank": 24,
@@ -947,7 +947,7 @@
             "throws": "RHP",
             "team_abbr": "MIL",
             "value": 133,
-            "bar_pct": 56
+            "bar_pct": 55
           },
           {
             "rank": 25,
@@ -956,7 +956,7 @@
             "throws": "LHP",
             "team_abbr": "SD",
             "value": 132,
-            "bar_pct": 56
+            "bar_pct": 54
           },
           {
             "rank": 25,
@@ -965,43 +965,43 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 132,
-            "bar_pct": 56
+            "bar_pct": 54
           },
           {
-            "rank": 27,
+            "rank": 25,
+            "pitcher_id": "640455",
+            "name_display": "S. Manaea",
+            "throws": "LHP",
+            "team_abbr": "NYM",
+            "value": 132,
+            "bar_pct": 54
+          },
+          {
+            "rank": 28,
             "pitcher_id": "681517",
             "name_display": "K. Leahy",
             "throws": "RHP",
             "team_abbr": "STL",
             "value": 128,
-            "bar_pct": 54
+            "bar_pct": 53
           },
           {
-            "rank": 28,
+            "rank": 29,
             "pitcher_id": "681035",
             "name_display": "C. Scott",
             "throws": "RHP",
             "team_abbr": "NYM",
             "value": 127,
-            "bar_pct": 54
+            "bar_pct": 52
           },
           {
-            "rank": 28,
+            "rank": 29,
             "pitcher_id": "641816",
             "name_display": "T. Mahle",
             "throws": "RHP",
             "team_abbr": "ATL",
             "value": 127,
-            "bar_pct": 54
-          },
-          {
-            "rank": 30,
-            "pitcher_id": "640455",
-            "name_display": "S. Manaea",
-            "throws": "LHP",
-            "team_abbr": "NYM",
-            "value": 126,
-            "bar_pct": 53
+            "bar_pct": 52
           },
           {
             "rank": 31,
@@ -1010,7 +1010,7 @@
             "throws": "RHP",
             "team_abbr": "CIN",
             "value": 125,
-            "bar_pct": 53
+            "bar_pct": 51
           },
           {
             "rank": 32,
@@ -1019,7 +1019,7 @@
             "throws": "LHP",
             "team_abbr": "CHC",
             "value": 124,
-            "bar_pct": 53
+            "bar_pct": 51
           },
           {
             "rank": 33,
@@ -1028,7 +1028,7 @@
             "throws": "RHP",
             "team_abbr": "LAD",
             "value": 123,
-            "bar_pct": 52
+            "bar_pct": 51
           },
           {
             "rank": 34,
@@ -1037,7 +1037,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 121,
-            "bar_pct": 51
+            "bar_pct": 50
           },
           {
             "rank": 34,
@@ -1046,7 +1046,7 @@
             "throws": "RHP",
             "team_abbr": "ATL",
             "value": 121,
-            "bar_pct": 51
+            "bar_pct": 50
           },
           {
             "rank": 34,
@@ -1055,7 +1055,7 @@
             "throws": "RHP",
             "team_abbr": "SD",
             "value": 121,
-            "bar_pct": 51
+            "bar_pct": 50
           },
           {
             "rank": 37,
@@ -1064,7 +1064,7 @@
             "throws": "LHP",
             "team_abbr": "CIN",
             "value": 120,
-            "bar_pct": 51
+            "bar_pct": 49
           },
           {
             "rank": 38,
@@ -1073,7 +1073,7 @@
             "throws": "LHP",
             "team_abbr": "MIL",
             "value": 119,
-            "bar_pct": 50
+            "bar_pct": 49
           },
           {
             "rank": 39,
@@ -1082,7 +1082,7 @@
             "throws": "RHP",
             "team_abbr": "LAD",
             "value": 117,
-            "bar_pct": 50
+            "bar_pct": 48
           },
           {
             "rank": 40,
@@ -1091,7 +1091,7 @@
             "throws": "RHP",
             "team_abbr": "STL",
             "value": 112,
-            "bar_pct": 47
+            "bar_pct": 46
           }
         ]
       }
@@ -1109,7 +1109,7 @@
             "name_display": "J. Misiorowski",
             "throws": "RHP",
             "team_abbr": "MIL",
-            "value": 0.156,
+            "value": 0.16,
             "bar_pct": 100
           },
           {
@@ -1119,7 +1119,7 @@
             "throws": "RHP",
             "team_abbr": "MIL",
             "value": 0.174,
-            "bar_pct": 90
+            "bar_pct": 92
           },
           {
             "rank": 3,
@@ -1128,7 +1128,7 @@
             "throws": "LHP",
             "team_abbr": "NYY",
             "value": 0.177,
-            "bar_pct": 88
+            "bar_pct": 90
           },
           {
             "rank": 4,
@@ -1137,7 +1137,7 @@
             "throws": "RHP",
             "team_abbr": "TOR",
             "value": 0.178,
-            "bar_pct": 88
+            "bar_pct": 90
           },
           {
             "rank": 5,
@@ -1146,16 +1146,7 @@
             "throws": "RHP",
             "team_abbr": "LAD",
             "value": 0.18,
-            "bar_pct": 87
-          },
-          {
-            "rank": 6,
-            "pitcher_id": "693645",
-            "name_display": "C. Schlittler",
-            "throws": "RHP",
-            "team_abbr": "NYY",
-            "value": 0.185,
-            "bar_pct": 84
+            "bar_pct": 89
           },
           {
             "rank": 6,
@@ -1163,17 +1154,26 @@
             "name_display": "Y. Yamamoto",
             "throws": "RHP",
             "team_abbr": "LAD",
-            "value": 0.185,
-            "bar_pct": 84
+            "value": 0.181,
+            "bar_pct": 88
           },
           {
-            "rank": 6,
+            "rank": 7,
+            "pitcher_id": "693645",
+            "name_display": "C. Schlittler",
+            "throws": "RHP",
+            "team_abbr": "NYY",
+            "value": 0.185,
+            "bar_pct": 86
+          },
+          {
+            "rank": 7,
             "pitcher_id": "702056",
             "name_display": "T. Yesavage",
             "throws": "RHP",
             "team_abbr": "TOR",
             "value": 0.185,
-            "bar_pct": 84
+            "bar_pct": 86
           },
           {
             "rank": 9,
@@ -1181,7 +1181,7 @@
             "name_display": "M. Fried",
             "throws": "LHP",
             "team_abbr": "NYY",
-            "value": 0.195,
+            "value": 0.199,
             "bar_pct": 80
           },
           {
@@ -1191,7 +1191,7 @@
             "throws": "RHP",
             "team_abbr": "TB",
             "value": 0.204,
-            "bar_pct": 76
+            "bar_pct": 78
           },
           {
             "rank": 11,
@@ -1200,7 +1200,7 @@
             "throws": "RHP",
             "team_abbr": "LAA",
             "value": 0.206,
-            "bar_pct": 76
+            "bar_pct": 78
           },
           {
             "rank": 12,
@@ -1209,7 +1209,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 0.207,
-            "bar_pct": 75
+            "bar_pct": 77
           },
           {
             "rank": 13,
@@ -1218,7 +1218,7 @@
             "throws": "LHP",
             "team_abbr": "CLE",
             "value": 0.208,
-            "bar_pct": 75
+            "bar_pct": 77
           },
           {
             "rank": 13,
@@ -1227,7 +1227,7 @@
             "throws": "RHP",
             "team_abbr": "PHI",
             "value": 0.208,
-            "bar_pct": 75
+            "bar_pct": 77
           },
           {
             "rank": 15,
@@ -1236,7 +1236,7 @@
             "throws": "RHP",
             "team_abbr": "CHC",
             "value": 0.211,
-            "bar_pct": 74
+            "bar_pct": 76
           },
           {
             "rank": 15,
@@ -1245,7 +1245,7 @@
             "throws": "LHP",
             "team_abbr": "TB",
             "value": 0.211,
-            "bar_pct": 74
+            "bar_pct": 76
           },
           {
             "rank": 17,
@@ -1254,7 +1254,7 @@
             "throws": "RHP",
             "team_abbr": "CLE",
             "value": 0.213,
-            "bar_pct": 73
+            "bar_pct": 75
           },
           {
             "rank": 18,
@@ -1263,7 +1263,7 @@
             "throws": "LHP",
             "team_abbr": "LAD",
             "value": 0.214,
-            "bar_pct": 73
+            "bar_pct": 75
           },
           {
             "rank": 18,
@@ -1272,7 +1272,7 @@
             "throws": "RHP",
             "team_abbr": "NYM",
             "value": 0.214,
-            "bar_pct": 73
+            "bar_pct": 75
           },
           {
             "rank": 18,
@@ -1281,7 +1281,7 @@
             "throws": "LHP",
             "team_abbr": "LAA",
             "value": 0.214,
-            "bar_pct": 73
+            "bar_pct": 75
           },
           {
             "rank": 18,
@@ -1290,7 +1290,7 @@
             "throws": "RHP",
             "team_abbr": "DET",
             "value": 0.214,
-            "bar_pct": 73
+            "bar_pct": 75
           },
           {
             "rank": 22,
@@ -1299,7 +1299,7 @@
             "throws": "RHP",
             "team_abbr": "CIN",
             "value": 0.215,
-            "bar_pct": 73
+            "bar_pct": 74
           },
           {
             "rank": 22,
@@ -1308,7 +1308,7 @@
             "throws": "LHP",
             "team_abbr": "PHI",
             "value": 0.215,
-            "bar_pct": 73
+            "bar_pct": 74
           },
           {
             "rank": 22,
@@ -1317,7 +1317,7 @@
             "throws": "RHP",
             "team_abbr": "SD",
             "value": 0.215,
-            "bar_pct": 73
+            "bar_pct": 74
           },
           {
             "rank": 25,
@@ -1326,7 +1326,7 @@
             "throws": "LHP",
             "team_abbr": "ATL",
             "value": 0.216,
-            "bar_pct": 72
+            "bar_pct": 74
           },
           {
             "rank": 25,
@@ -1335,7 +1335,7 @@
             "throws": "RHP",
             "team_abbr": "DET",
             "value": 0.216,
-            "bar_pct": 72
+            "bar_pct": 74
           },
           {
             "rank": 25,
@@ -1344,7 +1344,7 @@
             "throws": "RHP",
             "team_abbr": "HOU",
             "value": 0.216,
-            "bar_pct": 72
+            "bar_pct": 74
           },
           {
             "rank": 28,
@@ -1353,7 +1353,25 @@
             "throws": "LHP",
             "team_abbr": "BOS",
             "value": 0.217,
-            "bar_pct": 72
+            "bar_pct": 74
+          },
+          {
+            "rank": 28,
+            "pitcher_id": "686613",
+            "name_display": "H. Brown",
+            "throws": "RHP",
+            "team_abbr": "HOU",
+            "value": 0.217,
+            "bar_pct": 74
+          },
+          {
+            "rank": 28,
+            "pitcher_id": "594798",
+            "name_display": "J. deGrom",
+            "throws": "RHP",
+            "team_abbr": "TEX",
+            "value": 0.217,
+            "bar_pct": 74
           },
           {
             "rank": 28,
@@ -1362,7 +1380,7 @@
             "throws": "RHP",
             "team_abbr": "MIN",
             "value": 0.217,
-            "bar_pct": 72
+            "bar_pct": 74
           },
           {
             "rank": 28,
@@ -1371,79 +1389,61 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 0.217,
-            "bar_pct": 72
+            "bar_pct": 74
           },
           {
-            "rank": 31,
+            "rank": 33,
             "pitcher_id": "669302",
             "name_display": "L. Gilbert",
             "throws": "RHP",
             "team_abbr": "SEA",
             "value": 0.218,
-            "bar_pct": 72
+            "bar_pct": 73
           },
           {
-            "rank": 31,
+            "rank": 33,
             "pitcher_id": "691587",
             "name_display": "E. P\u00e9rez",
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 0.218,
-            "bar_pct": 72
+            "bar_pct": 73
           },
           {
-            "rank": 33,
+            "rank": 35,
             "pitcher_id": "681035",
             "name_display": "C. Scott",
             "throws": "RHP",
             "team_abbr": "NYM",
             "value": 0.219,
-            "bar_pct": 71
+            "bar_pct": 73
           },
           {
-            "rank": 33,
-            "pitcher_id": "594798",
-            "name_display": "J. deGrom",
-            "throws": "RHP",
-            "team_abbr": "TEX",
-            "value": 0.219,
-            "bar_pct": 71
-          },
-          {
-            "rank": 35,
+            "rank": 36,
             "pitcher_id": "694738",
             "name_display": "L. Roupp",
             "throws": "RHP",
             "team_abbr": "SF",
             "value": 0.22,
-            "bar_pct": 71
+            "bar_pct": 73
           },
           {
-            "rank": 36,
-            "pitcher_id": "686613",
-            "name_display": "H. Brown",
-            "throws": "RHP",
-            "team_abbr": "HOU",
-            "value": 0.221,
-            "bar_pct": 71
-          },
-          {
-            "rank": 36,
+            "rank": 37,
             "pitcher_id": "693433",
             "name_display": "B. Woo",
             "throws": "RHP",
             "team_abbr": "SEA",
             "value": 0.221,
-            "bar_pct": 71
+            "bar_pct": 72
           },
           {
-            "rank": 36,
+            "rank": 37,
             "pitcher_id": "681293",
             "name_display": "S. Arrighetti",
             "throws": "RHP",
             "team_abbr": "TOR",
             "value": 0.221,
-            "bar_pct": 71
+            "bar_pct": 72
           },
           {
             "rank": 39,
@@ -1452,7 +1452,7 @@
             "throws": "LHP",
             "team_abbr": "WSH",
             "value": 0.222,
-            "bar_pct": 70
+            "bar_pct": 72
           },
           {
             "rank": 40,
@@ -1461,7 +1461,7 @@
             "throws": "LHP",
             "team_abbr": "ATL",
             "value": 0.224,
-            "bar_pct": 70
+            "bar_pct": 71
           }
         ],
         "al": [
@@ -1507,8 +1507,8 @@
             "name_display": "M. Fried",
             "throws": "LHP",
             "team_abbr": "NYY",
-            "value": 0.195,
-            "bar_pct": 91
+            "value": 0.199,
+            "bar_pct": 89
           },
           {
             "rank": 6,
@@ -1602,6 +1602,24 @@
           },
           {
             "rank": 15,
+            "pitcher_id": "686613",
+            "name_display": "H. Brown",
+            "throws": "RHP",
+            "team_abbr": "HOU",
+            "value": 0.217,
+            "bar_pct": 82
+          },
+          {
+            "rank": 15,
+            "pitcher_id": "594798",
+            "name_display": "J. deGrom",
+            "throws": "RHP",
+            "team_abbr": "TEX",
+            "value": 0.217,
+            "bar_pct": 82
+          },
+          {
+            "rank": 15,
             "pitcher_id": "671737",
             "name_display": "T. Bradley",
             "throws": "RHP",
@@ -1610,7 +1628,7 @@
             "bar_pct": 82
           },
           {
-            "rank": 17,
+            "rank": 19,
             "pitcher_id": "669302",
             "name_display": "L. Gilbert",
             "throws": "RHP",
@@ -1619,25 +1637,7 @@
             "bar_pct": 81
           },
           {
-            "rank": 18,
-            "pitcher_id": "594798",
-            "name_display": "J. deGrom",
-            "throws": "RHP",
-            "team_abbr": "TEX",
-            "value": 0.219,
-            "bar_pct": 81
-          },
-          {
-            "rank": 19,
-            "pitcher_id": "686613",
-            "name_display": "H. Brown",
-            "throws": "RHP",
-            "team_abbr": "HOU",
-            "value": 0.221,
-            "bar_pct": 80
-          },
-          {
-            "rank": 19,
+            "rank": 20,
             "pitcher_id": "693433",
             "name_display": "B. Woo",
             "throws": "RHP",
@@ -1646,7 +1646,7 @@
             "bar_pct": 80
           },
           {
-            "rank": 19,
+            "rank": 20,
             "pitcher_id": "681293",
             "name_display": "S. Arrighetti",
             "throws": "RHP",
@@ -1737,6 +1737,15 @@
           },
           {
             "rank": 31,
+            "pitcher_id": "643377",
+            "name_display": "G. Jax",
+            "throws": "RHP",
+            "team_abbr": "TB",
+            "value": 0.239,
+            "bar_pct": 74
+          },
+          {
+            "rank": 32,
             "pitcher_id": "624133",
             "name_display": "R. Suarez",
             "throws": "LHP",
@@ -1745,7 +1754,7 @@
             "bar_pct": 74
           },
           {
-            "rank": 31,
+            "rank": 32,
             "pitcher_id": "676106",
             "name_display": "E. Hancock",
             "throws": "RHP",
@@ -1754,7 +1763,7 @@
             "bar_pct": 74
           },
           {
-            "rank": 31,
+            "rank": 32,
             "pitcher_id": "687562",
             "name_display": "J. Bennett",
             "throws": "LHP",
@@ -1763,7 +1772,7 @@
             "bar_pct": 74
           },
           {
-            "rank": 31,
+            "rank": 32,
             "pitcher_id": "656427",
             "name_display": "J. Flaherty",
             "throws": "RHP",
@@ -1772,7 +1781,7 @@
             "bar_pct": 74
           },
           {
-            "rank": 35,
+            "rank": 36,
             "pitcher_id": "543243",
             "name_display": "S. Gray",
             "throws": "RHP",
@@ -1781,16 +1790,7 @@
             "bar_pct": 73
           },
           {
-            "rank": 35,
-            "pitcher_id": "656492",
-            "name_display": "F. Griffin",
-            "throws": "LHP",
-            "team_abbr": "CLE",
-            "value": 0.241,
-            "bar_pct": 73
-          },
-          {
-            "rank": 35,
+            "rank": 36,
             "pitcher_id": "543037",
             "name_display": "G. Cole",
             "throws": "RHP",
@@ -1799,7 +1799,7 @@
             "bar_pct": 73
           },
           {
-            "rank": 35,
+            "rank": 36,
             "pitcher_id": "657746",
             "name_display": "J. Ryan",
             "throws": "RHP",
@@ -1808,7 +1808,7 @@
             "bar_pct": 73
           },
           {
-            "rank": 35,
+            "rank": 36,
             "pitcher_id": "696270",
             "name_display": "R. Johnson",
             "throws": "RHP",
@@ -1817,7 +1817,7 @@
             "bar_pct": 73
           },
           {
-            "rank": 35,
+            "rank": 36,
             "pitcher_id": "665152",
             "name_display": "D. Kremer",
             "throws": "RHP",
@@ -1833,7 +1833,7 @@
             "name_display": "J. Misiorowski",
             "throws": "RHP",
             "team_abbr": "MIL",
-            "value": 0.156,
+            "value": 0.16,
             "bar_pct": 100
           },
           {
@@ -1843,7 +1843,7 @@
             "throws": "RHP",
             "team_abbr": "MIL",
             "value": 0.174,
-            "bar_pct": 90
+            "bar_pct": 92
           },
           {
             "rank": 3,
@@ -1852,7 +1852,7 @@
             "throws": "RHP",
             "team_abbr": "LAD",
             "value": 0.18,
-            "bar_pct": 87
+            "bar_pct": 89
           },
           {
             "rank": 4,
@@ -1860,8 +1860,8 @@
             "name_display": "Y. Yamamoto",
             "throws": "RHP",
             "team_abbr": "LAD",
-            "value": 0.185,
-            "bar_pct": 84
+            "value": 0.181,
+            "bar_pct": 88
           },
           {
             "rank": 5,
@@ -1870,7 +1870,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 0.207,
-            "bar_pct": 75
+            "bar_pct": 77
           },
           {
             "rank": 6,
@@ -1879,7 +1879,7 @@
             "throws": "RHP",
             "team_abbr": "PHI",
             "value": 0.208,
-            "bar_pct": 75
+            "bar_pct": 77
           },
           {
             "rank": 7,
@@ -1888,7 +1888,7 @@
             "throws": "RHP",
             "team_abbr": "CHC",
             "value": 0.211,
-            "bar_pct": 74
+            "bar_pct": 76
           },
           {
             "rank": 8,
@@ -1897,7 +1897,7 @@
             "throws": "LHP",
             "team_abbr": "LAD",
             "value": 0.214,
-            "bar_pct": 73
+            "bar_pct": 75
           },
           {
             "rank": 8,
@@ -1906,7 +1906,7 @@
             "throws": "RHP",
             "team_abbr": "NYM",
             "value": 0.214,
-            "bar_pct": 73
+            "bar_pct": 75
           },
           {
             "rank": 10,
@@ -1915,7 +1915,7 @@
             "throws": "RHP",
             "team_abbr": "CIN",
             "value": 0.215,
-            "bar_pct": 73
+            "bar_pct": 74
           },
           {
             "rank": 10,
@@ -1924,7 +1924,7 @@
             "throws": "LHP",
             "team_abbr": "PHI",
             "value": 0.215,
-            "bar_pct": 73
+            "bar_pct": 74
           },
           {
             "rank": 10,
@@ -1933,7 +1933,7 @@
             "throws": "RHP",
             "team_abbr": "SD",
             "value": 0.215,
-            "bar_pct": 73
+            "bar_pct": 74
           },
           {
             "rank": 13,
@@ -1942,7 +1942,7 @@
             "throws": "LHP",
             "team_abbr": "ATL",
             "value": 0.216,
-            "bar_pct": 72
+            "bar_pct": 74
           },
           {
             "rank": 14,
@@ -1951,7 +1951,7 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 0.217,
-            "bar_pct": 72
+            "bar_pct": 74
           },
           {
             "rank": 15,
@@ -1960,7 +1960,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 0.218,
-            "bar_pct": 72
+            "bar_pct": 73
           },
           {
             "rank": 16,
@@ -1969,7 +1969,7 @@
             "throws": "RHP",
             "team_abbr": "NYM",
             "value": 0.219,
-            "bar_pct": 71
+            "bar_pct": 73
           },
           {
             "rank": 17,
@@ -1978,7 +1978,7 @@
             "throws": "RHP",
             "team_abbr": "SF",
             "value": 0.22,
-            "bar_pct": 71
+            "bar_pct": 73
           },
           {
             "rank": 18,
@@ -1987,7 +1987,7 @@
             "throws": "LHP",
             "team_abbr": "WSH",
             "value": 0.222,
-            "bar_pct": 70
+            "bar_pct": 72
           },
           {
             "rank": 19,
@@ -1996,7 +1996,7 @@
             "throws": "LHP",
             "team_abbr": "ATL",
             "value": 0.224,
-            "bar_pct": 70
+            "bar_pct": 71
           },
           {
             "rank": 20,
@@ -2005,7 +2005,7 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 0.226,
-            "bar_pct": 69
+            "bar_pct": 71
           },
           {
             "rank": 21,
@@ -2014,7 +2014,7 @@
             "throws": "LHP",
             "team_abbr": "SD",
             "value": 0.228,
-            "bar_pct": 68
+            "bar_pct": 70
           },
           {
             "rank": 22,
@@ -2023,7 +2023,7 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 0.229,
-            "bar_pct": 68
+            "bar_pct": 70
           },
           {
             "rank": 23,
@@ -2032,7 +2032,7 @@
             "throws": "RHP",
             "team_abbr": "WSH",
             "value": 0.233,
-            "bar_pct": 67
+            "bar_pct": 69
           },
           {
             "rank": 24,
@@ -2041,7 +2041,7 @@
             "throws": "RHP",
             "team_abbr": "ATL",
             "value": 0.235,
-            "bar_pct": 66
+            "bar_pct": 68
           },
           {
             "rank": 24,
@@ -2050,7 +2050,7 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 0.235,
-            "bar_pct": 66
+            "bar_pct": 68
           },
           {
             "rank": 24,
@@ -2059,7 +2059,7 @@
             "throws": "LHP",
             "team_abbr": "CHC",
             "value": 0.235,
-            "bar_pct": 66
+            "bar_pct": 68
           },
           {
             "rank": 27,
@@ -2068,7 +2068,7 @@
             "throws": "LHP",
             "team_abbr": "AZ",
             "value": 0.236,
-            "bar_pct": 66
+            "bar_pct": 68
           },
           {
             "rank": 28,
@@ -2077,7 +2077,7 @@
             "throws": "RHP",
             "team_abbr": "SD",
             "value": 0.237,
-            "bar_pct": 66
+            "bar_pct": 68
           },
           {
             "rank": 29,
@@ -2086,7 +2086,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 0.238,
-            "bar_pct": 66
+            "bar_pct": 67
           },
           {
             "rank": 30,
@@ -2095,7 +2095,7 @@
             "throws": "RHP",
             "team_abbr": "AZ",
             "value": 0.239,
-            "bar_pct": 65
+            "bar_pct": 67
           },
           {
             "rank": 31,
@@ -2104,7 +2104,7 @@
             "throws": "LHP",
             "team_abbr": "LAD",
             "value": 0.24,
-            "bar_pct": 65
+            "bar_pct": 67
           },
           {
             "rank": 31,
@@ -2113,7 +2113,7 @@
             "throws": "RHP",
             "team_abbr": "SF",
             "value": 0.24,
-            "bar_pct": 65
+            "bar_pct": 67
           },
           {
             "rank": 31,
@@ -2122,7 +2122,7 @@
             "throws": "RHP",
             "team_abbr": "LAD",
             "value": 0.24,
-            "bar_pct": 65
+            "bar_pct": 67
           },
           {
             "rank": 34,
@@ -2131,7 +2131,7 @@
             "throws": "LHP",
             "team_abbr": "MIL",
             "value": 0.243,
-            "bar_pct": 64
+            "bar_pct": 66
           },
           {
             "rank": 35,
@@ -2140,7 +2140,7 @@
             "throws": "RHP",
             "team_abbr": "ATL",
             "value": 0.244,
-            "bar_pct": 64
+            "bar_pct": 66
           },
           {
             "rank": 35,
@@ -2149,7 +2149,7 @@
             "throws": "RHP",
             "team_abbr": "LAD",
             "value": 0.244,
-            "bar_pct": 64
+            "bar_pct": 66
           },
           {
             "rank": 37,
@@ -2158,7 +2158,7 @@
             "throws": "RHP",
             "team_abbr": "AZ",
             "value": 0.245,
-            "bar_pct": 64
+            "bar_pct": 65
           },
           {
             "rank": 37,
@@ -2167,7 +2167,7 @@
             "throws": "RHP",
             "team_abbr": "WSH",
             "value": 0.245,
-            "bar_pct": 64
+            "bar_pct": 65
           },
           {
             "rank": 39,
@@ -2176,16 +2176,16 @@
             "throws": "RHP",
             "team_abbr": "MIL",
             "value": 0.246,
-            "bar_pct": 63
+            "bar_pct": 65
           },
           {
             "rank": 40,
-            "pitcher_id": "669467",
-            "name_display": "A. Pallante",
+            "pitcher_id": "645261",
+            "name_display": "S. Alcantara",
             "throws": "RHP",
-            "team_abbr": "STL",
-            "value": 0.247,
-            "bar_pct": 63
+            "team_abbr": "MIA",
+            "value": 0.248,
+            "bar_pct": 65
           }
         ]
       }
@@ -2298,15 +2298,6 @@
           },
           {
             "rank": 12,
-            "pitcher_id": "650911",
-            "name_display": "C. S\u00e1nchez",
-            "throws": "LHP",
-            "team_abbr": "PHI",
-            "value": 2.02,
-            "bar_pct": 64
-          },
-          {
-            "rank": 13,
             "pitcher_id": "607536",
             "name_display": "K. Freeland",
             "throws": "LHP",
@@ -2315,21 +2306,30 @@
             "bar_pct": 64
           },
           {
-            "rank": 14,
-            "pitcher_id": "808967",
-            "name_display": "Y. Yamamoto",
-            "throws": "RHP",
-            "team_abbr": "LAD",
-            "value": 2.04,
-            "bar_pct": 64
+            "rank": 13,
+            "pitcher_id": "650911",
+            "name_display": "C. S\u00e1nchez",
+            "throws": "LHP",
+            "team_abbr": "PHI",
+            "value": 2.05,
+            "bar_pct": 63
           },
           {
-            "rank": 15,
+            "rank": 13,
             "pitcher_id": "684007",
             "name_display": "S. Imanaga",
             "throws": "LHP",
             "team_abbr": "CHC",
             "value": 2.05,
+            "bar_pct": 63
+          },
+          {
+            "rank": 15,
+            "pitcher_id": "808967",
+            "name_display": "Y. Yamamoto",
+            "throws": "RHP",
+            "team_abbr": "LAD",
+            "value": 2.07,
             "bar_pct": 63
           },
           {
@@ -2424,12 +2424,12 @@
           },
           {
             "rank": 26,
-            "pitcher_id": "647336",
-            "name_display": "M. Soroka",
+            "pitcher_id": "594798",
+            "name_display": "J. deGrom",
             "throws": "RHP",
-            "team_abbr": "AZ",
-            "value": 2.27,
-            "bar_pct": 57
+            "team_abbr": "TEX",
+            "value": 2.26,
+            "bar_pct": 58
           },
           {
             "rank": 27,
@@ -2437,16 +2437,16 @@
             "name_display": "J. Misiorowski",
             "throws": "RHP",
             "team_abbr": "MIL",
-            "value": 2.29,
+            "value": 2.27,
             "bar_pct": 57
           },
           {
             "rank": 27,
-            "pitcher_id": "594798",
-            "name_display": "J. deGrom",
+            "pitcher_id": "647336",
+            "name_display": "M. Soroka",
             "throws": "RHP",
-            "team_abbr": "TEX",
-            "value": 2.29,
+            "team_abbr": "AZ",
+            "value": 2.27,
             "bar_pct": 57
           },
           {
@@ -2473,7 +2473,7 @@
             "name_display": "M. Wacha",
             "throws": "RHP",
             "team_abbr": "KC",
-            "value": 2.36,
+            "value": 2.35,
             "bar_pct": 55
           },
           {
@@ -2487,15 +2487,6 @@
           },
           {
             "rank": 32,
-            "pitcher_id": "656492",
-            "name_display": "F. Griffin",
-            "throws": "LHP",
-            "team_abbr": "CLE",
-            "value": 2.38,
-            "bar_pct": 55
-          },
-          {
-            "rank": 32,
             "pitcher_id": "669194",
             "name_display": "R. Nelson",
             "throws": "RHP",
@@ -2504,7 +2495,7 @@
             "bar_pct": 55
           },
           {
-            "rank": 35,
+            "rank": 34,
             "pitcher_id": "801139",
             "name_display": "P. Tolle",
             "throws": "LHP",
@@ -2513,7 +2504,7 @@
             "bar_pct": 54
           },
           {
-            "rank": 36,
+            "rank": 35,
             "pitcher_id": "543243",
             "name_display": "S. Gray",
             "throws": "RHP",
@@ -2522,7 +2513,16 @@
             "bar_pct": 54
           },
           {
-            "rank": 37,
+            "rank": 36,
+            "pitcher_id": "656492",
+            "name_display": "F. Griffin",
+            "throws": "LHP",
+            "team_abbr": "CLE",
+            "value": 2.43,
+            "bar_pct": 53
+          },
+          {
+            "rank": 36,
             "pitcher_id": "676083",
             "name_display": "J. Junk",
             "throws": "RHP",
@@ -2532,6 +2532,15 @@
           },
           {
             "rank": 38,
+            "pitcher_id": "592332",
+            "name_display": "K. Gausman",
+            "throws": "RHP",
+            "team_abbr": "CHC",
+            "value": 2.44,
+            "bar_pct": 53
+          },
+          {
+            "rank": 39,
             "pitcher_id": "800048",
             "name_display": "P. Messick",
             "throws": "LHP",
@@ -2540,20 +2549,11 @@
             "bar_pct": 53
           },
           {
-            "rank": 39,
+            "rank": 40,
             "pitcher_id": "677960",
             "name_display": "R. Weathers",
             "throws": "LHP",
             "team_abbr": "NYY",
-            "value": 2.49,
-            "bar_pct": 52
-          },
-          {
-            "rank": 39,
-            "pitcher_id": "592332",
-            "name_display": "K. Gausman",
-            "throws": "RHP",
-            "team_abbr": "CHC",
             "value": 2.49,
             "bar_pct": 52
           }
@@ -2673,8 +2673,8 @@
             "name_display": "J. deGrom",
             "throws": "RHP",
             "team_abbr": "TEX",
-            "value": 2.29,
-            "bar_pct": 57
+            "value": 2.26,
+            "bar_pct": 58
           },
           {
             "rank": 14,
@@ -2691,7 +2691,7 @@
             "name_display": "M. Wacha",
             "throws": "RHP",
             "team_abbr": "KC",
-            "value": 2.36,
+            "value": 2.35,
             "bar_pct": 55
           },
           {
@@ -2704,16 +2704,7 @@
             "bar_pct": 55
           },
           {
-            "rank": 16,
-            "pitcher_id": "656492",
-            "name_display": "F. Griffin",
-            "throws": "LHP",
-            "team_abbr": "CLE",
-            "value": 2.38,
-            "bar_pct": 55
-          },
-          {
-            "rank": 18,
+            "rank": 17,
             "pitcher_id": "801139",
             "name_display": "P. Tolle",
             "throws": "LHP",
@@ -2722,13 +2713,22 @@
             "bar_pct": 54
           },
           {
-            "rank": 19,
+            "rank": 18,
             "pitcher_id": "543243",
             "name_display": "S. Gray",
             "throws": "RHP",
             "team_abbr": "BOS",
             "value": 2.41,
             "bar_pct": 54
+          },
+          {
+            "rank": 19,
+            "pitcher_id": "656492",
+            "name_display": "F. Griffin",
+            "throws": "LHP",
+            "team_abbr": "CLE",
+            "value": 2.43,
+            "bar_pct": 53
           },
           {
             "rank": 20,
@@ -2750,19 +2750,19 @@
           },
           {
             "rank": 22,
-            "pitcher_id": "641927",
-            "name_display": "B. Ober",
-            "throws": "RHP",
-            "team_abbr": "MIN",
-            "value": 2.6,
-            "bar_pct": 50
-          },
-          {
-            "rank": 23,
             "pitcher_id": "624133",
             "name_display": "R. Suarez",
             "throws": "LHP",
             "team_abbr": "BOS",
+            "value": 2.62,
+            "bar_pct": 50
+          },
+          {
+            "rank": 22,
+            "pitcher_id": "641927",
+            "name_display": "B. Ober",
+            "throws": "RHP",
+            "team_abbr": "MIN",
             "value": 2.62,
             "bar_pct": 50
           },
@@ -2777,6 +2777,24 @@
           },
           {
             "rank": 25,
+            "pitcher_id": "608331",
+            "name_display": "M. Fried",
+            "throws": "LHP",
+            "team_abbr": "NYY",
+            "value": 2.76,
+            "bar_pct": 47
+          },
+          {
+            "rank": 25,
+            "pitcher_id": "663436",
+            "name_display": "D. Martin",
+            "throws": "RHP",
+            "team_abbr": "CWS",
+            "value": 2.76,
+            "bar_pct": 47
+          },
+          {
+            "rank": 27,
             "pitcher_id": "675512",
             "name_display": "T. Melton",
             "throws": "RHP",
@@ -2785,16 +2803,7 @@
             "bar_pct": 47
           },
           {
-            "rank": 26,
-            "pitcher_id": "663436",
-            "name_display": "D. Martin",
-            "throws": "RHP",
-            "team_abbr": "CWS",
-            "value": 2.79,
-            "bar_pct": 47
-          },
-          {
-            "rank": 26,
+            "rank": 28,
             "pitcher_id": "805673",
             "name_display": "Z. Matthews",
             "throws": "RHP",
@@ -2803,7 +2812,7 @@
             "bar_pct": 47
           },
           {
-            "rank": 28,
+            "rank": 29,
             "pitcher_id": "702070",
             "name_display": "N. Cameron",
             "throws": "LHP",
@@ -2812,7 +2821,7 @@
             "bar_pct": 46
           },
           {
-            "rank": 28,
+            "rank": 29,
             "pitcher_id": "571578",
             "name_display": "P. Corbin",
             "throws": "LHP",
@@ -2821,12 +2830,12 @@
             "bar_pct": 46
           },
           {
-            "rank": 30,
-            "pitcher_id": "608331",
-            "name_display": "M. Fried",
-            "throws": "LHP",
-            "team_abbr": "NYY",
-            "value": 2.82,
+            "rank": 31,
+            "pitcher_id": "643377",
+            "name_display": "G. Jax",
+            "throws": "RHP",
+            "team_abbr": "TB",
+            "value": 2.85,
             "bar_pct": 46
           },
           {
@@ -2839,7 +2848,7 @@
             "bar_pct": 46
           },
           {
-            "rank": 32,
+            "rank": 33,
             "pitcher_id": "668909",
             "name_display": "G. Williams",
             "throws": "RHP",
@@ -2848,7 +2857,7 @@
             "bar_pct": 45
           },
           {
-            "rank": 33,
+            "rank": 34,
             "pitcher_id": "607625",
             "name_display": "S. Lugo",
             "throws": "RHP",
@@ -2857,7 +2866,7 @@
             "bar_pct": 45
           },
           {
-            "rank": 34,
+            "rank": 35,
             "pitcher_id": "663556",
             "name_display": "S. McClanahan",
             "throws": "LHP",
@@ -2866,22 +2875,13 @@
             "bar_pct": 44
           },
           {
-            "rank": 34,
+            "rank": 35,
             "pitcher_id": "677944",
             "name_display": "S. Cecconi",
             "throws": "RHP",
             "team_abbr": "CLE",
             "value": 2.97,
             "bar_pct": 44
-          },
-          {
-            "rank": 36,
-            "pitcher_id": "643377",
-            "name_display": "G. Jax",
-            "throws": "RHP",
-            "team_abbr": "TB",
-            "value": 2.99,
-            "bar_pct": 43
           },
           {
             "rank": 37,
@@ -2903,20 +2903,20 @@
           },
           {
             "rank": 39,
-            "pitcher_id": "669358",
-            "name_display": "S. Baz",
-            "throws": "RHP",
-            "team_abbr": "BAL",
-            "value": 3.09,
-            "bar_pct": 42
-          },
-          {
-            "rank": 40,
             "pitcher_id": "701542",
             "name_display": "W. Warren",
             "throws": "RHP",
             "team_abbr": "NYY",
             "value": 3.1,
+            "bar_pct": 42
+          },
+          {
+            "rank": 40,
+            "pitcher_id": "669358",
+            "name_display": "S. Baz",
+            "throws": "RHP",
+            "team_abbr": "BAL",
+            "value": 3.12,
             "bar_pct": 42
           }
         ],
@@ -2968,15 +2968,6 @@
           },
           {
             "rank": 6,
-            "pitcher_id": "650911",
-            "name_display": "C. S\u00e1nchez",
-            "throws": "LHP",
-            "team_abbr": "PHI",
-            "value": 2.02,
-            "bar_pct": 76
-          },
-          {
-            "rank": 7,
             "pitcher_id": "607536",
             "name_display": "K. Freeland",
             "throws": "LHP",
@@ -2985,22 +2976,31 @@
             "bar_pct": 75
           },
           {
-            "rank": 8,
-            "pitcher_id": "808967",
-            "name_display": "Y. Yamamoto",
-            "throws": "RHP",
-            "team_abbr": "LAD",
-            "value": 2.04,
+            "rank": 7,
+            "pitcher_id": "650911",
+            "name_display": "C. S\u00e1nchez",
+            "throws": "LHP",
+            "team_abbr": "PHI",
+            "value": 2.05,
             "bar_pct": 75
           },
           {
-            "rank": 9,
+            "rank": 7,
             "pitcher_id": "684007",
             "name_display": "S. Imanaga",
             "throws": "LHP",
             "team_abbr": "CHC",
             "value": 2.05,
             "bar_pct": 75
+          },
+          {
+            "rank": 9,
+            "pitcher_id": "808967",
+            "name_display": "Y. Yamamoto",
+            "throws": "RHP",
+            "team_abbr": "LAD",
+            "value": 2.07,
+            "bar_pct": 74
           },
           {
             "rank": 10,
@@ -3040,20 +3040,20 @@
           },
           {
             "rank": 14,
+            "pitcher_id": "694819",
+            "name_display": "J. Misiorowski",
+            "throws": "RHP",
+            "team_abbr": "MIL",
+            "value": 2.27,
+            "bar_pct": 67
+          },
+          {
+            "rank": 14,
             "pitcher_id": "647336",
             "name_display": "M. Soroka",
             "throws": "RHP",
             "team_abbr": "AZ",
             "value": 2.27,
-            "bar_pct": 67
-          },
-          {
-            "rank": 15,
-            "pitcher_id": "694819",
-            "name_display": "J. Misiorowski",
-            "throws": "RHP",
-            "team_abbr": "MIL",
-            "value": 2.29,
             "bar_pct": 67
           },
           {
@@ -3089,8 +3089,8 @@
             "name_display": "K. Gausman",
             "throws": "RHP",
             "team_abbr": "CHC",
-            "value": 2.49,
-            "bar_pct": 61
+            "value": 2.44,
+            "bar_pct": 63
           },
           {
             "rank": 20,
@@ -3157,6 +3157,15 @@
           },
           {
             "rank": 27,
+            "pitcher_id": "640455",
+            "name_display": "S. Manaea",
+            "throws": "LHP",
+            "team_abbr": "NYM",
+            "value": 2.67,
+            "bar_pct": 57
+          },
+          {
+            "rank": 28,
             "pitcher_id": "690986",
             "name_display": "K. Harrison",
             "throws": "LHP",
@@ -3165,7 +3174,7 @@
             "bar_pct": 57
           },
           {
-            "rank": 28,
+            "rank": 29,
             "pitcher_id": "686218",
             "name_display": "E. Sheehan",
             "throws": "RHP",
@@ -3174,7 +3183,16 @@
             "bar_pct": 57
           },
           {
-            "rank": 29,
+            "rank": 30,
+            "pitcher_id": "669467",
+            "name_display": "A. Pallante",
+            "throws": "RHP",
+            "team_abbr": "STL",
+            "value": 2.72,
+            "bar_pct": 56
+          },
+          {
+            "rank": 31,
             "pitcher_id": "660271",
             "name_display": "S. Ohtani",
             "throws": "RHP",
@@ -3183,31 +3201,13 @@
             "bar_pct": 56
           },
           {
-            "rank": 30,
+            "rank": 32,
             "pitcher_id": "571510",
             "name_display": "M. Boyd",
             "throws": "LHP",
             "team_abbr": "CHC",
             "value": 2.75,
             "bar_pct": 56
-          },
-          {
-            "rank": 31,
-            "pitcher_id": "669467",
-            "name_display": "A. Pallante",
-            "throws": "RHP",
-            "team_abbr": "STL",
-            "value": 2.77,
-            "bar_pct": 55
-          },
-          {
-            "rank": 31,
-            "pitcher_id": "640455",
-            "name_display": "S. Manaea",
-            "throws": "LHP",
-            "team_abbr": "NYM",
-            "value": 2.77,
-            "bar_pct": 55
           },
           {
             "rank": 33,
@@ -3306,8 +3306,8 @@
             "name_display": "C. S\u00e1nchez",
             "throws": "LHP",
             "team_abbr": "PHI",
-            "value": 187.1,
-            "bar_pct": 91
+            "value": 193.1,
+            "bar_pct": 94
           },
           {
             "rank": 3,
@@ -3324,8 +3324,17 @@
             "name_display": "M. Wacha",
             "throws": "RHP",
             "team_abbr": "KC",
-            "value": 182.2,
-            "bar_pct": 89
+            "value": 184.0,
+            "bar_pct": 90
+          },
+          {
+            "rank": 5,
+            "pitcher_id": "808967",
+            "name_display": "Y. Yamamoto",
+            "throws": "RHP",
+            "team_abbr": "LAD",
+            "value": 178.2,
+            "bar_pct": 87
           },
           {
             "rank": 5,
@@ -3337,7 +3346,7 @@
             "bar_pct": 87
           },
           {
-            "rank": 6,
+            "rank": 7,
             "pitcher_id": "593958",
             "name_display": "E. Rodriguez",
             "throws": "LHP",
@@ -3346,7 +3355,7 @@
             "bar_pct": 87
           },
           {
-            "rank": 7,
+            "rank": 8,
             "pitcher_id": "676440",
             "name_display": "T. Bibee",
             "throws": "RHP",
@@ -3355,7 +3364,7 @@
             "bar_pct": 86
           },
           {
-            "rank": 8,
+            "rank": 9,
             "pitcher_id": "650633",
             "name_display": "M. King",
             "throws": "RHP",
@@ -3364,7 +3373,7 @@
             "bar_pct": 85
           },
           {
-            "rank": 9,
+            "rank": 10,
             "pitcher_id": "672282",
             "name_display": "R. Detmers",
             "throws": "LHP",
@@ -3373,7 +3382,7 @@
             "bar_pct": 85
           },
           {
-            "rank": 9,
+            "rank": 10,
             "pitcher_id": "668909",
             "name_display": "G. Williams",
             "throws": "RHP",
@@ -3382,7 +3391,16 @@
             "bar_pct": 85
           },
           {
-            "rank": 11,
+            "rank": 12,
+            "pitcher_id": "669358",
+            "name_display": "S. Baz",
+            "throws": "RHP",
+            "team_abbr": "BAL",
+            "value": 173.0,
+            "bar_pct": 84
+          },
+          {
+            "rank": 13,
             "pitcher_id": "800048",
             "name_display": "P. Messick",
             "throws": "LHP",
@@ -3391,16 +3409,7 @@
             "bar_pct": 84
           },
           {
-            "rank": 12,
-            "pitcher_id": "808967",
-            "name_display": "Y. Yamamoto",
-            "throws": "RHP",
-            "team_abbr": "LAD",
-            "value": 172.0,
-            "bar_pct": 84
-          },
-          {
-            "rank": 12,
+            "rank": 14,
             "pitcher_id": "669302",
             "name_display": "L. Gilbert",
             "throws": "RHP",
@@ -3409,7 +3418,16 @@
             "bar_pct": 84
           },
           {
-            "rank": 14,
+            "rank": 15,
+            "pitcher_id": "592332",
+            "name_display": "K. Gausman",
+            "throws": "RHP",
+            "team_abbr": "CHC",
+            "value": 169.2,
+            "bar_pct": 83
+          },
+          {
+            "rank": 16,
             "pitcher_id": "667755",
             "name_display": "J. Soriano",
             "throws": "RHP",
@@ -3418,16 +3436,7 @@
             "bar_pct": 82
           },
           {
-            "rank": 15,
-            "pitcher_id": "669358",
-            "name_display": "S. Baz",
-            "throws": "RHP",
-            "team_abbr": "BAL",
-            "value": 169.0,
-            "bar_pct": 82
-          },
-          {
-            "rank": 16,
+            "rank": 17,
             "pitcher_id": "690997",
             "name_display": "N. McLean",
             "throws": "RHP",
@@ -3437,6 +3446,24 @@
           },
           {
             "rank": 17,
+            "pitcher_id": "656492",
+            "name_display": "F. Griffin",
+            "throws": "LHP",
+            "team_abbr": "CLE",
+            "value": 166.2,
+            "bar_pct": 81
+          },
+          {
+            "rank": 19,
+            "pitcher_id": "694819",
+            "name_display": "J. Misiorowski",
+            "throws": "RHP",
+            "team_abbr": "MIL",
+            "value": 166.1,
+            "bar_pct": 81
+          },
+          {
+            "rank": 19,
             "pitcher_id": "656302",
             "name_display": "D. Cease",
             "throws": "RHP",
@@ -3445,7 +3472,7 @@
             "bar_pct": 81
           },
           {
-            "rank": 17,
+            "rank": 19,
             "pitcher_id": "607259",
             "name_display": "N. Martinez",
             "throws": "RHP",
@@ -3454,7 +3481,7 @@
             "bar_pct": 81
           },
           {
-            "rank": 17,
+            "rank": 19,
             "pitcher_id": "702070",
             "name_display": "N. Cameron",
             "throws": "LHP",
@@ -3463,16 +3490,7 @@
             "bar_pct": 81
           },
           {
-            "rank": 17,
-            "pitcher_id": "592332",
-            "name_display": "K. Gausman",
-            "throws": "RHP",
-            "team_abbr": "CHC",
-            "value": 166.1,
-            "bar_pct": 81
-          },
-          {
-            "rank": 21,
+            "rank": 23,
             "pitcher_id": "677952",
             "name_display": "B. Ashcraft",
             "throws": "RHP",
@@ -3481,7 +3499,7 @@
             "bar_pct": 81
           },
           {
-            "rank": 21,
+            "rank": 23,
             "pitcher_id": "671737",
             "name_display": "T. Bradley",
             "throws": "RHP",
@@ -3490,7 +3508,7 @@
             "bar_pct": 81
           },
           {
-            "rank": 21,
+            "rank": 23,
             "pitcher_id": "669923",
             "name_display": "G. Kirby",
             "throws": "RHP",
@@ -3499,7 +3517,7 @@
             "bar_pct": 81
           },
           {
-            "rank": 24,
+            "rank": 26,
             "pitcher_id": "676917",
             "name_display": "C. Cavalli",
             "throws": "RHP",
@@ -3508,7 +3526,7 @@
             "bar_pct": 80
           },
           {
-            "rank": 25,
+            "rank": 27,
             "pitcher_id": "607625",
             "name_display": "S. Lugo",
             "throws": "RHP",
@@ -3517,7 +3535,7 @@
             "bar_pct": 80
           },
           {
-            "rank": 26,
+            "rank": 28,
             "pitcher_id": "664285",
             "name_display": "F. Valdez",
             "throws": "LHP",
@@ -3526,16 +3544,7 @@
             "bar_pct": 80
           },
           {
-            "rank": 27,
-            "pitcher_id": "656492",
-            "name_display": "F. Griffin",
-            "throws": "LHP",
-            "team_abbr": "CLE",
-            "value": 162.2,
-            "bar_pct": 79
-          },
-          {
-            "rank": 28,
+            "rank": 29,
             "pitcher_id": "684007",
             "name_display": "S. Imanaga",
             "throws": "LHP",
@@ -3544,7 +3553,7 @@
             "bar_pct": 79
           },
           {
-            "rank": 28,
+            "rank": 29,
             "pitcher_id": "693433",
             "name_display": "B. Woo",
             "throws": "RHP",
@@ -3553,7 +3562,7 @@
             "bar_pct": 79
           },
           {
-            "rank": 30,
+            "rank": 31,
             "pitcher_id": "694973",
             "name_display": "P. Skenes",
             "throws": "RHP",
@@ -3562,7 +3571,7 @@
             "bar_pct": 79
           },
           {
-            "rank": 31,
+            "rank": 32,
             "pitcher_id": "669022",
             "name_display": "M. Gore",
             "throws": "LHP",
@@ -3571,16 +3580,7 @@
             "bar_pct": 79
           },
           {
-            "rank": 32,
-            "pitcher_id": "694819",
-            "name_display": "J. Misiorowski",
-            "throws": "RHP",
-            "team_abbr": "MIL",
-            "value": 161.1,
-            "bar_pct": 79
-          },
-          {
-            "rank": 32,
+            "rank": 33,
             "pitcher_id": "605400",
             "name_display": "A. Nola",
             "throws": "RHP",
@@ -3668,8 +3668,8 @@
             "name_display": "M. Wacha",
             "throws": "RHP",
             "team_abbr": "KC",
-            "value": 182.2,
-            "bar_pct": 99
+            "value": 184.0,
+            "bar_pct": 100
           },
           {
             "rank": 3,
@@ -3700,6 +3700,15 @@
           },
           {
             "rank": 6,
+            "pitcher_id": "669358",
+            "name_display": "S. Baz",
+            "throws": "RHP",
+            "team_abbr": "BAL",
+            "value": 173.0,
+            "bar_pct": 94
+          },
+          {
+            "rank": 7,
             "pitcher_id": "800048",
             "name_display": "P. Messick",
             "throws": "LHP",
@@ -3708,7 +3717,7 @@
             "bar_pct": 93
           },
           {
-            "rank": 7,
+            "rank": 8,
             "pitcher_id": "669302",
             "name_display": "L. Gilbert",
             "throws": "RHP",
@@ -3717,7 +3726,7 @@
             "bar_pct": 93
           },
           {
-            "rank": 8,
+            "rank": 9,
             "pitcher_id": "667755",
             "name_display": "J. Soriano",
             "throws": "RHP",
@@ -3726,16 +3735,16 @@
             "bar_pct": 92
           },
           {
-            "rank": 9,
-            "pitcher_id": "669358",
-            "name_display": "S. Baz",
-            "throws": "RHP",
-            "team_abbr": "BAL",
-            "value": 169.0,
-            "bar_pct": 92
+            "rank": 10,
+            "pitcher_id": "656492",
+            "name_display": "F. Griffin",
+            "throws": "LHP",
+            "team_abbr": "CLE",
+            "value": 166.2,
+            "bar_pct": 90
           },
           {
-            "rank": 10,
+            "rank": 11,
             "pitcher_id": "656302",
             "name_display": "D. Cease",
             "throws": "RHP",
@@ -3744,7 +3753,7 @@
             "bar_pct": 90
           },
           {
-            "rank": 10,
+            "rank": 11,
             "pitcher_id": "607259",
             "name_display": "N. Martinez",
             "throws": "RHP",
@@ -3753,7 +3762,7 @@
             "bar_pct": 90
           },
           {
-            "rank": 10,
+            "rank": 11,
             "pitcher_id": "702070",
             "name_display": "N. Cameron",
             "throws": "LHP",
@@ -3762,7 +3771,7 @@
             "bar_pct": 90
           },
           {
-            "rank": 13,
+            "rank": 14,
             "pitcher_id": "671737",
             "name_display": "T. Bradley",
             "throws": "RHP",
@@ -3771,7 +3780,7 @@
             "bar_pct": 90
           },
           {
-            "rank": 13,
+            "rank": 14,
             "pitcher_id": "669923",
             "name_display": "G. Kirby",
             "throws": "RHP",
@@ -3780,7 +3789,7 @@
             "bar_pct": 90
           },
           {
-            "rank": 15,
+            "rank": 16,
             "pitcher_id": "607625",
             "name_display": "S. Lugo",
             "throws": "RHP",
@@ -3789,22 +3798,13 @@
             "bar_pct": 89
           },
           {
-            "rank": 16,
+            "rank": 17,
             "pitcher_id": "664285",
             "name_display": "F. Valdez",
             "throws": "LHP",
             "team_abbr": "DET",
             "value": 163.2,
             "bar_pct": 89
-          },
-          {
-            "rank": 17,
-            "pitcher_id": "656492",
-            "name_display": "F. Griffin",
-            "throws": "LHP",
-            "team_abbr": "CLE",
-            "value": 162.2,
-            "bar_pct": 88
           },
           {
             "rank": 18,
@@ -3884,8 +3884,8 @@
             "name_display": "J. deGrom",
             "throws": "RHP",
             "team_abbr": "TEX",
-            "value": 149.1,
-            "bar_pct": 81
+            "value": 151.1,
+            "bar_pct": 82
           },
           {
             "rank": 27,
@@ -3952,6 +3952,15 @@
           },
           {
             "rank": 34,
+            "pitcher_id": "663436",
+            "name_display": "D. Martin",
+            "throws": "RHP",
+            "team_abbr": "CWS",
+            "value": 140.0,
+            "bar_pct": 76
+          },
+          {
+            "rank": 35,
             "pitcher_id": "676106",
             "name_display": "E. Hancock",
             "throws": "RHP",
@@ -3960,7 +3969,7 @@
             "bar_pct": 75
           },
           {
-            "rank": 34,
+            "rank": 35,
             "pitcher_id": "677958",
             "name_display": "K. Rocker",
             "throws": "RHP",
@@ -3969,7 +3978,7 @@
             "bar_pct": 75
           },
           {
-            "rank": 36,
+            "rank": 37,
             "pitcher_id": "669372",
             "name_display": "J. Ginn",
             "throws": "RHP",
@@ -3978,7 +3987,7 @@
             "bar_pct": 75
           },
           {
-            "rank": 37,
+            "rank": 38,
             "pitcher_id": "624133",
             "name_display": "R. Suarez",
             "throws": "LHP",
@@ -3987,7 +3996,7 @@
             "bar_pct": 74
           },
           {
-            "rank": 38,
+            "rank": 39,
             "pitcher_id": "700712",
             "name_display": "W. Ure\u00f1a",
             "throws": "RHP",
@@ -3996,22 +4005,13 @@
             "bar_pct": 74
           },
           {
-            "rank": 38,
+            "rank": 39,
             "pitcher_id": "677960",
             "name_display": "R. Weathers",
             "throws": "LHP",
             "team_abbr": "NYY",
             "value": 137.1,
             "bar_pct": 74
-          },
-          {
-            "rank": 40,
-            "pitcher_id": "663436",
-            "name_display": "D. Martin",
-            "throws": "RHP",
-            "team_abbr": "CWS",
-            "value": 135.2,
-            "bar_pct": 73
           }
         ],
         "nl": [
@@ -4030,8 +4030,17 @@
             "name_display": "C. S\u00e1nchez",
             "throws": "LHP",
             "team_abbr": "PHI",
-            "value": 187.1,
-            "bar_pct": 91
+            "value": 193.1,
+            "bar_pct": 94
+          },
+          {
+            "rank": 3,
+            "pitcher_id": "808967",
+            "name_display": "Y. Yamamoto",
+            "throws": "RHP",
+            "team_abbr": "LAD",
+            "value": 178.2,
+            "bar_pct": 87
           },
           {
             "rank": 3,
@@ -4043,7 +4052,7 @@
             "bar_pct": 87
           },
           {
-            "rank": 4,
+            "rank": 5,
             "pitcher_id": "593958",
             "name_display": "E. Rodriguez",
             "throws": "LHP",
@@ -4052,7 +4061,7 @@
             "bar_pct": 87
           },
           {
-            "rank": 5,
+            "rank": 6,
             "pitcher_id": "650633",
             "name_display": "M. King",
             "throws": "RHP",
@@ -4061,16 +4070,16 @@
             "bar_pct": 85
           },
           {
-            "rank": 6,
-            "pitcher_id": "808967",
-            "name_display": "Y. Yamamoto",
+            "rank": 7,
+            "pitcher_id": "592332",
+            "name_display": "K. Gausman",
             "throws": "RHP",
-            "team_abbr": "LAD",
-            "value": 172.0,
-            "bar_pct": 84
+            "team_abbr": "CHC",
+            "value": 169.2,
+            "bar_pct": 83
           },
           {
-            "rank": 7,
+            "rank": 8,
             "pitcher_id": "690997",
             "name_display": "N. McLean",
             "throws": "RHP",
@@ -4079,16 +4088,16 @@
             "bar_pct": 81
           },
           {
-            "rank": 8,
-            "pitcher_id": "592332",
-            "name_display": "K. Gausman",
+            "rank": 9,
+            "pitcher_id": "694819",
+            "name_display": "J. Misiorowski",
             "throws": "RHP",
-            "team_abbr": "CHC",
+            "team_abbr": "MIL",
             "value": 166.1,
             "bar_pct": 81
           },
           {
-            "rank": 9,
+            "rank": 10,
             "pitcher_id": "677952",
             "name_display": "B. Ashcraft",
             "throws": "RHP",
@@ -4097,7 +4106,7 @@
             "bar_pct": 81
           },
           {
-            "rank": 10,
+            "rank": 11,
             "pitcher_id": "676917",
             "name_display": "C. Cavalli",
             "throws": "RHP",
@@ -4106,7 +4115,7 @@
             "bar_pct": 80
           },
           {
-            "rank": 11,
+            "rank": 12,
             "pitcher_id": "684007",
             "name_display": "S. Imanaga",
             "throws": "LHP",
@@ -4115,7 +4124,7 @@
             "bar_pct": 79
           },
           {
-            "rank": 12,
+            "rank": 13,
             "pitcher_id": "694973",
             "name_display": "P. Skenes",
             "throws": "RHP",
@@ -4124,16 +4133,7 @@
             "bar_pct": 79
           },
           {
-            "rank": 13,
-            "pitcher_id": "694819",
-            "name_display": "J. Misiorowski",
-            "throws": "RHP",
-            "team_abbr": "MIL",
-            "value": 161.1,
-            "bar_pct": 79
-          },
-          {
-            "rank": 13,
+            "rank": 14,
             "pitcher_id": "605400",
             "name_display": "A. Nola",
             "throws": "RHP",
@@ -4233,6 +4233,15 @@
           },
           {
             "rank": 25,
+            "pitcher_id": "669467",
+            "name_display": "A. Pallante",
+            "throws": "RHP",
+            "team_abbr": "STL",
+            "value": 148.2,
+            "bar_pct": 72
+          },
+          {
+            "rank": 26,
             "pitcher_id": "696149",
             "name_display": "B. Chandler",
             "throws": "RHP",
@@ -4241,21 +4250,12 @@
             "bar_pct": 72
           },
           {
-            "rank": 26,
+            "rank": 27,
             "pitcher_id": "669373",
             "name_display": "T. Skubal",
             "throws": "LHP",
             "team_abbr": "LAD",
             "value": 146.2,
-            "bar_pct": 71
-          },
-          {
-            "rank": 27,
-            "pitcher_id": "669467",
-            "name_display": "A. Pallante",
-            "throws": "RHP",
-            "team_abbr": "STL",
-            "value": 146.0,
             "bar_pct": 71
           },
           {
@@ -4322,7 +4322,16 @@
             "bar_pct": 67
           },
           {
-            "rank": 35,
+            "rank": 34,
+            "pitcher_id": "640455",
+            "name_display": "S. Manaea",
+            "throws": "LHP",
+            "team_abbr": "NYM",
+            "value": 138.1,
+            "bar_pct": 67
+          },
+          {
+            "rank": 36,
             "pitcher_id": "641816",
             "name_display": "T. Mahle",
             "throws": "RHP",
@@ -4331,7 +4340,7 @@
             "bar_pct": 67
           },
           {
-            "rank": 36,
+            "rank": 37,
             "pitcher_id": "656849",
             "name_display": "D. Peterson",
             "throws": "LHP",
@@ -4340,7 +4349,7 @@
             "bar_pct": 67
           },
           {
-            "rank": 37,
+            "rank": 38,
             "pitcher_id": "681517",
             "name_display": "K. Leahy",
             "throws": "RHP",
@@ -4349,30 +4358,21 @@
             "bar_pct": 66
           },
           {
-            "rank": 38,
+            "rank": 39,
+            "pitcher_id": "527048",
+            "name_display": "M. P\u00e9rez",
+            "throws": "LHP",
+            "team_abbr": "ATL",
+            "value": 134.2,
+            "bar_pct": 65
+          },
+          {
+            "rank": 40,
             "pitcher_id": "680736",
             "name_display": "J. Wrobleski",
             "throws": "LHP",
             "team_abbr": "LAD",
             "value": 133.1,
-            "bar_pct": 65
-          },
-          {
-            "rank": 38,
-            "pitcher_id": "640455",
-            "name_display": "S. Manaea",
-            "throws": "LHP",
-            "team_abbr": "NYM",
-            "value": 133.1,
-            "bar_pct": 65
-          },
-          {
-            "rank": 40,
-            "pitcher_id": "607067",
-            "name_display": "C. Rea",
-            "throws": "RHP",
-            "team_abbr": "CHC",
-            "value": 133.0,
             "bar_pct": 65
           }
         ]
@@ -4396,19 +4396,19 @@
           },
           {
             "rank": 2,
-            "pitcher_id": "693645",
-            "name_display": "C. Schlittler",
-            "throws": "RHP",
-            "team_abbr": "NYY",
-            "value": 1.95,
-            "bar_pct": 92
-          },
-          {
-            "rank": 2,
             "pitcher_id": "694819",
             "name_display": "J. Misiorowski",
             "throws": "RHP",
             "team_abbr": "MIL",
+            "value": 1.89,
+            "bar_pct": 95
+          },
+          {
+            "rank": 3,
+            "pitcher_id": "693645",
+            "name_display": "C. Schlittler",
+            "throws": "RHP",
+            "team_abbr": "NYY",
             "value": 1.95,
             "bar_pct": 92
           },
@@ -4450,6 +4450,15 @@
           },
           {
             "rank": 8,
+            "pitcher_id": "808967",
+            "name_display": "Y. Yamamoto",
+            "throws": "RHP",
+            "team_abbr": "LAD",
+            "value": 2.52,
+            "bar_pct": 71
+          },
+          {
+            "rank": 8,
             "pitcher_id": "675512",
             "name_display": "T. Melton",
             "throws": "RHP",
@@ -4458,16 +4467,7 @@
             "bar_pct": 71
           },
           {
-            "rank": 9,
-            "pitcher_id": "808967",
-            "name_display": "Y. Yamamoto",
-            "throws": "RHP",
-            "team_abbr": "LAD",
-            "value": 2.62,
-            "bar_pct": 68
-          },
-          {
-            "rank": 9,
+            "rank": 10,
             "pitcher_id": "593958",
             "name_display": "E. Rodriguez",
             "throws": "LHP",
@@ -4495,15 +4495,6 @@
           },
           {
             "rank": 13,
-            "pitcher_id": "608331",
-            "name_display": "M. Fried",
-            "throws": "LHP",
-            "team_abbr": "NYY",
-            "value": 2.73,
-            "bar_pct": 66
-          },
-          {
-            "rank": 14,
             "pitcher_id": "543243",
             "name_display": "S. Gray",
             "throws": "RHP",
@@ -4512,16 +4503,16 @@
             "bar_pct": 65
           },
           {
-            "rank": 15,
-            "pitcher_id": "650911",
-            "name_display": "C. S\u00e1nchez",
+            "rank": 13,
+            "pitcher_id": "608331",
+            "name_display": "M. Fried",
             "throws": "LHP",
-            "team_abbr": "PHI",
-            "value": 2.79,
-            "bar_pct": 64
+            "team_abbr": "NYY",
+            "value": 2.76,
+            "bar_pct": 65
           },
           {
-            "rank": 16,
+            "rank": 15,
             "pitcher_id": "695505",
             "name_display": "C. Burns",
             "throws": "RHP",
@@ -4530,13 +4521,22 @@
             "bar_pct": 64
           },
           {
-            "rank": 17,
+            "rank": 16,
             "pitcher_id": "656876",
             "name_display": "D. Rasmussen",
             "throws": "RHP",
             "team_abbr": "TB",
             "value": 2.81,
             "bar_pct": 64
+          },
+          {
+            "rank": 17,
+            "pitcher_id": "650911",
+            "name_display": "C. S\u00e1nchez",
+            "throws": "LHP",
+            "team_abbr": "PHI",
+            "value": 2.84,
+            "bar_pct": 63
           },
           {
             "rank": 18,
@@ -4607,7 +4607,7 @@
             "name_display": "M. P\u00e9rez",
             "throws": "LHP",
             "team_abbr": "ATL",
-            "value": 3.08,
+            "value": 3.07,
             "bar_pct": 58
           },
           {
@@ -4643,7 +4643,7 @@
             "name_display": "M. Wacha",
             "throws": "RHP",
             "team_abbr": "KC",
-            "value": 3.25,
+            "value": 3.28,
             "bar_pct": 55
           },
           {
@@ -4711,10 +4711,10 @@
           },
           {
             "rank": 37,
-            "pitcher_id": "669467",
-            "name_display": "A. Pallante",
+            "pitcher_id": "686613",
+            "name_display": "H. Brown",
             "throws": "RHP",
-            "team_abbr": "STL",
+            "team_abbr": "HOU",
             "value": 3.45,
             "bar_pct": 52
           },
@@ -4738,11 +4738,11 @@
           },
           {
             "rank": 40,
-            "pitcher_id": "686613",
-            "name_display": "H. Brown",
+            "pitcher_id": "669467",
+            "name_display": "A. Pallante",
             "throws": "RHP",
-            "team_abbr": "HOU",
-            "value": 3.52,
+            "team_abbr": "STL",
+            "value": 3.51,
             "bar_pct": 51
           }
         ],
@@ -4785,19 +4785,19 @@
           },
           {
             "rank": 5,
-            "pitcher_id": "608331",
-            "name_display": "M. Fried",
-            "throws": "LHP",
-            "team_abbr": "NYY",
-            "value": 2.73,
-            "bar_pct": 71
-          },
-          {
-            "rank": 6,
             "pitcher_id": "543243",
             "name_display": "S. Gray",
             "throws": "RHP",
             "team_abbr": "BOS",
+            "value": 2.76,
+            "bar_pct": 71
+          },
+          {
+            "rank": 5,
+            "pitcher_id": "608331",
+            "name_display": "M. Fried",
+            "throws": "LHP",
+            "team_abbr": "NYY",
             "value": 2.76,
             "bar_pct": 71
           },
@@ -4852,8 +4852,8 @@
             "name_display": "M. Wacha",
             "throws": "RHP",
             "team_abbr": "KC",
-            "value": 3.25,
-            "bar_pct": 60
+            "value": 3.28,
+            "bar_pct": 59
           },
           {
             "rank": 13,
@@ -4893,21 +4893,21 @@
           },
           {
             "rank": 17,
+            "pitcher_id": "686613",
+            "name_display": "H. Brown",
+            "throws": "RHP",
+            "team_abbr": "HOU",
+            "value": 3.45,
+            "bar_pct": 57
+          },
+          {
+            "rank": 18,
             "pitcher_id": "680732",
             "name_display": "S. Burke",
             "throws": "RHP",
             "team_abbr": "CWS",
             "value": 3.47,
             "bar_pct": 56
-          },
-          {
-            "rank": 18,
-            "pitcher_id": "686613",
-            "name_display": "H. Brown",
-            "throws": "RHP",
-            "team_abbr": "HOU",
-            "value": 3.52,
-            "bar_pct": 55
           },
           {
             "rank": 19,
@@ -4964,20 +4964,20 @@
             "bar_pct": 53
           },
           {
-            "rank": 23,
-            "pitcher_id": "656492",
-            "name_display": "F. Griffin",
-            "throws": "LHP",
-            "team_abbr": "CLE",
-            "value": 3.65,
-            "bar_pct": 53
-          },
-          {
-            "rank": 26,
+            "rank": 25,
             "pitcher_id": "543037",
             "name_display": "G. Cole",
             "throws": "RHP",
             "team_abbr": "NYY",
+            "value": 3.67,
+            "bar_pct": 53
+          },
+          {
+            "rank": 25,
+            "pitcher_id": "656492",
+            "name_display": "F. Griffin",
+            "throws": "LHP",
+            "team_abbr": "CLE",
             "value": 3.67,
             "bar_pct": 53
           },
@@ -5019,6 +5019,15 @@
           },
           {
             "rank": 31,
+            "pitcher_id": "594798",
+            "name_display": "J. deGrom",
+            "throws": "RHP",
+            "team_abbr": "TEX",
+            "value": 3.75,
+            "bar_pct": 52
+          },
+          {
+            "rank": 32,
             "pitcher_id": "668909",
             "name_display": "G. Williams",
             "throws": "RHP",
@@ -5027,16 +5036,16 @@
             "bar_pct": 52
           },
           {
-            "rank": 32,
-            "pitcher_id": "594798",
-            "name_display": "J. deGrom",
+            "rank": 33,
+            "pitcher_id": "643377",
+            "name_display": "G. Jax",
             "throws": "RHP",
-            "team_abbr": "TEX",
+            "team_abbr": "TB",
             "value": 3.8,
             "bar_pct": 51
           },
           {
-            "rank": 33,
+            "rank": 34,
             "pitcher_id": "671737",
             "name_display": "T. Bradley",
             "throws": "RHP",
@@ -5045,7 +5054,7 @@
             "bar_pct": 51
           },
           {
-            "rank": 34,
+            "rank": 35,
             "pitcher_id": "657746",
             "name_display": "J. Ryan",
             "throws": "RHP",
@@ -5054,7 +5063,7 @@
             "bar_pct": 51
           },
           {
-            "rank": 34,
+            "rank": 35,
             "pitcher_id": "702070",
             "name_display": "N. Cameron",
             "throws": "LHP",
@@ -5063,7 +5072,7 @@
             "bar_pct": 51
           },
           {
-            "rank": 36,
+            "rank": 37,
             "pitcher_id": "693433",
             "name_display": "B. Woo",
             "throws": "RHP",
@@ -5072,7 +5081,7 @@
             "bar_pct": 50
           },
           {
-            "rank": 37,
+            "rank": 38,
             "pitcher_id": "676282",
             "name_display": "J. Cantillo",
             "throws": "LHP",
@@ -5081,7 +5090,7 @@
             "bar_pct": 50
           },
           {
-            "rank": 37,
+            "rank": 38,
             "pitcher_id": "701542",
             "name_display": "W. Warren",
             "throws": "RHP",
@@ -5090,22 +5099,13 @@
             "bar_pct": 50
           },
           {
-            "rank": 39,
-            "pitcher_id": "643377",
-            "name_display": "G. Jax",
-            "throws": "RHP",
-            "team_abbr": "TB",
-            "value": 3.99,
-            "bar_pct": 49
-          },
-          {
             "rank": 40,
-            "pitcher_id": "664285",
-            "name_display": "F. Valdez",
-            "throws": "LHP",
-            "team_abbr": "DET",
-            "value": 4.01,
-            "bar_pct": 49
+            "pitcher_id": "663436",
+            "name_display": "D. Martin",
+            "throws": "RHP",
+            "team_abbr": "CWS",
+            "value": 3.92,
+            "bar_pct": 50
           }
         ],
         "nl": [
@@ -5124,8 +5124,8 @@
             "name_display": "J. Misiorowski",
             "throws": "RHP",
             "team_abbr": "MIL",
-            "value": 1.95,
-            "bar_pct": 92
+            "value": 1.89,
+            "bar_pct": 95
           },
           {
             "rank": 3,
@@ -5151,11 +5151,11 @@
             "name_display": "Y. Yamamoto",
             "throws": "RHP",
             "team_abbr": "LAD",
-            "value": 2.62,
-            "bar_pct": 68
+            "value": 2.52,
+            "bar_pct": 71
           },
           {
-            "rank": 5,
+            "rank": 6,
             "pitcher_id": "593958",
             "name_display": "E. Rodriguez",
             "throws": "LHP",
@@ -5183,21 +5183,21 @@
           },
           {
             "rank": 9,
-            "pitcher_id": "650911",
-            "name_display": "C. S\u00e1nchez",
-            "throws": "LHP",
-            "team_abbr": "PHI",
-            "value": 2.79,
-            "bar_pct": 64
-          },
-          {
-            "rank": 10,
             "pitcher_id": "695505",
             "name_display": "C. Burns",
             "throws": "RHP",
             "team_abbr": "CIN",
             "value": 2.8,
             "bar_pct": 64
+          },
+          {
+            "rank": 10,
+            "pitcher_id": "650911",
+            "name_display": "C. S\u00e1nchez",
+            "throws": "LHP",
+            "team_abbr": "PHI",
+            "value": 2.84,
+            "bar_pct": 63
           },
           {
             "rank": 11,
@@ -5232,7 +5232,7 @@
             "name_display": "M. P\u00e9rez",
             "throws": "LHP",
             "team_abbr": "ATL",
-            "value": 3.08,
+            "value": 3.07,
             "bar_pct": 58
           },
           {
@@ -5291,20 +5291,20 @@
           },
           {
             "rank": 21,
-            "pitcher_id": "669467",
-            "name_display": "A. Pallante",
-            "throws": "RHP",
-            "team_abbr": "STL",
-            "value": 3.45,
-            "bar_pct": 52
-          },
-          {
-            "rank": 22,
             "pitcher_id": "656550",
             "name_display": "G. Holmes",
             "throws": "RHP",
             "team_abbr": "ATL",
             "value": 3.49,
+            "bar_pct": 51
+          },
+          {
+            "rank": 22,
+            "pitcher_id": "669467",
+            "name_display": "A. Pallante",
+            "throws": "RHP",
+            "team_abbr": "STL",
+            "value": 3.51,
             "bar_pct": 51
           },
           {
@@ -5485,7 +5485,7 @@
             "name_display": "J. Misiorowski",
             "throws": "RHP",
             "team_abbr": "MIL",
-            "value": 2.23,
+            "value": 2.19,
             "bar_pct": 100
           },
           {
@@ -5495,7 +5495,7 @@
             "throws": "LHP",
             "team_abbr": "ATL",
             "value": 2.28,
-            "bar_pct": 98
+            "bar_pct": 96
           },
           {
             "rank": 3,
@@ -5504,7 +5504,7 @@
             "throws": "RHP",
             "team_abbr": "TOR",
             "value": 2.47,
-            "bar_pct": 90
+            "bar_pct": 89
           },
           {
             "rank": 4,
@@ -5513,7 +5513,7 @@
             "throws": "LHP",
             "team_abbr": "LAD",
             "value": 2.5,
-            "bar_pct": 89
+            "bar_pct": 88
           },
           {
             "rank": 5,
@@ -5522,7 +5522,7 @@
             "throws": "RHP",
             "team_abbr": "NYY",
             "value": 2.57,
-            "bar_pct": 87
+            "bar_pct": 85
           },
           {
             "rank": 6,
@@ -5531,7 +5531,7 @@
             "throws": "RHP",
             "team_abbr": "LAD",
             "value": 2.61,
-            "bar_pct": 85
+            "bar_pct": 84
           },
           {
             "rank": 7,
@@ -5539,26 +5539,26 @@
             "name_display": "M. Fried",
             "throws": "LHP",
             "team_abbr": "NYY",
-            "value": 2.72,
-            "bar_pct": 82
+            "value": 2.69,
+            "bar_pct": 81
           },
           {
-            "rank": 7,
-            "pitcher_id": "650911",
-            "name_display": "C. S\u00e1nchez",
-            "throws": "LHP",
-            "team_abbr": "PHI",
-            "value": 2.72,
-            "bar_pct": 82
-          },
-          {
-            "rank": 9,
+            "rank": 8,
             "pitcher_id": "666200",
             "name_display": "J. Luzardo",
             "throws": "LHP",
             "team_abbr": "PHI",
             "value": 2.77,
-            "bar_pct": 81
+            "bar_pct": 79
+          },
+          {
+            "rank": 9,
+            "pitcher_id": "650911",
+            "name_display": "C. S\u00e1nchez",
+            "throws": "LHP",
+            "team_abbr": "PHI",
+            "value": 2.79,
+            "bar_pct": 78
           },
           {
             "rank": 10,
@@ -5567,7 +5567,7 @@
             "throws": "RHP",
             "team_abbr": "TB",
             "value": 2.87,
-            "bar_pct": 78
+            "bar_pct": 76
           },
           {
             "rank": 11,
@@ -5575,8 +5575,8 @@
             "name_display": "J. deGrom",
             "throws": "RHP",
             "team_abbr": "TEX",
-            "value": 3.02,
-            "bar_pct": 74
+            "value": 3.0,
+            "bar_pct": 73
           },
           {
             "rank": 12,
@@ -5585,7 +5585,7 @@
             "throws": "LHP",
             "team_abbr": "LAA",
             "value": 3.03,
-            "bar_pct": 74
+            "bar_pct": 72
           },
           {
             "rank": 13,
@@ -5594,7 +5594,7 @@
             "throws": "LHP",
             "team_abbr": "BOS",
             "value": 3.04,
-            "bar_pct": 73
+            "bar_pct": 72
           },
           {
             "rank": 13,
@@ -5603,7 +5603,7 @@
             "throws": "RHP",
             "team_abbr": "AZ",
             "value": 3.04,
-            "bar_pct": 73
+            "bar_pct": 72
           },
           {
             "rank": 15,
@@ -5612,7 +5612,7 @@
             "throws": "LHP",
             "team_abbr": "BOS",
             "value": 3.08,
-            "bar_pct": 72
+            "bar_pct": 71
           },
           {
             "rank": 16,
@@ -5621,7 +5621,7 @@
             "throws": "LHP",
             "team_abbr": "CLE",
             "value": 3.11,
-            "bar_pct": 72
+            "bar_pct": 70
           },
           {
             "rank": 17,
@@ -5630,7 +5630,7 @@
             "throws": "RHP",
             "team_abbr": "MIL",
             "value": 3.16,
-            "bar_pct": 71
+            "bar_pct": 69
           },
           {
             "rank": 18,
@@ -5639,7 +5639,7 @@
             "throws": "RHP",
             "team_abbr": "CIN",
             "value": 3.17,
-            "bar_pct": 70
+            "bar_pct": 69
           },
           {
             "rank": 19,
@@ -5648,7 +5648,7 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 3.23,
-            "bar_pct": 69
+            "bar_pct": 68
           },
           {
             "rank": 20,
@@ -5657,34 +5657,34 @@
             "throws": "LHP",
             "team_abbr": "WSH",
             "value": 3.26,
-            "bar_pct": 68
+            "bar_pct": 67
           },
           {
             "rank": 21,
+            "pitcher_id": "808967",
+            "name_display": "Y. Yamamoto",
+            "throws": "RHP",
+            "team_abbr": "LAD",
+            "value": 3.28,
+            "bar_pct": 67
+          },
+          {
+            "rank": 22,
             "pitcher_id": "693433",
             "name_display": "B. Woo",
             "throws": "RHP",
             "team_abbr": "SEA",
             "value": 3.31,
-            "bar_pct": 67
+            "bar_pct": 66
           },
           {
-            "rank": 22,
-            "pitcher_id": "808967",
-            "name_display": "Y. Yamamoto",
-            "throws": "RHP",
-            "team_abbr": "LAD",
-            "value": 3.33,
-            "bar_pct": 67
-          },
-          {
-            "rank": 22,
+            "rank": 23,
             "pitcher_id": "676917",
             "name_display": "C. Cavalli",
             "throws": "RHP",
             "team_abbr": "WSH",
             "value": 3.33,
-            "bar_pct": 67
+            "bar_pct": 66
           },
           {
             "rank": 24,
@@ -5693,7 +5693,7 @@
             "throws": "RHP",
             "team_abbr": "MIL",
             "value": 3.42,
-            "bar_pct": 65
+            "bar_pct": 64
           },
           {
             "rank": 25,
@@ -5702,7 +5702,7 @@
             "throws": "RHP",
             "team_abbr": "BOS",
             "value": 3.45,
-            "bar_pct": 65
+            "bar_pct": 63
           },
           {
             "rank": 25,
@@ -5711,7 +5711,7 @@
             "throws": "RHP",
             "team_abbr": "SF",
             "value": 3.45,
-            "bar_pct": 65
+            "bar_pct": 63
           },
           {
             "rank": 27,
@@ -5720,25 +5720,7 @@
             "throws": "RHP",
             "team_abbr": "CLE",
             "value": 3.48,
-            "bar_pct": 64
-          },
-          {
-            "rank": 28,
-            "pitcher_id": "676974",
-            "name_display": "M. Meyer",
-            "throws": "RHP",
-            "team_abbr": "MIA",
-            "value": 3.5,
-            "bar_pct": 64
-          },
-          {
-            "rank": 28,
-            "pitcher_id": "681517",
-            "name_display": "K. Leahy",
-            "throws": "RHP",
-            "team_abbr": "STL",
-            "value": 3.5,
-            "bar_pct": 64
+            "bar_pct": 63
           },
           {
             "rank": 28,
@@ -5746,62 +5728,80 @@
             "name_display": "S. McClanahan",
             "throws": "LHP",
             "team_abbr": "TB",
-            "value": 3.5,
-            "bar_pct": 64
+            "value": 3.49,
+            "bar_pct": 63
           },
           {
-            "rank": 28,
+            "rank": 29,
+            "pitcher_id": "676974",
+            "name_display": "M. Meyer",
+            "throws": "RHP",
+            "team_abbr": "MIA",
+            "value": 3.5,
+            "bar_pct": 63
+          },
+          {
+            "rank": 29,
+            "pitcher_id": "681517",
+            "name_display": "K. Leahy",
+            "throws": "RHP",
+            "team_abbr": "STL",
+            "value": 3.5,
+            "bar_pct": 63
+          },
+          {
+            "rank": 29,
             "pitcher_id": "677952",
             "name_display": "B. Ashcraft",
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 3.5,
-            "bar_pct": 64
-          },
-          {
-            "rank": 32,
-            "pitcher_id": "669358",
-            "name_display": "S. Baz",
-            "throws": "RHP",
-            "team_abbr": "BAL",
-            "value": 3.53,
             "bar_pct": 63
           },
           {
-            "rank": 33,
+            "rank": 32,
             "pitcher_id": "554430",
             "name_display": "Z. Wheeler",
             "throws": "RHP",
             "team_abbr": "PHI",
             "value": 3.54,
-            "bar_pct": 63
+            "bar_pct": 62
           },
           {
-            "rank": 34,
+            "rank": 33,
             "pitcher_id": "607074",
             "name_display": "C. Rod\u00f3n",
             "throws": "LHP",
             "team_abbr": "NYY",
             "value": 3.57,
-            "bar_pct": 62
+            "bar_pct": 61
           },
           {
-            "rank": 35,
+            "rank": 34,
             "pitcher_id": "605280",
             "name_display": "C. Holmes",
             "throws": "RHP",
             "team_abbr": "CHC",
             "value": 3.58,
-            "bar_pct": 62
+            "bar_pct": 61
           },
           {
-            "rank": 36,
+            "rank": 35,
             "pitcher_id": "677960",
             "name_display": "R. Weathers",
             "throws": "LHP",
             "team_abbr": "NYY",
             "value": 3.61,
-            "bar_pct": 62
+            "bar_pct": 61
+          },
+          {
+            "rank": 35,
+            "pitcher_id": "669358",
+            "name_display": "S. Baz",
+            "throws": "RHP",
+            "team_abbr": "BAL",
+            "value": 3.61,
+            "bar_pct": 61
           },
           {
             "rank": 37,
@@ -5810,7 +5810,7 @@
             "throws": "RHP",
             "team_abbr": "CWS",
             "value": 3.63,
-            "bar_pct": 61
+            "bar_pct": 60
           },
           {
             "rank": 37,
@@ -5819,7 +5819,16 @@
             "throws": "LHP",
             "team_abbr": "BOS",
             "value": 3.63,
-            "bar_pct": 61
+            "bar_pct": 60
+          },
+          {
+            "rank": 37,
+            "pitcher_id": "663554",
+            "name_display": "C. Mize",
+            "throws": "RHP",
+            "team_abbr": "SD",
+            "value": 3.63,
+            "bar_pct": 60
           },
           {
             "rank": 37,
@@ -5828,16 +5837,7 @@
             "throws": "LHP",
             "team_abbr": "BAL",
             "value": 3.63,
-            "bar_pct": 61
-          },
-          {
-            "rank": 40,
-            "pitcher_id": "669467",
-            "name_display": "A. Pallante",
-            "throws": "RHP",
-            "team_abbr": "STL",
-            "value": 3.64,
-            "bar_pct": 61
+            "bar_pct": 60
           }
         ],
         "al": [
@@ -5865,8 +5865,8 @@
             "name_display": "M. Fried",
             "throws": "LHP",
             "team_abbr": "NYY",
-            "value": 2.72,
-            "bar_pct": 91
+            "value": 2.69,
+            "bar_pct": 92
           },
           {
             "rank": 4,
@@ -5883,7 +5883,7 @@
             "name_display": "J. deGrom",
             "throws": "RHP",
             "team_abbr": "TEX",
-            "value": 3.02,
+            "value": 3.0,
             "bar_pct": 82
           },
           {
@@ -5955,20 +5955,11 @@
             "name_display": "S. McClanahan",
             "throws": "LHP",
             "team_abbr": "TB",
-            "value": 3.5,
+            "value": 3.49,
             "bar_pct": 71
           },
           {
             "rank": 14,
-            "pitcher_id": "669358",
-            "name_display": "S. Baz",
-            "throws": "RHP",
-            "team_abbr": "BAL",
-            "value": 3.53,
-            "bar_pct": 70
-          },
-          {
-            "rank": 15,
             "pitcher_id": "607074",
             "name_display": "C. Rod\u00f3n",
             "throws": "LHP",
@@ -5977,11 +5968,20 @@
             "bar_pct": 69
           },
           {
-            "rank": 16,
+            "rank": 15,
             "pitcher_id": "677960",
             "name_display": "R. Weathers",
             "throws": "LHP",
             "team_abbr": "NYY",
+            "value": 3.61,
+            "bar_pct": 68
+          },
+          {
+            "rank": 15,
+            "pitcher_id": "669358",
+            "name_display": "S. Baz",
+            "throws": "RHP",
+            "team_abbr": "BAL",
             "value": 3.61,
             "bar_pct": 68
           },
@@ -6041,21 +6041,21 @@
           },
           {
             "rank": 23,
+            "pitcher_id": "663436",
+            "name_display": "D. Martin",
+            "throws": "RHP",
+            "team_abbr": "CWS",
+            "value": 3.77,
+            "bar_pct": 66
+          },
+          {
+            "rank": 23,
             "pitcher_id": "669022",
             "name_display": "M. Gore",
             "throws": "LHP",
             "team_abbr": "TEX",
             "value": 3.77,
             "bar_pct": 66
-          },
-          {
-            "rank": 24,
-            "pitcher_id": "663436",
-            "name_display": "D. Martin",
-            "throws": "RHP",
-            "team_abbr": "CWS",
-            "value": 3.78,
-            "bar_pct": 65
           },
           {
             "rank": 25,
@@ -6072,11 +6072,11 @@
             "name_display": "L. Gilbert",
             "throws": "RHP",
             "team_abbr": "SEA",
-            "value": 3.84,
+            "value": 3.83,
             "bar_pct": 64
           },
           {
-            "rank": 26,
+            "rank": 27,
             "pitcher_id": "669923",
             "name_display": "G. Kirby",
             "throws": "RHP",
@@ -6095,6 +6095,15 @@
           },
           {
             "rank": 29,
+            "pitcher_id": "643377",
+            "name_display": "G. Jax",
+            "throws": "RHP",
+            "team_abbr": "TB",
+            "value": 3.86,
+            "bar_pct": 64
+          },
+          {
+            "rank": 30,
             "pitcher_id": "687570",
             "name_display": "C. Prielipp",
             "throws": "LHP",
@@ -6103,7 +6112,7 @@
             "bar_pct": 64
           },
           {
-            "rank": 30,
+            "rank": 31,
             "pitcher_id": "607259",
             "name_display": "N. Martinez",
             "throws": "RHP",
@@ -6112,7 +6121,7 @@
             "bar_pct": 63
           },
           {
-            "rank": 31,
+            "rank": 32,
             "pitcher_id": "543037",
             "name_display": "G. Cole",
             "throws": "RHP",
@@ -6121,7 +6130,7 @@
             "bar_pct": 63
           },
           {
-            "rank": 32,
+            "rank": 33,
             "pitcher_id": "671737",
             "name_display": "T. Bradley",
             "throws": "RHP",
@@ -6130,7 +6139,7 @@
             "bar_pct": 62
           },
           {
-            "rank": 33,
+            "rank": 34,
             "pitcher_id": "676106",
             "name_display": "E. Hancock",
             "throws": "RHP",
@@ -6139,7 +6148,7 @@
             "bar_pct": 62
           },
           {
-            "rank": 34,
+            "rank": 35,
             "pitcher_id": "695611",
             "name_display": "G. Jump",
             "throws": "LHP",
@@ -6148,16 +6157,25 @@
             "bar_pct": 62
           },
           {
-            "rank": 35,
-            "pitcher_id": "643377",
-            "name_display": "G. Jax",
+            "rank": 36,
+            "pitcher_id": "686613",
+            "name_display": "H. Brown",
             "throws": "RHP",
-            "team_abbr": "TB",
-            "value": 4.04,
+            "team_abbr": "HOU",
+            "value": 4.02,
             "bar_pct": 61
           },
           {
-            "rank": 36,
+            "rank": 37,
+            "pitcher_id": "656492",
+            "name_display": "F. Griffin",
+            "throws": "LHP",
+            "team_abbr": "CLE",
+            "value": 4.07,
+            "bar_pct": 61
+          },
+          {
+            "rank": 37,
             "pitcher_id": "701542",
             "name_display": "W. Warren",
             "throws": "RHP",
@@ -6166,7 +6184,7 @@
             "bar_pct": 61
           },
           {
-            "rank": 37,
+            "rank": 39,
             "pitcher_id": "675512",
             "name_display": "T. Melton",
             "throws": "RHP",
@@ -6175,29 +6193,11 @@
             "bar_pct": 61
           },
           {
-            "rank": 37,
-            "pitcher_id": "608379",
-            "name_display": "M. Wacha",
-            "throws": "RHP",
-            "team_abbr": "KC",
-            "value": 4.08,
-            "bar_pct": 61
-          },
-          {
-            "rank": 37,
+            "rank": 39,
             "pitcher_id": "672456",
             "name_display": "K. Montero",
             "throws": "RHP",
             "team_abbr": "DET",
-            "value": 4.08,
-            "bar_pct": 61
-          },
-          {
-            "rank": 37,
-            "pitcher_id": "702056",
-            "name_display": "T. Yesavage",
-            "throws": "RHP",
-            "team_abbr": "TOR",
             "value": 4.08,
             "bar_pct": 61
           }
@@ -6209,7 +6209,7 @@
             "name_display": "J. Misiorowski",
             "throws": "RHP",
             "team_abbr": "MIL",
-            "value": 2.23,
+            "value": 2.19,
             "bar_pct": 100
           },
           {
@@ -6219,7 +6219,7 @@
             "throws": "LHP",
             "team_abbr": "ATL",
             "value": 2.28,
-            "bar_pct": 98
+            "bar_pct": 96
           },
           {
             "rank": 3,
@@ -6228,7 +6228,7 @@
             "throws": "LHP",
             "team_abbr": "LAD",
             "value": 2.5,
-            "bar_pct": 89
+            "bar_pct": 88
           },
           {
             "rank": 4,
@@ -6237,25 +6237,25 @@
             "throws": "RHP",
             "team_abbr": "LAD",
             "value": 2.61,
-            "bar_pct": 85
+            "bar_pct": 84
           },
           {
             "rank": 5,
-            "pitcher_id": "650911",
-            "name_display": "C. S\u00e1nchez",
-            "throws": "LHP",
-            "team_abbr": "PHI",
-            "value": 2.72,
-            "bar_pct": 82
-          },
-          {
-            "rank": 6,
             "pitcher_id": "666200",
             "name_display": "J. Luzardo",
             "throws": "LHP",
             "team_abbr": "PHI",
             "value": 2.77,
-            "bar_pct": 81
+            "bar_pct": 79
+          },
+          {
+            "rank": 6,
+            "pitcher_id": "650911",
+            "name_display": "C. S\u00e1nchez",
+            "throws": "LHP",
+            "team_abbr": "PHI",
+            "value": 2.79,
+            "bar_pct": 78
           },
           {
             "rank": 7,
@@ -6264,7 +6264,7 @@
             "throws": "RHP",
             "team_abbr": "AZ",
             "value": 3.04,
-            "bar_pct": 73
+            "bar_pct": 72
           },
           {
             "rank": 8,
@@ -6273,7 +6273,7 @@
             "throws": "RHP",
             "team_abbr": "MIL",
             "value": 3.16,
-            "bar_pct": 71
+            "bar_pct": 69
           },
           {
             "rank": 9,
@@ -6282,7 +6282,7 @@
             "throws": "RHP",
             "team_abbr": "CIN",
             "value": 3.17,
-            "bar_pct": 70
+            "bar_pct": 69
           },
           {
             "rank": 10,
@@ -6291,7 +6291,7 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 3.23,
-            "bar_pct": 69
+            "bar_pct": 68
           },
           {
             "rank": 11,
@@ -6300,7 +6300,7 @@
             "throws": "LHP",
             "team_abbr": "WSH",
             "value": 3.26,
-            "bar_pct": 68
+            "bar_pct": 67
           },
           {
             "rank": 12,
@@ -6308,17 +6308,17 @@
             "name_display": "Y. Yamamoto",
             "throws": "RHP",
             "team_abbr": "LAD",
-            "value": 3.33,
+            "value": 3.28,
             "bar_pct": 67
           },
           {
-            "rank": 12,
+            "rank": 13,
             "pitcher_id": "676917",
             "name_display": "C. Cavalli",
             "throws": "RHP",
             "team_abbr": "WSH",
             "value": 3.33,
-            "bar_pct": 67
+            "bar_pct": 66
           },
           {
             "rank": 14,
@@ -6327,7 +6327,7 @@
             "throws": "RHP",
             "team_abbr": "MIL",
             "value": 3.42,
-            "bar_pct": 65
+            "bar_pct": 64
           },
           {
             "rank": 15,
@@ -6336,7 +6336,7 @@
             "throws": "RHP",
             "team_abbr": "SF",
             "value": 3.45,
-            "bar_pct": 65
+            "bar_pct": 63
           },
           {
             "rank": 16,
@@ -6345,7 +6345,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 3.5,
-            "bar_pct": 64
+            "bar_pct": 63
           },
           {
             "rank": 16,
@@ -6354,7 +6354,7 @@
             "throws": "RHP",
             "team_abbr": "STL",
             "value": 3.5,
-            "bar_pct": 64
+            "bar_pct": 63
           },
           {
             "rank": 16,
@@ -6363,7 +6363,7 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 3.5,
-            "bar_pct": 64
+            "bar_pct": 63
           },
           {
             "rank": 19,
@@ -6372,7 +6372,7 @@
             "throws": "RHP",
             "team_abbr": "PHI",
             "value": 3.54,
-            "bar_pct": 63
+            "bar_pct": 62
           },
           {
             "rank": 20,
@@ -6381,15 +6381,6 @@
             "throws": "RHP",
             "team_abbr": "CHC",
             "value": 3.58,
-            "bar_pct": 62
-          },
-          {
-            "rank": 21,
-            "pitcher_id": "669467",
-            "name_display": "A. Pallante",
-            "throws": "RHP",
-            "team_abbr": "STL",
-            "value": 3.64,
             "bar_pct": 61
           },
           {
@@ -6398,61 +6389,70 @@
             "name_display": "C. Mize",
             "throws": "RHP",
             "team_abbr": "SD",
-            "value": 3.64,
-            "bar_pct": 61
+            "value": 3.63,
+            "bar_pct": 60
           },
           {
-            "rank": 23,
+            "rank": 22,
             "pitcher_id": "690997",
             "name_display": "N. McLean",
             "throws": "RHP",
             "team_abbr": "NYM",
             "value": 3.67,
-            "bar_pct": 61
+            "bar_pct": 60
           },
           {
-            "rank": 24,
+            "rank": 23,
+            "pitcher_id": "669467",
+            "name_display": "A. Pallante",
+            "throws": "RHP",
+            "team_abbr": "STL",
+            "value": 3.7,
+            "bar_pct": 59
+          },
+          {
+            "rank": 23,
             "pitcher_id": "683003",
             "name_display": "J. Jones",
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 3.7,
-            "bar_pct": 60
+            "bar_pct": 59
           },
           {
             "rank": 25,
+            "pitcher_id": "592332",
+            "name_display": "K. Gausman",
+            "throws": "RHP",
+            "team_abbr": "CHC",
+            "value": 3.71,
+            "bar_pct": 59
+          },
+          {
+            "rank": 26,
             "pitcher_id": "694738",
             "name_display": "L. Roupp",
             "throws": "RHP",
             "team_abbr": "SF",
             "value": 3.72,
-            "bar_pct": 60
+            "bar_pct": 59
           },
           {
-            "rank": 26,
+            "rank": 27,
             "pitcher_id": "681035",
             "name_display": "C. Scott",
             "throws": "RHP",
             "team_abbr": "NYM",
             "value": 3.73,
-            "bar_pct": 60
+            "bar_pct": 59
           },
           {
-            "rank": 27,
+            "rank": 28,
             "pitcher_id": "593958",
             "name_display": "E. Rodriguez",
             "throws": "LHP",
             "team_abbr": "AZ",
             "value": 3.74,
-            "bar_pct": 60
-          },
-          {
-            "rank": 28,
-            "pitcher_id": "592332",
-            "name_display": "K. Gausman",
-            "throws": "RHP",
-            "team_abbr": "CHC",
-            "value": 3.76,
             "bar_pct": 59
           },
           {
@@ -6462,7 +6462,7 @@
             "throws": "LHP",
             "team_abbr": "MIL",
             "value": 3.79,
-            "bar_pct": 59
+            "bar_pct": 58
           },
           {
             "rank": 30,
@@ -6471,7 +6471,7 @@
             "throws": "RHP",
             "team_abbr": "ATL",
             "value": 3.95,
-            "bar_pct": 56
+            "bar_pct": 55
           },
           {
             "rank": 31,
@@ -6480,7 +6480,7 @@
             "throws": "LHP",
             "team_abbr": "MIL",
             "value": 4.03,
-            "bar_pct": 55
+            "bar_pct": 54
           },
           {
             "rank": 32,
@@ -6489,7 +6489,7 @@
             "throws": "RHP",
             "team_abbr": "AZ",
             "value": 4.06,
-            "bar_pct": 55
+            "bar_pct": 54
           },
           {
             "rank": 32,
@@ -6498,7 +6498,7 @@
             "throws": "LHP",
             "team_abbr": "CHC",
             "value": 4.06,
-            "bar_pct": 55
+            "bar_pct": 54
           },
           {
             "rank": 34,
@@ -6507,7 +6507,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 4.07,
-            "bar_pct": 55
+            "bar_pct": 54
           },
           {
             "rank": 35,
@@ -6516,7 +6516,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 4.08,
-            "bar_pct": 55
+            "bar_pct": 54
           },
           {
             "rank": 36,
@@ -6525,7 +6525,7 @@
             "throws": "RHP",
             "team_abbr": "MIA",
             "value": 4.09,
-            "bar_pct": 55
+            "bar_pct": 54
           },
           {
             "rank": 37,
@@ -6534,7 +6534,7 @@
             "throws": "RHP",
             "team_abbr": "STL",
             "value": 4.18,
-            "bar_pct": 53
+            "bar_pct": 52
           },
           {
             "rank": 38,
@@ -6543,7 +6543,7 @@
             "throws": "RHP",
             "team_abbr": "PIT",
             "value": 4.19,
-            "bar_pct": 53
+            "bar_pct": 52
           },
           {
             "rank": 39,
@@ -6551,8 +6551,8 @@
             "name_display": "J. Junk",
             "throws": "RHP",
             "team_abbr": "MIA",
-            "value": 4.21,
-            "bar_pct": 53
+            "value": 4.2,
+            "bar_pct": 52
           },
           {
             "rank": 40,
@@ -6561,7 +6561,7 @@
             "throws": "RHP",
             "team_abbr": "SD",
             "value": 4.23,
-            "bar_pct": 53
+            "bar_pct": 52
           }
         ]
       }

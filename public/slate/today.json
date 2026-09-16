@@ -11,6 +11,7 @@
       "home_abbr": "CIN",
       "start_time_display": "6:40 PM",
       "start_time_utc": "2026-09-15T22:40:00Z",
+      "venue": "Great American Ball Park",
       "starters": {
         "away": {
           "tbd": false,
@@ -20,10 +21,10 @@
           "throws": "RHP",
           "team_abbr": "LAD",
           "stats": {
-            "era": 2.62,
-            "k_per_9": 8.95,
-            "ip": 172.0,
-            "k": 171
+            "era": 2.52,
+            "k_per_9": 8.97,
+            "ip": 178.2,
+            "k": 178
           },
           "form_tag": "hot",
           "read": "Workhorse \u2014 90+ pitches in 10 of his last 10 starts.",
@@ -90,10 +91,10 @@
           "throws": "RHP",
           "team_abbr": "CIN",
           "stats": {
-            "era": 5.81,
+            "era": 5.79,
             "k_per_9": 7.09,
-            "ip": 119.1,
-            "k": 94
+            "ip": 124.1,
+            "k": 98
           },
           "form_tag": "cold",
           "read": "Rough stretch \u2014 9.33 ERA over his last four (19 ER in 18.1 IP).",
@@ -162,6 +163,7 @@
       "home_abbr": "TB",
       "start_time_display": "6:40 PM",
       "start_time_utc": "2026-09-15T22:40:00Z",
+      "venue": "Tropicana Field",
       "starters": {
         "away": {
           "tbd": false,
@@ -171,10 +173,10 @@
           "throws": "RHP",
           "team_abbr": "ATH",
           "stats": {
-            "era": 6.53,
-            "k_per_9": 10.36,
-            "ip": 103.1,
-            "k": 119
+            "era": 6.14,
+            "k_per_9": 10.39,
+            "ip": 110.0,
+            "k": 127
           },
           "form_tag": "cold",
           "read": "Rough stretch \u2014 7.00 ERA over his last four (14 ER in 18.0 IP).",
@@ -241,10 +243,10 @@
           "throws": "RHP",
           "team_abbr": "TB",
           "stats": {
-            "era": 3.99,
-            "k_per_9": 9.33,
-            "ip": 99.1,
-            "k": 103
+            "era": 3.8,
+            "k_per_9": 9.49,
+            "ip": 104.1,
+            "k": 110
           },
           "form_tag": "cold",
           "read": "Rough stretch \u2014 5.68 ERA over his last three (8 ER in 12.2 IP).",
@@ -313,6 +315,7 @@
       "home_abbr": "CLE",
       "start_time_display": "6:40 PM",
       "start_time_utc": "2026-09-15T22:40:00Z",
+      "venue": "Progressive Field",
       "starters": {
         "away": {
           "tbd": false,
@@ -322,13 +325,13 @@
           "throws": "LHP",
           "team_abbr": "CWS",
           "stats": {
-            "era": 3.94,
-            "k_per_9": 9.56,
-            "ip": 32.0,
+            "era": 4.68,
+            "k_per_9": 9.37,
+            "ip": 32.2,
             "k": 34
           },
           "form_tag": "steady",
-          "read": "Misses bats \u2014 9.56 K/9, about a strikeout an inning.",
+          "read": "Misses bats \u2014 9.37 K/9, about a strikeout an inning.",
           "last_4": [
             {
               "date_display": "Jul 5",
@@ -366,10 +369,10 @@
           "throws": "LHP",
           "team_abbr": "CLE",
           "stats": {
-            "era": 3.65,
-            "k_per_9": 8.08,
-            "ip": 162.2,
-            "k": 146
+            "era": 3.67,
+            "k_per_9": 8.15,
+            "ip": 166.2,
+            "k": 151
           },
           "form_tag": "cold",
           "read": "Rough stretch \u2014 7.36 ERA over his last four (15 ER in 18.1 IP).",
@@ -438,6 +441,7 @@
       "home_abbr": "PIT",
       "start_time_display": "6:40 PM",
       "start_time_utc": "2026-09-15T22:40:00Z",
+      "venue": "PNC Park",
       "starters": {
         "away": {
           "tbd": false,
@@ -447,10 +451,10 @@
           "throws": "RHP",
           "team_abbr": "MIL",
           "stats": {
-            "era": 1.95,
-            "k_per_9": 13.17,
-            "ip": 161.1,
-            "k": 236
+            "era": 1.89,
+            "k_per_9": 13.15,
+            "ip": 166.1,
+            "k": 243
           },
           "form_tag": "cold",
           "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
@@ -517,13 +521,13 @@
           "throws": "RHP",
           "team_abbr": "PIT",
           "stats": {
-            "era": 3.52,
-            "k_per_9": 9.42,
-            "ip": 79.1,
-            "k": 83
+            "era": 3.54,
+            "k_per_9": 9.3,
+            "ip": 81.1,
+            "k": 84
           },
           "form_tag": "hot",
-          "read": "Misses bats \u2014 9.42 K/9, about a strikeout an inning.",
+          "read": "Misses bats \u2014 9.3 K/9, about a strikeout an inning.",
           "last_4": [
             {
               "date_display": "Sep 9",
@@ -589,6 +593,7 @@
       "home_abbr": "WSH",
       "start_time_display": "6:45 PM",
       "start_time_utc": "2026-09-15T22:45:00Z",
+      "venue": "Nationals Park",
       "starters": {
         "away": {
           "tbd": false,
@@ -598,10 +603,10 @@
           "throws": "LHP",
           "team_abbr": "PHI",
           "stats": {
-            "era": 2.79,
-            "k_per_9": 10.09,
-            "ip": 187.1,
-            "k": 210
+            "era": 2.84,
+            "k_per_9": 10.01,
+            "ip": 193.1,
+            "k": 215
           },
           "form_tag": "cold",
           "read": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
@@ -668,13 +673,13 @@
           "throws": "LHP",
           "team_abbr": "WSH",
           "stats": {
-            "era": 6.59,
-            "k_per_9": 7.57,
-            "ip": 27.1,
-            "k": 23
+            "era": 6.4,
+            "k_per_9": 7.52,
+            "ip": 32.1,
+            "k": 27
           },
-          "form_tag": "hot",
-          "read": "6.59 ERA with 7.57 K/9 over 27.1 innings this season.",
+          "form_tag": "steady",
+          "read": "6.4 ERA with 7.52 K/9 over 32.1 innings this season.",
           "last_4": [
             {
               "date_display": "Sep 9",
@@ -740,6 +745,7 @@
       "home_abbr": "TOR",
       "start_time_display": "7:07 PM",
       "start_time_utc": "2026-09-15T23:07:00Z",
+      "venue": "Rogers Centre",
       "starters": {
         "away": {
           "tbd": false,
@@ -749,13 +755,13 @@
           "throws": "RHP",
           "team_abbr": "DET",
           "stats": {
-            "era": 3.8,
-            "k_per_9": 9.74,
-            "ip": 97.0,
-            "k": 105
+            "era": 3.65,
+            "k_per_9": 9.71,
+            "ip": 101.0,
+            "k": 109
           },
           "form_tag": "steady",
-          "read": "Misses bats \u2014 9.74 K/9, about a strikeout an inning.",
+          "read": "Misses bats \u2014 9.71 K/9, about a strikeout an inning.",
           "last_4": [
             {
               "date_display": "Sep 8",
@@ -819,10 +825,10 @@
           "throws": "RHP",
           "team_abbr": "TOR",
           "stats": {
-            "era": 3.22,
-            "k_per_9": 8.92,
-            "ip": 72.2,
-            "k": 72
+            "era": 3.16,
+            "k_per_9": 8.88,
+            "ip": 74.0,
+            "k": 73
           },
           "form_tag": "steady",
           "read": "Tough on right-handed bats \u2014 .189 against (127 AB).",
@@ -891,6 +897,7 @@
       "home_abbr": "NYM",
       "start_time_display": "7:10 PM",
       "start_time_utc": "2026-09-15T23:10:00Z",
+      "venue": "Citi Field",
       "starters": {
         "away": {
           "tbd": false,
@@ -900,10 +907,10 @@
           "throws": "RHP",
           "team_abbr": "BAL",
           "stats": {
-            "era": 4.05,
-            "k_per_9": 7.99,
-            "ip": 169.0,
-            "k": 150
+            "era": 4.11,
+            "k_per_9": 7.91,
+            "ip": 173.0,
+            "k": 152
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
@@ -970,10 +977,10 @@
           "throws": "LHP",
           "team_abbr": "NYM",
           "stats": {
-            "era": 4.79,
-            "k_per_9": 8.51,
-            "ip": 133.1,
-            "k": 126
+            "era": 4.75,
+            "k_per_9": 8.59,
+            "ip": 138.1,
+            "k": 132
           },
           "form_tag": "cold",
           "read": "Struggling lately \u2014 4+ runs in four of his last four.",
@@ -1042,6 +1049,7 @@
       "home_abbr": "CHC",
       "start_time_display": "7:40 PM",
       "start_time_utc": "2026-09-15T23:40:00Z",
+      "venue": "Wrigley Field",
       "starters": {
         "away": {
           "tbd": false,
@@ -1053,8 +1061,8 @@
           "stats": {
             "era": 3.08,
             "k_per_9": 6.7,
-            "ip": 131.2,
-            "k": 98
+            "ip": 134.1,
+            "k": 100
           },
           "form_tag": "hot",
           "read": "Rolling \u2014 2.66 ERA over his last 4 (6 ER in 20.1 IP).",
@@ -1121,10 +1129,10 @@
           "throws": "RHP",
           "team_abbr": "CHC",
           "stats": {
-            "era": 4.6,
+            "era": 4.52,
             "k_per_9": 9.25,
-            "ip": 166.1,
-            "k": 171
+            "ip": 169.1,
+            "k": 174
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
@@ -1193,6 +1201,7 @@
       "home_abbr": "MIN",
       "start_time_display": "7:40 PM",
       "start_time_utc": "2026-09-15T23:40:00Z",
+      "venue": "Target Field",
       "starters": {
         "away": {
           "tbd": false,
@@ -1202,10 +1211,10 @@
           "throws": "LHP",
           "team_abbr": "NYY",
           "stats": {
-            "era": 2.73,
+            "era": 2.76,
             "k_per_9": 8.55,
-            "ip": 99.0,
-            "k": 94
+            "ip": 101.0,
+            "k": 96
           },
           "form_tag": "hot",
           "read": "Rolling \u2014 2.04 ERA over his last 4 (4 ER in 17.2 IP).",
@@ -1272,10 +1281,10 @@
           "throws": "RHP",
           "team_abbr": "MIN",
           "stats": {
-            "era": 4.28,
-            "k_per_9": 6.5,
-            "ip": 117.2,
-            "k": 85
+            "era": 4.34,
+            "k_per_9": 6.43,
+            "ip": 120.1,
+            "k": 86
           },
           "form_tag": "hot",
           "read": "Rolling \u2014 2.41 ERA over his last 4 (5 ER in 18.2 IP).",
@@ -1344,6 +1353,7 @@
       "home_abbr": "STL",
       "start_time_display": "7:45 PM",
       "start_time_utc": "2026-09-15T23:45:00Z",
+      "venue": "Busch Stadium",
       "starters": {
         "away": {
           "tbd": false,
@@ -1353,9 +1363,9 @@
           "throws": "RHP",
           "team_abbr": "SF",
           "stats": {
-            "era": 4.82,
-            "k_per_9": 7.33,
-            "ip": 46.2,
+            "era": 4.81,
+            "k_per_9": 7.03,
+            "ip": 48.2,
             "k": 38
           },
           "form_tag": "steady",
@@ -1423,10 +1433,10 @@
           "throws": "RHP",
           "team_abbr": "STL",
           "stats": {
-            "era": 3.45,
-            "k_per_9": 6.29,
-            "ip": 146.0,
-            "k": 102
+            "era": 3.46,
+            "k_per_9": 6.25,
+            "ip": 148.1,
+            "k": 103
           },
           "form_tag": "hot",
           "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
@@ -1495,6 +1505,7 @@
       "home_abbr": "TEX",
       "start_time_display": "8:05 PM",
       "start_time_utc": "2026-09-16T00:05:00Z",
+      "venue": "Globe Life Field",
       "starters": {
         "away": {
           "tbd": false,
@@ -1504,10 +1515,10 @@
           "throws": "LHP",
           "team_abbr": "BOS",
           "stats": {
-            "era": 4.58,
-            "k_per_9": 9.33,
-            "ip": 55.0,
-            "k": 57
+            "era": 4.5,
+            "k_per_9": 9.64,
+            "ip": 56.0,
+            "k": 60
           },
           "form_tag": "steady",
           "read": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
@@ -1574,10 +1585,10 @@
           "throws": "RHP",
           "team_abbr": "TEX",
           "stats": {
-            "era": 3.8,
-            "k_per_9": 11.21,
-            "ip": 149.1,
-            "k": 186
+            "era": 3.75,
+            "k_per_9": 11.18,
+            "ip": 151.1,
+            "k": 188
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
@@ -1646,6 +1657,7 @@
       "home_abbr": "HOU",
       "start_time_display": "8:10 PM",
       "start_time_utc": "2026-09-16T00:10:00Z",
+      "venue": "Daikin Park",
       "starters": {
         "away": {
           "tbd": false,
@@ -1655,9 +1667,9 @@
           "throws": "RHP",
           "team_abbr": "KC",
           "stats": {
-            "era": 3.25,
-            "k_per_9": 7.24,
-            "ip": 182.2,
+            "era": 3.28,
+            "k_per_9": 7.2,
+            "ip": 183.2,
             "k": 147
           },
           "form_tag": "hot",
@@ -1725,10 +1737,10 @@
           "throws": "RHP",
           "team_abbr": "HOU",
           "stats": {
-            "era": 3.52,
-            "k_per_9": 9.78,
-            "ip": 92.0,
-            "k": 100
+            "era": 3.45,
+            "k_per_9": 9.86,
+            "ip": 94.0,
+            "k": 103
           },
           "form_tag": "steady",
           "read": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
@@ -1797,6 +1809,7 @@
       "home_abbr": "COL",
       "start_time_display": "8:40 PM",
       "start_time_utc": "2026-09-16T00:40:00Z",
+      "venue": "Coors Field",
       "starters": {
         "away": {
           "tbd": false,
@@ -1948,6 +1961,7 @@
       "home_abbr": "LAA",
       "start_time_display": "9:38 PM",
       "start_time_utc": "2026-09-16T01:38:00Z",
+      "venue": "Angel Stadium",
       "starters": {
         "away": {
           "tbd": false,
@@ -2099,6 +2113,7 @@
       "home_abbr": "AZ",
       "start_time_display": "9:40 PM",
       "start_time_utc": "2026-09-16T01:40:00Z",
+      "venue": "Chase Field",
       "starters": {
         "away": {
           "tbd": false,

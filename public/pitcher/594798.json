@@ -12,7 +12,7 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 11.21 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 11.18 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
@@ -24,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.8,
-      "percentile": 59,
+      "value": 3.75,
+      "percentile": 62,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,7 +33,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 11.21,
+      "value": 11.18,
       "percentile": 97,
       "league": "AL",
       "league_rank": 4,
@@ -42,8 +42,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 149.1,
-      "percentile": 68,
+      "value": 151.1,
+      "percentile": 69,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -51,35 +51,35 @@
     {
       "key": "k",
       "label": "K",
-      "value": 186,
-      "percentile": 92,
+      "value": 188,
+      "percentile": 93,
       "league": "AL",
-      "league_rank": 7,
-      "mlb_rank": 12
+      "league_rank": 6,
+      "mlb_rank": 11
     },
     {
       "key": "bb",
       "label": "BB",
       "value": 38,
-      "percentile": 82,
+      "percentile": 83,
       "league": "AL",
       "league_rank": 13,
-      "mlb_rank": 27
+      "mlb_rank": 26
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.29,
-      "percentile": 82,
+      "value": 2.26,
+      "percentile": 83,
       "league": "AL",
       "league_rank": 13,
-      "mlb_rank": 27
+      "mlb_rank": 26
     },
     {
       "key": "hr",
       "label": "HR",
       "value": 19,
-      "percentile": 52,
+      "percentile": 53,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,7 +87,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.02,
+      "value": 3.0,
       "percentile": 93,
       "league": "AL",
       "league_rank": 5,

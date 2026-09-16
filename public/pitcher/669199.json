@@ -8,7 +8,7 @@
   "qualified": false,
   "read": [
     {
-      "text": "Misses bats \u2014 9.42 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 9.3 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
@@ -28,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.52,
-      "percentile": 74,
+      "value": 3.54,
+      "percentile": 73,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,8 +37,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.42,
-      "percentile": 77,
+      "value": 9.3,
+      "percentile": 74,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,8 +46,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 79.1,
-      "percentile": 6,
+      "value": 81.1,
+      "percentile": 7,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 83,
-      "percentile": 16,
+      "value": 84,
+      "percentile": 17,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,8 +64,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 33,
-      "percentile": 24,
+      "value": 35,
+      "percentile": 20,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.74,
-      "percentile": 24,
+      "value": 3.87,
+      "percentile": 20,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,7 +83,7 @@
       "key": "hr",
       "label": "HR",
       "value": 13,
-      "percentile": 22,
+      "percentile": 26,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,7 +91,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.57,
+      "value": 4.58,
       "percentile": 28,
       "league": "NL",
       "league_rank": null,

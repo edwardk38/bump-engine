@@ -16,7 +16,7 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 13.17 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 13.15 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
@@ -28,7 +28,7 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 1.95,
+      "value": 1.89,
       "percentile": 99,
       "league": "NL",
       "league_rank": 2,
@@ -37,7 +37,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 13.17,
+      "value": 13.15,
       "percentile": 100,
       "league": "NL",
       "league_rank": 1,
@@ -46,17 +46,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 161.1,
-      "percentile": 79,
+      "value": 166.1,
+      "percentile": 87,
       "league": "NL",
-      "league_rank": 13,
-      "mlb_rank": 32
+      "league_rank": 9,
+      "mlb_rank": 19
     },
     {
       "key": "k",
       "label": "K",
-      "value": 236,
-      "percentile": 99,
+      "value": 243,
+      "percentile": 100,
       "league": "NL",
       "league_rank": 1,
       "mlb_rank": 1
@@ -64,34 +64,34 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 41,
+      "value": 42,
       "percentile": 82,
       "league": "NL",
-      "league_rank": 15,
+      "league_rank": 14,
       "mlb_rank": 27
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.29,
+      "value": 2.27,
       "percentile": 82,
       "league": "NL",
-      "league_rank": 15,
+      "league_rank": 14,
       "mlb_rank": 27
     },
     {
       "key": "hr",
       "label": "HR",
       "value": 14,
-      "percentile": 88,
+      "percentile": 91,
       "league": "NL",
-      "league_rank": 12,
-      "mlb_rank": 19
+      "league_rank": 10,
+      "mlb_rank": 14
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 2.23,
+      "value": 2.19,
       "percentile": 100,
       "league": "NL",
       "league_rank": 1,
