@@ -39,7 +39,7 @@
       "key": "ip",
       "label": "IP",
       "value": 90.1,
-      "percentile": 12,
+      "percentile": 11,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

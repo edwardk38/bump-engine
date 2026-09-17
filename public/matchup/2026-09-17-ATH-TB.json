@@ -1,0 +1,366 @@
+{
+  "game_id": "2026-09-17-ATH-TB",
+  "date_display": "Thursday, Sep 17",
+  "start_time_display": "1:10 PM",
+  "venue": "Tropicana Field",
+  "away_team": "Athletics",
+  "home_team": "Tampa Bay Rays",
+  "away_abbr": "ATH",
+  "home_abbr": "TB",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "605488",
+      "name_display": "J. Springs",
+      "throws": "LHP",
+      "team_abbr": "ATH",
+      "opponent_abbr": "TB",
+      "qualified": true,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 5.93,
+        "k_per_9": 7.0
+      },
+      "read": [
+        {
+          "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 5.93,
+          "percentile": 4,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 7.0,
+          "percentile": 21,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 135.0,
+          "percentile": 48,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 105,
+          "percentile": 37,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 54,
+          "percentile": 28,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.6,
+          "percentile": 28,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 33,
+          "percentile": 1,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 5.98,
+          "percentile": 2,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.28,
+          "ab": 157
+        },
+        "vs_rhb": {
+          "avg": 0.262,
+          "ab": 374
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 11",
+          "opp_abbr": "SEA",
+          "is_home": true,
+          "ip": "5.0",
+          "h": 6,
+          "er": 2,
+          "hr": 0,
+          "bb": 2,
+          "so": 1,
+          "pitches": 94,
+          "strikes": 55
+        },
+        {
+          "date_display": "Sep 5",
+          "opp_abbr": "SEA",
+          "is_home": false,
+          "ip": "7.0",
+          "h": 2,
+          "er": 0,
+          "hr": 0,
+          "bb": 2,
+          "so": 6,
+          "pitches": 81,
+          "strikes": 50
+        },
+        {
+          "date_display": "Aug 30",
+          "opp_abbr": "BAL",
+          "is_home": true,
+          "ip": "4.2",
+          "h": 6,
+          "er": 7,
+          "hr": 3,
+          "bb": 1,
+          "so": 6,
+          "pitches": 90,
+          "strikes": 59
+        },
+        {
+          "date_display": "Aug 24",
+          "opp_abbr": "MIN",
+          "is_home": true,
+          "ip": "4.2",
+          "h": 7,
+          "er": 4,
+          "hr": 1,
+          "bb": 2,
+          "so": 3,
+          "pitches": 89,
+          "strikes": 60
+        },
+        {
+          "date_display": "Aug 19",
+          "opp_abbr": "KC",
+          "is_home": false,
+          "ip": "5.2",
+          "h": 5,
+          "er": 2,
+          "hr": 1,
+          "bb": 3,
+          "so": 1,
+          "pitches": 85,
+          "strikes": 52
+        }
+      ]
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "656876",
+      "name_display": "D. Rasmussen",
+      "throws": "RHP",
+      "team_abbr": "TB",
+      "opponent_abbr": "ATH",
+      "qualified": true,
+      "form_tag": "hot",
+      "headline_stats": {
+        "era": 2.81,
+        "k_per_9": 8.98
+      },
+      "read": [
+        {
+          "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+          "highlight": false
+        },
+        {
+          "text": "Works into the 6th regularly \u2014 5+ IP in 10 of his last 10.",
+          "highlight": false
+        },
+        {
+          "text": "Rolling \u2014 1.73 ERA over his last 4 (5 ER in 26.0 IP).",
+          "highlight": false
+        },
+        {
+          "text": "Team has won 10 of his last 10 starts.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 2.81,
+          "percentile": 90,
+          "league": "AL",
+          "league_rank": 7,
+          "mlb_rank": 16
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 8.98,
+          "percentile": 68,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 160.1,
+          "percentile": 76,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 160,
+          "percentile": 81,
+          "league": "AL",
+          "league_rank": 14,
+          "mlb_rank": 29
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 27,
+          "percentile": 99,
+          "league": "AL",
+          "league_rank": 2,
+          "mlb_rank": 2
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 1.52,
+          "percentile": 99,
+          "league": "AL",
+          "league_rank": 2,
+          "mlb_rank": 2
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 14,
+          "percentile": 88,
+          "league": "AL",
+          "league_rank": 8,
+          "mlb_rank": 19
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 2.87,
+          "percentile": 94,
+          "league": "AL",
+          "league_rank": 4,
+          "mlb_rank": 10
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.216,
+          "ab": 342
+        },
+        "vs_rhb": {
+          "avg": 0.187,
+          "ab": 246
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 11",
+          "opp_abbr": "HOU",
+          "is_home": true,
+          "ip": "7.0",
+          "h": 8,
+          "er": 1,
+          "hr": 0,
+          "bb": 0,
+          "so": 4,
+          "pitches": 92,
+          "strikes": 60
+        },
+        {
+          "date_display": "Sep 5",
+          "opp_abbr": "TEX",
+          "is_home": false,
+          "ip": "7.0",
+          "h": 3,
+          "er": 1,
+          "hr": 1,
+          "bb": 0,
+          "so": 7,
+          "pitches": 97,
+          "strikes": 67
+        },
+        {
+          "date_display": "Aug 30",
+          "opp_abbr": "SD",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 4,
+          "er": 2,
+          "hr": 0,
+          "bb": 2,
+          "so": 6,
+          "pitches": 97,
+          "strikes": 66
+        },
+        {
+          "date_display": "Aug 24",
+          "opp_abbr": "DET",
+          "is_home": false,
+          "ip": "6.0",
+          "h": 3,
+          "er": 1,
+          "hr": 0,
+          "bb": 0,
+          "so": 5,
+          "pitches": 103,
+          "strikes": 71
+        },
+        {
+          "date_display": "Aug 19",
+          "opp_abbr": "TOR",
+          "is_home": true,
+          "ip": "5.0",
+          "h": 7,
+          "er": 5,
+          "hr": 1,
+          "bb": 2,
+          "so": 5,
+          "pitches": 86,
+          "strikes": 61
+        }
+      ]
+    }
+  }
+}

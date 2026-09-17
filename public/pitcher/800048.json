@@ -4,7 +4,7 @@
   "name_full": "Parker Messick",
   "throws": "LHP",
   "team_abbr": "CLE",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -16,11 +16,11 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 9.3 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 9.39 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
-      "text": "Rolling \u2014 2.31 ERA over his last 4 (6 ER in 23.1 IP).",
+      "text": "Going deep \u2014 6+ innings in 5 of his last 6 starts.",
       "highlight": false
     }
   ],
@@ -28,17 +28,17 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.51,
-      "percentile": 95,
+      "value": 2.57,
+      "percentile": 94,
       "league": "AL",
-      "league_rank": 3,
-      "mlb_rank": 7
+      "league_rank": 4,
+      "mlb_rank": 9
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.3,
-      "percentile": 74,
+      "value": 9.39,
+      "percentile": 76,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,26 +46,26 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 172.1,
-      "percentile": 91,
+      "value": 178.1,
+      "percentile": 95,
       "league": "AL",
-      "league_rank": 8,
-      "mlb_rank": 14
+      "league_rank": 3,
+      "mlb_rank": 7
     },
     {
       "key": "k",
       "label": "K",
-      "value": 178,
-      "percentile": 90,
+      "value": 186,
+      "percentile": 92,
       "league": "AL",
       "league_rank": 8,
-      "mlb_rank": 16
+      "mlb_rank": 13
     },
     {
       "key": "bb",
       "label": "BB",
       "value": 47,
-      "percentile": 75,
+      "percentile": 79,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.45,
-      "percentile": 75,
+      "value": 2.37,
+      "percentile": 79,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -82,11 +82,11 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 16,
-      "percentile": 84,
+      "value": 17,
+      "percentile": 82,
       "league": "AL",
-      "league_rank": 11,
-      "mlb_rank": 25
+      "league_rank": 12,
+      "mlb_rank": 27
     },
     {
       "key": "fip",
@@ -100,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.251,
-      "ab": 171
+      "avg": 0.242,
+      "ab": 178
     },
     "vs_rhb": {
-      "avg": 0.192,
-      "ab": 458
+      "avg": 0.2,
+      "ab": 476
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 16",
+      "opp_abbr": "CWS",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 7,
+      "er": 3,
+      "hr": 1,
+      "bb": 0,
+      "so": 8,
+      "pitches": 86,
+      "strikes": 62
+    },
     {
       "date_display": "Sep 11",
       "opp_abbr": "MIN",
@@ -160,19 +173,6 @@
       "so": 4,
       "pitches": 94,
       "strikes": 59
-    },
-    {
-      "date_display": "Aug 19",
-      "opp_abbr": "SF",
-      "is_home": true,
-      "ip": "6.2",
-      "h": 6,
-      "er": 1,
-      "hr": 0,
-      "bb": 0,
-      "so": 10,
-      "pitches": 98,
-      "strikes": 72
     }
   ]
 }

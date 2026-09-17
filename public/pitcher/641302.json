@@ -1,0 +1,153 @@
+{
+  "pitcher_id": "641302",
+  "name_display": "T. Alexander",
+  "name_full": "Tyler Alexander",
+  "throws": "LHP",
+  "team_abbr": "TEX",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "3.38 ERA with 7.7 K/9 over 66.2 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.38,
+      "percentile": 78,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.7,
+      "percentile": 38,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 66.2,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 57,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 19,
+      "percentile": 71,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.57,
+      "percentile": 71,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 3,
+      "percentile": 99,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.0,
+      "percentile": 93,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.277,
+      "ab": 112
+    },
+    "vs_rhb": {
+      "avg": 0.241,
+      "ab": 145
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jul 22",
+      "opp_abbr": "CWS",
+      "is_home": true,
+      "ip": "2.0",
+      "h": 1,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 1,
+      "pitches": 34,
+      "strikes": 21
+    },
+    {
+      "date_display": "Jun 29",
+      "opp_abbr": "CLE",
+      "is_home": false,
+      "ip": "1.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 2,
+      "pitches": 16,
+      "strikes": 12
+    },
+    {
+      "date_display": "Jun 22",
+      "opp_abbr": "MIA",
+      "is_home": false,
+      "ip": "1.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 1,
+      "pitches": 15,
+      "strikes": 10
+    },
+    {
+      "date_display": "May 19",
+      "opp_abbr": "COL",
+      "is_home": false,
+      "ip": "1.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 1,
+      "pitches": 16,
+      "strikes": 11
+    }
+  ]
+}
