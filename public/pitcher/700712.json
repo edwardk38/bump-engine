@@ -4,7 +4,7 @@
   "name_full": "Walbert Ure\u00f1a",
   "throws": "RHP",
   "team_abbr": "LAA",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
@@ -16,7 +16,11 @@
       "highlight": false
     },
     {
-      "text": "Tough on right-handed bats \u2014 .184 against (223 AB).",
+      "text": "Rolling \u2014 1.93 ERA over his last 4 (6 ER in 28.0 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .177 against (231 AB).",
       "highlight": false
     }
   ],
@@ -24,17 +28,17 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.88,
-      "percentile": 88,
+      "value": 2.74,
+      "percentile": 91,
       "league": "AL",
-      "league_rank": 8,
-      "mlb_rank": 19
+      "league_rank": 7,
+      "mlb_rank": 15
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.58,
-      "percentile": 57,
+      "value": 8.73,
+      "percentile": 61,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -42,8 +46,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 137.1,
-      "percentile": 49,
+      "value": 144.1,
+      "percentile": 59,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -51,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 131,
-      "percentile": 62,
+      "value": 140,
+      "percentile": 68,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,7 +65,7 @@
       "key": "bb",
       "label": "BB",
       "value": 67,
-      "percentile": 8,
+      "percentile": 11,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.39,
-      "percentile": 8,
+      "value": 4.18,
+      "percentile": 11,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +83,7 @@
       "key": "hr",
       "label": "HR",
       "value": 9,
-      "percentile": 96,
+      "percentile": 97,
       "league": "AL",
       "league_rank": 2,
       "mlb_rank": 5
@@ -87,24 +91,37 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.67,
-      "percentile": 73,
+      "value": 3.52,
+      "percentile": 77,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 15,
+      "mlb_rank": 35
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.223,
-      "ab": 278
+      "avg": 0.224,
+      "ab": 295
     },
     "vs_rhb": {
-      "avg": 0.184,
-      "ab": 223
+      "avg": 0.177,
+      "ab": 231
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 17",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "7.0",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 9,
+      "pitches": 91,
+      "strikes": 62
+    },
     {
       "date_display": "Sep 12",
       "opp_abbr": "WSH",
@@ -156,19 +173,6 @@
       "so": 3,
       "pitches": 89,
       "strikes": 50
-    },
-    {
-      "date_display": "Aug 19",
-      "opp_abbr": "HOU",
-      "is_home": false,
-      "ip": "5.0",
-      "h": 3,
-      "er": 3,
-      "hr": 1,
-      "bb": 2,
-      "so": 7,
-      "pitches": 94,
-      "strikes": 58
     }
   ]
 }

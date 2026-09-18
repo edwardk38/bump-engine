@@ -4,7 +4,7 @@
   "name_full": "Tyler Glasnow",
   "throws": "RHP",
   "team_abbr": "LAD",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": false,
   "read": [
     {
@@ -12,15 +12,15 @@
       "highlight": false
     },
     {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 10.92 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 11.24 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
-      "text": "Team has won 8 of his last 10 starts.",
+      "text": "Team has won 7 of his last 10 starts.",
       "highlight": false
     }
   ],
@@ -28,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.12,
-      "percentile": 84,
+      "value": 3.5,
+      "percentile": 74,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,8 +37,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 10.92,
-      "percentile": 95,
+      "value": 11.24,
+      "percentile": 97,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,7 +46,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 57.2,
+      "value": 61.2,
       "percentile": 0,
       "league": "NL",
       "league_rank": null,
@@ -55,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 70,
-      "percentile": 7,
+      "value": 77,
+      "percentile": 12,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,8 +64,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 17,
-      "percentile": 68,
+      "value": 21,
+      "percentile": 46,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.65,
-      "percentile": 68,
+      "value": 3.06,
+      "percentile": 46,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -82,8 +82,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 5,
-      "percentile": 87,
+      "value": 6,
+      "percentile": 81,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 2.68,
-      "percentile": 96,
+      "value": 2.93,
+      "percentile": 93,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -100,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.161,
-      "ab": 124
+      "avg": 0.172,
+      "ab": 134
     },
     "vs_rhb": {
-      "avg": 0.187,
-      "ab": 75
+      "avg": 0.195,
+      "ab": 82
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 12",
+      "opp_abbr": "MIA",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 5,
+      "er": 4,
+      "hr": 1,
+      "bb": 4,
+      "so": 7,
+      "pitches": 91,
+      "strikes": 52
+    },
     {
       "date_display": "Sep 5",
       "opp_abbr": "WSH",
@@ -160,19 +173,6 @@
       "so": 2,
       "pitches": 19,
       "strikes": 10
-    },
-    {
-      "date_display": "Apr 29",
-      "opp_abbr": "MIA",
-      "is_home": true,
-      "ip": "5.2",
-      "h": 3,
-      "er": 2,
-      "hr": 2,
-      "bb": 6,
-      "so": 9,
-      "pitches": 92,
-      "strikes": 56
     }
   ]
 }

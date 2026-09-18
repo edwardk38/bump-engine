@@ -1,0 +1,153 @@
+{
+  "pitcher_id": "689818",
+  "name_display": "D. Sandlin",
+  "name_full": "David Sandlin",
+  "throws": "RHP",
+  "team_abbr": "CWS",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "5.64 ERA with 8.6 K/9 over 30.1 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.64,
+      "percentile": 8,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.6,
+      "percentile": 57,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 30.1,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 29,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 12,
+      "percentile": 29,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.56,
+      "percentile": 29,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 6,
+      "percentile": 9,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.03,
+      "percentile": 14,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.275,
+      "ab": 69
+    },
+    "vs_rhb": {
+      "avg": 0.114,
+      "ab": 44
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Sep 13",
+      "opp_abbr": "STL",
+      "is_home": false,
+      "ip": "5.2",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 5,
+      "pitches": 70,
+      "strikes": 47
+    },
+    {
+      "date_display": "Jun 26",
+      "opp_abbr": "KC",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 6,
+      "pitches": 91,
+      "strikes": 56
+    },
+    {
+      "date_display": "Jun 1",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 8,
+      "er": 8,
+      "hr": 1,
+      "bb": 4,
+      "so": 4,
+      "pitches": 80,
+      "strikes": 44
+    },
+    {
+      "date_display": "May 27",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 1,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 4,
+      "pitches": 61,
+      "strikes": 41
+    }
+  ]
+}

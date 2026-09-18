@@ -50,7 +50,7 @@
       "percentile": 94,
       "league": "AL",
       "league_rank": 4,
-      "mlb_rank": 9
+      "mlb_rank": 10
     },
     {
       "key": "k",
@@ -58,8 +58,8 @@
       "value": 194,
       "percentile": 94,
       "league": "AL",
-      "league_rank": 5,
-      "mlb_rank": 8
+      "league_rank": 6,
+      "mlb_rank": 9
     },
     {
       "key": "bb",

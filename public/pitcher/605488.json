@@ -4,11 +4,11 @@
   "name_full": "Jeffrey Springs",
   "throws": "LHP",
   "team_abbr": "ATH",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+      "text": "Rough stretch \u2014 6.75 ERA over his last four (15 ER in 20.0 IP).",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 5.93,
-      "percentile": 4,
+      "value": 6.18,
+      "percentile": 2,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.0,
-      "percentile": 21,
+      "value": 7.09,
+      "percentile": 22,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 135.0,
-      "percentile": 48,
+      "value": 138.1,
+      "percentile": 52,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 105,
-      "percentile": 37,
+      "value": 109,
+      "percentile": 42,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,7 +52,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 54,
+      "value": 56,
       "percentile": 28,
       "league": "AL",
       "league_rank": null,
@@ -61,7 +61,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.6,
+      "value": 3.64,
       "percentile": 28,
       "league": "AL",
       "league_rank": null,
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 33,
-      "percentile": 1,
+      "percentile": 2,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +79,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.98,
+      "value": 5.92,
       "percentile": 2,
       "league": "AL",
       "league_rank": null,
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.28,
-      "ab": 157
+      "avg": 0.293,
+      "ab": 164
     },
     "vs_rhb": {
-      "avg": 0.262,
-      "ab": 374
+      "avg": 0.259,
+      "ab": 382
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 17",
+      "opp_abbr": "TB",
+      "is_home": false,
+      "ip": "3.1",
+      "h": 5,
+      "er": 6,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 66,
+      "strikes": 39
+    },
     {
       "date_display": "Sep 11",
       "opp_abbr": "SEA",
@@ -148,19 +161,6 @@
       "so": 3,
       "pitches": 89,
       "strikes": 60
-    },
-    {
-      "date_display": "Aug 19",
-      "opp_abbr": "KC",
-      "is_home": false,
-      "ip": "5.2",
-      "h": 5,
-      "er": 2,
-      "hr": 1,
-      "bb": 3,
-      "so": 1,
-      "pitches": 85,
-      "strikes": 52
     }
   ]
 }

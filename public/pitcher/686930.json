@@ -1,0 +1,153 @@
+{
+  "pitcher_id": "686930",
+  "name_display": "M. Barnett",
+  "name_full": "Mason Barnett",
+  "throws": "RHP",
+  "team_abbr": "ATH",
+  "form_tag": "cold",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Struggling lately \u2014 4+ runs in three of his last three.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 7.08,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.41,
+      "percentile": 53,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 40.2,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 38,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 24,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 5.31,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 12,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 6.97,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.277,
+      "ab": 83
+    },
+    "vs_rhb": {
+      "avg": 0.253,
+      "ab": 75
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 17",
+      "opp_abbr": "KC",
+      "is_home": false,
+      "ip": "2.2",
+      "h": 7,
+      "er": 6,
+      "hr": 1,
+      "bb": 4,
+      "so": 2,
+      "pitches": 83,
+      "strikes": 45
+    },
+    {
+      "date_display": "Aug 11",
+      "opp_abbr": "TB",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 5,
+      "er": 5,
+      "hr": 3,
+      "bb": 3,
+      "so": 0,
+      "pitches": 67,
+      "strikes": 35
+    },
+    {
+      "date_display": "Aug 6",
+      "opp_abbr": "CIN",
+      "is_home": false,
+      "ip": "4.1",
+      "h": 5,
+      "er": 5,
+      "hr": 3,
+      "bb": 3,
+      "so": 7,
+      "pitches": 82,
+      "strikes": 47
+    },
+    {
+      "date_display": "Jul 30",
+      "opp_abbr": "BOS",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 4,
+      "er": 3,
+      "hr": 0,
+      "bb": 1,
+      "so": 6,
+      "pitches": 73,
+      "strikes": 45
+    }
+  ]
+}
