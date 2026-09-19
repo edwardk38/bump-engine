@@ -43,7 +43,7 @@
       "key": "ip",
       "label": "IP",
       "value": 116.2,
-      "percentile": 35,
+      "percentile": 34,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,7 +52,7 @@
       "key": "k",
       "label": "K",
       "value": 88,
-      "percentile": 18,
+      "percentile": 19,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,7 +61,7 @@
       "key": "bb",
       "label": "BB",
       "value": 50,
-      "percentile": 21,
+      "percentile": 19,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,7 +70,7 @@
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 3.86,
-      "percentile": 21,
+      "percentile": 19,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null

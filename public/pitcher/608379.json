@@ -31,7 +31,7 @@
       "value": 3.34,
       "percentile": 80,
       "league": "AL",
-      "league_rank": 13,
+      "league_rank": 14,
       "mlb_rank": 31
     },
     {
@@ -83,7 +83,7 @@
       "key": "hr",
       "label": "HR",
       "value": 27,
-      "percentile": 39,
+      "percentile": 38,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

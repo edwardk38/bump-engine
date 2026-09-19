@@ -29,16 +29,16 @@
       "key": "era",
       "label": "ERA",
       "value": 3.36,
-      "percentile": 78,
+      "percentile": 79,
       "league": "AL",
-      "league_rank": 14,
+      "league_rank": 15,
       "mlb_rank": 33
     },
     {
       "key": "k_per_9",
       "label": "K/9",
       "value": 10.29,
-      "percentile": 87,
+      "percentile": 86,
       "league": "AL",
       "league_rank": 9,
       "mlb_rank": 21
@@ -59,7 +59,7 @@
       "percentile": 95,
       "league": "AL",
       "league_rank": 4,
-      "mlb_rank": 7
+      "mlb_rank": 8
     },
     {
       "key": "bb",

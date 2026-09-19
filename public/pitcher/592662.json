@@ -47,10 +47,10 @@
       "key": "ip",
       "label": "IP",
       "value": 162.1,
-      "percentile": 78,
+      "percentile": 77,
       "league": "NL",
-      "league_rank": 14,
-      "mlb_rank": 34
+      "league_rank": 15,
+      "mlb_rank": 36
     },
     {
       "key": "k",

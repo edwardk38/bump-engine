@@ -4,7 +4,7 @@
   "name_full": "Paul Skenes",
   "throws": "RHP",
   "team_abbr": "PIT",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -12,15 +12,7 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 10.28 K/9, about a strikeout an inning.",
-      "highlight": false
-    },
-    {
-      "text": "Rolling \u2014 2.74 ERA over his last 4 (7 ER in 23.0 IP).",
-      "highlight": false
-    },
-    {
-      "text": "Tough on left-handed bats \u2014 .218 against (348 AB).",
+      "text": "Misses bats \u2014 10.29 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -28,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.78,
-      "percentile": 60,
+      "value": 3.91,
+      "percentile": 52,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,35 +29,35 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 10.28,
+      "value": 10.29,
       "percentile": 86,
       "league": "NL",
       "league_rank": 13,
-      "mlb_rank": 22
+      "mlb_rank": 21
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 162.0,
-      "percentile": 77,
+      "value": 168.0,
+      "percentile": 83,
       "league": "NL",
-      "league_rank": 15,
-      "mlb_rank": 36
+      "league_rank": 12,
+      "mlb_rank": 27
     },
     {
       "key": "k",
       "label": "K",
-      "value": 185,
-      "percentile": 91,
+      "value": 192,
+      "percentile": 93,
       "league": "NL",
-      "league_rank": 7,
-      "mlb_rank": 15
+      "league_rank": 5,
+      "mlb_rank": 12
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 46,
-      "percentile": 71,
+      "value": 47,
+      "percentile": 74,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.56,
-      "percentile": 71,
+      "value": 2.52,
+      "percentile": 74,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -82,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 17,
-      "percentile": 73,
+      "value": 19,
+      "percentile": 64,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,24 +83,37 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.22,
-      "percentile": 89,
+      "value": 3.31,
+      "percentile": 85,
       "league": "NL",
-      "league_rank": 9,
-      "mlb_rank": 18
+      "league_rank": 13,
+      "mlb_rank": 23
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.218,
-      "ab": 348
+      "avg": 0.222,
+      "ab": 360
     },
     "vs_rhb": {
-      "avg": 0.243,
-      "ab": 251
+      "avg": 0.24,
+      "ab": 262
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 18",
+      "opp_abbr": "KC",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 6,
+      "er": 5,
+      "hr": 2,
+      "bb": 1,
+      "so": 7,
+      "pitches": 89,
+      "strikes": 63
+    },
     {
       "date_display": "Sep 12",
       "opp_abbr": "CHC",
@@ -160,19 +165,6 @@
       "so": 4,
       "pitches": 87,
       "strikes": 55
-    },
-    {
-      "date_display": "Aug 19",
-      "opp_abbr": "DET",
-      "is_home": true,
-      "ip": "4.1",
-      "h": 4,
-      "er": 3,
-      "hr": 0,
-      "bb": 4,
-      "so": 5,
-      "pitches": 81,
-      "strikes": 46
     }
   ]
 }

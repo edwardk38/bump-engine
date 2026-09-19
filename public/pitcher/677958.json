@@ -4,11 +4,11 @@
   "name_full": "Kumar Rocker",
   "throws": "RHP",
   "team_abbr": "TEX",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
-      "text": "4.54 ERA with 8.57 K/9 over 138.2 innings this season.",
+      "text": "4.47 ERA with 8.43 K/9 over 143.0 innings this season.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.54,
-      "percentile": 33,
+      "value": 4.47,
+      "percentile": 35,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.57,
-      "percentile": 56,
+      "value": 8.43,
+      "percentile": 54,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 138.2,
-      "percentile": 54,
+      "value": 143.0,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 132,
-      "percentile": 62,
+      "value": 134,
+      "percentile": 63,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 57,
-      "percentile": 26,
+      "value": 59,
+      "percentile": 25,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.7,
-      "percentile": 26,
+      "value": 3.71,
+      "percentile": 25,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 20,
-      "percentile": 37,
+      "percentile": 40,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.38,
-      "percentile": 37,
+      "value": 4.36,
+      "percentile": 39,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.281,
-      "ab": 313
+      "avg": 0.277,
+      "ab": 318
     },
     "vs_rhb": {
-      "avg": 0.229,
-      "ab": 231
+      "avg": 0.231,
+      "ab": 242
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 18",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "4.1",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 2,
+      "pitches": 76,
+      "strikes": 48
+    },
     {
       "date_display": "Sep 12",
       "opp_abbr": "AZ",
@@ -148,19 +161,6 @@
       "so": 3,
       "pitches": 92,
       "strikes": 58
-    },
-    {
-      "date_display": "Aug 14",
-      "opp_abbr": "ATH",
-      "is_home": false,
-      "ip": "5.0",
-      "h": 4,
-      "er": 3,
-      "hr": 0,
-      "bb": 5,
-      "so": 3,
-      "pitches": 94,
-      "strikes": 47
     }
   ]
 }

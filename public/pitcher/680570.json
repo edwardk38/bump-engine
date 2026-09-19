@@ -4,11 +4,15 @@
   "name_full": "Grayson Rodriguez",
   "throws": "RHP",
   "team_abbr": "LAA",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "text": "Rough stretch \u2014 5.73 ERA over his last four (14 ER in 22.0 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
       "highlight": false
     }
   ],
@@ -16,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 6.1,
-      "percentile": 3,
+      "value": 5.96,
+      "percentile": 4,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.17,
-      "percentile": 48,
+      "value": 7.98,
+      "percentile": 43,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 87.0,
-      "percentile": 11,
+      "value": 93.2,
+      "percentile": 14,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 79,
-      "percentile": 14,
+      "value": 83,
+      "percentile": 16,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -53,7 +57,7 @@
       "key": "bb",
       "label": "BB",
       "value": 38,
-      "percentile": 16,
+      "percentile": 27,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.93,
-      "percentile": 16,
+      "value": 3.65,
+      "percentile": 27,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 14,
-      "percentile": 25,
+      "value": 15,
+      "percentile": 26,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.88,
-      "percentile": 16,
+      "value": 4.84,
+      "percentile": 17,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.318,
-      "ab": 201
+      "avg": 0.324,
+      "ab": 216
     },
     "vs_rhb": {
-      "avg": 0.239,
-      "ab": 142
+      "avg": 0.235,
+      "ab": 153
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 18",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "6.2",
+      "h": 8,
+      "er": 3,
+      "hr": 1,
+      "bb": 0,
+      "so": 4,
+      "pitches": 91,
+      "strikes": 66
+    },
     {
       "date_display": "Sep 13",
       "opp_abbr": "WSH",
@@ -148,19 +165,6 @@
       "so": 4,
       "pitches": 92,
       "strikes": 63
-    },
-    {
-      "date_display": "Aug 20",
-      "opp_abbr": "HOU",
-      "is_home": false,
-      "ip": "7.0",
-      "h": 5,
-      "er": 0,
-      "hr": 0,
-      "bb": 2,
-      "so": 6,
-      "pitches": 99,
-      "strikes": 73
     }
   ]
 }

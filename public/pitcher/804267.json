@@ -4,7 +4,7 @@
   "name_full": "Zac Thornton",
   "throws": "LHP",
   "team_abbr": "NYM",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
@@ -14,14 +14,18 @@
     {
       "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
       "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .220 against (100 AB).",
+      "highlight": false
     }
   ],
   "season_stats": [
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.44,
-      "percentile": 76,
+      "value": 3.4,
+      "percentile": 78,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +33,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.75,
-      "percentile": 13,
+      "value": 6.69,
+      "percentile": 14,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,8 +42,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 73.1,
-      "percentile": 2,
+      "value": 79.1,
+      "percentile": 6,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,8 +51,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 55,
-      "percentile": 1,
+      "value": 59,
+      "percentile": 2,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,26 +60,26 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 16,
-      "percentile": 93,
+      "value": 17,
+      "percentile": 94,
       "league": "NL",
       "league_rank": 5,
-      "mlb_rank": 11
+      "mlb_rank": 9
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 1.96,
-      "percentile": 93,
+      "value": 1.93,
+      "percentile": 94,
       "league": "NL",
       "league_rank": 5,
-      "mlb_rank": 11
+      "mlb_rank": 9
     },
     {
       "key": "hr",
       "label": "HR",
-      "value": 12,
-      "percentile": 24,
+      "value": 13,
+      "percentile": 23,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +87,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.45,
-      "percentile": 34,
+      "value": 4.49,
+      "percentile": 33,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.233,
-      "ab": 90
+      "avg": 0.22,
+      "ab": 100
     },
     "vs_rhb": {
-      "avg": 0.262,
-      "ab": 183
+      "avg": 0.265,
+      "ab": 196
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 18",
+      "opp_abbr": "PHI",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 5,
+      "er": 2,
+      "hr": 1,
+      "bb": 1,
+      "so": 4,
+      "pitches": 87,
+      "strikes": 59
+    },
     {
       "date_display": "Sep 12",
       "opp_abbr": "NYY",
@@ -152,19 +169,6 @@
       "so": 4,
       "pitches": 89,
       "strikes": 62
-    },
-    {
-      "date_display": "Aug 18",
-      "opp_abbr": "SD",
-      "is_home": true,
-      "ip": "5.0",
-      "h": 7,
-      "er": 3,
-      "hr": 2,
-      "bb": 1,
-      "so": 7,
-      "pitches": 99,
-      "strikes": 69
     }
   ]
 }

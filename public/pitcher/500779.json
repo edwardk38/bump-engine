@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "500779",
+  "name_display": "J. Quintana",
+  "name_full": "Jose Quintana",
+  "throws": "LHP",
+  "team_abbr": "COL",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "5.27 ERA with 4.39 K/9 over 41.0 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.27,
+      "percentile": 16,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 4.39,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 41.0,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 20,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 17,
+      "percentile": 25,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.73,
+      "percentile": 25,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 6,
+      "percentile": 33,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.33,
+      "percentile": 10,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.25,
+      "ab": 32
+    },
+    "vs_rhb": {
+      "avg": 0.298,
+      "ab": 124
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "May 24",
+      "opp_abbr": "AZ",
+      "is_home": false,
+      "ip": "1.1",
+      "h": 6,
+      "er": 6,
+      "hr": 0,
+      "bb": 0,
+      "so": 0,
+      "pitches": 33,
+      "strikes": 21
+    },
+    {
+      "date_display": "May 18",
+      "opp_abbr": "TEX",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 7,
+      "er": 3,
+      "hr": 1,
+      "bb": 1,
+      "so": 4,
+      "pitches": 94,
+      "strikes": 62
+    },
+    {
+      "date_display": "May 13",
+      "opp_abbr": "PIT",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 5,
+      "er": 2,
+      "hr": 0,
+      "bb": 3,
+      "so": 2,
+      "pitches": 73,
+      "strikes": 43
+    },
+    {
+      "date_display": "May 7",
+      "opp_abbr": "NYM",
+      "is_home": true,
+      "ip": "5.2",
+      "h": 5,
+      "er": 2,
+      "hr": 0,
+      "bb": 2,
+      "so": 2,
+      "pitches": 74,
+      "strikes": 43
+    },
+    {
+      "date_display": "May 1",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 5,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 3,
+      "pitches": 85,
+      "strikes": 55
+    }
+  ]
+}

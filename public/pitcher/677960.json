@@ -16,7 +16,7 @@
       "highlight": false
     },
     {
-      "text": "Rolling \u2014 1.61 ERA over his last 4 (4 ER in 22.1 IP).",
+      "text": "Rolling \u2014 2.20 ERA over his last 3 (4 ER in 16.1 IP).",
       "highlight": false
     }
   ],
@@ -79,7 +79,7 @@
       "key": "hr",
       "label": "HR",
       "value": 18,
-      "percentile": 50,
+      "percentile": 49,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,7 +88,7 @@
       "key": "fip",
       "label": "FIP",
       "value": 3.61,
-      "percentile": 75,
+      "percentile": 77,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
