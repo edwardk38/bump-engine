@@ -4,13 +4,9 @@
   "name_full": "Jack Perkins",
   "throws": "RHP",
   "team_abbr": "ATH",
-  "form_tag": "cold",
+  "form_tag": "hot",
   "qualified": false,
   "read": [
-    {
-      "text": "Rough stretch \u2014 7.00 ERA over his last four (14 ER in 18.0 IP).",
-      "highlight": false
-    },
     {
       "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
       "highlight": false
@@ -52,7 +48,7 @@
       "key": "k",
       "label": "K",
       "value": 127,
-      "percentile": 59,
+      "percentile": 58,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,7 +57,7 @@
       "key": "bb",
       "label": "BB",
       "value": 48,
-      "percentile": 18,
+      "percentile": 16,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,7 +66,7 @@
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 3.93,
-      "percentile": 18,
+      "percentile": 16,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -97,14 +93,27 @@
   "splits": {
     "vs_lhb": {
       "avg": 0.273,
-      "ab": 216
+      "ab": 231
     },
     "vs_rhb": {
-      "avg": 0.265,
-      "ab": 196
+      "avg": 0.255,
+      "ab": 204
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 15",
+      "opp_abbr": "TB",
+      "is_home": false,
+      "ip": "6.2",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 8,
+      "pitches": 83,
+      "strikes": 53
+    },
     {
       "date_display": "Sep 8",
       "opp_abbr": "TOR",
@@ -156,19 +165,6 @@
       "so": 2,
       "pitches": 97,
       "strikes": 65
-    },
-    {
-      "date_display": "Aug 7",
-      "opp_abbr": "BOS",
-      "is_home": false,
-      "ip": "3.0",
-      "h": 5,
-      "er": 5,
-      "hr": 1,
-      "bb": 3,
-      "so": 3,
-      "pitches": 70,
-      "strikes": 41
     }
   ]
 }

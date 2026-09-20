@@ -53,7 +53,7 @@
       "key": "bb",
       "label": "BB",
       "value": 43,
-      "percentile": 66,
+      "percentile": 65,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -62,7 +62,7 @@
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 2.74,
-      "percentile": 66,
+      "percentile": 65,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,10 +71,10 @@
       "key": "hr",
       "label": "HR",
       "value": 14,
-      "percentile": 79,
+      "percentile": 80,
       "league": "AL",
       "league_rank": 15,
-      "mlb_rank": 31
+      "mlb_rank": 30
     },
     {
       "key": "fip",

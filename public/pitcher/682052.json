@@ -4,19 +4,19 @@
   "name_full": "Jacob Lopez",
   "throws": "LHP",
   "team_abbr": "ATH",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 9 of his last 10 starts.",
+      "text": "Struggling lately \u2014 4+ runs in three of his last four.",
       "highlight": false
     },
     {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+      "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Tough on left-handed bats \u2014 .220 against (118 AB).",
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
       "highlight": false
     }
   ],
@@ -24,8 +24,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 5.02,
-      "percentile": 21,
+      "value": 5.68,
+      "percentile": 6,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,8 +33,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.4,
-      "percentile": 53,
+      "value": 8.28,
+      "percentile": 51,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -42,8 +42,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 114.2,
-      "percentile": 32,
+      "value": 117.1,
+      "percentile": 33,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -51,7 +51,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 107,
+      "value": 108,
       "percentile": 40,
       "league": "AL",
       "league_rank": null,
@@ -61,7 +61,7 @@
       "key": "bb",
       "label": "BB",
       "value": 56,
-      "percentile": 7,
+      "percentile": 8,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +69,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.4,
-      "percentile": 7,
+      "value": 4.3,
+      "percentile": 8,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -78,8 +78,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 20,
-      "percentile": 19,
+      "value": 22,
+      "percentile": 11,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,8 +87,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.06,
-      "percentile": 13,
+      "value": 5.22,
+      "percentile": 11,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.22,
-      "ab": 118
+      "avg": 0.234,
+      "ab": 124
     },
     "vs_rhb": {
-      "avg": 0.271,
-      "ab": 325
+      "avg": 0.282,
+      "ab": 337
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 19",
+      "opp_abbr": "CLE",
+      "is_home": false,
+      "ip": "2.2",
+      "h": 10,
+      "er": 10,
+      "hr": 2,
+      "bb": 0,
+      "so": 1,
+      "pitches": 63,
+      "strikes": 38
+    },
     {
       "date_display": "Sep 13",
       "opp_abbr": "SEA",
@@ -156,19 +169,6 @@
       "so": 6,
       "pitches": 100,
       "strikes": 63
-    },
-    {
-      "date_display": "Aug 22",
-      "opp_abbr": "HOU",
-      "is_home": false,
-      "ip": "6.0",
-      "h": 3,
-      "er": 1,
-      "hr": 0,
-      "bb": 1,
-      "so": 9,
-      "pitches": 91,
-      "strikes": 59
     }
   ]
 }

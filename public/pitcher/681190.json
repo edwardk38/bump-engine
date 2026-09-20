@@ -12,7 +12,7 @@
       "highlight": false
     },
     {
-      "text": "Tough on right-handed bats \u2014 .213 against (211 AB).",
+      "text": "Tough on right-handed bats \u2014 .214 against (215 AB).",
       "highlight": false
     }
   ],
@@ -20,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.07,
-      "percentile": 47,
+      "value": 4.01,
+      "percentile": 49,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,7 +29,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 5.63,
+      "value": 5.68,
       "percentile": 3,
       "league": "NL",
       "league_rank": null,
@@ -38,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 132.2,
-      "percentile": 45,
+      "value": 134.2,
+      "percentile": 46,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 83,
-      "percentile": 16,
+      "value": 85,
+      "percentile": 17,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -57,7 +57,7 @@
       "key": "bb",
       "label": "BB",
       "value": 37,
-      "percentile": 74,
+      "percentile": 76,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.51,
-      "percentile": 74,
+      "value": 2.47,
+      "percentile": 76,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 16,
-      "percentile": 58,
+      "percentile": 59,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.36,
-      "percentile": 39,
+      "value": 4.31,
+      "percentile": 40,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,12 +92,12 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.302,
-      "ab": 298
+      "avg": 0.305,
+      "ab": 302
     },
     "vs_rhb": {
-      "avg": 0.213,
-      "ab": 211
+      "avg": 0.214,
+      "ab": 215
     }
   },
   "last_starts": [

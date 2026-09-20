@@ -4,7 +4,7 @@
   "name_full": "Noah Cameron",
   "throws": "LHP",
   "team_abbr": "KC",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -14,22 +14,14 @@
     {
       "text": "Works into the 6th regularly \u2014 5+ IP in 10 of his last 10.",
       "highlight": false
-    },
-    {
-      "text": "Rolling \u2014 2.74 ERA over his last 4 (7 ER in 23.0 IP).",
-      "highlight": false
-    },
-    {
-      "text": "Tough on right-handed bats \u2014 .220 against (477 AB).",
-      "highlight": false
     }
   ],
   "season_stats": [
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.84,
-      "percentile": 54,
+      "value": 3.92,
+      "percentile": 53,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.06,
-      "percentile": 45,
+      "value": 8.09,
+      "percentile": 46,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,17 +38,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 166.1,
-      "percentile": 81,
+      "value": 172.1,
+      "percentile": 89,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 10,
+      "mlb_rank": 17
     },
     {
       "key": "k",
       "label": "K",
-      "value": 149,
-      "percentile": 77,
+      "value": 155,
+      "percentile": 80,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 52,
-      "percentile": 59,
+      "value": 54,
+      "percentile": 58,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.81,
-      "percentile": 59,
+      "value": 2.82,
+      "percentile": 58,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -82,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 17,
-      "percentile": 76,
+      "value": 19,
+      "percentile": 67,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.66,
-      "percentile": 72,
+      "value": 3.75,
+      "percentile": 69,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -100,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.273,
-      "ab": 150
+      "avg": 0.277,
+      "ab": 159
     },
     "vs_rhb": {
-      "avg": 0.22,
-      "ab": 477
+      "avg": 0.222,
+      "ab": 492
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 19",
+      "opp_abbr": "PIT",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 7,
+      "er": 4,
+      "hr": 2,
+      "bb": 2,
+      "so": 6,
+      "pitches": 94,
+      "strikes": 65
+    },
     {
       "date_display": "Sep 13",
       "opp_abbr": "BOS",
@@ -160,19 +165,6 @@
       "so": 3,
       "pitches": 81,
       "strikes": 55
-    },
-    {
-      "date_display": "Aug 21",
-      "opp_abbr": "DET",
-      "is_home": true,
-      "ip": "5.0",
-      "h": 2,
-      "er": 0,
-      "hr": 0,
-      "bb": 3,
-      "so": 2,
-      "pitches": 85,
-      "strikes": 50
     }
   ]
 }

@@ -4,19 +4,15 @@
   "name_full": "Bryce Miller",
   "throws": "RHP",
   "team_abbr": "SEA",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 6.62 ERA over his last four (13 ER in 17.2 IP).",
-      "highlight": false
-    },
     {
       "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Tough on right-handed bats \u2014 .189 against (175 AB).",
+      "text": "Tough on right-handed bats \u2014 .190 against (184 AB).",
       "highlight": false
     }
   ],
@@ -24,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.19,
-      "percentile": 42,
+      "value": 3.99,
+      "percentile": 50,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.89,
-      "percentile": 65,
+      "value": 8.95,
+      "percentile": 67,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -42,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 107.1,
-      "percentile": 26,
+      "value": 112.2,
+      "percentile": 30,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -51,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 106,
-      "percentile": 38,
+      "value": 112,
+      "percentile": 45,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -60,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 34,
-      "percentile": 56,
+      "value": 36,
+      "percentile": 55,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.85,
-      "percentile": 56,
+      "value": 2.88,
+      "percentile": 55,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 20,
-      "percentile": 12,
+      "percentile": 17,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.54,
-      "percentile": 29,
+      "value": 4.42,
+      "percentile": 34,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.254,
-      "ab": 224
+      "avg": 0.251,
+      "ab": 235
     },
     "vs_rhb": {
-      "avg": 0.189,
-      "ab": 175
+      "avg": 0.19,
+      "ab": 184
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 19",
+      "opp_abbr": "COL",
+      "is_home": false,
+      "ip": "5.1",
+      "h": 4,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 6,
+      "pitches": 89,
+      "strikes": 55
+    },
     {
       "date_display": "Sep 13",
       "opp_abbr": "ATH",
@@ -156,19 +165,6 @@
       "so": 5,
       "pitches": 104,
       "strikes": 60
-    },
-    {
-      "date_display": "Aug 18",
-      "opp_abbr": "MIL",
-      "is_home": false,
-      "ip": "4.2",
-      "h": 7,
-      "er": 5,
-      "hr": 1,
-      "bb": 2,
-      "so": 3,
-      "pitches": 92,
-      "strikes": 63
     }
   ]
 }
