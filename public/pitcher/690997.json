@@ -85,8 +85,8 @@
       "value": 17,
       "percentile": 80,
       "league": "NL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 15,
+      "mlb_rank": 30
     },
     {
       "key": "fip",

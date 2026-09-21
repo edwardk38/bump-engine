@@ -38,16 +38,16 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 10.44,
-      "percentile": 89,
+      "percentile": 88,
       "league": "NL",
-      "league_rank": 10,
-      "mlb_rank": 17
+      "league_rank": 11,
+      "mlb_rank": 19
     },
     {
       "key": "ip",
       "label": "IP",
       "value": 151.2,
-      "percentile": 67,
+      "percentile": 66,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null

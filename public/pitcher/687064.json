@@ -4,11 +4,11 @@
   "name_full": "Brandon Young",
   "throws": "RHP",
   "team_abbr": "BAL",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.65,
-      "percentile": 69,
+      "value": 3.62,
+      "percentile": 70,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.29,
-      "percentile": 28,
+      "value": 7.54,
+      "percentile": 35,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 145.2,
-      "percentile": 59,
+      "value": 151.2,
+      "percentile": 66,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 118,
-      "percentile": 49,
+      "value": 127,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 55,
-      "percentile": 32,
+      "value": 58,
+      "percentile": 31,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.4,
-      "percentile": 32,
+      "value": 3.44,
+      "percentile": 31,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,8 +70,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 21,
-      "percentile": 35,
+      "value": 22,
+      "percentile": 34,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.56,
-      "percentile": 28,
+      "value": 4.53,
+      "percentile": 30,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.229,
-      "ab": 328
+      "avg": 0.226,
+      "ab": 337
     },
     "vs_rhb": {
-      "avg": 0.299,
-      "ab": 234
+      "avg": 0.296,
+      "ab": 243
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 20",
+      "opp_abbr": "MIL",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 3,
+      "er": 2,
+      "hr": 1,
+      "bb": 3,
+      "so": 9,
+      "pitches": 84,
+      "strikes": 58
+    },
     {
       "date_display": "Sep 14",
       "opp_abbr": "NYM",
@@ -148,19 +161,6 @@
       "so": 4,
       "pitches": 91,
       "strikes": 65
-    },
-    {
-      "date_display": "Aug 22",
-      "opp_abbr": "TB",
-      "is_home": true,
-      "ip": "5.2",
-      "h": 6,
-      "er": 2,
-      "hr": 1,
-      "bb": 3,
-      "so": 3,
-      "pitches": 84,
-      "strikes": 48
     }
   ]
 }

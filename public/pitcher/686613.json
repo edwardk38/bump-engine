@@ -4,7 +4,7 @@
   "name_full": "Hunter Brown",
   "throws": "RHP",
   "team_abbr": "HOU",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
@@ -16,11 +16,11 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 10.21 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 10.59 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
-      "text": "Tough on left-handed bats \u2014 .202 against (203 AB).",
+      "text": "Strikeout run \u2014 5+ K in 5 straight starts.",
       "highlight": false
     }
   ],
@@ -28,26 +28,26 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.43,
-      "percentile": 77,
+      "value": 3.26,
+      "percentile": 80,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 13,
+      "mlb_rank": 31
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 10.21,
-      "percentile": 85,
+      "value": 10.59,
+      "percentile": 90,
       "league": "AL",
-      "league_rank": 10,
-      "mlb_rank": 23
+      "league_rank": 7,
+      "mlb_rank": 16
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 97.0,
-      "percentile": 18,
+      "value": 102.0,
+      "percentile": 19,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -55,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 110,
-      "percentile": 43,
+      "value": 120,
+      "percentile": 48,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,8 +64,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 49,
-      "percentile": 4,
+      "value": 51,
+      "percentile": 5,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.55,
-      "percentile": 4,
+      "value": 4.5,
+      "percentile": 5,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,7 +83,7 @@
       "key": "hr",
       "label": "HR",
       "value": 11,
-      "percentile": 64,
+      "percentile": 71,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.94,
-      "percentile": 59,
+      "value": 3.76,
+      "percentile": 68,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -101,14 +101,27 @@
   "splits": {
     "vs_lhb": {
       "avg": 0.202,
-      "ab": 203
+      "ab": 213
     },
     "vs_rhb": {
-      "avg": 0.235,
-      "ab": 149
+      "avg": 0.228,
+      "ab": 158
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 20",
+      "opp_abbr": "ATL",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 3,
+      "er": 0,
+      "hr": 0,
+      "bb": 2,
+      "so": 10,
+      "pitches": 98,
+      "strikes": 64
+    },
     {
       "date_display": "Sep 15",
       "opp_abbr": "KC",
@@ -160,19 +173,6 @@
       "so": 10,
       "pitches": 102,
       "strikes": 65
-    },
-    {
-      "date_display": "Aug 22",
-      "opp_abbr": "ATH",
-      "is_home": true,
-      "ip": "5.2",
-      "h": 7,
-      "er": 1,
-      "hr": 1,
-      "bb": 3,
-      "so": 4,
-      "pitches": 101,
-      "strikes": 66
     }
   ]
 }

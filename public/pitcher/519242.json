@@ -40,8 +40,8 @@
       "value": 10.89,
       "percentile": 94,
       "league": "NL",
-      "league_rank": 5,
-      "mlb_rank": 10
+      "league_rank": 4,
+      "mlb_rank": 9
     },
     {
       "key": "ip",
@@ -91,7 +91,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 2.28,
+      "value": 2.27,
       "percentile": 99,
       "league": "NL",
       "league_rank": 2,

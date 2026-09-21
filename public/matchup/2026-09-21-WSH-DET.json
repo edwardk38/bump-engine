@@ -1,0 +1,210 @@
+{
+  "game_id": "2026-09-21-WSH-DET",
+  "date_display": "Monday, Sep 21",
+  "start_time_display": "6:40 PM",
+  "venue": "Comerica Park",
+  "away_team": "Washington Nationals",
+  "home_team": "Detroit Tigers",
+  "away_abbr": "WSH",
+  "home_abbr": "DET",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "687792",
+      "name_display": "D. Herz",
+      "throws": "LHP",
+      "team_abbr": "WSH",
+      "opponent_abbr": "DET",
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": null,
+        "k_per_9": null
+      },
+      "read": [
+        {
+          "text": "No season line posted yet.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": null,
+        "vs_rhb": null
+      },
+      "last_starts": []
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "689981",
+      "name_display": "R. Ryan",
+      "throws": "RHP",
+      "team_abbr": "DET",
+      "opponent_abbr": "WSH",
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": null,
+        "k_per_9": null
+      },
+      "read": [
+        {
+          "text": "No season line posted yet.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": null,
+          "percentile": null,
+          "league": null,
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": null,
+        "vs_rhb": null
+      },
+      "last_starts": []
+    }
+  }
+}

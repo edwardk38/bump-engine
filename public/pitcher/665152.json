@@ -4,13 +4,9 @@
   "name_full": "Dean Kremer",
   "throws": "RHP",
   "team_abbr": "MIN",
-  "form_tag": "cold",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 5.79 ERA over his last four (12 ER in 18.2 IP).",
-      "highlight": false
-    },
     {
       "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
       "highlight": false
@@ -20,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 5.35,
-      "percentile": 15,
+      "value": 4.97,
+      "percentile": 20,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.61,
-      "percentile": 57,
+      "value": 8.86,
+      "percentile": 63,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 77.1,
-      "percentile": 4,
+      "value": 83.1,
+      "percentile": 8,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 74,
-      "percentile": 10,
+      "value": 82,
+      "percentile": 14,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 26,
-      "percentile": 48,
+      "value": 29,
+      "percentile": 44,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.03,
-      "percentile": 48,
+      "value": 3.13,
+      "percentile": 44,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 17,
-      "percentile": 4,
+      "percentile": 6,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 5.04,
-      "percentile": 13,
+      "value": 4.85,
+      "percentile": 16,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.244,
-      "ab": 176
+      "avg": 0.235,
+      "ab": 183
     },
     "vs_rhb": {
-      "avg": 0.237,
-      "ab": 114
+      "avg": 0.224,
+      "ab": 125
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 20",
+      "opp_abbr": "LAA",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 8,
+      "pitches": 96,
+      "strikes": 60
+    },
     {
       "date_display": "Sep 14",
       "opp_abbr": "NYY",
@@ -152,19 +161,6 @@
       "so": 3,
       "pitches": 90,
       "strikes": 53
-    },
-    {
-      "date_display": "Aug 22",
-      "opp_abbr": "SD",
-      "is_home": false,
-      "ip": "5.1",
-      "h": 3,
-      "er": 2,
-      "hr": 1,
-      "bb": 3,
-      "so": 5,
-      "pitches": 101,
-      "strikes": 59
     }
   ]
 }
