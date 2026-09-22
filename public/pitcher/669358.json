@@ -10,6 +10,10 @@
     {
       "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
       "highlight": false
+    },
+    {
+      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "highlight": false
     }
   ],
   "season_stats": [
@@ -25,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.91,
-      "percentile": 41,
+      "value": 7.71,
+      "percentile": 39,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,17 +38,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 173.0,
-      "percentile": 91,
+      "value": 179.2,
+      "percentile": 94,
       "league": "AL",
-      "league_rank": 9,
-      "mlb_rank": 15
+      "league_rank": 5,
+      "mlb_rank": 9
     },
     {
       "key": "k",
       "label": "K",
-      "value": 152,
-      "percentile": 76,
+      "value": 154,
+      "percentile": 78,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 60,
-      "percentile": 45,
+      "value": 63,
+      "percentile": 43,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.12,
-      "percentile": 45,
+      "value": 3.16,
+      "percentile": 43,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,16 +75,16 @@
       "key": "hr",
       "label": "HR",
       "value": 15,
-      "percentile": 88,
+      "percentile": 91,
       "league": "AL",
-      "league_rank": 8,
-      "mlb_rank": 19
+      "league_rank": 5,
+      "mlb_rank": 14
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.6,
-      "percentile": 77,
+      "value": 3.61,
+      "percentile": 76,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.281,
-      "ab": 392
+      "avg": 0.278,
+      "ab": 403
     },
     "vs_rhb": {
       "avg": 0.238,
-      "ab": 269
+      "ab": 281
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 21",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "6.2",
+      "h": 5,
+      "er": 3,
+      "hr": 0,
+      "bb": 3,
+      "so": 2,
+      "pitches": 92,
+      "strikes": 59
+    },
     {
       "date_display": "Sep 15",
       "opp_abbr": "NYM",
@@ -148,19 +165,6 @@
       "so": 4,
       "pitches": 84,
       "strikes": 52
-    },
-    {
-      "date_display": "Aug 23",
-      "opp_abbr": "TB",
-      "is_home": true,
-      "ip": "5.2",
-      "h": 5,
-      "er": 3,
-      "hr": 0,
-      "bb": 3,
-      "so": 3,
-      "pitches": 96,
-      "strikes": 54
     }
   ]
 }

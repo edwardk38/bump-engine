@@ -56,7 +56,7 @@
       "key": "k",
       "label": "K",
       "value": 154,
-      "percentile": 79,
+      "percentile": 78,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,7 +83,7 @@
       "key": "hr",
       "label": "HR",
       "value": 20,
-      "percentile": 66,
+      "percentile": 67,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
