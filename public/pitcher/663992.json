@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "663992",
+  "name_display": "R. Lovelady",
+  "name_full": "Richard Lovelady",
+  "throws": "LHP",
+  "team_abbr": "WSH",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "3.86 ERA with 8.27 K/9 over 32.2 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.86,
+      "percentile": 55,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.27,
+      "percentile": 50,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 32.2,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 30,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 21,
+      "percentile": 1,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 5.79,
+      "percentile": 1,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 4,
+      "percentile": 57,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.05,
+      "percentile": 12,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.328,
+      "ab": 64
+    },
+    "vs_rhb": {
+      "avg": 0.265,
+      "ab": 68
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jun 8",
+      "opp_abbr": "SF",
+      "is_home": false,
+      "ip": "1.0",
+      "h": 2,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 1,
+      "pitches": 14,
+      "strikes": 12
+    },
+    {
+      "date_display": "Jun 2",
+      "opp_abbr": "MIA",
+      "is_home": true,
+      "ip": "2.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 2,
+      "pitches": 41,
+      "strikes": 23
+    },
+    {
+      "date_display": "May 22",
+      "opp_abbr": "ATL",
+      "is_home": false,
+      "ip": "1.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 0,
+      "pitches": 12,
+      "strikes": 9
+    },
+    {
+      "date_display": "May 17",
+      "opp_abbr": "BAL",
+      "is_home": true,
+      "ip": "1.1",
+      "h": 2,
+      "er": 2,
+      "hr": 1,
+      "bb": 0,
+      "so": 1,
+      "pitches": 27,
+      "strikes": 19
+    },
+    {
+      "date_display": "May 9",
+      "opp_abbr": "MIA",
+      "is_home": false,
+      "ip": "2.0",
+      "h": 1,
+      "er": 0,
+      "hr": 0,
+      "bb": 1,
+      "so": 3,
+      "pitches": 30,
+      "strikes": 17
+    }
+  ]
+}

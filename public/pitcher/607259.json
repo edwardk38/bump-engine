@@ -4,7 +4,7 @@
   "name_full": "Nick Martinez",
   "throws": "RHP",
   "team_abbr": "TB",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
@@ -12,7 +12,11 @@
       "highlight": false
     },
     {
-      "text": "Team has won 7 of his last 10 starts.",
+      "text": "Rolling \u2014 2.66 ERA over his last 4 (7 ER in 23.2 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Going deep \u2014 6+ innings in 5 of his last 6 starts.",
       "highlight": false
     }
   ],
@@ -23,13 +27,13 @@
       "value": 2.94,
       "percentile": 87,
       "league": "AL",
-      "league_rank": 9,
-      "mlb_rank": 20
+      "league_rank": 10,
+      "mlb_rank": 21
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 5.31,
+      "value": 5.48,
       "percentile": 1,
       "league": "AL",
       "league_rank": null,
@@ -38,17 +42,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 171.1,
-      "percentile": 87,
+      "value": 177.1,
+      "percentile": 90,
       "league": "AL",
-      "league_rank": 12,
-      "mlb_rank": 20
+      "league_rank": 10,
+      "mlb_rank": 16
     },
     {
       "key": "k",
       "label": "K",
-      "value": 101,
-      "percentile": 30,
+      "value": 108,
+      "percentile": 38,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,7 +60,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 24,
+      "value": 25,
       "percentile": 100,
       "league": "AL",
       "league_rank": 1,
@@ -65,7 +69,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 1.26,
+      "value": 1.27,
       "percentile": 100,
       "league": "AL",
       "league_rank": 1,
@@ -74,8 +78,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 21,
-      "percentile": 57,
+      "value": 22,
+      "percentile": 54,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +87,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.98,
-      "percentile": 58,
+      "value": 3.96,
+      "percentile": 59,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +96,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.229,
-      "ab": 380
+      "avg": 0.23,
+      "ab": 391
     },
     "vs_rhb": {
-      "avg": 0.267,
-      "ab": 270
+      "avg": 0.262,
+      "ab": 282
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 22",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 5,
+      "er": 2,
+      "hr": 1,
+      "bb": 1,
+      "so": 7,
+      "pitches": 94,
+      "strikes": 61
+    },
     {
       "date_display": "Sep 16",
       "opp_abbr": "ATH",
@@ -152,19 +169,6 @@
       "so": 4,
       "pitches": 81,
       "strikes": 54
-    },
-    {
-      "date_display": "Aug 23",
-      "opp_abbr": "BAL",
-      "is_home": false,
-      "ip": "6.0",
-      "h": 1,
-      "er": 0,
-      "hr": 0,
-      "bb": 0,
-      "so": 4,
-      "pitches": 86,
-      "strikes": 60
     }
   ]
 }

@@ -1,0 +1,345 @@
+{
+  "game_id": "2026-09-23-HOU-SEA",
+  "date_display": "Wednesday, Sep 23",
+  "start_time_display": "10:10 PM",
+  "venue": "T-Mobile Park",
+  "away_team": "Houston Astros",
+  "home_team": "Seattle Mariners",
+  "away_abbr": "HOU",
+  "home_abbr": "SEA",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "814490",
+      "name_display": "E. Pecko",
+      "throws": "RHP",
+      "team_abbr": "HOU",
+      "opponent_abbr": "SEA",
+      "qualified": false,
+      "form_tag": "cold",
+      "headline_stats": {
+        "era": 3.77,
+        "k_per_9": 5.97
+      },
+      "read": [
+        {
+          "text": "Tough on left-handed bats \u2014 .206 against (63 AB).",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 3.77,
+          "percentile": 60,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 5.97,
+          "percentile": 4,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 28.2,
+          "percentile": 0,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 19,
+          "percentile": 0,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 12,
+          "percentile": 24,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.77,
+          "percentile": 24,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 5,
+          "percentile": 19,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 5.5,
+          "percentile": 5,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.206,
+          "ab": 63
+        },
+        "vs_rhb": {
+          "avg": 0.179,
+          "ab": 39
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 5",
+          "opp_abbr": "AZ",
+          "is_home": true,
+          "ip": "4.1",
+          "h": 5,
+          "er": 1,
+          "hr": 0,
+          "bb": 1,
+          "so": 2,
+          "pitches": 81,
+          "strikes": 48
+        },
+        {
+          "date_display": "Aug 30",
+          "opp_abbr": "NYM",
+          "is_home": false,
+          "ip": "5.0",
+          "h": 3,
+          "er": 2,
+          "hr": 2,
+          "bb": 2,
+          "so": 4,
+          "pitches": 83,
+          "strikes": 47
+        },
+        {
+          "date_display": "Aug 25",
+          "opp_abbr": "NYY",
+          "is_home": false,
+          "ip": "4.1",
+          "h": 5,
+          "er": 5,
+          "hr": 2,
+          "bb": 4,
+          "so": 1,
+          "pitches": 88,
+          "strikes": 48
+        },
+        {
+          "date_display": "Aug 19",
+          "opp_abbr": "LAA",
+          "is_home": true,
+          "ip": "3.2",
+          "h": 3,
+          "er": 2,
+          "hr": 0,
+          "bb": 3,
+          "so": 4,
+          "pitches": 89,
+          "strikes": 49
+        }
+      ]
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "669923",
+      "name_display": "G. Kirby",
+      "throws": "RHP",
+      "team_abbr": "SEA",
+      "opponent_abbr": "HOU",
+      "qualified": true,
+      "form_tag": "cold",
+      "headline_stats": {
+        "era": 4.24,
+        "k_per_9": 7.59
+      },
+      "read": [
+        {
+          "text": "Rough stretch \u2014 5.73 ERA over his last four (14 ER in 22.0 IP).",
+          "highlight": false
+        },
+        {
+          "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 4.24,
+          "percentile": 41,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 7.59,
+          "percentile": 35,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 169.2,
+          "percentile": 85,
+          "league": "AL",
+          "league_rank": 15,
+          "mlb_rank": 24
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 143,
+          "percentile": 71,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 44,
+          "percentile": 82,
+          "league": "AL",
+          "league_rank": 13,
+          "mlb_rank": 28
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 2.33,
+          "percentile": 82,
+          "league": "AL",
+          "league_rank": 13,
+          "mlb_rank": 28
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 21,
+          "percentile": 56,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 3.85,
+          "percentile": 63,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.284,
+          "ab": 348
+        },
+        "vs_rhb": {
+          "avg": 0.288,
+          "ab": 320
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 16",
+          "opp_abbr": "LAA",
+          "is_home": false,
+          "ip": "4.1",
+          "h": 5,
+          "er": 2,
+          "hr": 0,
+          "bb": 5,
+          "so": 5,
+          "pitches": 93,
+          "strikes": 53
+        },
+        {
+          "date_display": "Sep 11",
+          "opp_abbr": "ATH",
+          "is_home": false,
+          "ip": "6.0",
+          "h": 9,
+          "er": 4,
+          "hr": 1,
+          "bb": 2,
+          "so": 5,
+          "pitches": 101,
+          "strikes": 62
+        },
+        {
+          "date_display": "Sep 5",
+          "opp_abbr": "ATH",
+          "is_home": true,
+          "ip": "6.2",
+          "h": 7,
+          "er": 3,
+          "hr": 1,
+          "bb": 1,
+          "so": 5,
+          "pitches": 100,
+          "strikes": 67
+        },
+        {
+          "date_display": "Aug 31",
+          "opp_abbr": "BOS",
+          "is_home": false,
+          "ip": "5.0",
+          "h": 7,
+          "er": 5,
+          "hr": 2,
+          "bb": 2,
+          "so": 2,
+          "pitches": 86,
+          "strikes": 56
+        },
+        {
+          "date_display": "Aug 25",
+          "opp_abbr": "PHI",
+          "is_home": true,
+          "ip": "7.2",
+          "h": 6,
+          "er": 1,
+          "hr": 0,
+          "bb": 1,
+          "so": 9,
+          "pitches": 92,
+          "strikes": 67
+        }
+      ]
+    }
+  }
+}

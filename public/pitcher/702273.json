@@ -1,0 +1,166 @@
+{
+  "pitcher_id": "702273",
+  "name_display": "N. Schultz",
+  "name_full": "Noah Schultz",
+  "throws": "LHP",
+  "team_abbr": "CWS",
+  "form_tag": "steady",
+  "qualified": true,
+  "read": [
+    {
+      "text": "5.58 ERA with 8.11 K/9 over 71.0 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 5.58,
+      "percentile": 9,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.11,
+      "percentile": 46,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 71.0,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 64,
+      "percentile": 5,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 31,
+      "percentile": 17,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 3.93,
+      "percentile": 17,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 9,
+      "percentile": 52,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.63,
+      "percentile": 24,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.232,
+      "ab": 56
+    },
+    "vs_rhb": {
+      "avg": 0.243,
+      "ab": 210
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 7",
+      "opp_abbr": "CLE",
+      "is_home": true,
+      "ip": "0.1",
+      "h": 3,
+      "er": 2,
+      "hr": 0,
+      "bb": 0,
+      "so": 1,
+      "pitches": 23,
+      "strikes": 16
+    },
+    {
+      "date_display": "Jul 27",
+      "opp_abbr": "NYY",
+      "is_home": true,
+      "ip": "3.1",
+      "h": 2,
+      "er": 3,
+      "hr": 0,
+      "bb": 2,
+      "so": 5,
+      "pitches": 72,
+      "strikes": 44
+    },
+    {
+      "date_display": "Jul 21",
+      "opp_abbr": "TEX",
+      "is_home": false,
+      "ip": "3.2",
+      "h": 11,
+      "er": 5,
+      "hr": 1,
+      "bb": 0,
+      "so": 2,
+      "pitches": 80,
+      "strikes": 54
+    },
+    {
+      "date_display": "Jul 12",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 4,
+      "er": 1,
+      "hr": 1,
+      "bb": 0,
+      "so": 4,
+      "pitches": 74,
+      "strikes": 53
+    },
+    {
+      "date_display": "Jul 7",
+      "opp_abbr": "BOS",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 7,
+      "er": 4,
+      "hr": 2,
+      "bb": 3,
+      "so": 3,
+      "pitches": 92,
+      "strikes": 57
+    }
+  ]
+}

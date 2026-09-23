@@ -21,7 +21,7 @@
       "key": "era",
       "label": "ERA",
       "value": 3.92,
-      "percentile": 53,
+      "percentile": 52,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -30,7 +30,7 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 8.09,
-      "percentile": 46,
+      "percentile": 45,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -39,16 +39,16 @@
       "key": "ip",
       "label": "IP",
       "value": 172.1,
-      "percentile": 89,
+      "percentile": 87,
       "league": "AL",
-      "league_rank": 10,
-      "mlb_rank": 17
+      "league_rank": 12,
+      "mlb_rank": 20
     },
     {
       "key": "k",
       "label": "K",
       "value": 155,
-      "percentile": 80,
+      "percentile": 79,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 19,
-      "percentile": 67,
+      "percentile": 66,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
