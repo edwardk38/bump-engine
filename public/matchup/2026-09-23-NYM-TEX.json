@@ -192,19 +192,175 @@
       ]
     },
     "home": {
-      "tbd": true,
-      "pitcher_id": null,
-      "name_display": null,
-      "throws": null,
+      "tbd": false,
+      "pitcher_id": "674003",
+      "name_display": "C. Bradford",
+      "throws": "LHP",
       "team_abbr": "TEX",
       "opponent_abbr": "NYM",
-      "qualified": null,
-      "form_tag": null,
-      "headline_stats": null,
-      "read": null,
-      "season_stats": null,
-      "splits": null,
-      "last_starts": null
+      "qualified": false,
+      "form_tag": "cold",
+      "headline_stats": {
+        "era": 4.19,
+        "k_per_9": 4.66
+      },
+      "read": [
+        {
+          "text": "Rough stretch \u2014 6.16 ERA over his last four (13 ER in 19.0 IP).",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 4.19,
+          "percentile": 42,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 4.66,
+          "percentile": 0,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 38.2,
+          "percentile": 0,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 20,
+          "percentile": 0,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 10,
+          "percentile": 82,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 2.33,
+          "percentile": 82,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 4,
+          "percentile": 76,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 4.26,
+          "percentile": 44,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.375,
+          "ab": 56
+        },
+        "vs_rhb": {
+          "avg": 0.27,
+          "ab": 100
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 9",
+          "opp_abbr": "SEA",
+          "is_home": false,
+          "ip": "4.0",
+          "h": 4,
+          "er": 3,
+          "hr": 0,
+          "bb": 2,
+          "so": 1,
+          "pitches": 63,
+          "strikes": 43
+        },
+        {
+          "date_display": "Sep 2",
+          "opp_abbr": "ATH",
+          "is_home": true,
+          "ip": "4.0",
+          "h": 7,
+          "er": 5,
+          "hr": 3,
+          "bb": 1,
+          "so": 3,
+          "pitches": 86,
+          "strikes": 56
+        },
+        {
+          "date_display": "Aug 28",
+          "opp_abbr": "MIL",
+          "is_home": false,
+          "ip": "5.2",
+          "h": 9,
+          "er": 3,
+          "hr": 0,
+          "bb": 2,
+          "so": 0,
+          "pitches": 100,
+          "strikes": 66
+        },
+        {
+          "date_display": "Aug 22",
+          "opp_abbr": "LAA",
+          "is_home": true,
+          "ip": "5.1",
+          "h": 7,
+          "er": 2,
+          "hr": 0,
+          "bb": 0,
+          "so": 3,
+          "pitches": 80,
+          "strikes": 56
+        },
+        {
+          "date_display": "Aug 16",
+          "opp_abbr": "ATH",
+          "is_home": false,
+          "ip": "4.0",
+          "h": 8,
+          "er": 2,
+          "hr": 1,
+          "bb": 1,
+          "so": 4,
+          "pitches": 81,
+          "strikes": 58
+        }
+      ]
     }
   }
 }

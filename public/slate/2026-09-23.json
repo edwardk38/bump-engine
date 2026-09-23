@@ -236,16 +236,74 @@
           ]
         },
         "home": {
-          "tbd": true,
-          "pitcher_id": null,
-          "name_display": null,
-          "name_full": null,
-          "throws": null,
+          "tbd": false,
+          "pitcher_id": "605135",
+          "name_display": "C. Bassitt",
+          "name_full": "Chris Bassitt",
+          "throws": "RHP",
           "team_abbr": "BAL",
-          "stats": null,
-          "form_tag": null,
-          "read": null,
-          "last_4": null
+          "stats": {
+            "era": 4.64,
+            "k_per_9": 6.68,
+            "ip": 97.0,
+            "k": 72
+          },
+          "form_tag": "steady",
+          "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 16",
+              "opp_abbr": "NYM",
+              "is_home": false,
+              "ip": "6.2",
+              "h": 5,
+              "er": 1,
+              "hr": 0,
+              "bb": 1,
+              "so": 6,
+              "pitches": 95,
+              "strikes": 61
+            },
+            {
+              "date_display": "Sep 11",
+              "opp_abbr": "TOR",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 6,
+              "er": 2,
+              "hr": 1,
+              "bb": 3,
+              "so": 5,
+              "pitches": 95,
+              "strikes": 64
+            },
+            {
+              "date_display": "Sep 5",
+              "opp_abbr": "BOS",
+              "is_home": true,
+              "ip": "5.2",
+              "h": 5,
+              "er": 3,
+              "hr": 0,
+              "bb": 4,
+              "so": 6,
+              "pitches": 91,
+              "strikes": 54
+            },
+            {
+              "date_display": "Aug 30",
+              "opp_abbr": "ATH",
+              "is_home": false,
+              "ip": "5.2",
+              "h": 8,
+              "er": 5,
+              "hr": 1,
+              "bb": 3,
+              "so": 4,
+              "pitches": 99,
+              "strikes": 65
+            }
+          ]
         }
       }
     },
@@ -1569,16 +1627,74 @@
           ]
         },
         "home": {
-          "tbd": true,
-          "pitcher_id": null,
-          "name_display": null,
-          "name_full": null,
-          "throws": null,
+          "tbd": false,
+          "pitcher_id": "674003",
+          "name_display": "C. Bradford",
+          "name_full": "Cody Bradford",
+          "throws": "LHP",
           "team_abbr": "TEX",
-          "stats": null,
-          "form_tag": null,
-          "read": null,
-          "last_4": null
+          "stats": {
+            "era": 4.19,
+            "k_per_9": 4.66,
+            "ip": 38.2,
+            "k": 20
+          },
+          "form_tag": "cold",
+          "read": "Rough stretch \u2014 6.16 ERA over his last four (13 ER in 19.0 IP).",
+          "last_4": [
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "SEA",
+              "is_home": false,
+              "ip": "4.0",
+              "h": 4,
+              "er": 3,
+              "hr": 0,
+              "bb": 2,
+              "so": 1,
+              "pitches": 63,
+              "strikes": 43
+            },
+            {
+              "date_display": "Sep 2",
+              "opp_abbr": "ATH",
+              "is_home": true,
+              "ip": "4.0",
+              "h": 7,
+              "er": 5,
+              "hr": 3,
+              "bb": 1,
+              "so": 3,
+              "pitches": 86,
+              "strikes": 56
+            },
+            {
+              "date_display": "Aug 28",
+              "opp_abbr": "MIL",
+              "is_home": false,
+              "ip": "5.2",
+              "h": 9,
+              "er": 3,
+              "hr": 0,
+              "bb": 2,
+              "so": 0,
+              "pitches": 100,
+              "strikes": 66
+            },
+            {
+              "date_display": "Aug 22",
+              "opp_abbr": "LAA",
+              "is_home": true,
+              "ip": "5.1",
+              "h": 7,
+              "er": 2,
+              "hr": 0,
+              "bb": 0,
+              "so": 3,
+              "pitches": 80,
+              "strikes": 56
+            }
+          ]
         }
       }
     },

@@ -11,6 +11,10 @@
     "game_id": "2026-09-23-TOR-BAL",
     "side": "away"
   },
+  "605135": {
+    "game_id": "2026-09-23-TOR-BAL",
+    "side": "home"
+  },
   "687570": {
     "game_id": "2026-09-23-MIN-SF",
     "side": "away"
@@ -78,6 +82,10 @@
   "690997": {
     "game_id": "2026-09-23-NYM-TEX",
     "side": "away"
+  },
+  "674003": {
+    "game_id": "2026-09-23-NYM-TEX",
+    "side": "home"
   },
   "518876": {
     "game_id": "2026-09-23-AZ-COL",
