@@ -4,11 +4,11 @@
   "name_full": "Chris Bassitt",
   "throws": "RHP",
   "team_abbr": "BAL",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
       "highlight": false
     },
     {
@@ -20,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.64,
-      "percentile": 28,
+      "value": 4.59,
+      "percentile": 29,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,7 +29,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.68,
+      "value": 6.53,
       "percentile": 12,
       "league": "AL",
       "league_rank": null,
@@ -38,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 97.0,
-      "percentile": 16,
+      "value": 102.0,
+      "percentile": 19,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 72,
-      "percentile": 8,
+      "value": 74,
+      "percentile": 9,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -56,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 37,
-      "percentile": 32,
+      "value": 38,
+      "percentile": 35,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.43,
-      "percentile": 32,
+      "value": 3.35,
+      "percentile": 35,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,16 +75,16 @@
       "key": "hr",
       "label": "HR",
       "value": 10,
-      "percentile": 76,
+      "percentile": 81,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 15,
+      "mlb_rank": 29
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.37,
-      "percentile": 36,
+      "value": 4.29,
+      "percentile": 41,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.31,
-      "ab": 229
+      "avg": 0.311,
+      "ab": 238
     },
     "vs_rhb": {
-      "avg": 0.264,
-      "ab": 159
+      "avg": 0.269,
+      "ab": 171
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 23",
+      "opp_abbr": "TOR",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 7,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 2,
+      "pitches": 90,
+      "strikes": 60
+    },
     {
       "date_display": "Sep 16",
       "opp_abbr": "NYM",
@@ -152,19 +165,6 @@
       "so": 4,
       "pitches": 99,
       "strikes": 65
-    },
-    {
-      "date_display": "Aug 25",
-      "opp_abbr": "STL",
-      "is_home": false,
-      "ip": "6.2",
-      "h": 6,
-      "er": 1,
-      "hr": 1,
-      "bb": 0,
-      "so": 5,
-      "pitches": 99,
-      "strikes": 71
     }
   ]
 }

@@ -4,7 +4,7 @@
   "name_full": "Tyler Glasnow",
   "throws": "RHP",
   "team_abbr": "LAD",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": false,
   "read": [
     {
@@ -16,7 +16,7 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 11.24 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 11.57 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
@@ -28,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.5,
-      "percentile": 74,
+      "value": 3.46,
+      "percentile": 75,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,8 +37,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 11.24,
-      "percentile": 97,
+      "value": 11.57,
+      "percentile": 98,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,7 +46,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 61.2,
+      "value": 67.2,
       "percentile": 0,
       "league": "NL",
       "league_rank": null,
@@ -55,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 77,
-      "percentile": 12,
+      "value": 87,
+      "percentile": 17,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,8 +64,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 21,
-      "percentile": 46,
+      "value": 23,
+      "percentile": 47,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -74,7 +74,7 @@
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 3.06,
-      "percentile": 46,
+      "percentile": 47,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -82,8 +82,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 6,
-      "percentile": 81,
+      "value": 7,
+      "percentile": 75,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,7 +92,7 @@
       "key": "fip",
       "label": "FIP",
       "value": 2.93,
-      "percentile": 93,
+      "percentile": 94,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -101,14 +101,27 @@
   "splits": {
     "vs_lhb": {
       "avg": 0.172,
-      "ab": 134
+      "ab": 145
     },
     "vs_rhb": {
-      "avg": 0.195,
-      "ab": 82
+      "avg": 0.187,
+      "ab": 91
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 18",
+      "opp_abbr": "SF",
+      "is_home": true,
+      "ip": "6.0",
+      "h": 3,
+      "er": 2,
+      "hr": 1,
+      "bb": 2,
+      "so": 10,
+      "pitches": 98,
+      "strikes": 63
+    },
     {
       "date_display": "Sep 12",
       "opp_abbr": "MIA",
@@ -160,19 +173,6 @@
       "so": 7,
       "pitches": 89,
       "strikes": 55
-    },
-    {
-      "date_display": "May 6",
-      "opp_abbr": "HOU",
-      "is_home": false,
-      "ip": "1.0",
-      "h": 1,
-      "er": 1,
-      "hr": 1,
-      "bb": 0,
-      "so": 2,
-      "pitches": 19,
-      "strikes": 10
     }
   ]
 }

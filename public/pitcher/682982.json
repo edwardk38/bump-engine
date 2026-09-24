@@ -8,7 +8,7 @@
   "qualified": false,
   "read": [
     {
-      "text": "Misses bats \u2014 15.32 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 14.85 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 2.92,
-      "percentile": 88,
+      "value": 4.73,
+      "percentile": 26,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,7 +25,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 15.32,
+      "value": 14.85,
       "percentile": 100,
       "league": "AL",
       "league_rank": null,
@@ -34,7 +34,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 12.1,
+      "value": 13.1,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -43,7 +43,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 21,
+      "value": 22,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -52,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 4,
-      "percentile": 52,
+      "value": 7,
+      "percentile": 3,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +61,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.92,
-      "percentile": 52,
+      "value": 4.73,
+      "percentile": 3,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,8 +70,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 2,
-      "percentile": 24,
+      "value": 3,
+      "percentile": 3,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 2.76,
-      "percentile": 95,
+      "value": 4.29,
+      "percentile": 41,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.174,
-      "ab": 23
+      "avg": 0.167,
+      "ab": 24
     },
     "vs_rhb": {
-      "avg": 0.28,
-      "ab": 25
+      "avg": 0.286,
+      "ab": 28
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 18",
+      "opp_abbr": "ATH",
+      "is_home": true,
+      "ip": "1.0",
+      "h": 1,
+      "er": 3,
+      "hr": 1,
+      "bb": 3,
+      "so": 1,
+      "pitches": 27,
+      "strikes": 14
+    },
     {
       "date_display": "Sep 12",
       "opp_abbr": "MIN",

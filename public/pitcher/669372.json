@@ -4,9 +4,13 @@
   "name_full": "J.T. Ginn",
   "throws": "RHP",
   "team_abbr": "ATH",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
+    {
+      "text": "Rough stretch \u2014 5.82 ERA over his last three (11 ER in 17.0 IP).",
+      "highlight": false
+    },
     {
       "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false
@@ -17,10 +21,6 @@
     },
     {
       "text": "Going deep \u2014 6+ innings in 5 of his last 6 starts.",
-      "highlight": false
-    },
-    {
-      "text": "Tough on right-handed bats \u2014 .201 against (214 AB).",
       "highlight": false
     }
   ],
@@ -92,7 +92,7 @@
       "key": "fip",
       "label": "FIP",
       "value": 4.37,
-      "percentile": 36,
+      "percentile": 35,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

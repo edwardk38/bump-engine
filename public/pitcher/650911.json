@@ -29,10 +29,10 @@
       "key": "era",
       "label": "ERA",
       "value": 2.93,
-      "percentile": 87,
+      "percentile": 88,
       "league": "NL",
       "league_rank": 11,
-      "mlb_rank": 20
+      "mlb_rank": 19
     },
     {
       "key": "k_per_9",
@@ -92,7 +92,7 @@
       "key": "fip",
       "label": "FIP",
       "value": 2.8,
-      "percentile": 95,
+      "percentile": 94,
       "league": "NL",
       "league_rank": 6,
       "mlb_rank": 9
