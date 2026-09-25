@@ -1,0 +1,210 @@
+{
+  "game_id": "2026-09-25-BAL-NYY",
+  "date_display": "Friday, Sep 25",
+  "start_time_display": "4:05 PM",
+  "venue": "Yankee Stadium",
+  "away_team": "Baltimore Orioles",
+  "home_team": "New York Yankees",
+  "away_abbr": "BAL",
+  "home_abbr": "NYY",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "669432",
+      "name_display": "T. Rogers",
+      "throws": "LHP",
+      "team_abbr": "BAL",
+      "opponent_abbr": "NYY",
+      "qualified": true,
+      "form_tag": "hot",
+      "headline_stats": {
+        "era": 4.07,
+        "k_per_9": 8.31
+      },
+      "read": [
+        {
+          "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
+          "highlight": false
+        },
+        {
+          "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+          "highlight": false
+        },
+        {
+          "text": "Rolling \u2014 2.57 ERA over his last 4 (8 ER in 28.0 IP).",
+          "highlight": false
+        },
+        {
+          "text": "Going deep \u2014 6+ innings in 5 of his last 6 starts.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 4.07,
+          "percentile": 46,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 8.31,
+          "percentile": 54,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 165.2,
+          "percentile": 76,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 153,
+          "percentile": 76,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 39,
+          "percentile": 87,
+          "league": "AL",
+          "league_rank": 9,
+          "mlb_rank": 21
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 2.12,
+          "percentile": 87,
+          "league": "AL",
+          "league_rank": 9,
+          "mlb_rank": 21
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 19,
+          "percentile": 61,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 3.49,
+          "percentile": 80,
+          "league": "AL",
+          "league_rank": 14,
+          "mlb_rank": 31
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.191,
+          "ab": 157
+        },
+        "vs_rhb": {
+          "avg": 0.266,
+          "ab": 477
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 19",
+          "opp_abbr": "MIL",
+          "is_home": true,
+          "ip": "8.0",
+          "h": 3,
+          "er": 1,
+          "hr": 0,
+          "bb": 1,
+          "so": 10,
+          "pitches": 99,
+          "strikes": 72
+        },
+        {
+          "date_display": "Sep 13",
+          "opp_abbr": "TOR",
+          "is_home": false,
+          "ip": "6.0",
+          "h": 7,
+          "er": 4,
+          "hr": 3,
+          "bb": 1,
+          "so": 5,
+          "pitches": 95,
+          "strikes": 65
+        },
+        {
+          "date_display": "Sep 7",
+          "opp_abbr": "CLE",
+          "is_home": true,
+          "ip": "7.1",
+          "h": 6,
+          "er": 1,
+          "hr": 0,
+          "bb": 0,
+          "so": 6,
+          "pitches": 104,
+          "strikes": 78
+        },
+        {
+          "date_display": "Sep 2",
+          "opp_abbr": "COL",
+          "is_home": false,
+          "ip": "6.2",
+          "h": 6,
+          "er": 2,
+          "hr": 0,
+          "bb": 0,
+          "so": 11,
+          "pitches": 94,
+          "strikes": 71
+        },
+        {
+          "date_display": "Aug 27",
+          "opp_abbr": "STL",
+          "is_home": false,
+          "ip": "5.0",
+          "h": 7,
+          "er": 6,
+          "hr": 2,
+          "bb": 1,
+          "so": 7,
+          "pitches": 86,
+          "strikes": 60
+        }
+      ]
+    },
+    "home": {
+      "tbd": true,
+      "pitcher_id": null,
+      "name_display": null,
+      "throws": null,
+      "team_abbr": "NYY",
+      "opponent_abbr": "BAL",
+      "qualified": null,
+      "form_tag": null,
+      "headline_stats": null,
+      "read": null,
+      "season_stats": null,
+      "splits": null,
+      "last_starts": null
+    }
+  }
+}

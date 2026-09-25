@@ -4,7 +4,7 @@
   "name_full": "Paul Skenes",
   "throws": "RHP",
   "team_abbr": "PIT",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
@@ -12,7 +12,7 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 10.29 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 10.33 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -20,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.91,
-      "percentile": 53,
+      "value": 3.82,
+      "percentile": 59,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,35 +29,35 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 10.29,
-      "percentile": 87,
+      "value": 10.33,
+      "percentile": 86,
       "league": "NL",
-      "league_rank": 12,
-      "mlb_rank": 21
+      "league_rank": 13,
+      "mlb_rank": 22
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 168.0,
-      "percentile": 79,
+      "value": 174.1,
+      "percentile": 87,
       "league": "NL",
-      "league_rank": 13,
-      "mlb_rank": 33
+      "league_rank": 9,
+      "mlb_rank": 20
     },
     {
       "key": "k",
       "label": "K",
-      "value": 192,
-      "percentile": 91,
+      "value": 200,
+      "percentile": 94,
       "league": "NL",
-      "league_rank": 7,
-      "mlb_rank": 14
+      "league_rank": 4,
+      "mlb_rank": 9
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 47,
-      "percentile": 73,
+      "value": 49,
+      "percentile": 72,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.52,
-      "percentile": 73,
+      "value": 2.53,
+      "percentile": 72,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -74,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 19,
-      "percentile": 63,
+      "value": 20,
+      "percentile": 61,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,24 +83,37 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.31,
-      "percentile": 86,
+      "value": 3.32,
+      "percentile": 85,
       "league": "NL",
-      "league_rank": 12,
-      "mlb_rank": 22
+      "league_rank": 14,
+      "mlb_rank": 24
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.222,
-      "ab": 360
+      "avg": 0.223,
+      "ab": 372
     },
     "vs_rhb": {
-      "avg": 0.24,
-      "ab": 262
+      "avg": 0.232,
+      "ab": 271
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 24",
+      "opp_abbr": "STL",
+      "is_home": true,
+      "ip": "6.1",
+      "h": 3,
+      "er": 1,
+      "hr": 1,
+      "bb": 2,
+      "so": 8,
+      "pitches": 96,
+      "strikes": 60
+    },
     {
       "date_display": "Sep 18",
       "opp_abbr": "KC",
@@ -152,19 +165,6 @@
       "so": 4,
       "pitches": 95,
       "strikes": 56
-    },
-    {
-      "date_display": "Aug 25",
-      "opp_abbr": "SD",
-      "is_home": false,
-      "ip": "6.0",
-      "h": 3,
-      "er": 0,
-      "hr": 0,
-      "bb": 0,
-      "so": 4,
-      "pitches": 87,
-      "strikes": 55
     }
   ]
 }

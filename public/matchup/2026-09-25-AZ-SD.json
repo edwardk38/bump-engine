@@ -1,0 +1,206 @@
+{
+  "game_id": "2026-09-25-AZ-SD",
+  "date_display": "Friday, Sep 25",
+  "start_time_display": "9:40 PM",
+  "venue": "Petco Park",
+  "away_team": "Arizona Diamondbacks",
+  "home_team": "San Diego Padres",
+  "away_abbr": "AZ",
+  "home_abbr": "SD",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "694297",
+      "name_display": "B. Pfaadt",
+      "throws": "RHP",
+      "team_abbr": "AZ",
+      "opponent_abbr": "SD",
+      "qualified": true,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 3.72,
+        "k_per_9": 6.1
+      },
+      "read": [
+        {
+          "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+          "highlight": false
+        },
+        {
+          "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
+          "highlight": false
+        },
+        {
+          "text": "Team has won 7 of his last 10 starts.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 3.72,
+          "percentile": 63,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 6.1,
+          "percentile": 5,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 128.1,
+          "percentile": 44,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 87,
+          "percentile": 18,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 30,
+          "percentile": 88,
+          "league": "NL",
+          "league_rank": 12,
+          "mlb_rank": 19
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 2.1,
+          "percentile": 88,
+          "league": "NL",
+          "league_rank": 12,
+          "mlb_rank": 19
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 14,
+          "percentile": 68,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 3.99,
+          "percentile": 56,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.256,
+          "ab": 266
+        },
+        "vs_rhb": {
+          "avg": 0.231,
+          "ab": 225
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 19",
+          "opp_abbr": "NYY",
+          "is_home": true,
+          "ip": "4.1",
+          "h": 4,
+          "er": 1,
+          "hr": 0,
+          "bb": 1,
+          "so": 3,
+          "pitches": 64,
+          "strikes": 41
+        },
+        {
+          "date_display": "Sep 12",
+          "opp_abbr": "TEX",
+          "is_home": true,
+          "ip": "6.2",
+          "h": 10,
+          "er": 6,
+          "hr": 1,
+          "bb": 0,
+          "so": 7,
+          "pitches": 99,
+          "strikes": 70
+        },
+        {
+          "date_display": "Sep 5",
+          "opp_abbr": "HOU",
+          "is_home": false,
+          "ip": "6.1",
+          "h": 7,
+          "er": 3,
+          "hr": 0,
+          "bb": 2,
+          "so": 4,
+          "pitches": 93,
+          "strikes": 60
+        },
+        {
+          "date_display": "Aug 31",
+          "opp_abbr": "PHI",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 5,
+          "er": 2,
+          "hr": 1,
+          "bb": 1,
+          "so": 1,
+          "pitches": 87,
+          "strikes": 58
+        },
+        {
+          "date_display": "Aug 25",
+          "opp_abbr": "CHC",
+          "is_home": true,
+          "ip": "6.2",
+          "h": 6,
+          "er": 4,
+          "hr": 1,
+          "bb": 2,
+          "so": 3,
+          "pitches": 103,
+          "strikes": 62
+        }
+      ]
+    },
+    "home": {
+      "tbd": true,
+      "pitcher_id": null,
+      "name_display": null,
+      "throws": null,
+      "team_abbr": "SD",
+      "opponent_abbr": "AZ",
+      "qualified": null,
+      "form_tag": null,
+      "headline_stats": null,
+      "read": null,
+      "season_stats": null,
+      "splits": null,
+      "last_starts": null
+    }
+  }
+}

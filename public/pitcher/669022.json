@@ -43,7 +43,7 @@
       "key": "ip",
       "label": "IP",
       "value": 170.2,
-      "percentile": 82,
+      "percentile": 81,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -54,8 +54,8 @@
       "value": 174,
       "percentile": 85,
       "league": "AL",
-      "league_rank": 10,
-      "mlb_rank": 23
+      "league_rank": 11,
+      "mlb_rank": 24
     },
     {
       "key": "bb",
@@ -88,7 +88,7 @@
       "key": "fip",
       "label": "FIP",
       "value": 3.85,
-      "percentile": 63,
+      "percentile": 64,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

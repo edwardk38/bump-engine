@@ -8,7 +8,7 @@
   "qualified": true,
   "read": [
     {
-      "text": "Misses bats \u2014 9.76 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 9.68 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.74,
-      "percentile": 61,
+      "value": 3.62,
+      "percentile": 68,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,17 +25,17 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.76,
-      "percentile": 82,
+      "value": 9.68,
+      "percentile": 79,
       "league": "AL",
-      "league_rank": 13,
-      "mlb_rank": 29
+      "league_rank": 15,
+      "mlb_rank": 34
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 154.0,
-      "percentile": 66,
+      "value": 159.0,
+      "percentile": 72,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,16 +43,16 @@
     {
       "key": "k",
       "label": "K",
-      "value": 167,
+      "value": 171,
       "percentile": 82,
       "league": "AL",
       "league_rank": 13,
-      "mlb_rank": 28
+      "mlb_rank": 27
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 79,
+      "value": 81,
       "percentile": 3,
       "league": "AL",
       "league_rank": null,
@@ -61,7 +61,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.62,
+      "value": 4.58,
       "percentile": 3,
       "league": "AL",
       "league_rank": null,
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 17,
-      "percentile": 66,
+      "percentile": 73,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.01,
-      "percentile": 55,
+      "value": 3.97,
+      "percentile": 58,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,12 +88,12 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.241,
-      "ab": 145
+      "avg": 0.233,
+      "ab": 150
     },
     "vs_rhb": {
-      "avg": 0.249,
-      "ab": 433
+      "avg": 0.245,
+      "ab": 445
     }
   },
   "last_starts": [

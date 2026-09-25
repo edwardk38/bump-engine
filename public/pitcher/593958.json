@@ -8,10 +8,6 @@
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 5.82 ERA over his last four (14 ER in 21.2 IP).",
-      "highlight": false
-    },
-    {
       "text": "Workhorse \u2014 90+ pitches in 10 of his last 10 starts.",
       "highlight": false
     },
@@ -33,7 +29,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.86,
+      "value": 6.79,
       "percentile": 15,
       "league": "NL",
       "league_rank": null,
@@ -42,17 +38,17 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 183.2,
-      "percentile": 96,
+      "value": 189.2,
+      "percentile": 97,
       "league": "NL",
-      "league_rank": 5,
-      "mlb_rank": 7
+      "league_rank": 3,
+      "mlb_rank": 5
     },
     {
       "key": "k",
       "label": "K",
-      "value": 140,
-      "percentile": 66,
+      "value": 143,
+      "percentile": 70,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,7 +57,7 @@
       "key": "bb",
       "label": "BB",
       "value": 62,
-      "percentile": 48,
+      "percentile": 52,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 3.04,
-      "percentile": 48,
+      "value": 2.94,
+      "percentile": 52,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -78,17 +74,17 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 18,
-      "percentile": 81,
+      "value": 19,
+      "percentile": 77,
       "league": "NL",
-      "league_rank": 15,
-      "mlb_rank": 29
+      "league_rank": null,
+      "mlb_rank": null
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.87,
-      "percentile": 62,
+      "value": 3.88,
+      "percentile": 63,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.265,
-      "ab": 211
+      "avg": 0.264,
+      "ab": 220
     },
     "vs_rhb": {
-      "avg": 0.224,
-      "ab": 483
+      "avg": 0.23,
+      "ab": 501
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 24",
+      "opp_abbr": "COL",
+      "is_home": false,
+      "ip": "6.0",
+      "h": 9,
+      "er": 2,
+      "hr": 1,
+      "bb": 0,
+      "so": 3,
+      "pitches": 92,
+      "strikes": 65
+    },
     {
       "date_display": "Sep 18",
       "opp_abbr": "NYY",
@@ -156,19 +165,6 @@
       "so": 3,
       "pitches": 103,
       "strikes": 66
-    },
-    {
-      "date_display": "Aug 26",
-      "opp_abbr": "CHC",
-      "is_home": true,
-      "ip": "7.0",
-      "h": 2,
-      "er": 0,
-      "hr": 0,
-      "bb": 3,
-      "so": 9,
-      "pitches": 104,
-      "strikes": 71
     }
   ]
 }

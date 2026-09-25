@@ -8,7 +8,7 @@
   "qualified": true,
   "read": [
     {
-      "text": "4.47 ERA with 8.43 K/9 over 143.0 innings this season.",
+      "text": "4.38 ERA with 8.39 K/9 over 148.0 innings this season.",
       "highlight": false
     }
   ],
@@ -16,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.47,
-      "percentile": 35,
+      "value": 4.38,
+      "percentile": 36,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 8.43,
-      "percentile": 56,
+      "value": 8.39,
+      "percentile": 55,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +34,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 143.0,
-      "percentile": 53,
+      "value": 148.0,
+      "percentile": 57,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,8 +43,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 134,
-      "percentile": 61,
+      "value": 138,
+      "percentile": 64,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -52,7 +52,7 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 59,
+      "value": 61,
       "percentile": 25,
       "league": "AL",
       "league_rank": null,
@@ -71,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 20,
-      "percentile": 38,
+      "percentile": 42,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +79,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.35,
-      "percentile": 37,
+      "value": 4.3,
+      "percentile": 40,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.277,
-      "ab": 318
+      "avg": 0.275,
+      "ab": 327
     },
     "vs_rhb": {
-      "avg": 0.231,
-      "ab": 242
+      "avg": 0.229,
+      "ab": 249
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 24",
+      "opp_abbr": "NYM",
+      "is_home": true,
+      "ip": "5.0",
+      "h": 3,
+      "er": 1,
+      "hr": 0,
+      "bb": 2,
+      "so": 4,
+      "pitches": 74,
+      "strikes": 45
+    },
     {
       "date_display": "Sep 18",
       "opp_abbr": "TOR",
@@ -148,19 +161,6 @@
       "so": 8,
       "pitches": 93,
       "strikes": 57
-    },
-    {
-      "date_display": "Aug 19",
-      "opp_abbr": "WSH",
-      "is_home": true,
-      "ip": "5.0",
-      "h": 6,
-      "er": 2,
-      "hr": 1,
-      "bb": 1,
-      "so": 3,
-      "pitches": 92,
-      "strikes": 58
     }
   ]
 }

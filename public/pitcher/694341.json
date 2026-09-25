@@ -1,0 +1,114 @@
+{
+  "pitcher_id": "694341",
+  "name_display": "B. Beck",
+  "name_full": "Brendan Beck",
+  "throws": "RHP",
+  "team_abbr": "NYY",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "8.22 ERA with 5.87 K/9 over 7.2 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 8.22,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 5.87,
+      "percentile": 3,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 7.2,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 5,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 5,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 5.87,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 4,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 10.52,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.231,
+      "ab": 13
+    },
+    "vs_rhb": {
+      "avg": 0.25,
+      "ab": 16
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Jul 4",
+      "opp_abbr": "MIN",
+      "is_home": true,
+      "ip": "3.2",
+      "h": 5,
+      "er": 5,
+      "hr": 3,
+      "bb": 2,
+      "so": 3,
+      "pitches": 87,
+      "strikes": 51
+    }
+  ]
+}
