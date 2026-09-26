@@ -1,0 +1,336 @@
+{
+  "game_id": "2026-09-26-NYM-WSH",
+  "date_display": "Saturday, Sep 26",
+  "start_time_display": "12:35 PM",
+  "venue": "Nationals Park",
+  "away_team": "New York Mets",
+  "home_team": "Washington Nationals",
+  "away_abbr": "NYM",
+  "home_abbr": "WSH",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "804636",
+      "name_display": "J. Tong",
+      "throws": "RHP",
+      "team_abbr": "NYM",
+      "opponent_abbr": "WSH",
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 4.21,
+        "k_per_9": 8.77
+      },
+      "read": [
+        {
+          "text": "4.21 ERA with 8.77 K/9 over 25.2 innings this season.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 4.21,
+          "percentile": 42,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 8.77,
+          "percentile": 59,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 25.2,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 25,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 13,
+          "percentile": 5,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 4.56,
+          "percentile": 5,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 2,
+          "percentile": 94,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 3.79,
+          "percentile": 67,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.22,
+          "ab": 59
+        },
+        "vs_rhb": {
+          "avg": 0.211,
+          "ab": 38
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 20",
+          "opp_abbr": "PHI",
+          "is_home": true,
+          "ip": "4.2",
+          "h": 5,
+          "er": 4,
+          "hr": 0,
+          "bb": 4,
+          "so": 5,
+          "pitches": 95,
+          "strikes": 58
+        },
+        {
+          "date_display": "Sep 14",
+          "opp_abbr": "BAL",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 4,
+          "er": 0,
+          "hr": 0,
+          "bb": 1,
+          "so": 6,
+          "pitches": 83,
+          "strikes": 57
+        },
+        {
+          "date_display": "Sep 7",
+          "opp_abbr": "MIA",
+          "is_home": false,
+          "ip": "5.0",
+          "h": 4,
+          "er": 4,
+          "hr": 1,
+          "bb": 1,
+          "so": 7,
+          "pitches": 87,
+          "strikes": 55
+        }
+      ]
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "813349",
+      "name_display": "C. Early",
+      "throws": "LHP",
+      "team_abbr": "WSH",
+      "opponent_abbr": "NYM",
+      "qualified": true,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 3.44,
+        "k_per_9": 9.13
+      },
+      "read": [
+        {
+          "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
+          "highlight": false
+        },
+        {
+          "text": "Misses bats \u2014 9.13 K/9, about a strikeout an inning.",
+          "highlight": false
+        },
+        {
+          "text": "Tough on left-handed bats \u2014 .194 against (98 AB).",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 3.44,
+          "percentile": 75,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 9.13,
+          "percentile": 70,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 91.2,
+          "percentile": 12,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 93,
+          "percentile": 21,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 34,
+          "percentile": 36,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.34,
+          "percentile": 36,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 15,
+          "percentile": 23,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 4.6,
+          "percentile": 26,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.194,
+          "ab": 98
+        },
+        "vs_rhb": {
+          "avg": 0.252,
+          "ab": 246
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Jun 30",
+          "opp_abbr": "WSH",
+          "is_home": true,
+          "ip": "4.0",
+          "h": 3,
+          "er": 0,
+          "hr": 0,
+          "bb": 2,
+          "so": 5,
+          "pitches": 61,
+          "strikes": 38
+        },
+        {
+          "date_display": "Jun 25",
+          "opp_abbr": "NYY",
+          "is_home": true,
+          "ip": "6.0",
+          "h": 5,
+          "er": 2,
+          "hr": 1,
+          "bb": 1,
+          "so": 9,
+          "pitches": 98,
+          "strikes": 70
+        },
+        {
+          "date_display": "Jun 20",
+          "opp_abbr": "SEA",
+          "is_home": false,
+          "ip": "6.0",
+          "h": 2,
+          "er": 1,
+          "hr": 0,
+          "bb": 2,
+          "so": 7,
+          "pitches": 98,
+          "strikes": 57
+        },
+        {
+          "date_display": "Jun 14",
+          "opp_abbr": "TEX",
+          "is_home": true,
+          "ip": "4.2",
+          "h": 11,
+          "er": 6,
+          "hr": 2,
+          "bb": 2,
+          "so": 3,
+          "pitches": 91,
+          "strikes": 58
+        },
+        {
+          "date_display": "Jun 8",
+          "opp_abbr": "TB",
+          "is_home": false,
+          "ip": "4.2",
+          "h": 5,
+          "er": 2,
+          "hr": 1,
+          "bb": 4,
+          "so": 6,
+          "pitches": 96,
+          "strikes": 54
+        }
+      ]
+    }
+  }
+}

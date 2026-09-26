@@ -1,0 +1,114 @@
+{
+  "pitcher_id": "434378",
+  "name_display": "J. Verlander",
+  "name_full": "Justin Verlander",
+  "throws": "RHP",
+  "team_abbr": "DET",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "12.27 ERA with 2.45 K/9 over 3.2 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 12.27,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 2.45,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 3.2,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 1,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 2,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.91,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 1,
+      "percentile": 1,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 7.73,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.364,
+      "ab": 11
+    },
+    "vs_rhb": {
+      "avg": 0.333,
+      "ab": 6
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Mar 30",
+      "opp_abbr": "AZ",
+      "is_home": false,
+      "ip": "3.2",
+      "h": 6,
+      "er": 5,
+      "hr": 1,
+      "bb": 2,
+      "so": 1,
+      "pitches": 80,
+      "strikes": 53
+    }
+  ]
+}

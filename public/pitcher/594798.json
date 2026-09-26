@@ -4,9 +4,13 @@
   "name_full": "Jacob deGrom",
   "throws": "RHP",
   "team_abbr": "TEX",
-  "form_tag": "hot",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
+    {
+      "text": "Rough stretch \u2014 6.05 ERA over his last four (13 ER in 19.1 IP).",
+      "highlight": false
+    },
     {
       "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false
@@ -16,7 +20,7 @@
       "highlight": false
     },
     {
-      "text": "Tough on left-handed bats \u2014 .204 against (357 AB).",
+      "text": "Tough on left-handed bats \u2014 .207 against (368 AB).",
       "highlight": false
     }
   ],
@@ -24,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.86,
-      "percentile": 56,
+      "value": 4.2,
+      "percentile": 43,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -42,8 +46,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 158.2,
-      "percentile": 71,
+      "value": 162.2,
+      "percentile": 73,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -51,17 +55,17 @@
     {
       "key": "k",
       "label": "K",
-      "value": 196,
-      "percentile": 92,
+      "value": 201,
+      "percentile": 95,
       "league": "AL",
-      "league_rank": 7,
-      "mlb_rank": 13
+      "league_rank": 6,
+      "mlb_rank": 9
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 43,
-      "percentile": 77,
+      "value": 46,
+      "percentile": 73,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -69,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.44,
-      "percentile": 77,
+      "value": 2.55,
+      "percentile": 73,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +83,7 @@
       "key": "hr",
       "label": "HR",
       "value": 20,
-      "percentile": 53,
+      "percentile": 56,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.204,
-      "ab": 357
+      "avg": 0.207,
+      "ab": 368
     },
     "vs_rhb": {
-      "avg": 0.244,
-      "ab": 238
+      "avg": 0.255,
+      "ab": 247
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 25",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 8,
+      "er": 8,
+      "hr": 0,
+      "bb": 3,
+      "so": 5,
+      "pitches": 89,
+      "strikes": 58
+    },
     {
       "date_display": "Sep 20",
       "opp_abbr": "TOR",
@@ -156,19 +173,6 @@
       "so": 7,
       "pitches": 90,
       "strikes": 66
-    },
-    {
-      "date_display": "Aug 31",
-      "opp_abbr": "ATH",
-      "is_home": true,
-      "ip": "7.0",
-      "h": 1,
-      "er": 0,
-      "hr": 0,
-      "bb": 0,
-      "so": 8,
-      "pitches": 85,
-      "strikes": 56
     }
   ]
 }

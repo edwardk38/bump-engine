@@ -92,9 +92,9 @@
       "key": "fip",
       "label": "FIP",
       "value": 2.55,
-      "percentile": 98,
+      "percentile": 97,
       "league": "AL",
-      "league_rank": 2,
+      "league_rank": 1,
       "mlb_rank": 4
     }
   ],

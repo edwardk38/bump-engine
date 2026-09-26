@@ -4,7 +4,7 @@
   "name_full": "Ryan Weathers",
   "throws": "LHP",
   "team_abbr": "NYY",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -14,10 +14,6 @@
     {
       "text": "Misses bats \u2014 9.37 K/9, about a strikeout an inning.",
       "highlight": false
-    },
-    {
-      "text": "Rolling \u2014 2.20 ERA over his last 3 (4 ER in 16.1 IP).",
-      "highlight": false
     }
   ],
   "season_stats": [
@@ -25,7 +21,7 @@
       "key": "era",
       "label": "ERA",
       "value": 3.6,
-      "percentile": 71,
+      "percentile": 70,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -87,7 +83,7 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.6,
+      "value": 3.61,
       "percentile": 75,
       "league": "AL",
       "league_rank": null,

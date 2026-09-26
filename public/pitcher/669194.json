@@ -20,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.81,
-      "percentile": 26,
+      "value": 4.8,
+      "percentile": 25,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.7,
-      "percentile": 14,
+      "value": 6.67,
+      "percentile": 13,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -38,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 86.0,
-      "percentile": 10,
+      "value": 86.1,
+      "percentile": 11,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,7 +65,7 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.51,
+      "value": 2.5,
       "percentile": 74,
       "league": "NL",
       "league_rank": null,
@@ -92,12 +92,12 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.223,
-      "ab": 175
+      "avg": 0.227,
+      "ab": 176
     },
     "vs_rhb": {
-      "avg": 0.27,
-      "ab": 159
+      "avg": 0.269,
+      "ab": 160
     }
   },
   "last_starts": [

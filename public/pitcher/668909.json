@@ -4,23 +4,23 @@
   "name_full": "Gavin Williams",
   "throws": "RHP",
   "team_abbr": "CLE",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+      "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+      "text": "Misses bats \u2014 12.11 K/9, about a strikeout an inning.",
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 12.13 K/9, about a strikeout an inning.",
+      "text": "Team has won 7 of his last 10 starts.",
       "highlight": false
     },
     {
-      "text": "Rolling \u2014 1.44 ERA over his last 4 (4 ER in 25.0 IP).",
+      "text": "Tough on left-handed bats \u2014 .197 against (402 AB).",
       "highlight": false
     }
   ],
@@ -28,8 +28,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.63,
-      "percentile": 67,
+      "value": 3.76,
+      "percentile": 61,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -37,7 +37,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 12.13,
+      "value": 12.11,
       "percentile": 98,
       "league": "AL",
       "league_rank": 2,
@@ -46,26 +46,26 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 181.0,
-      "percentile": 93,
+      "value": 184.1,
+      "percentile": 95,
       "league": "AL",
-      "league_rank": 6,
-      "mlb_rank": 11
+      "league_rank": 4,
+      "mlb_rank": 9
     },
     {
       "key": "k",
       "label": "K",
-      "value": 244,
-      "percentile": 99,
+      "value": 248,
+      "percentile": 100,
       "league": "AL",
       "league_rank": 1,
-      "mlb_rank": 2
+      "mlb_rank": 1
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": 57,
-      "percentile": 58,
+      "value": 61,
+      "percentile": 49,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.83,
-      "percentile": 58,
+      "value": 2.98,
+      "percentile": 49,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -82,8 +82,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 27,
-      "percentile": 32,
+      "value": 28,
+      "percentile": 30,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,24 +91,37 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.38,
-      "percentile": 83,
+      "value": 3.47,
+      "percentile": 81,
       "league": "AL",
-      "league_rank": 11,
-      "mlb_rank": 27
+      "league_rank": 13,
+      "mlb_rank": 30
     }
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.191,
-      "ab": 393
+      "avg": 0.197,
+      "ab": 402
     },
     "vs_rhb": {
       "avg": 0.238,
-      "ab": 269
+      "ab": 273
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 25",
+      "opp_abbr": "KC",
+      "is_home": false,
+      "ip": "3.1",
+      "h": 5,
+      "er": 4,
+      "hr": 1,
+      "bb": 4,
+      "so": 4,
+      "pitches": 74,
+      "strikes": 46
+    },
     {
       "date_display": "Sep 20",
       "opp_abbr": "ATH",
@@ -160,19 +173,6 @@
       "so": 13,
       "pitches": 97,
       "strikes": 64
-    },
-    {
-      "date_display": "Aug 25",
-      "opp_abbr": "LAA",
-      "is_home": false,
-      "ip": "1.1",
-      "h": 6,
-      "er": 5,
-      "hr": 2,
-      "bb": 1,
-      "so": 3,
-      "pitches": 62,
-      "strikes": 39
     }
   ]
 }

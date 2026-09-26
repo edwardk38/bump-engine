@@ -1,0 +1,140 @@
+{
+  "pitcher_id": "608718",
+  "name_display": "B. Suter",
+  "name_full": "Brent Suter",
+  "throws": "LHP",
+  "team_abbr": "ATL",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "3.48 ERA with 7.67 K/9 over 88.0 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 3.48,
+      "percentile": 74,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 7.67,
+      "percentile": 37,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 88.0,
+      "percentile": 12,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 75,
+      "percentile": 10,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 25,
+      "percentile": 72,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 2.56,
+      "percentile": 72,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 9,
+      "percentile": 75,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 3.6,
+      "percentile": 75,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.258,
+      "ab": 132
+    },
+    "vs_rhb": {
+      "avg": 0.249,
+      "ab": 205
+    }
+  },
+  "last_starts": [
+    {
+      "date_display": "Aug 1",
+      "opp_abbr": "MIL",
+      "is_home": true,
+      "ip": "2.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 3,
+      "so": 1,
+      "pitches": 41,
+      "strikes": 23
+    },
+    {
+      "date_display": "May 11",
+      "opp_abbr": "CLE",
+      "is_home": false,
+      "ip": "1.2",
+      "h": 2,
+      "er": 2,
+      "hr": 0,
+      "bb": 1,
+      "so": 1,
+      "pitches": 37,
+      "strikes": 23
+    },
+    {
+      "date_display": "Apr 16",
+      "opp_abbr": "NYY",
+      "is_home": false,
+      "ip": "2.0",
+      "h": 3,
+      "er": 1,
+      "hr": 1,
+      "bb": 2,
+      "so": 2,
+      "pitches": 49,
+      "strikes": 29
+    }
+  ]
+}
