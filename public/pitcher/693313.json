@@ -1,0 +1,100 @@
+{
+  "pitcher_id": "693313",
+  "name_display": "C. Seymour",
+  "name_full": "Carson Seymour",
+  "throws": "RHP",
+  "team_abbr": "SF",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "4.7 ERA with 6.46 K/9 over 30.2 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.7,
+      "percentile": 26,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 6.46,
+      "percentile": 11,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 30.2,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 22,
+      "percentile": 0,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 16,
+      "percentile": 3,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.7,
+      "percentile": 3,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 6,
+      "percentile": 9,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 5.87,
+      "percentile": 3,
+      "league": "NL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.306,
+      "ab": 62
+    },
+    "vs_rhb": {
+      "avg": 0.214,
+      "ab": 56
+    }
+  },
+  "last_starts": []
+}

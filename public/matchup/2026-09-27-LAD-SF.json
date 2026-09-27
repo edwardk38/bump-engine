@@ -1,0 +1,132 @@
+{
+  "game_id": "2026-09-27-LAD-SF",
+  "date_display": "Sunday, Sep 27",
+  "start_time_display": "3:05 PM",
+  "venue": "Oracle Park",
+  "away_team": "Los Angeles Dodgers",
+  "home_team": "San Francisco Giants",
+  "away_abbr": "LAD",
+  "home_abbr": "SF",
+  "pitchers": {
+    "away": {
+      "tbd": true,
+      "pitcher_id": null,
+      "name_display": null,
+      "throws": null,
+      "team_abbr": "LAD",
+      "opponent_abbr": "SF",
+      "qualified": null,
+      "form_tag": null,
+      "headline_stats": null,
+      "read": null,
+      "season_stats": null,
+      "splits": null,
+      "last_starts": null
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "693313",
+      "name_display": "C. Seymour",
+      "throws": "RHP",
+      "team_abbr": "SF",
+      "opponent_abbr": "LAD",
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 4.7,
+        "k_per_9": 6.46
+      },
+      "read": [
+        {
+          "text": "4.7 ERA with 6.46 K/9 over 30.2 innings this season.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 4.7,
+          "percentile": 26,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 6.46,
+          "percentile": 11,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 30.2,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 22,
+          "percentile": 0,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 16,
+          "percentile": 3,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 4.7,
+          "percentile": 3,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 6,
+          "percentile": 9,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 5.87,
+          "percentile": 3,
+          "league": "NL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.306,
+          "ab": 62
+        },
+        "vs_rhb": {
+          "avg": 0.214,
+          "ab": 56
+        }
+      },
+      "last_starts": []
+    }
+  }
+}

@@ -4,11 +4,15 @@
   "name_full": "Daniel Lynch IV",
   "throws": "LHP",
   "team_abbr": "KC",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": false,
   "read": [
     {
-      "text": "Tough on left-handed bats \u2014 .160 against (106 AB).",
+      "text": "Rough stretch \u2014 7.58 ERA over his last four (16 ER in 19.0 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Tough on left-handed bats \u2014 .153 against (111 AB).",
       "highlight": false
     }
   ],
@@ -16,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.29,
-      "percentile": 79,
+      "value": 4.13,
+      "percentile": 44,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,8 +29,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 6.1,
-      "percentile": 5,
+      "value": 6.02,
+      "percentile": 4,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -34,8 +38,8 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 76.2,
-      "percentile": 4,
+      "value": 80.2,
+      "percentile": 7,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -43,7 +47,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 52,
+      "value": 54,
       "percentile": 1,
       "league": "AL",
       "league_rank": null,
@@ -52,8 +56,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 23,
-      "percentile": 66,
+      "value": 26,
+      "percentile": 54,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.7,
-      "percentile": 66,
+      "value": 2.9,
+      "percentile": 54,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,8 +74,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 6,
-      "percentile": 93,
+      "value": 9,
+      "percentile": 65,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 3.77,
-      "percentile": 67,
+      "value": 4.32,
+      "percentile": 38,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.16,
-      "ab": 106
+      "avg": 0.153,
+      "ab": 111
     },
     "vs_rhb": {
-      "avg": 0.236,
-      "ab": 178
+      "avg": 0.257,
+      "ab": 191
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 22",
+      "opp_abbr": "CWS",
+      "is_home": true,
+      "ip": "4.0",
+      "h": 7,
+      "er": 9,
+      "hr": 3,
+      "bb": 3,
+      "so": 2,
+      "pitches": 78,
+      "strikes": 48
+    },
     {
       "date_display": "Sep 16",
       "opp_abbr": "HOU",
@@ -148,19 +165,6 @@
       "so": 3,
       "pitches": 70,
       "strikes": 43
-    },
-    {
-      "date_display": "Aug 23",
-      "opp_abbr": "DET",
-      "is_home": true,
-      "ip": "4.1",
-      "h": 4,
-      "er": 2,
-      "hr": 0,
-      "bb": 1,
-      "so": 2,
-      "pitches": 59,
-      "strikes": 38
     }
   ]
 }

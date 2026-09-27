@@ -21,7 +21,7 @@
       "key": "era",
       "label": "ERA",
       "value": 5.85,
-      "percentile": 7,
+      "percentile": 6,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -39,7 +39,7 @@
       "key": "ip",
       "label": "IP",
       "value": 130.2,
-      "percentile": 44,
+      "percentile": 42,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -84,7 +84,7 @@
       "key": "fip",
       "label": "FIP",
       "value": 5.04,
-      "percentile": 12,
+      "percentile": 13,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

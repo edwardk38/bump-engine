@@ -4,7 +4,7 @@
   "name_full": "Michael Wacha",
   "throws": "RHP",
   "team_abbr": "KC",
-  "form_tag": "steady",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
     {
@@ -20,7 +20,7 @@
       "highlight": false
     },
     {
-      "text": "Tough on left-handed bats \u2014 .215 against (419 AB).",
+      "text": "Tough on left-handed bats \u2014 .219 against (439 AB).",
       "highlight": false
     }
   ],
@@ -28,7 +28,7 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 3.33,
+      "value": 3.32,
       "percentile": 80,
       "league": "AL",
       "league_rank": 14,
@@ -37,8 +37,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 7.13,
-      "percentile": 24,
+      "value": 7.09,
+      "percentile": 23,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -46,7 +46,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 194.1,
+      "value": 200.2,
       "percentile": 98,
       "league": "AL",
       "league_rank": 1,
@@ -55,8 +55,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 154,
-      "percentile": 75,
+      "value": 158,
+      "percentile": 78,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -64,8 +64,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 53,
-      "percentile": 77,
+      "value": 54,
+      "percentile": 78,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -73,8 +73,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 2.45,
-      "percentile": 77,
+      "value": 2.42,
+      "percentile": 78,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -82,8 +82,8 @@
     {
       "key": "hr",
       "label": "HR",
-      "value": 28,
-      "percentile": 34,
+      "value": 30,
+      "percentile": 32,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -91,8 +91,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.31,
-      "percentile": 38,
+      "value": 4.38,
+      "percentile": 35,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -100,15 +100,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.215,
-      "ab": 419
+      "avg": 0.219,
+      "ab": 439
     },
     "vs_rhb": {
-      "avg": 0.238,
-      "ab": 303
+      "avg": 0.235,
+      "ab": 306
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 26",
+      "opp_abbr": "CLE",
+      "is_home": true,
+      "ip": "6.1",
+      "h": 6,
+      "er": 2,
+      "hr": 2,
+      "bb": 1,
+      "so": 4,
+      "pitches": 90,
+      "strikes": 62
+    },
     {
       "date_display": "Sep 20",
       "opp_abbr": "PIT",
@@ -160,19 +173,6 @@
       "so": 7,
       "pitches": 96,
       "strikes": 62
-    },
-    {
-      "date_display": "Aug 28",
-      "opp_abbr": "CLE",
-      "is_home": false,
-      "ip": "8.0",
-      "h": 4,
-      "er": 0,
-      "hr": 0,
-      "bb": 0,
-      "so": 10,
-      "pitches": 103,
-      "strikes": 75
     }
   ]
 }

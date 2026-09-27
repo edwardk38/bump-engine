@@ -1,0 +1,100 @@
+{
+  "pitcher_id": "686751",
+  "name_display": "S. Johnson",
+  "name_full": "Seth Johnson",
+  "throws": "RHP",
+  "team_abbr": "ATH",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "Misses bats \u2014 10.69 K/9, about a strikeout an inning.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 6.19,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 10.69,
+      "percentile": 91,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 32.0,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 38,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 18,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 5.06,
+      "percentile": 2,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 5,
+      "percentile": 28,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.63,
+      "percentile": 25,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.29,
+      "ab": 62
+    },
+    "vs_rhb": {
+      "avg": 0.265,
+      "ab": 68
+    }
+  },
+  "last_starts": []
+}

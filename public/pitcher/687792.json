@@ -8,7 +8,7 @@
   "qualified": false,
   "read": [
     {
-      "text": "No season line posted yet.",
+      "text": "Misses bats \u2014 9.0 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -16,79 +16,99 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": null,
-      "percentile": null,
-      "league": null,
+      "value": 9.0,
+      "percentile": 0,
+      "league": "NL",
       "league_rank": null,
       "mlb_rank": null
     },
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": null,
-      "percentile": null,
-      "league": null,
+      "value": 9.0,
+      "percentile": 67,
+      "league": "NL",
       "league_rank": null,
       "mlb_rank": null
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": null,
-      "percentile": null,
-      "league": null,
+      "value": 4.0,
+      "percentile": 0,
+      "league": "NL",
       "league_rank": null,
       "mlb_rank": null
     },
     {
       "key": "k",
       "label": "K",
-      "value": null,
-      "percentile": null,
-      "league": null,
+      "value": 4,
+      "percentile": 0,
+      "league": "NL",
       "league_rank": null,
       "mlb_rank": null
     },
     {
       "key": "bb",
       "label": "BB",
-      "value": null,
-      "percentile": null,
-      "league": null,
+      "value": 2,
+      "percentile": 5,
+      "league": "NL",
       "league_rank": null,
       "mlb_rank": null
     },
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": null,
-      "percentile": null,
-      "league": null,
+      "value": 4.5,
+      "percentile": 5,
+      "league": "NL",
       "league_rank": null,
       "mlb_rank": null
     },
     {
       "key": "hr",
       "label": "HR",
-      "value": null,
-      "percentile": null,
-      "league": null,
+      "value": 1,
+      "percentile": 1,
+      "league": "NL",
       "league_rank": null,
       "mlb_rank": null
     },
     {
       "key": "fip",
       "label": "FIP",
-      "value": null,
-      "percentile": null,
-      "league": null,
+      "value": 5.85,
+      "percentile": 3,
+      "league": "NL",
       "league_rank": null,
       "mlb_rank": null
     }
   ],
   "splits": {
-    "vs_lhb": null,
-    "vs_rhb": null
+    "vs_lhb": {
+      "avg": 0.0,
+      "ab": 2
+    },
+    "vs_rhb": {
+      "avg": 0.333,
+      "ab": 15
+    }
   },
-  "last_starts": []
+  "last_starts": [
+    {
+      "date_display": "Sep 21",
+      "opp_abbr": "DET",
+      "is_home": false,
+      "ip": "4.0",
+      "h": 5,
+      "er": 4,
+      "hr": 1,
+      "bb": 2,
+      "so": 4,
+      "pitches": 63,
+      "strikes": 39
+    }
+  ]
 }

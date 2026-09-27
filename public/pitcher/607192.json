@@ -83,10 +83,10 @@
       "key": "hr",
       "label": "HR",
       "value": 7,
-      "percentile": 83,
+      "percentile": 84,
       "league": "NL",
-      "league_rank": 14,
-      "mlb_rank": 25
+      "league_rank": 13,
+      "mlb_rank": 24
     },
     {
       "key": "fip",
