@@ -4,19 +4,11 @@
   "name_full": "MacKenzie Gore",
   "throws": "LHP",
   "team_abbr": "TEX",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 7.31 ERA over his last four (13 ER in 16.0 IP).",
-      "highlight": false
-    },
-    {
-      "text": "Misses bats \u2014 9.18 K/9, about a strikeout an inning.",
-      "highlight": false
-    },
-    {
-      "text": "Team has won 7 of his last 10 starts.",
+      "text": "Misses bats \u2014 9.05 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -24,8 +16,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.59,
-      "percentile": 31,
+      "value": 4.58,
+      "percentile": 32,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -33,8 +25,8 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 9.18,
-      "percentile": 72,
+      "value": 9.05,
+      "percentile": 67,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -42,11 +34,11 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 170.2,
-      "percentile": 81,
+      "value": 173.0,
+      "percentile": 83,
       "league": "AL",
-      "league_rank": null,
-      "mlb_rank": null
+      "league_rank": 15,
+      "mlb_rank": 27
     },
     {
       "key": "k",
@@ -60,8 +52,8 @@
     {
       "key": "bb",
       "label": "BB",
-      "value": 70,
-      "percentile": 27,
+      "value": 71,
+      "percentile": 28,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -70,7 +62,7 @@
       "key": "bb_per_9",
       "label": "BB/9",
       "value": 3.69,
-      "percentile": 27,
+      "percentile": 28,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,7 +71,7 @@
       "key": "hr",
       "label": "HR",
       "value": 19,
-      "percentile": 65,
+      "percentile": 66,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,7 +80,7 @@
       "key": "fip",
       "label": "FIP",
       "value": 3.86,
-      "percentile": 65,
+      "percentile": 64,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -96,15 +88,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.267,
-      "ab": 165
+      "avg": 0.263,
+      "ab": 167
     },
     "vs_rhb": {
       "avg": 0.233,
-      "ab": 493
+      "ab": 498
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 27",
+      "opp_abbr": "MIN",
+      "is_home": false,
+      "ip": "2.1",
+      "h": 1,
+      "er": 1,
+      "hr": 0,
+      "bb": 1,
+      "so": 0,
+      "pitches": 25,
+      "strikes": 15
+    },
     {
       "date_display": "Sep 22",
       "opp_abbr": "NYM",
@@ -156,19 +161,6 @@
       "so": 1,
       "pitches": 68,
       "strikes": 41
-    },
-    {
-      "date_display": "Sep 1",
-      "opp_abbr": "ATH",
-      "is_home": true,
-      "ip": "5.1",
-      "h": 5,
-      "er": 1,
-      "hr": 0,
-      "bb": 4,
-      "so": 4,
-      "pitches": 95,
-      "strikes": 57
     }
   ]
 }

@@ -32,14 +32,14 @@
       "value": 9.89,
       "percentile": 83,
       "league": "AL",
-      "league_rank": 11,
-      "mlb_rank": 27
+      "league_rank": 12,
+      "mlb_rank": 28
     },
     {
       "key": "ip",
       "label": "IP",
       "value": 144.2,
-      "percentile": 52,
+      "percentile": 53,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 21,
-      "percentile": 34,
+      "percentile": 35,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null

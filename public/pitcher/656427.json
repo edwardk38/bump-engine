@@ -12,7 +12,7 @@
       "highlight": false
     },
     {
-      "text": "Misses bats \u2014 10.63 K/9, about a strikeout an inning.",
+      "text": "Misses bats \u2014 10.49 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -20,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.59,
-      "percentile": 31,
+      "value": 4.48,
+      "percentile": 35,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -29,17 +29,17 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 10.63,
-      "percentile": 91,
+      "value": 10.49,
+      "percentile": 89,
       "league": "AL",
       "league_rank": 6,
-      "mlb_rank": 15
+      "mlb_rank": 18
     },
     {
       "key": "ip",
       "label": "IP",
-      "value": 86.1,
-      "percentile": 11,
+      "value": 88.1,
+      "percentile": 12,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -47,8 +47,8 @@
     {
       "key": "k",
       "label": "K",
-      "value": 102,
-      "percentile": 30,
+      "value": 103,
+      "percentile": 32,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -57,7 +57,7 @@
       "key": "bb",
       "label": "BB",
       "value": 42,
-      "percentile": 5,
+      "percentile": 7,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -65,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.38,
-      "percentile": 5,
+      "value": 4.28,
+      "percentile": 7,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -75,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 11,
-      "percentile": 51,
+      "percentile": 53,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -83,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.09,
-      "percentile": 52,
+      "value": 4.04,
+      "percentile": 53,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -92,12 +92,12 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.229,
-      "ab": 179
+      "avg": 0.23,
+      "ab": 183
     },
     "vs_rhb": {
-      "avg": 0.252,
-      "ab": 155
+      "avg": 0.247,
+      "ab": 158
     }
   },
   "last_starts": [

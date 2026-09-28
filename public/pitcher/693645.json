@@ -38,10 +38,10 @@
       "key": "k_per_9",
       "label": "K/9",
       "value": 11.11,
-      "percentile": 95,
+      "percentile": 96,
       "league": "AL",
       "league_rank": 5,
-      "mlb_rank": 8
+      "mlb_rank": 7
     },
     {
       "key": "ip",
@@ -83,7 +83,7 @@
       "key": "hr",
       "label": "HR",
       "value": 16,
-      "percentile": 91,
+      "percentile": 92,
       "league": "AL",
       "league_rank": 6,
       "mlb_rank": 14
