@@ -1,0 +1,236 @@
+{
+  "game_id": "2026-09-29-CWS-HOU",
+  "date_display": "Tuesday, Sep 29",
+  "start_time_display": "5:00 PM",
+  "venue": "Daikin Park",
+  "away_team": "Chicago White Sox",
+  "home_team": "Houston Astros",
+  "away_abbr": "CWS",
+  "home_abbr": "HOU",
+  "pitchers": {
+    "away": {
+      "tbd": false,
+      "pitcher_id": "696146",
+      "name_display": "H. Smith",
+      "throws": "LHP",
+      "team_abbr": "CWS",
+      "opponent_abbr": "HOU",
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 1.29,
+        "k_per_9": 13.18
+      },
+      "read": [
+        {
+          "text": "Misses bats \u2014 13.18 K/9, about a strikeout an inning.",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 1.29,
+          "percentile": 100,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 13.18,
+          "percentile": 100,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 28.0,
+          "percentile": 0,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 41,
+          "percentile": 0,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 16,
+          "percentile": 3,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 5.14,
+          "percentile": 3,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 1,
+          "percentile": 100,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 2.34,
+          "percentile": 99,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.194,
+          "ab": 36
+        },
+        "vs_rhb": {
+          "avg": 0.069,
+          "ab": 58
+        }
+      },
+      "last_starts": [
+        {
+          "date_display": "Sep 10",
+          "opp_abbr": "PIT",
+          "is_home": true,
+          "ip": "2.0",
+          "h": 2,
+          "er": 0,
+          "hr": 0,
+          "bb": 0,
+          "so": 3,
+          "pitches": 33,
+          "strikes": 21
+        }
+      ]
+    },
+    "home": {
+      "tbd": false,
+      "pitcher_id": "805123",
+      "name_display": "A. Blubaugh",
+      "throws": "RHP",
+      "team_abbr": "HOU",
+      "opponent_abbr": "CWS",
+      "qualified": false,
+      "form_tag": "steady",
+      "headline_stats": {
+        "era": 3.66,
+        "k_per_9": 8.81
+      },
+      "read": [
+        {
+          "text": "Tough on left-handed bats \u2014 .183 against (186 AB).",
+          "highlight": false
+        }
+      ],
+      "season_stats": [
+        {
+          "key": "era",
+          "label": "ERA",
+          "value": 3.66,
+          "percentile": 66,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k_per_9",
+          "label": "K/9",
+          "value": 8.81,
+          "percentile": 60,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "ip",
+          "label": "IP",
+          "value": 96.0,
+          "percentile": 14,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "k",
+          "label": "K",
+          "value": 94,
+          "percentile": 22,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb",
+          "label": "BB",
+          "value": 42,
+          "percentile": 16,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "bb_per_9",
+          "label": "BB/9",
+          "value": 3.94,
+          "percentile": 16,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "hr",
+          "label": "HR",
+          "value": 13,
+          "percentile": 41,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        },
+        {
+          "key": "fip",
+          "label": "FIP",
+          "value": 4.3,
+          "percentile": 39,
+          "league": "AL",
+          "league_rank": null,
+          "mlb_rank": null
+        }
+      ],
+      "splits": {
+        "vs_lhb": {
+          "avg": 0.183,
+          "ab": 186
+        },
+        "vs_rhb": {
+          "avg": 0.259,
+          "ab": 162
+        }
+      },
+      "last_starts": []
+    }
+  }
+}
