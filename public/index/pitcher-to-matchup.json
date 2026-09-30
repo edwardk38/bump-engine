@@ -1,34 +1,34 @@
 {
-  "666200": {
-    "game_id": "2026-09-29-PHI-ATL",
+  "650911": {
+    "game_id": "2026-09-30-PHI-ATL",
     "side": "away"
   },
-  "519242": {
-    "game_id": "2026-09-29-PHI-ATL",
+  "641816": {
+    "game_id": "2026-09-30-PHI-ATL",
     "side": "home"
   },
-  "696146": {
-    "game_id": "2026-09-29-CWS-HOU",
+  "680732": {
+    "game_id": "2026-09-30-CWS-HOU",
     "side": "away"
   },
-  "805123": {
-    "game_id": "2026-09-29-CWS-HOU",
+  "686613": {
+    "game_id": "2026-09-30-CWS-HOU",
     "side": "home"
   },
-  "801139": {
-    "game_id": "2026-09-29-BOS-NYY",
+  "543243": {
+    "game_id": "2026-09-30-BOS-NYY",
     "side": "away"
   },
-  "693645": {
-    "game_id": "2026-09-29-BOS-NYY",
+  "608331": {
+    "game_id": "2026-09-30-BOS-NYY",
     "side": "home"
   },
-  "571510": {
-    "game_id": "2026-09-29-CHC-SD",
+  "592332": {
+    "game_id": "2026-09-30-CHC-SD",
     "side": "away"
   },
-  "650633": {
-    "game_id": "2026-09-29-CHC-SD",
+  "601713": {
+    "game_id": "2026-09-30-CHC-SD",
     "side": "home"
   }
 }
