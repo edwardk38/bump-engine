@@ -8,7 +8,7 @@
   "qualified": true,
   "read": [
     {
-      "text": "Rough stretch \u2014 7.00 ERA over his last four (14 ER in 18.0 IP).",
+      "text": "Rough stretch \u2014 6.00 ERA over his last four (12 ER in 18.0 IP).",
       "highlight": false
     },
     {
@@ -20,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.62,
-      "percentile": 30,
+      "value": 4.5,
+      "percentile": 33,
       "league": "NL",
       "league_rank": null,
       "mlb_rank": null
@@ -107,7 +107,7 @@
       "is_home": false,
       "ip": "2.2",
       "h": 4,
-      "er": 6,
+      "er": 4,
       "hr": 0,
       "bb": 4,
       "so": 2,

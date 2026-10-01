@@ -14,14 +14,18 @@
     {
       "text": "Works into the 6th regularly \u2014 5+ IP in 9 of his last 10.",
       "highlight": false
+    },
+    {
+      "text": "Rolling \u2014 2.42 ERA over his last 4 (6 ER in 22.1 IP).",
+      "highlight": false
     }
   ],
   "season_stats": [
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.59,
-      "percentile": 31,
+      "value": 4.41,
+      "percentile": 37,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -107,7 +111,7 @@
       "is_home": true,
       "ip": "5.0",
       "h": 7,
-      "er": 2,
+      "er": 0,
       "hr": 0,
       "bb": 1,
       "so": 2,
