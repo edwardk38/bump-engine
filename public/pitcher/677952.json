@@ -4,7 +4,7 @@
   "name_full": "Braxton Ashcraft",
   "throws": "RHP",
   "team_abbr": "PIT",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -13,10 +13,6 @@
     },
     {
       "text": "Misses bats \u2014 9.42 K/9, about a strikeout an inning.",
-      "highlight": false
-    },
-    {
-      "text": "Rolling \u2014 2.62 ERA over his last 4 (7 ER in 24.0 IP).",
       "highlight": false
     },
     {
