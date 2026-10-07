@@ -1,18 +1,30 @@
 {
-  "808967": {
-    "game_id": "2026-10-06-LAD-ATL",
+  "682982": {
+    "game_id": "2026-10-07-CLE-CWS",
     "side": "away"
   },
-  "519242": {
-    "game_id": "2026-10-06-LAD-ATL",
+  "656794": {
+    "game_id": "2026-10-07-CLE-CWS",
     "side": "home"
   },
-  "669160": {
-    "game_id": "2026-10-06-MIL-SD",
+  "607192": {
+    "game_id": "2026-10-07-LAD-ATL",
     "side": "away"
   },
-  "601713": {
-    "game_id": "2026-10-06-MIL-SD",
+  "641816": {
+    "game_id": "2026-10-07-LAD-ATL",
+    "side": "home"
+  },
+  "607259": {
+    "game_id": "2026-10-07-TB-NYY",
+    "side": "away"
+  },
+  "608331": {
+    "game_id": "2026-10-07-TB-NYY",
+    "side": "home"
+  },
+  "621111": {
+    "game_id": "2026-10-07-MIL-SD",
     "side": "home"
   }
 }

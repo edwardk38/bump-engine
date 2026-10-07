@@ -4,9 +4,13 @@
   "name_full": "Michael Soroka",
   "throws": "RHP",
   "team_abbr": "AZ",
-  "form_tag": "cold",
+  "form_tag": "hot",
   "qualified": true,
   "read": [
+    {
+      "text": "Rolling \u2014 2.70 ERA over his last 3 (5 ER in 16.2 IP).",
+      "highlight": false
+    },
     {
       "text": "Tough on right-handed bats \u2014 .168 against (173 AB).",
       "highlight": false

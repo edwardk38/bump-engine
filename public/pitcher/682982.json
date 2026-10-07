@@ -4,11 +4,15 @@
   "name_full": "Daniel Espino",
   "throws": "RHP",
   "team_abbr": "CLE",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": false,
   "read": [
     {
-      "text": "Misses bats \u2014 14.85 K/9, about a strikeout an inning.",
+      "text": "Rough stretch \u2014 6.75 ERA over his last three (3 ER in 4.0 IP).",
+      "highlight": false
+    },
+    {
+      "text": "Misses bats \u2014 14.67 K/9, about a strikeout an inning.",
       "highlight": false
     }
   ],
@@ -16,8 +20,8 @@
     {
       "key": "era",
       "label": "ERA",
-      "value": 4.73,
-      "percentile": 26,
+      "value": 4.11,
+      "percentile": 46,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -25,7 +29,7 @@
     {
       "key": "k_per_9",
       "label": "K/9",
-      "value": 14.85,
+      "value": 14.67,
       "percentile": 100,
       "league": "AL",
       "league_rank": null,
@@ -34,7 +38,7 @@
     {
       "key": "ip",
       "label": "IP",
-      "value": 13.1,
+      "value": 15.1,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -43,7 +47,7 @@
     {
       "key": "k",
       "label": "K",
-      "value": 22,
+      "value": 25,
       "percentile": 0,
       "league": "AL",
       "league_rank": null,
@@ -53,7 +57,7 @@
       "key": "bb",
       "label": "BB",
       "value": 7,
-      "percentile": 3,
+      "percentile": 11,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -61,8 +65,8 @@
     {
       "key": "bb_per_9",
       "label": "BB/9",
-      "value": 4.73,
-      "percentile": 3,
+      "value": 4.11,
+      "percentile": 11,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -71,7 +75,7 @@
       "key": "hr",
       "label": "HR",
       "value": 3,
-      "percentile": 3,
+      "percentile": 9,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -79,8 +83,8 @@
     {
       "key": "fip",
       "label": "FIP",
-      "value": 4.29,
-      "percentile": 41,
+      "value": 3.75,
+      "percentile": 68,
       "league": "AL",
       "league_rank": null,
       "mlb_rank": null
@@ -88,15 +92,28 @@
   ],
   "splits": {
     "vs_lhb": {
-      "avg": 0.167,
-      "ab": 24
+      "avg": 0.138,
+      "ab": 29
     },
     "vs_rhb": {
-      "avg": 0.286,
-      "ab": 28
+      "avg": 0.276,
+      "ab": 29
     }
   },
   "last_starts": [
+    {
+      "date_display": "Sep 24",
+      "opp_abbr": "BOS",
+      "is_home": false,
+      "ip": "1.0",
+      "h": 0,
+      "er": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 2,
+      "pitches": 17,
+      "strikes": 12
+    },
     {
       "date_display": "Sep 18",
       "opp_abbr": "ATH",
