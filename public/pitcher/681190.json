@@ -4,13 +4,9 @@
   "name_full": "Randy V\u00e1squez",
   "throws": "RHP",
   "team_abbr": "SD",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rolling \u2014 1.72 ERA over his last 3 (3 ER in 15.2 IP).",
-      "highlight": false
-    },
     {
       "text": "Team has won 7 of his last 10 starts.",
       "highlight": false

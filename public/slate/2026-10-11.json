@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-11",
+  "date_display": "Sunday, Oct 11",
+  "game_count": 1,
+  "games": [
+    {
+      "game_id": "2026-10-11-LAD-MIL",
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Milwaukee Brewers",
+      "away_abbr": "LAD",
+      "home_abbr": "MIL",
+      "start_time_display": "8:00 PM",
+      "start_time_utc": "2026-10-12T00:00:00Z",
+      "venue": "American Family Field",
+      "starters": {
+        "away": {
+          "tbd": false,
+          "pitcher_id": "669373",
+          "name_display": "T. Skubal",
+          "name_full": "Tarik Skubal",
+          "throws": "LHP",
+          "team_abbr": "LAD",
+          "stats": {
+            "era": 2.72,
+            "k_per_9": 10.55,
+            "ip": 158.2,
+            "k": 186
+          },
+          "form_tag": "hot",
+          "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 25",
+              "opp_abbr": "SF",
+              "is_home": false,
+              "ip": "7.0",
+              "h": 3,
+              "er": 0,
+              "hr": 0,
+              "bb": 0,
+              "so": 10,
+              "pitches": 75,
+              "strikes": 60
+            },
+            {
+              "date_display": "Sep 19",
+              "opp_abbr": "SF",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 8,
+              "er": 4,
+              "hr": 1,
+              "bb": 2,
+              "so": 3,
+              "pitches": 86,
+              "strikes": 55
+            },
+            {
+              "date_display": "Sep 14",
+              "opp_abbr": "CIN",
+              "is_home": false,
+              "ip": "7.0",
+              "h": 3,
+              "er": 0,
+              "hr": 0,
+              "bb": 1,
+              "so": 9,
+              "pitches": 90,
+              "strikes": 61
+            },
+            {
+              "date_display": "Sep 8",
+              "opp_abbr": "CIN",
+              "is_home": true,
+              "ip": "7.1",
+              "h": 4,
+              "er": 2,
+              "hr": 1,
+              "bb": 2,
+              "so": 5,
+              "pitches": 94,
+              "strikes": 68
+            }
+          ]
+        },
+        "home": {
+          "tbd": false,
+          "pitcher_id": "694819",
+          "name_display": "J. Misiorowski",
+          "name_full": "Jacob Misiorowski",
+          "throws": "RHP",
+          "team_abbr": "MIL",
+          "stats": {
+            "era": 1.8,
+            "k_per_9": 12.98,
+            "ip": 174.2,
+            "k": 252
+          },
+          "form_tag": "hot",
+          "read": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 27",
+              "opp_abbr": "STL",
+              "is_home": true,
+              "ip": "5.1",
+              "h": 2,
+              "er": 0,
+              "hr": 0,
+              "bb": 2,
+              "so": 5,
+              "pitches": 68,
+              "strikes": 44
+            },
+            {
+              "date_display": "Sep 20",
+              "opp_abbr": "BAL",
+              "is_home": false,
+              "ip": "3.0",
+              "h": 1,
+              "er": 0,
+              "hr": 0,
+              "bb": 0,
+              "so": 4,
+              "pitches": 44,
+              "strikes": 29
+            },
+            {
+              "date_display": "Sep 15",
+              "opp_abbr": "PIT",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 5,
+              "er": 0,
+              "hr": 0,
+              "bb": 1,
+              "so": 7,
+              "pitches": 82,
+              "strikes": 62
+            },
+            {
+              "date_display": "Sep 8",
+              "opp_abbr": "CHC",
+              "is_home": true,
+              "ip": "6.1",
+              "h": 4,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 9,
+              "pitches": 93,
+              "strikes": 64
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
