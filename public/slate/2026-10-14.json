@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-14",
+  "date_display": "Wednesday, Oct 14",
+  "game_count": 1,
+  "games": [
+    {
+      "game_id": "2026-10-14-MIL-LAD",
+      "away_team": "Milwaukee Brewers",
+      "home_team": "Los Angeles Dodgers",
+      "away_abbr": "MIL",
+      "home_abbr": "LAD",
+      "start_time_display": "8:00 PM",
+      "start_time_utc": "2026-10-15T00:00:00Z",
+      "venue": "UNIQLO Field at Dodger Stadium",
+      "starters": {
+        "away": {
+          "tbd": false,
+          "pitcher_id": "688107",
+          "name_display": "R. Gasser",
+          "name_full": "Robert Gasser",
+          "throws": "LHP",
+          "team_abbr": "MIL",
+          "stats": {
+            "era": 3.87,
+            "k_per_9": 8.48,
+            "ip": 109.1,
+            "k": 103
+          },
+          "form_tag": "hot",
+          "read": "Rolling \u2014 1.19 ERA over his last 4 (3 ER in 22.2 IP).",
+          "last_4": [
+            {
+              "date_display": "Sep 25",
+              "opp_abbr": "STL",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 1,
+              "er": 1,
+              "hr": 1,
+              "bb": 1,
+              "so": 9,
+              "pitches": 87,
+              "strikes": 57
+            },
+            {
+              "date_display": "Sep 19",
+              "opp_abbr": "BAL",
+              "is_home": false,
+              "ip": "7.0",
+              "h": 3,
+              "er": 0,
+              "hr": 0,
+              "bb": 3,
+              "so": 2,
+              "pitches": 107,
+              "strikes": 64
+            },
+            {
+              "date_display": "Sep 13",
+              "opp_abbr": "CIN",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 3,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 5,
+              "pitches": 89,
+              "strikes": 57
+            },
+            {
+              "date_display": "Sep 7",
+              "opp_abbr": "CHC",
+              "is_home": true,
+              "ip": "4.2",
+              "h": 3,
+              "er": 1,
+              "hr": 1,
+              "bb": 2,
+              "so": 5,
+              "pitches": 83,
+              "strikes": 56
+            }
+          ]
+        },
+        "home": {
+          "tbd": false,
+          "pitcher_id": "605483",
+          "name_display": "B. Snell",
+          "name_full": "Blake Snell",
+          "throws": "LHP",
+          "team_abbr": "LAD",
+          "stats": {
+            "era": 1.9,
+            "k_per_9": 11.6,
+            "ip": 42.2,
+            "k": 55
+          },
+          "form_tag": "hot",
+          "read": "Misses bats \u2014 11.6 K/9, about a strikeout an inning.",
+          "last_4": [
+            {
+              "date_display": "Sep 26",
+              "opp_abbr": "SF",
+              "is_home": false,
+              "ip": "4.0",
+              "h": 5,
+              "er": 1,
+              "hr": 0,
+              "bb": 0,
+              "so": 3,
+              "pitches": 77,
+              "strikes": 50
+            },
+            {
+              "date_display": "Sep 16",
+              "opp_abbr": "CIN",
+              "is_home": false,
+              "ip": "1.0",
+              "h": 1,
+              "er": 0,
+              "hr": 0,
+              "bb": 0,
+              "so": 1,
+              "pitches": 19,
+              "strikes": 10
+            },
+            {
+              "date_display": "Sep 11",
+              "opp_abbr": "MIA",
+              "is_home": false,
+              "ip": "5.2",
+              "h": 4,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 8,
+              "pitches": 101,
+              "strikes": 67
+            },
+            {
+              "date_display": "Sep 4",
+              "opp_abbr": "WSH",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 5,
+              "er": 0,
+              "hr": 0,
+              "bb": 2,
+              "so": 7,
+              "pitches": 100,
+              "strikes": 65
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
