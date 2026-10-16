@@ -1,251 +1,104 @@
 {
-  "date": "2026-10-15",
-  "date_display": "Thursday, Oct 15",
-  "game_count": 2,
+  "date": "2026-10-16",
+  "date_display": "Friday, Oct 16",
+  "game_count": 1,
   "games": [
     {
-      "game_id": "2026-10-15-TB-CLE",
+      "game_id": "2026-10-16-TB-CLE",
       "away_team": "Tampa Bay Rays",
       "home_team": "Cleveland Guardians",
       "away_abbr": "TB",
       "home_abbr": "CLE",
-      "start_time_display": "1:00 PM",
-      "start_time_utc": "2026-10-15T17:00:00Z",
+      "start_time_display": "8:00 PM",
+      "start_time_utc": "2026-10-17T00:00:00Z",
       "venue": "Progressive Field",
       "starters": {
         "away": {
           "tbd": false,
-          "pitcher_id": "643377",
-          "name_display": "G. Jax",
-          "name_full": "Griffin Jax",
+          "pitcher_id": "607259",
+          "name_display": "N. Martinez",
+          "name_full": "Nick Martinez",
           "throws": "RHP",
           "team_abbr": "TB",
           "stats": {
-            "era": 3.53,
-            "k_per_9": 9.29,
-            "ip": 112.1,
-            "k": 116
+            "era": 3.1,
+            "k_per_9": 5.45,
+            "ip": 180.0,
+            "k": 109
           },
-          "form_tag": "hot",
+          "form_tag": "steady",
           "read": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
           "last_4": [
             {
-              "date_display": "Sep 26",
+              "date_display": "Sep 27",
               "opp_abbr": "PHI",
               "is_home": false,
-              "ip": "3.0",
-              "h": 2,
-              "er": 0,
+              "ip": "2.2",
+              "h": 7,
+              "er": 4,
               "hr": 0,
-              "bb": 0,
+              "bb": 1,
               "so": 1,
-              "pitches": 52,
-              "strikes": 33
+              "pitches": 50,
+              "strikes": 35
             },
             {
-              "date_display": "Sep 20",
-              "opp_abbr": "BOS",
-              "is_home": true,
-              "ip": "5.0",
-              "h": 3,
-              "er": 0,
-              "hr": 0,
-              "bb": 2,
-              "so": 5,
-              "pitches": 74,
-              "strikes": 47
+              "date_display": "Sep 22",
+              "opp_abbr": "NYY",
+              "is_home": false,
+              "ip": "6.0",
+              "h": 5,
+              "er": 2,
+              "hr": 1,
+              "bb": 1,
+              "so": 7,
+              "pitches": 94,
+              "strikes": 61
             },
             {
-              "date_display": "Sep 15",
+              "date_display": "Sep 16",
               "opp_abbr": "ATH",
               "is_home": true,
               "ip": "5.0",
+              "h": 5,
+              "er": 2,
+              "hr": 2,
+              "bb": 0,
+              "so": 3,
+              "pitches": 72,
+              "strikes": 50
+            },
+            {
+              "date_display": "Sep 10",
+              "opp_abbr": "ATL",
+              "is_home": false,
+              "ip": "6.1",
               "h": 2,
               "er": 0,
               "hr": 0,
               "bb": 0,
-              "so": 7,
-              "pitches": 67,
-              "strikes": 46
-            },
-            {
-              "date_display": "Sep 9",
-              "opp_abbr": "ATL",
-              "is_home": false,
-              "ip": "5.0",
-              "h": 2,
-              "er": 1,
-              "hr": 1,
-              "bb": 1,
-              "so": 2,
-              "pitches": 66,
-              "strikes": 45
+              "so": 3,
+              "pitches": 68,
+              "strikes": 53
             }
           ]
         },
         "home": {
           "tbd": false,
-          "pitcher_id": "668909",
-          "name_display": "G. Williams",
-          "name_full": "Gavin Williams",
+          "pitcher_id": "542888",
+          "name_display": "S. Armstrong",
+          "name_full": "Shawn Armstrong",
           "throws": "RHP",
           "team_abbr": "CLE",
           "stats": {
-            "era": 3.76,
-            "k_per_9": 12.11,
-            "ip": 184.1,
-            "k": 248
+            "era": 4.58,
+            "k_per_9": 8.66,
+            "ip": 35.1,
+            "k": 34
           },
           "form_tag": "steady",
-          "read": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
-          "last_4": [
-            {
-              "date_display": "Sep 25",
-              "opp_abbr": "KC",
-              "is_home": false,
-              "ip": "3.1",
-              "h": 5,
-              "er": 4,
-              "hr": 1,
-              "bb": 4,
-              "so": 4,
-              "pitches": 74,
-              "strikes": 46
-            },
-            {
-              "date_display": "Sep 20",
-              "opp_abbr": "ATH",
-              "is_home": true,
-              "ip": "7.0",
-              "h": 3,
-              "er": 0,
-              "hr": 0,
-              "bb": 1,
-              "so": 9,
-              "pitches": 89,
-              "strikes": 63
-            },
-            {
-              "date_display": "Sep 14",
-              "opp_abbr": "CWS",
-              "is_home": true,
-              "ip": "5.0",
-              "h": 4,
-              "er": 2,
-              "hr": 0,
-              "bb": 3,
-              "so": 7,
-              "pitches": 113,
-              "strikes": 70
-            },
-            {
-              "date_display": "Sep 6",
-              "opp_abbr": "DET",
-              "is_home": true,
-              "ip": "6.0",
-              "h": 4,
-              "er": 2,
-              "hr": 0,
-              "bb": 3,
-              "so": 11,
-              "pitches": 99,
-              "strikes": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "game_id": "2026-10-15-MIL-LAD",
-      "away_team": "Milwaukee Brewers",
-      "home_team": "Los Angeles Dodgers",
-      "away_abbr": "MIL",
-      "home_abbr": "LAD",
-      "start_time_display": "8:00 PM",
-      "start_time_utc": "2026-10-16T00:00:00Z",
-      "venue": "UNIQLO Field at Dodger Stadium",
-      "starters": {
-        "away": {
-          "tbd": true,
-          "pitcher_id": null,
-          "name_display": null,
-          "name_full": null,
-          "throws": null,
-          "team_abbr": "MIL",
-          "stats": null,
-          "form_tag": null,
-          "read": null,
-          "last_4": null
-        },
-        "home": {
-          "tbd": false,
-          "pitcher_id": "607192",
-          "name_display": "T. Glasnow",
-          "name_full": "Tyler Glasnow",
-          "throws": "RHP",
-          "team_abbr": "LAD",
-          "stats": {
-            "era": 3.53,
-            "k_per_9": 11.92,
-            "ip": 74.0,
-            "k": 98
-          },
-          "form_tag": "cold",
-          "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
-          "last_4": [
-            {
-              "date_display": "Sep 24",
-              "opp_abbr": "SD",
-              "is_home": true,
-              "ip": "6.1",
-              "h": 3,
-              "er": 3,
-              "hr": 0,
-              "bb": 2,
-              "so": 11,
-              "pitches": 91,
-              "strikes": 58
-            },
-            {
-              "date_display": "Sep 18",
-              "opp_abbr": "SF",
-              "is_home": true,
-              "ip": "6.0",
-              "h": 3,
-              "er": 2,
-              "hr": 1,
-              "bb": 2,
-              "so": 10,
-              "pitches": 98,
-              "strikes": 63
-            },
-            {
-              "date_display": "Sep 12",
-              "opp_abbr": "MIA",
-              "is_home": false,
-              "ip": "4.0",
-              "h": 5,
-              "er": 4,
-              "hr": 1,
-              "bb": 4,
-              "so": 7,
-              "pitches": 91,
-              "strikes": 52
-            },
-            {
-              "date_display": "Sep 5",
-              "opp_abbr": "WSH",
-              "is_home": true,
-              "ip": "6.0",
-              "h": 6,
-              "er": 4,
-              "hr": 0,
-              "bb": 3,
-              "so": 8,
-              "pitches": 96,
-              "strikes": 56
-            }
-          ]
+          "read": "4.58 ERA with 8.66 K/9 over 35.1 innings this season.",
+          "last_4": []
         }
       }
     }

@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-16",
+  "date_display": "Friday, Oct 16",
+  "game_count": 1,
+  "games": [
+    {
+      "game_id": "2026-10-16-TB-CLE",
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Cleveland Guardians",
+      "away_abbr": "TB",
+      "home_abbr": "CLE",
+      "start_time_display": "8:00 PM",
+      "start_time_utc": "2026-10-17T00:00:00Z",
+      "venue": "Progressive Field",
+      "starters": {
+        "away": {
+          "tbd": false,
+          "pitcher_id": "607259",
+          "name_display": "N. Martinez",
+          "name_full": "Nick Martinez",
+          "throws": "RHP",
+          "team_abbr": "TB",
+          "stats": {
+            "era": 3.1,
+            "k_per_9": 5.45,
+            "ip": 180.0,
+            "k": 109
+          },
+          "form_tag": "steady",
+          "read": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+          "last_4": [
+            {
+              "date_display": "Sep 27",
+              "opp_abbr": "PHI",
+              "is_home": false,
+              "ip": "2.2",
+              "h": 7,
+              "er": 4,
+              "hr": 0,
+              "bb": 1,
+              "so": 1,
+              "pitches": 50,
+              "strikes": 35
+            },
+            {
+              "date_display": "Sep 22",
+              "opp_abbr": "NYY",
+              "is_home": false,
+              "ip": "6.0",
+              "h": 5,
+              "er": 2,
+              "hr": 1,
+              "bb": 1,
+              "so": 7,
+              "pitches": 94,
+              "strikes": 61
+            },
+            {
+              "date_display": "Sep 16",
+              "opp_abbr": "ATH",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 5,
+              "er": 2,
+              "hr": 2,
+              "bb": 0,
+              "so": 3,
+              "pitches": 72,
+              "strikes": 50
+            },
+            {
+              "date_display": "Sep 10",
+              "opp_abbr": "ATL",
+              "is_home": false,
+              "ip": "6.1",
+              "h": 2,
+              "er": 0,
+              "hr": 0,
+              "bb": 0,
+              "so": 3,
+              "pitches": 68,
+              "strikes": 53
+            }
+          ]
+        },
+        "home": {
+          "tbd": false,
+          "pitcher_id": "542888",
+          "name_display": "S. Armstrong",
+          "name_full": "Shawn Armstrong",
+          "throws": "RHP",
+          "team_abbr": "CLE",
+          "stats": {
+            "era": 4.58,
+            "k_per_9": 8.66,
+            "ip": 35.1,
+            "k": 34
+          },
+          "form_tag": "steady",
+          "read": "4.58 ERA with 8.66 K/9 over 35.1 innings this season.",
+          "last_4": []
+        }
+      }
+    }
+  ]
+}

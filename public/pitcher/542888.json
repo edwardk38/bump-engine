@@ -1,0 +1,100 @@
+{
+  "pitcher_id": "542888",
+  "name_display": "S. Armstrong",
+  "name_full": "Shawn Armstrong",
+  "throws": "RHP",
+  "team_abbr": "CLE",
+  "form_tag": "steady",
+  "qualified": false,
+  "read": [
+    {
+      "text": "4.58 ERA with 8.66 K/9 over 35.1 innings this season.",
+      "highlight": false
+    }
+  ],
+  "season_stats": [
+    {
+      "key": "era",
+      "label": "ERA",
+      "value": 4.58,
+      "percentile": 31,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k_per_9",
+      "label": "K/9",
+      "value": 8.66,
+      "percentile": 60,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "ip",
+      "label": "IP",
+      "value": 35.1,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "k",
+      "label": "K",
+      "value": 34,
+      "percentile": 0,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb",
+      "label": "BB",
+      "value": 19,
+      "percentile": 3,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "bb_per_9",
+      "label": "BB/9",
+      "value": 4.84,
+      "percentile": 3,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "hr",
+      "label": "HR",
+      "value": 4,
+      "percentile": 62,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    },
+    {
+      "key": "fip",
+      "label": "FIP",
+      "value": 4.42,
+      "percentile": 34,
+      "league": "AL",
+      "league_rank": null,
+      "mlb_rank": null
+    }
+  ],
+  "splits": {
+    "vs_lhb": {
+      "avg": 0.222,
+      "ab": 72
+    },
+    "vs_rhb": {
+      "avg": 0.237,
+      "ab": 59
+    }
+  },
+  "last_starts": []
+}

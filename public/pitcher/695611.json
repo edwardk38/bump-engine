@@ -4,13 +4,9 @@
   "name_full": "Gage Jump",
   "throws": "LHP",
   "team_abbr": "ATH",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 12.19 ERA over his last three (14 ER in 10.1 IP).",
-      "highlight": false
-    },
     {
       "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false
