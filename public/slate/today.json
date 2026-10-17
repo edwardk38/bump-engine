@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-16",
-  "date_display": "Friday, Oct 16",
+  "date": "2026-10-17",
+  "date_display": "Saturday, Oct 17",
   "game_count": 1,
   "games": [
     {
-      "game_id": "2026-10-16-TB-CLE",
+      "game_id": "2026-10-17-TB-CLE",
       "away_team": "Tampa Bay Rays",
       "home_team": "Cleveland Guardians",
       "away_abbr": "TB",
       "home_abbr": "CLE",
-      "start_time_display": "8:00 PM",
-      "start_time_utc": "2026-10-17T00:00:00Z",
+      "start_time_display": "8:08 PM",
+      "start_time_utc": "2026-10-18T00:08:00Z",
       "venue": "Progressive Field",
       "starters": {
         "away": {
