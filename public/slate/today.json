@@ -1,104 +1,157 @@
 {
-  "date": "2026-10-17",
-  "date_display": "Saturday, Oct 17",
+  "date": "2026-10-18",
+  "date_display": "Sunday, Oct 18",
   "game_count": 1,
   "games": [
     {
-      "game_id": "2026-10-17-TB-CLE",
+      "game_id": "2026-10-18-TB-CLE",
       "away_team": "Tampa Bay Rays",
       "home_team": "Cleveland Guardians",
       "away_abbr": "TB",
       "home_abbr": "CLE",
-      "start_time_display": "8:08 PM",
-      "start_time_utc": "2026-10-18T00:08:00Z",
+      "start_time_display": "5:08 PM",
+      "start_time_utc": "2026-10-18T21:08:00Z",
       "venue": "Progressive Field",
       "starters": {
         "away": {
           "tbd": false,
-          "pitcher_id": "607259",
-          "name_display": "N. Martinez",
-          "name_full": "Nick Martinez",
+          "pitcher_id": "656876",
+          "name_display": "D. Rasmussen",
+          "name_full": "Drew Rasmussen",
           "throws": "RHP",
           "team_abbr": "TB",
           "stats": {
-            "era": 3.1,
-            "k_per_9": 5.45,
-            "ip": 180.0,
-            "k": 109
+            "era": 2.67,
+            "k_per_9": 9.1,
+            "ip": 172.0,
+            "k": 174
           },
-          "form_tag": "steady",
-          "read": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
+          "form_tag": "hot",
+          "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
           "last_4": [
-            {
-              "date_display": "Sep 27",
-              "opp_abbr": "PHI",
-              "is_home": false,
-              "ip": "2.2",
-              "h": 7,
-              "er": 4,
-              "hr": 0,
-              "bb": 1,
-              "so": 1,
-              "pitches": 50,
-              "strikes": 35
-            },
             {
               "date_display": "Sep 22",
               "opp_abbr": "NYY",
               "is_home": false,
-              "ip": "6.0",
-              "h": 5,
-              "er": 2,
-              "hr": 1,
-              "bb": 1,
-              "so": 7,
-              "pitches": 94,
-              "strikes": 61
+              "ip": "6.2",
+              "h": 1,
+              "er": 1,
+              "hr": 0,
+              "bb": 3,
+              "so": 11,
+              "pitches": 114,
+              "strikes": 72
             },
             {
-              "date_display": "Sep 16",
+              "date_display": "Sep 17",
               "opp_abbr": "ATH",
               "is_home": true,
               "ip": "5.0",
-              "h": 5,
-              "er": 2,
-              "hr": 2,
-              "bb": 0,
-              "so": 3,
-              "pitches": 72,
-              "strikes": 50
-            },
-            {
-              "date_display": "Sep 10",
-              "opp_abbr": "ATL",
-              "is_home": false,
-              "ip": "6.1",
-              "h": 2,
+              "h": 4,
               "er": 0,
               "hr": 0,
-              "bb": 0,
+              "bb": 2,
               "so": 3,
-              "pitches": 68,
-              "strikes": 53
+              "pitches": 76,
+              "strikes": 51
+            },
+            {
+              "date_display": "Sep 11",
+              "opp_abbr": "HOU",
+              "is_home": true,
+              "ip": "7.0",
+              "h": 8,
+              "er": 1,
+              "hr": 0,
+              "bb": 0,
+              "so": 4,
+              "pitches": 92,
+              "strikes": 60
+            },
+            {
+              "date_display": "Sep 5",
+              "opp_abbr": "TEX",
+              "is_home": false,
+              "ip": "7.0",
+              "h": 3,
+              "er": 1,
+              "hr": 1,
+              "bb": 0,
+              "so": 7,
+              "pitches": 97,
+              "strikes": 67
             }
           ]
         },
         "home": {
           "tbd": false,
-          "pitcher_id": "542888",
-          "name_display": "S. Armstrong",
-          "name_full": "Shawn Armstrong",
-          "throws": "RHP",
+          "pitcher_id": "800048",
+          "name_display": "P. Messick",
+          "name_full": "Parker Messick",
+          "throws": "LHP",
           "team_abbr": "CLE",
           "stats": {
-            "era": 4.58,
-            "k_per_9": 8.66,
-            "ip": 35.1,
-            "k": 34
+            "era": 2.56,
+            "k_per_9": 9.32,
+            "ip": 186.1,
+            "k": 193
           },
-          "form_tag": "steady",
-          "read": "4.58 ERA with 8.66 K/9 over 35.1 innings this season.",
-          "last_4": []
+          "form_tag": "hot",
+          "read": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 27",
+              "opp_abbr": "KC",
+              "is_home": false,
+              "ip": "3.0",
+              "h": 6,
+              "er": 1,
+              "hr": 0,
+              "bb": 1,
+              "so": 2,
+              "pitches": 64,
+              "strikes": 42
+            },
+            {
+              "date_display": "Sep 22",
+              "opp_abbr": "BOS",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 5,
+              "er": 1,
+              "hr": 0,
+              "bb": 1,
+              "so": 5,
+              "pitches": 96,
+              "strikes": 62
+            },
+            {
+              "date_display": "Sep 16",
+              "opp_abbr": "CWS",
+              "is_home": true,
+              "ip": "6.0",
+              "h": 7,
+              "er": 3,
+              "hr": 1,
+              "bb": 0,
+              "so": 8,
+              "pitches": 86,
+              "strikes": 62
+            },
+            {
+              "date_display": "Sep 11",
+              "opp_abbr": "MIN",
+              "is_home": false,
+              "ip": "5.1",
+              "h": 3,
+              "er": 1,
+              "hr": 0,
+              "bb": 2,
+              "so": 5,
+              "pitches": 95,
+              "strikes": 57
+            }
+          ]
         }
       }
     }
