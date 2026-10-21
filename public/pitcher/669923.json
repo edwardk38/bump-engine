@@ -4,9 +4,13 @@
   "name_full": "George Kirby",
   "throws": "RHP",
   "team_abbr": "SEA",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
+    {
+      "text": "Rough stretch \u2014 5.87 ERA over his last three (10 ER in 15.1 IP).",
+      "highlight": false
+    },
     {
       "text": "Workhorse \u2014 90+ pitches in 8 of his last 10 starts.",
       "highlight": false
