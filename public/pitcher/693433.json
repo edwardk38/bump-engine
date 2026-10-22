@@ -4,7 +4,7 @@
   "name_full": "Bryan Woo",
   "throws": "RHP",
   "team_abbr": "SEA",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -17,10 +17,6 @@
     },
     {
       "text": "Misses bats \u2014 9.1 K/9, about a strikeout an inning.",
-      "highlight": false
-    },
-    {
-      "text": "Rolling \u2014 2.55 ERA over his last 4 (7 ER in 24.2 IP).",
       "highlight": false
     }
   ],
