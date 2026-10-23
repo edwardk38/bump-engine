@@ -4,9 +4,13 @@
   "name_full": "Noah Cameron",
   "throws": "LHP",
   "team_abbr": "KC",
-  "form_tag": "steady",
+  "form_tag": "cold",
   "qualified": true,
   "read": [
+    {
+      "text": "Rough stretch \u2014 5.82 ERA over his last three (11 ER in 17.0 IP).",
+      "highlight": false
+    },
     {
       "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
       "highlight": false

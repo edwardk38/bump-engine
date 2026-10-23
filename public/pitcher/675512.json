@@ -4,13 +4,9 @@
   "name_full": "Troy Melton",
   "throws": "RHP",
   "team_abbr": "DET",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 7.50 ERA over his last three (10 ER in 12.0 IP).",
-      "highlight": false
-    },
     {
       "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
       "highlight": false
