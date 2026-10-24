@@ -4,13 +4,9 @@
   "name_full": "Sean Burke",
   "throws": "RHP",
   "team_abbr": "CWS",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 6.39 ERA over his last three (9 ER in 12.2 IP).",
-      "highlight": false
-    },
     {
       "text": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
       "highlight": false
@@ -21,6 +17,10 @@
     },
     {
       "text": "Team has won 7 of his last 10 starts.",
+      "highlight": false
+    },
+    {
+      "text": "Tough on right-handed bats \u2014 .218 against (261 AB).",
       "highlight": false
     }
   ],

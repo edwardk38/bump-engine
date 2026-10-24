@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-24",
+  "date_display": "Saturday, Oct 24",
+  "game_count": 1,
+  "games": [
+    {
+      "game_id": "2026-10-24-TB-MIL",
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Milwaukee Brewers",
+      "away_abbr": "TB",
+      "home_abbr": "MIL",
+      "start_time_display": "8:00 PM",
+      "start_time_utc": "2026-10-25T00:00:00Z",
+      "venue": "American Family Field",
+      "starters": {
+        "away": {
+          "tbd": false,
+          "pitcher_id": "656876",
+          "name_display": "D. Rasmussen",
+          "name_full": "Drew Rasmussen",
+          "throws": "RHP",
+          "team_abbr": "TB",
+          "stats": {
+            "era": 2.67,
+            "k_per_9": 9.1,
+            "ip": 172.0,
+            "k": 174
+          },
+          "form_tag": "hot",
+          "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 22",
+              "opp_abbr": "NYY",
+              "is_home": false,
+              "ip": "6.2",
+              "h": 1,
+              "er": 1,
+              "hr": 0,
+              "bb": 3,
+              "so": 11,
+              "pitches": 114,
+              "strikes": 72
+            },
+            {
+              "date_display": "Sep 17",
+              "opp_abbr": "ATH",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 4,
+              "er": 0,
+              "hr": 0,
+              "bb": 2,
+              "so": 3,
+              "pitches": 76,
+              "strikes": 51
+            },
+            {
+              "date_display": "Sep 11",
+              "opp_abbr": "HOU",
+              "is_home": true,
+              "ip": "7.0",
+              "h": 8,
+              "er": 1,
+              "hr": 0,
+              "bb": 0,
+              "so": 4,
+              "pitches": 92,
+              "strikes": 60
+            },
+            {
+              "date_display": "Sep 5",
+              "opp_abbr": "TEX",
+              "is_home": false,
+              "ip": "7.0",
+              "h": 3,
+              "er": 1,
+              "hr": 1,
+              "bb": 0,
+              "so": 7,
+              "pitches": 97,
+              "strikes": 67
+            }
+          ]
+        },
+        "home": {
+          "tbd": false,
+          "pitcher_id": "701656",
+          "name_display": "L. Henderson",
+          "name_full": "Logan Henderson",
+          "throws": "RHP",
+          "team_abbr": "MIL",
+          "stats": {
+            "era": 2.47,
+            "k_per_9": 10.07,
+            "ip": 98.1,
+            "k": 110
+          },
+          "form_tag": "hot",
+          "read": "Workhorse \u2014 90+ pitches in 7 of his last 10 starts.",
+          "last_4": [
+            {
+              "date_display": "Sep 23",
+              "opp_abbr": "PHI",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 4,
+              "er": 1,
+              "hr": 0,
+              "bb": 3,
+              "so": 3,
+              "pitches": 87,
+              "strikes": 51
+            },
+            {
+              "date_display": "Sep 16",
+              "opp_abbr": "PIT",
+              "is_home": false,
+              "ip": "5.0",
+              "h": 6,
+              "er": 3,
+              "hr": 2,
+              "bb": 1,
+              "so": 8,
+              "pitches": 87,
+              "strikes": 64
+            },
+            {
+              "date_display": "Sep 9",
+              "opp_abbr": "CHC",
+              "is_home": true,
+              "ip": "5.0",
+              "h": 2,
+              "er": 0,
+              "hr": 0,
+              "bb": 1,
+              "so": 6,
+              "pitches": 95,
+              "strikes": 65
+            },
+            {
+              "date_display": "Sep 3",
+              "opp_abbr": "CHC",
+              "is_home": false,
+              "ip": "7.0",
+              "h": 3,
+              "er": 2,
+              "hr": 1,
+              "bb": 0,
+              "so": 7,
+              "pitches": 102,
+              "strikes": 66
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
