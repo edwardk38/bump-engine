@@ -4,13 +4,9 @@
   "name_full": "Seth Lugo",
   "throws": "RHP",
   "team_abbr": "KC",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 6.75 ERA over his last three (10 ER in 13.1 IP).",
-      "highlight": false
-    },
     {
       "text": "Workhorse \u2014 90+ pitches in 6 of his last 10 starts.",
       "highlight": false

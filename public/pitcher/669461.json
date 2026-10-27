@@ -4,15 +4,11 @@
   "name_full": "Matthew Liberatore",
   "throws": "LHP",
   "team_abbr": "STL",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
       "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
-      "highlight": false
-    },
-    {
-      "text": "Rolling \u2014 2.25 ERA over his last 3 (4 ER in 16.0 IP).",
       "highlight": false
     }
   ],
