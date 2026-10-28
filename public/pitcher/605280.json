@@ -4,13 +4,9 @@
   "name_full": "Clay Holmes",
   "throws": "RHP",
   "team_abbr": "CHC",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 5.87 ERA over his last three (10 ER in 15.1 IP).",
-      "highlight": false
-    },
     {
       "text": "Durable \u2014 80+ pitches in 8 of his last 10 starts.",
       "highlight": false

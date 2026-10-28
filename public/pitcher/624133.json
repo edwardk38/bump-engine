@@ -4,7 +4,7 @@
   "name_full": "Ranger Suarez",
   "throws": "LHP",
   "team_abbr": "BOS",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -13,10 +13,6 @@
     },
     {
       "text": "Works into the 6th regularly \u2014 5+ IP in 8 of his last 10.",
-      "highlight": false
-    },
-    {
-      "text": "Rolling \u2014 1.53 ERA over his last 3 (3 ER in 17.2 IP).",
       "highlight": false
     },
     {
