@@ -4,13 +4,9 @@
   "name_full": "Bubba Chandler",
   "throws": "RHP",
   "team_abbr": "PIT",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 7.50 ERA over his last three (10 ER in 12.0 IP).",
-      "highlight": false
-    },
     {
       "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false

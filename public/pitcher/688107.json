@@ -4,13 +4,9 @@
   "name_full": "Robert Gasser",
   "throws": "LHP",
   "team_abbr": "MIL",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rolling \u2014 1.00 ERA over his last 3 (2 ER in 18.0 IP).",
-      "highlight": false
-    },
     {
       "text": "Team has won 8 of his last 10 starts.",
       "highlight": false
