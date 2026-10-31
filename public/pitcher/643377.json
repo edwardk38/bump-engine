@@ -4,7 +4,7 @@
   "name_full": "Griffin Jax",
   "throws": "RHP",
   "team_abbr": "TB",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -13,10 +13,6 @@
     },
     {
       "text": "Misses bats \u2014 9.29 K/9, about a strikeout an inning.",
-      "highlight": false
-    },
-    {
-      "text": "Rolling \u2014 0.00 ERA over his last 3 (0 ER in 13.0 IP).",
       "highlight": false
     },
     {

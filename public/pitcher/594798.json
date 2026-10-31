@@ -4,13 +4,9 @@
   "name_full": "Jacob deGrom",
   "throws": "RHP",
   "team_abbr": "TEX",
-  "form_tag": "cold",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
-    {
-      "text": "Rough stretch \u2014 8.78 ERA over his last three (13 ER in 13.1 IP).",
-      "highlight": false
-    },
     {
       "text": "Durable \u2014 80+ pitches in 9 of his last 10 starts.",
       "highlight": false
