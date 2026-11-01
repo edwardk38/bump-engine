@@ -4,7 +4,7 @@
   "name_full": "Jared Jones",
   "throws": "RHP",
   "team_abbr": "PIT",
-  "form_tag": "hot",
+  "form_tag": "steady",
   "qualified": true,
   "read": [
     {
@@ -16,11 +16,11 @@
       "highlight": false
     },
     {
-      "text": "Rolling \u2014 1.69 ERA over his last 3 (3 ER in 16.0 IP).",
+      "text": "Strikeout run \u2014 5+ K in 8 straight starts.",
       "highlight": false
     },
     {
-      "text": "Strikeout run \u2014 5+ K in 8 straight starts.",
+      "text": "Tough on left-handed bats \u2014 .205 against (219 AB).",
       "highlight": false
     }
   ],
